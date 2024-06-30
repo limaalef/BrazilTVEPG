@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2024-06-30 12:15:05" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2024-06-30 13:45:04" generator-info-url="http://limaalef.com">
   <channel id="Claro TV+ 4K">
     <display-name lang="pt">Claro TV+ 4K</display-name>
   </channel>
@@ -135,8 +135,8 @@
   <channel id="premiere">
     <display-name lang="pt">premiere</display-name>
   </channel>
-  <channel id="premiere-2">
-    <display-name lang="pt">premiere-2</display-name>
+  <channel id="premiere-3">
+    <display-name lang="pt">premiere-3</display-name>
   </channel>
   <channel id="combate">
     <display-name lang="pt">combate</display-name>
@@ -401,11 +401,20 @@
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240630090000 -0300" stop="20240630103000 -0300" channel="ESPN">
+  <programme start="20240630090000 -0300" stop="20240630100000 -0300" channel="ESPN">
     <title lang="pt">Sportscenter</title>
     <desc lang="pt"> - O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">..</episode-num>
+  </programme>
+  <programme start="20240630100000 -0300" stop="20240630103000 -0300" channel="ESPN">
+    <title lang="pt">Premier League Stories</title>
+    <desc lang="pt"> - Um panorama completo sobre a Premier League ao redor do mundo. As últimas notícias, entrevistas, curiosidades e histórias sobre a paixão do torcedor pelo futebol inglês.</desc>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">..</episode-num>
+    <rating system="Brazil">
+      <value>[L] Livre para todos os públicos</value>
+    </rating>
   </programme>
   <programme start="20240630103000 -0300" stop="20240630130000 -0300" channel="ESPN">
     <title lang="pt">VT - Manchester City x Manchester United</title>
@@ -479,9 +488,15 @@
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">..</episode-num>
   </programme>
-  <programme start="20240630003000 -0300" stop="20240630020000 -0300" channel="ESPN 2">
+  <programme start="20240630003000 -0300" stop="20240630013000 -0300" channel="ESPN 2">
     <title lang="pt">Sportscenter</title>
     <desc lang="pt"> - O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">..</episode-num>
+  </programme>
+  <programme start="20240630013000 -0300" stop="20240630020000 -0300" channel="ESPN 2">
+    <title lang="pt">NBA Action</title>
+    <desc lang="pt"> - O NBA Action é um programa semanal com notícias, entrevistas e os destaques da melhor liga de basquete do planeta. Os jogadores, as partidas e tudo o que você precisa saber o universo da NBA.</desc>
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">..</episode-num>
   </programme>
@@ -497,9 +512,15 @@
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">..</episode-num>
   </programme>
-  <programme start="20240630060000 -0300" stop="20240630073000 -0300" channel="ESPN 2">
+  <programme start="20240630060000 -0300" stop="20240630070000 -0300" channel="ESPN 2">
     <title lang="pt">Sportscenter</title>
     <desc lang="pt"> - O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">..</episode-num>
+  </programme>
+  <programme start="20240630070000 -0300" stop="20240630073000 -0300" channel="ESPN 2">
+    <title lang="pt">F1: The Inside Line</title>
+    <desc lang="pt"> - Seja bem-vindo ao mundo da principal categoria do automobilismo mundial. Acompanhe os bastidores, as principais notícias e o debate sobre as principais questões que envolvem o badalado e milionário circo da Fórmula 1.</desc>
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">..</episode-num>
   </programme>
@@ -623,9 +644,15 @@
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">..</episode-num>
   </programme>
-  <programme start="20240630073000 -0300" stop="20240630090000 -0300" channel="ESPN 3">
+  <programme start="20240630073000 -0300" stop="20240630083000 -0300" channel="ESPN 3">
     <title lang="pt">Sportscenter</title>
     <desc lang="pt"> - O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">..</episode-num>
+  </programme>
+  <programme start="20240630083000 -0300" stop="20240630090000 -0300" channel="ESPN 3">
+    <title lang="pt">ATP Tour: This Week</title>
+    <desc lang="pt"> - Apresenta em profundidade os perfis de diferentes tenistas, os melhores momentos dos torneios, entrevistas e instruções para você praticar o esporte em alto nível.</desc>
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">..</episode-num>
   </programme>
@@ -650,17 +677,26 @@
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">..</episode-num>
   </programme>
-  <programme start="20240630130500 -0300" stop="20240630133000 -0300" channel="ESPN 3">
+  <programme start="20240630130500 -0300" stop="20240630163000 -0300" channel="ESPN 3">
+    <title lang="pt">U.S. Senior Open Golf Championship: Rodada Final - Ao Vivo</title>
+    <desc lang="pt"> - É o circuito de golfe mais prestigiado do planeta. A maioria das 40 etapas é sediada em cidades dos Estados Unidos. Reúne os melhores golfistas do mundo nos torneios mais aguardados da modalidade.</desc>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">..</episode-num>
+  </programme>
+  <programme start="20240630163000 -0300" stop="20240630170000 -0300" channel="ESPN 3">
     <title lang="pt">NBA Action</title>
     <desc lang="pt"> - O NBA Action é um programa semanal com notícias, entrevistas e os destaques da melhor liga de basquete do planeta. Os jogadores, as partidas e tudo o que você precisa saber o universo da NBA.</desc>
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">..</episode-num>
   </programme>
-  <programme start="20240630133000 -0300" stop="20240630183000 -0300" channel="ESPN 3">
-    <title lang="pt">U.S. Senior Open Golf Championship: Rodada Final - Ao Vivo</title>
-    <desc lang="pt"> - É o circuito de golfe mais prestigiado do planeta. A maioria das 40 etapas é sediada em cidades dos Estados Unidos. Reúne os melhores golfistas do mundo nos torneios mais aguardados da modalidade.</desc>
-    <category lang="en">live broadcast</category>
+  <programme start="20240630170000 -0300" stop="20240630183000 -0300" channel="ESPN 3">
+    <title lang="pt">ESPN Filmes: 30 For 30: I'm Just Here For The Riot</title>
+    <desc lang="pt"> - A faixa dedicada a documentários produzidos pela ESPN em parceria com grandes produtoras nacionais e internacionais. Um mergulho profundo na história do esporte e em seus personagens.</desc>
+    <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">..</episode-num>
+    <rating system="Brazil">
+      <value>[L] Livre para todos os públicos</value>
+    </rating>
   </programme>
   <programme start="20240630183000 -0300" stop="20240630193000 -0300" channel="ESPN 3">
     <title lang="pt">Bola da Vez: Rodinei</title>
@@ -20244,13 +20280,19 @@
     <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">..</episode-num>
   </programme>
-  <programme start="20240630200000 -0300" stop="20240630215959 -0300" channel="globonews">
+  <programme start="20240630200000 -0300" stop="20240630205959 -0300" channel="globonews">
     <title lang="pt">GloboNews - Edição das 18h - ao vivo</title>
     <desc lang="pt"> - Cobertura completa de tudo o que foi destaque ao longo do dia, no Brasil e no Mundo.</desc>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">..</episode-num>
   </programme>
-  <programme start="20240630220000 -0300" stop="20240630225959 -0300" channel="globonews">
+  <programme start="20240630210000 -0300" stop="20240630221459 -0300" channel="globonews">
+    <title lang="pt">GloboNews Documentário</title>
+    <desc lang="pt"> - A história do Plano Real que está completando 30 anos nessa segunda-feira.</desc>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">..</episode-num>
+  </programme>
+  <programme start="20240630221500 -0300" stop="20240630225959 -0300" channel="globonews">
     <title lang="pt">Jornal das Dez</title>
     <desc lang="pt"> - Os bastidores e a informações exclusivas da política, economia e do noticiário internacional. O jornal traz análises do seu time de comentaristas e repórteres.</desc>
     <category lang="en">news/current affairs (general)</category>
@@ -20349,51 +20391,51 @@
     <category lang="en">football/soccer</category>
     <episode-num system="xmltv_ns">..</episode-num>
   </programme>
-  <programme start="20240630095956 -0300" stop="20240630105000 -0300" channel="sportv">
+  <programme start="20240630095956 -0300" stop="20240630105416 -0300" channel="sportv">
     <title lang="pt">Aquecimento SporTV: Atlético-MG x Atlético-GO - ao vivo</title>
     <desc lang="pt">Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes, aqui no sportv!</desc>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">..</episode-num>
   </programme>
-  <programme start="20240630105002 -0300" stop="20240630134116 -0300" channel="sportv">
+  <programme start="20240630105418 -0300" stop="20240630134218 -0300" channel="sportv">
     <title lang="pt">Brasileirão Série B: Avaí x Amazonas - ao vivo</title>
     <desc lang="pt">Confira mais um jogão do Brasileirão Masculino Série B! Tem coisa pra caramba!</desc>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">..</episode-num>
   </programme>
-  <programme start="20240630134118 -0300" stop="20240630150332 -0300" channel="sportv">
+  <programme start="20240630134221 -0300" stop="20240630150435 -0300" channel="sportv">
     <title lang="pt">Stock Car: GP de Velocitta-Sp - Corrida 2 - ao vivo</title>
     <sub-title lang="pt">5ª Etapa</sub-title>
     <desc lang="pt">Acompanhe uma das mais importantes e tradicionais competições de automobilismo, no Sportv</desc>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">..</episode-num>
   </programme>
-  <programme start="20240630150333 -0300" stop="20240630160517 -0300" channel="sportv">
+  <programme start="20240630150436 -0300" stop="20240630160620 -0300" channel="sportv">
     <title lang="pt">SporTV News - ao vivo</title>
     <desc lang="pt"> - Inicie o dia atualizado com as noticias do mundo do esporte. Cada detalhe sobre o seu esporte preferido,  Os gols da rodada, as últimas do seu time, o que é notícia no Brasil e no Mundo contado de forma dinâmica por Mariana Fontes.
 </desc>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">..</episode-num>
   </programme>
-  <programme start="20240630160519 -0300" stop="20240630170658 -0300" channel="sportv">
+  <programme start="20240630160622 -0300" stop="20240630170801 -0300" channel="sportv">
     <title lang="pt">VT - Brasileirão: Atlético-MG x Atlético-GO</title>
     <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
     <category lang="en">football/soccer</category>
     <episode-num system="xmltv_ns">..</episode-num>
   </programme>
-  <programme start="20240630170700 -0300" stop="20240630175459 -0300" channel="sportv">
+  <programme start="20240630170803 -0300" stop="20240630180836 -0300" channel="sportv">
     <title lang="pt">VT - Brasileirão: Vasco x Botafogo</title>
     <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
     <category lang="en">football/soccer</category>
     <episode-num system="xmltv_ns">..</episode-num>
   </programme>
-  <programme start="20240630175500 -0300" stop="20240630182959 -0300" channel="sportv">
+  <programme start="20240630180839 -0300" stop="20240630183436 -0300" channel="sportv">
     <title lang="pt">Aquecimento SporTV: Criciúma x Internacional - ao vivo</title>
     <desc lang="pt">Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes, aqui no sportv!</desc>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">..</episode-num>
   </programme>
-  <programme start="20240630183000 -0300" stop="20240630202959 -0300" channel="sportv">
+  <programme start="20240630183438 -0300" stop="20240630202959 -0300" channel="sportv">
     <title lang="pt">Brasileirão: Criciúma x Internacional - ao vivo</title>
     <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
     <category lang="en">live broadcast</category>
@@ -20482,41 +20524,41 @@
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">..</episode-num>
   </programme>
-  <programme start="20240630114045 -0300" stop="20240630140034 -0300" channel="sportv-2">
+  <programme start="20240630114045 -0300" stop="20240630141036 -0300" channel="sportv-2">
     <title lang="pt">Liga das Nações de Vôlei Masculino - ao vivo</title>
     <sub-title lang="pt">Disputa de 3º Lugar - Lódz, Polônia</sub-title>
     <desc lang="pt">Acompanhe aqui a trajetória dos gigantes da Seleção Brasileira de Vôlei em busca do bicampeonato. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">..</episode-num>
   </programme>
-  <programme start="20240630140036 -0300" stop="20240630142536 -0300" channel="sportv-2">
+  <programme start="20240630141038 -0300" stop="20240630143538 -0300" channel="sportv-2">
     <title lang="pt">Baú do Esporte: 'Vozes: Luís Roberto - Sabe de quem?</title>
     <desc lang="pt">Neste episódio do Vozes, do Baú do Esporte, o narrador Luis Roberto relembra a emocionante campanha da seleção masculina de vôlei na Olimpíada Rio 2016. O time do técnico Bernardinho começou a competição no sufoco, mas melhorou o desempenho na fase eliminatória e conseguiu a medalha de ouro. E foi entre um ponto e outro do Wallace, destaque da equipe, que surgiu o bordão mais famoso do narrador, o ''Sabe de Quem?''. Luis Roberto conta detalhes dessa história e fala também sobre a evolução da narração esportiva no Brasil.</desc>
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">..</episode-num>
   </programme>
-  <programme start="20240630142538 -0300" stop="20240630164427 -0300" channel="sportv-2">
+  <programme start="20240630143540 -0300" stop="20240630165429 -0300" channel="sportv-2">
     <title lang="pt">Liga das Nações de Vôlei Masculino - ao vivo</title>
     <sub-title lang="pt">Final - Lòdz, Polônia</sub-title>
     <desc lang="pt">Acompanhe aqui a trajetória dos gigantes da Seleção Brasileira de Vôlei em busca do bicampeonato. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">..</episode-num>
   </programme>
-  <programme start="20240630164429 -0300" stop="20240630184535 -0300" channel="sportv-2">
+  <programme start="20240630165431 -0300" stop="20240630185537 -0300" channel="sportv-2">
     <title lang="pt">VT - Liga das Nações de Vôlei Feminino</title>
     <sub-title lang="pt">Final - Japão X Itália Bangkok, Tailândia</sub-title>
     <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
     <category lang="en">team sports</category>
     <episode-num system="xmltv_ns">..</episode-num>
   </programme>
-  <programme start="20240630184539 -0300" stop="20240630195030 -0300" channel="sportv-2">
+  <programme start="20240630185541 -0300" stop="20240630200147 -0300" channel="sportv-2">
     <title lang="pt">Ça VA Paris</title>
     <desc lang="pt"> - Acompanhe como está indo os Jogos de Paris em 2024. toda semana, o programa traz entrevistas, atualidades, termômetro de competições e informações do mundo Olímpico. 
 </desc>
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">..</episode-num>
   </programme>
-  <programme start="20240630200000 -0300" stop="20240630202959 -0300" channel="sportv-2">
+  <programme start="20240630200150 -0300" stop="20240630202959 -0300" channel="sportv-2">
     <title lang="pt">VT - UEFA Euro 2024: Melhores Momentos - Dia 16</title>
     <desc lang="pt">A UEFA Euro 2024 promete emoções intensas com as melhores seleções europeias disputando o título. Prepare-se para momentos de paixão, rivalidade e futebol de alto nível. Tá no futebol, tá no sportv
 </desc>
@@ -20665,13 +20707,13 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">..</episode-num>
   </programme>
-  <programme start="20240630224910 -0300" stop="20240630225939 -0300" channel="sportv-3">
+  <programme start="20240630224910 -0300" stop="20240630230154 -0300" channel="sportv-3">
     <title lang="pt">Galeria SporTV</title>
     <desc lang="pt"> - Mini-programa com os principais destaques da programação do SporTV.</desc>
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">..</episode-num>
   </programme>
-  <programme start="20240630230000 -0300" stop="20240630235959 -0300" channel="sportv-3">
+  <programme start="20240630230156 -0300" stop="20240630235959 -0300" channel="sportv-3">
     <title lang="pt">VT - UEFA Euro 2024: Suíça x Itália</title>
     <sub-title lang="pt">Oitavas de Final</sub-title>
     <desc lang="pt">A UEFA Euro 2024 promete emoções intensas com as melhores seleções europeias disputando o título. Prepare-se para momentos de paixão, rivalidade e futebol de alto nível. Tá no futebol, tá no sportv.</desc>
@@ -20861,7 +20903,7 @@ da ginástica.</desc>
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240630103841 -0300" stop="20240630110718 -0300" channel="multishow">
+  <programme start="20240630103841 -0300" stop="20240630110715 -0300" channel="multishow">
     <title lang="pt">Dra. Darci</title>
     <sub-title lang="pt">Doutora Darci e o Impostor</sub-title>
     <desc lang="pt"> - Doutora Darci tenta achar o look perfeito para receber a convidada do videocast ao mesmo tempo em que precisa dar atenção a Marquinho, que está sofrendo com a síndrome do impostor.</desc>
@@ -20962,7 +21004,7 @@ da ginástica.</desc>
       <value>[10] Não recomendado para menores de 10 anos</value>
     </rating>
   </programme>
-  <programme start="20240630162159 -0300" stop="20240630165130 -0300" channel="multishow">
+  <programme start="20240630162159 -0300" stop="20240630165030 -0300" channel="multishow">
     <title lang="pt">Tô de Graça</title>
     <sub-title lang="pt">Levando a fama</sub-title>
     <desc lang="pt"> - Maico está morrendo de inveja de Sara Jane depois que ela foi convidada para um teste na TV e tenta chamar atenção sendo digital influencer. Mas o vencedor da disputa pela fama surpreende a todos.</desc>
@@ -20971,7 +21013,7 @@ da ginástica.</desc>
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240630165132 -0300" stop="20240630171259 -0300" channel="multishow">
+  <programme start="20240630165032 -0300" stop="20240630171951 -0300" channel="multishow">
     <title lang="pt">Tô de Graça</title>
     <sub-title lang="pt">Fruto proibido</sub-title>
     <desc lang="pt"> - Sempre em busca de um grande amor, Briti interpreta mal o jeito carinho da cunhada Sonaira e resolve investir nesse fruto proibido.</desc>
@@ -20980,7 +21022,7 @@ da ginástica.</desc>
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240630171300 -0300" stop="20240630174359 -0300" channel="multishow">
+  <programme start="20240630171953 -0300" stop="20240630175033 -0300" channel="multishow">
     <title lang="pt">Tô de Graça</title>
     <sub-title lang="pt">Cabelo, cabeleira</sub-title>
     <desc lang="pt"> - Maico decide investir sua rescisão no seu próprio negócio: Um salão de cabelereiro. Só não esperava se apaixonar pelo seu funcionário.</desc>
@@ -20989,7 +21031,7 @@ da ginástica.</desc>
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240630174400 -0300" stop="20240630181359 -0300" channel="multishow">
+  <programme start="20240630175035 -0300" stop="20240630181956 -0300" channel="multishow">
     <title lang="pt">Tô de Graça</title>
     <sub-title lang="pt">Levando a fama</sub-title>
     <desc lang="pt"> - Maico está morrendo de inveja de Sara Jane depois que ela foi convidada para um teste na TV e tenta chamar atenção sendo digital influencer. Mas o vencedor da disputa pela fama surpreende a todos.</desc>
@@ -20998,7 +21040,7 @@ da ginástica.</desc>
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240630181400 -0300" stop="20240630190259 -0300" channel="multishow">
+  <programme start="20240630181958 -0300" stop="20240630190858 -0300" channel="multishow">
     <title lang="pt">Vai Que Cola - Os Meteoros Estão Chegando</title>
     <desc lang="pt"> - Wilson chega na pensão anunciando uma possível tragédia: a queda de um meteoro no Rio de Janeiro. Uma bomba d’água explode na pensão e todos passam a acreditar na tragédia.</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
@@ -21006,7 +21048,7 @@ da ginástica.</desc>
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240630190300 -0300" stop="20240630200659 -0300" channel="multishow">
+  <programme start="20240630190900 -0300" stop="20240630200659 -0300" channel="multishow">
     <title lang="pt">Vai que Cola</title>
     <sub-title lang="pt">Jeitinho Brasileiro</sub-title>
     <desc lang="pt"> - Um ano se passou e Dona Jô resolveu fazer uma obra na pensão. O problema é que – como sempre – o dinheiro acabou, os pedreiros se rebelaram e sobrou para Wilson a conclusão da obra. Como se não bastassem os transtornos causados pela obra, a Polícia Federal retoma a investigação do caso Lacerda e a polícia finalmente descobre que Valdomiro está no Méier.</desc>
@@ -21282,7 +21324,7 @@ Primeiro Claude ensina a receita ao mini chef, depois o aprendiz vai cozinhar so
       <value>[14] Não recomendado para menores de 14 anos</value>
     </rating>
   </programme>
-  <programme start="20240630165046 -0300" stop="20240630172529 -0300" channel="gnt">
+  <programme start="20240630165046 -0300" stop="20240630173545 -0300" channel="gnt">
     <title lang="pt">Alma De Cozinheira</title>
     <sub-title lang="pt">Lilia Cabral e Heloísa Perissé</sub-title>
     <desc lang="pt"> - Convidadas: Lilia Cabral e Heloísa Périssé. Cardápio: aperitivo - gaspacho; prato principal - salada de frango oriental; sobremesa - joias marroquinas 
@@ -21292,7 +21334,7 @@ Primeiro Claude ensina a receita ao mini chef, depois o aprendiz vai cozinhar so
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240630173700 -0300" stop="20240630180559 -0300" channel="gnt">
+  <programme start="20240630173548 -0300" stop="20240630175819 -0300" channel="gnt">
     <title lang="pt">Cozinha Prática Com Rita Lobo</title>
     <sub-title lang="pt">Sopa</sub-title>
     <desc lang="pt"> - Com a ajuda de duas latas de grão-de-bico e um bom refogado, Rita Lobo prepara em minutos uma deliciosa sopa de grão-de-bico. Para combinar com o clima conforto, a sobremesa é preparada com maçãs assadas: um crumble rápido, feito com crocante de aveia, que é servido dentro da fruta.</desc>
@@ -21526,7 +21568,7 @@ Primeiro Claude ensina a receita ao mini chef, depois o aprendiz vai cozinhar so
       <value>[10] Não recomendado para menores de 10 anos</value>
     </rating>
   </programme>
-  <programme start="20240630120459 -0300" stop="20240630125250 -0300" channel="viva">
+  <programme start="20240630120459 -0300" stop="20240630125245 -0300" channel="viva">
     <title lang="pt">Andando Nas Nuvens</title>
     <desc lang="pt"> - Otavio beija Gonçala. Lulu Miranda recebe oferta alta para trabalhar no Correio carioca. Otavio volta a trabalhar no jornal. San Marino e Julia se assustam com reação de Otavio.</desc>
     <episode-num system="xmltv_ns">..</episode-num>
@@ -21534,7 +21576,7 @@ Primeiro Claude ensina a receita ao mini chef, depois o aprendiz vai cozinhar so
       <value>[10] Não recomendado para menores de 10 anos</value>
     </rating>
   </programme>
-  <programme start="20240630125255 -0300" stop="20240630134121 -0300" channel="viva">
+  <programme start="20240630125255 -0300" stop="20240630134124 -0300" channel="viva">
     <title lang="pt">Andando Nas Nuvens</title>
     <desc lang="pt"> - Otavio finge não se lembrar de ataque a San Marino e pede perdão. Lídia volta para cuidar de Otavio. Chico dá soco em Átila. Otavio recebe visita inesperada em casa.</desc>
     <episode-num system="xmltv_ns">..</episode-num>
@@ -21542,7 +21584,7 @@ Primeiro Claude ensina a receita ao mini chef, depois o aprendiz vai cozinhar so
       <value>[10] Não recomendado para menores de 10 anos</value>
     </rating>
   </programme>
-  <programme start="20240630134125 -0300" stop="20240630143044 -0300" channel="viva">
+  <programme start="20240630134125 -0300" stop="20240630142944 -0300" channel="viva">
     <title lang="pt">Andando Nas Nuvens</title>
     <desc lang="pt"> - Otavio hospeda Juvenal em sua casa. Valeria pensa que irá morar com Thiago, mas Gonçala não permite. Celi se revolta após a morte da Madre. Chico surpreende a todos no jornal.</desc>
     <episode-num system="xmltv_ns">..</episode-num>
@@ -21550,7 +21592,7 @@ Primeiro Claude ensina a receita ao mini chef, depois o aprendiz vai cozinhar so
       <value>[10] Não recomendado para menores de 10 anos</value>
     </rating>
   </programme>
-  <programme start="20240630143048 -0300" stop="20240630151341 -0300" channel="viva">
+  <programme start="20240630142948 -0300" stop="20240630151156 -0300" channel="viva">
     <title lang="pt">Sinhá Moça</title>
     <desc lang="pt"> - Escravidão, amor, política e liberdade formam os pilares temáticos de Sinhá Moça, um retrato primoroso do final do Império.
 
@@ -21560,7 +21602,7 @@ Primeiro Claude ensina a receita ao mini chef, depois o aprendiz vai cozinhar so
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240630151344 -0300" stop="20240630155920 -0300" channel="viva">
+  <programme start="20240630151159 -0300" stop="20240630155650 -0300" channel="viva">
     <title lang="pt">Sinhá Moça</title>
     <desc lang="pt"> - Balbina finalmente reconhece Justo. Fulgêncio e Feitor Bruno conspiram contra o Barão. Cândida pensa em Ricardo. Chega o dia do casamento de Ricardo e Ana.</desc>
     <episode-num system="xmltv_ns">..</episode-num>
@@ -21568,7 +21610,7 @@ Primeiro Claude ensina a receita ao mini chef, depois o aprendiz vai cozinhar so
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240630155925 -0300" stop="20240630164059 -0300" channel="viva">
+  <programme start="20240630155655 -0300" stop="20240630164039 -0300" channel="viva">
     <title lang="pt">Sinhá Moça</title>
     <desc lang="pt"> - Feitor Bruno e o Capitão-do-mato se confrontam em um duelo de facas. Justino cumpre sua vingança. Ana e Ricardo se casam. Balbina e Bá se reencontram.</desc>
     <episode-num system="xmltv_ns">..</episode-num>
@@ -21576,7 +21618,7 @@ Primeiro Claude ensina a receita ao mini chef, depois o aprendiz vai cozinhar so
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240630164100 -0300" stop="20240630172559 -0300" channel="viva">
+  <programme start="20240630164042 -0300" stop="20240630172535 -0300" channel="viva">
     <title lang="pt">Sinhá Moça</title>
     <desc lang="pt"> - Everaldo avisa Mário que ele está fazendo papel de trouxa. Fontes recusa o presente de casamento de Cândida. A farsa do Barão é revelada.</desc>
     <episode-num system="xmltv_ns">..</episode-num>
@@ -21584,7 +21626,7 @@ Primeiro Claude ensina a receita ao mini chef, depois o aprendiz vai cozinhar so
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240630172200 -0300" stop="20240630180659 -0300" channel="viva">
+  <programme start="20240630172539 -0300" stop="20240630181316 -0300" channel="viva">
     <title lang="pt">Sinhá Moça</title>
     <desc lang="pt"> - Fontes sofre pela falta de trabalho. Barão avisa os escravos de sua senzala que eles poderão se casar. Justino e Fulgêncio são presos. Balbina reconhece Bastião como seu filho.</desc>
     <episode-num system="xmltv_ns">..</episode-num>
@@ -21592,7 +21634,7 @@ Primeiro Claude ensina a receita ao mini chef, depois o aprendiz vai cozinhar so
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240630181200 -0300" stop="20240630185659 -0300" channel="viva">
+  <programme start="20240630181320 -0300" stop="20240630185842 -0300" channel="viva">
     <title lang="pt">Sinhá Moça</title>
     <desc lang="pt"> - Fontes, Rodolfo, Rafael e Augusto fazem uma aliança para derrubar o Barão em um julgamento. A população de Araruna se mobiliza contra o Barão. O destino do filho de Bá é revelado.</desc>
     <episode-num system="xmltv_ns">..</episode-num>
@@ -21600,7 +21642,7 @@ Primeiro Claude ensina a receita ao mini chef, depois o aprendiz vai cozinhar so
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240630190000 -0300" stop="20240630194459 -0300" channel="viva">
+  <programme start="20240630185846 -0300" stop="20240630191033 -0300" channel="viva">
     <title lang="pt">América</title>
     <desc lang="pt"> - Sol celebra chegada de Miss Jane e apresenta Boiadeiros. Alex consegue convencer Maria a ajudá-lo. Islene se enfurece com Feitosa. Haydée conta para Glauco sobre a denúncia.</desc>
     <episode-num system="xmltv_ns">..</episode-num>
@@ -22090,7 +22132,7 @@ Primeiro Claude ensina a receita ao mini chef, depois o aprendiz vai cozinhar so
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240630103731 -0300" stop="20240630110704 -0300" channel="canal-off">
+  <programme start="20240630103731 -0300" stop="20240630110604 -0300" channel="canal-off">
     <title lang="pt">Onda De Esperança</title>
     <sub-title lang="pt">Carlos "Mister"</sub-title>
     <desc lang="pt"> - O surfista e líder comunitário Mister (Carlos Belo) apresenta sua rotina na Rocinha, onde trabalha gerindo uma organização social e se desdobra em diversas atividades.</desc>
@@ -22195,7 +22237,7 @@ Primeiro Claude ensina a receita ao mini chef, depois o aprendiz vai cozinhar so
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240630165758 -0300" stop="20240630172359 -0300" channel="canal-off">
+  <programme start="20240630165758 -0300" stop="20240630172446 -0300" channel="canal-off">
     <title lang="pt">Day Of Days On Thundercloud Reef 2</title>
     <desc lang="pt"> - Com um extenso horizonte, os competidores lutavam para encontrar o equipamento certo antes do início da competição. Uma lesão grave muda a sorte.</desc>
     <episode-num system="xmltv_ns">..</episode-num>
@@ -22203,7 +22245,7 @@ Primeiro Claude ensina a receita ao mini chef, depois o aprendiz vai cozinhar so
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240630172400 -0300" stop="20240630175059 -0300" channel="canal-off">
+  <programme start="20240630172447 -0300" stop="20240630175137 -0300" channel="canal-off">
     <title lang="pt">Rob Warners Wild Rides</title>
     <sub-title lang="pt">Quênia</sub-title>
     <desc lang="pt"> - Rob Warner vai ao Quênia com o freerider Matt Jones para pedalar no Monte Quênia, a segunda montanha mais alta da África, e descobrir o lado selvagem do país.</desc>
@@ -22212,7 +22254,7 @@ Primeiro Claude ensina a receita ao mini chef, depois o aprendiz vai cozinhar so
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240630175100 -0300" stop="20240630182059 -0300" channel="canal-off">
+  <programme start="20240630175138 -0300" stop="20240630182220 -0300" channel="canal-off">
     <title lang="pt">No Contest: Off Tour</title>
     <desc lang="pt"> - No Contest chega a Nova York com Balaram Stack e Kolohe Andino para conferir a cena do surf radical.</desc>
     <episode-num system="xmltv_ns">.0.</episode-num>
@@ -22220,7 +22262,7 @@ Primeiro Claude ensina a receita ao mini chef, depois o aprendiz vai cozinhar so
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240630182100 -0300" stop="20240630184759 -0300" channel="canal-off">
+  <programme start="20240630182221 -0300" stop="20240630184839 -0300" channel="canal-off">
     <title lang="pt">Nalu E Zay Pelo Mundo</title>
     <sub-title lang="pt">Bela Competindo Em Pipe</sub-title>
     <desc lang="pt"> - A família Nalu chega ao Havaí para mais uma temporada. Em Pipeline, Bela passa pelo seu maior desafio no surfe.</desc>
@@ -22229,7 +22271,7 @@ Primeiro Claude ensina a receita ao mini chef, depois o aprendiz vai cozinhar so
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240630184800 -0300" stop="20240630191559 -0300" channel="canal-off">
+  <programme start="20240630184842 -0300" stop="20240630191559 -0300" channel="canal-off">
     <title lang="pt">Nalu E Zay Pelo Mundo</title>
     <sub-title lang="pt">Família Nalu De Volta Ao Brasil</sub-title>
     <desc lang="pt"> - A retrospectiva de uma vida dedicada a viajar o mundo e compartilhar aventuras. Nesse final de temporada, Bela, Zay, Pato e Fabi relembram momentos especiais vividos pela família.</desc>
@@ -22779,7 +22821,7 @@ a relação da transexualidade com a espiritualidade, a partir da ancestralidade
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240630085914 -0300" stop="20240630092915 -0300" channel="bis">
+  <programme start="20240630085914 -0300" stop="20240630092919 -0300" channel="bis">
     <title lang="pt">Transmusical</title>
     <sub-title lang="pt">Majur</sub-title>
     <desc lang="pt"> - Neste episódio, a baiana Majur conta sobre sua trajetória e nos inspira através de suas músicas e performances, durante o show realizado na Marina da Glória.</desc>
@@ -22788,7 +22830,7 @@ a relação da transexualidade com a espiritualidade, a partir da ancestralidade
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240630092916 -0300" stop="20240630102412 -0300" channel="bis">
+  <programme start="20240630092916 -0300" stop="20240630102413 -0300" channel="bis">
     <title lang="pt">Tombadoras</title>
     <sub-title lang="pt">Arquivo Musical</sub-title>
     <desc lang="pt"> - “Tombadoras” conta histórias de Gloria Groove, Aretuza Lovi, Pabllo Vittar e Lia Clark que superaram o preconceito dentro e fora de casa, tornando-se estrelas da nova geração LGBTQ+. Além da música, serão abordados aspectos diversos como a intimidade dessas artistas, entrevistas e registros de bastidores.</desc>
@@ -22815,7 +22857,7 @@ a relação da transexualidade com a espiritualidade, a partir da ancestralidade
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240630123316 -0300" stop="20240630125918 -0300" channel="bis">
+  <programme start="20240630123416 -0300" stop="20240630130019 -0300" channel="bis">
     <title lang="pt">Rock Legends</title>
     <sub-title lang="pt">Aretha Franklin</sub-title>
     <desc lang="pt"> - Série sobre os grandes nomes do rock internacional. A cada capítulo, o programa fala sobre a contribuição para a música de grandes nomes e bandas. Neste episódio: Aretha Franklin.</desc>
@@ -22824,7 +22866,7 @@ a relação da transexualidade com a espiritualidade, a partir da ancestralidade
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240630125921 -0300" stop="20240630131825 -0300" channel="bis">
+  <programme start="20240630130031 -0300" stop="20240630131935 -0300" channel="bis">
     <title lang="pt">Especial Guilherme Guedes.</title>
     <sub-title lang="pt">Melhores Momentos Rock In Rio 2017</sub-title>
     <desc lang="pt"> - Guilherme Guedes apresenta os melhores momentos de cada um dos dias de transmissão do Rock in Rio 2017 no Multishow. Neste episódio, Guilherme Guedes fala sobre os destaques do primeiro dia de festival.</desc>
@@ -22833,7 +22875,7 @@ a relação da transexualidade com a espiritualidade, a partir da ancestralidade
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240630131828 -0300" stop="20240630142532 -0300" channel="bis">
+  <programme start="20240630131938 -0300" stop="20240630142642 -0300" channel="bis">
     <title lang="pt">Ron Carter "New Foursight Quartet"</title>
     <sub-title lang="pt">Palco Principal</sub-title>
     <desc lang="pt"> - Show do lendário baixista americano Ron Carter com seu quarteto Foursight. Vencedor de três prêmios Grammy, ele detém o recorde do Guinness de baixista mais gravado do jazz.</desc>
@@ -22842,7 +22884,7 @@ a relação da transexualidade com a espiritualidade, a partir da ancestralidade
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240630142535 -0300" stop="20240630152257 -0300" channel="bis">
+  <programme start="20240630142645 -0300" stop="20240630152407 -0300" channel="bis">
     <title lang="pt">Jup Do Bairro</title>
     <sub-title lang="pt">Palco Principal</sub-title>
     <desc lang="pt"> - O Rock The Mountain 2023 conta com um line up 100% nacional e feminino, e acontece na serra de Petrópolis/RJ. Você confere a transmissão ao vivo do festival nos dias 11 e 12 de novembro no canal Multishow e no Globoplay.</desc>
@@ -22851,7 +22893,7 @@ a relação da transexualidade com a espiritualidade, a partir da ancestralidade
       <value>[10] Não recomendado para menores de 10 anos</value>
     </rating>
   </programme>
-  <programme start="20240630152300 -0300" stop="20240630171259 -0300" channel="bis">
+  <programme start="20240630152410 -0300" stop="20240630170328 -0300" channel="bis">
     <title lang="pt">Pet Shop Boys Dreamworld: The Greatest Hits Live At The Royal Arena Copenhagen</title>
     <sub-title lang="pt">Palco Principal</sub-title>
     <desc lang="pt"> - Os Pet Shop Boys apresentam músicas de sucesso como West End Girls, Suburbia, Opportunities e It's a Sin ao vivo em Copenhagen durante sua turnê Dreamworld.</desc>
@@ -22860,7 +22902,7 @@ a relação da transexualidade com a espiritualidade, a partir da ancestralidade
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240630171300 -0300" stop="20240630174259 -0300" channel="bis">
+  <programme start="20240630170332 -0300" stop="20240630174154 -0300" channel="bis">
     <title lang="pt">Aquecimento Rock In Rio.</title>
     <sub-title lang="pt">Queen Live In Rock In Rio</sub-title>
     <desc lang="pt"> - Histórico show do Queen realizado em 11 de janeiro de 1985 durante a 1ª edição do Rock in Rio. Freddie Mercury, Brian May, Roger Taylor e John Deacon desfilaram sucessos e empolgaram uma multidão de 300 mil pessoas.</desc>
@@ -22869,7 +22911,7 @@ a relação da transexualidade com a espiritualidade, a partir da ancestralidade
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240630174300 -0300" stop="20240630182959 -0300" channel="bis">
+  <programme start="20240630174200 -0300" stop="20240630183051 -0300" channel="bis">
     <title lang="pt">Great Songwriters</title>
     <sub-title lang="pt">David Foster</sub-title>
     <desc lang="pt"> - O processo criativo de escrever músicas e destrinchado nessa série com compositores icônicos. Neste episódio:  David Foster</desc>
@@ -22878,7 +22920,7 @@ a relação da transexualidade com a espiritualidade, a partir da ancestralidade
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240630183000 -0300" stop="20240630185959 -0300" channel="bis">
+  <programme start="20240630183053 -0300" stop="20240630190046 -0300" channel="bis">
     <title lang="pt">Pagodes Inesquecíveis –</title>
     <desc lang="pt"> - O cantor Dudu Nobre e sua banda apresentam os pagodes inesquecíveis que fizeram sucesso por todo o Brasil.</desc>
     <episode-num system="xmltv_ns">.1.</episode-num>
@@ -22886,7 +22928,7 @@ a relação da transexualidade com a espiritualidade, a partir da ancestralidade
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240630190000 -0300" stop="20240630192959 -0300" channel="bis">
+  <programme start="20240630190048 -0300" stop="20240630192959 -0300" channel="bis">
     <title lang="pt">Filhos Da Música</title>
     <sub-title lang="pt">Davi Moraes</sub-title>
     <desc lang="pt"> - Uma Homenagem dos filhos interpretando grandes clássicos dos seus pais e da música nacional, alternando momentos de performances e entrevistas. Nesse episódio, o convidado é o Davi Moraes, filho do Moraes Moreira.</desc>
@@ -23294,7 +23336,7 @@ Já o Gramercy Park fica localizado em uma região nobre e sua coleção é de d
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240630173013 -0300" stop="20240630175959 -0300" channel="modo-viagem">
+  <programme start="20240630173013 -0300" stop="20240630175952 -0300" channel="modo-viagem">
     <title lang="pt">Brasil Visto De Cima</title>
     <sub-title lang="pt">Norte Capixaba</sub-title>
     <desc lang="pt"> - Cercado por cidades históricas, belas praias e indústrias que movimentam o país, o Litoral Norte do Espírito Santo, é uma região de riquezas naturais e grande força econômica.</desc>
@@ -23303,7 +23345,7 @@ Já o Gramercy Park fica localizado em uma região nobre e sua coleção é de d
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240630180000 -0300" stop="20240630182959 -0300" channel="modo-viagem">
+  <programme start="20240630175955 -0300" stop="20240630182942 -0300" channel="modo-viagem">
     <title lang="pt">Arquitetura Fantástica</title>
     <sub-title lang="pt">Mudando Conceitos</sub-title>
     <desc lang="pt"> - Criados para uma função e consagrados em usos completamente diferentes. CCBB Rio de Janeiro, o Museu da Inconfidência em Ouro Preto e a Casa de Cultura do Recife.</desc>
@@ -23312,7 +23354,7 @@ Já o Gramercy Park fica localizado em uma região nobre e sua coleção é de d
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240630183000 -0300" stop="20240630185959 -0300" channel="modo-viagem">
+  <programme start="20240630182945 -0300" stop="20240630190008 -0300" channel="modo-viagem">
     <title lang="pt">Destino Certo</title>
     <sub-title lang="pt">Design E Arquitetura</sub-title>
     <desc lang="pt"> - Mel Fronckowiak viaja em busca dos melhores destinos nos Estados Unidos e passa todas as dicas que qualquer viajante gostaria de receber.</desc>
@@ -24060,38 +24102,38 @@ Já o Gramercy Park fica localizado em uma região nobre e sua coleção é de d
     <date>20/06/2024</date>
     <episode-num system="xmltv_ns">..</episode-num>
   </programme>
-  <programme start="20240630095956 -0300" stop="20240630110308 -0300" channel="premiere">
+  <programme start="20240630095956 -0300" stop="20240630103810 -0300" channel="premiere">
     <title lang="pt">Aquecimento SporTV: Atlético-MG x Atlético-GO - ao vivo</title>
     <desc lang="pt">Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes, aqui no sportv!</desc>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">..</episode-num>
   </programme>
-  <programme start="20240630110310 -0300" stop="20240630131748 -0300" channel="premiere">
+  <programme start="20240630103812 -0300" stop="20240630125755 -0300" channel="premiere">
     <title lang="pt">Brasileirão: Atlético-MG x Atlético-GO - ao vivo</title>
     <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">..</episode-num>
   </programme>
-  <programme start="20240630131751 -0300" stop="20240630141053 -0300" channel="premiere">
+  <programme start="20240630130055 -0300" stop="20240630135357 -0300" channel="premiere">
     <title lang="pt">Giro da Rodada: Série A</title>
     <sub-title lang="pt">12ª Rodada</sub-title>
     <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol aqui o sportv!</desc>
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">..</episode-num>
   </programme>
-  <programme start="20240630141100 -0300" stop="20240630151106 -0300" channel="premiere">
+  <programme start="20240630135404 -0300" stop="20240630145410 -0300" channel="premiere">
     <title lang="pt">VT - Brasileirão: São Paulo x Criciúma</title>
     <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
     <category lang="en">football/soccer</category>
     <episode-num system="xmltv_ns">..</episode-num>
   </programme>
-  <programme start="20240630151109 -0300" stop="20240630160958 -0300" channel="premiere">
+  <programme start="20240630145413 -0300" stop="20240630155302 -0300" channel="premiere">
     <title lang="pt">VT - Brasileirão: Atlético-MG x Atlético-GO</title>
     <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
     <category lang="en">football/soccer</category>
     <episode-num system="xmltv_ns">..</episode-num>
   </programme>
-  <programme start="20240630160959 -0300" stop="20240630170935 -0300" channel="premiere">
+  <programme start="20240630155311 -0300" stop="20240630165247 -0300" channel="premiere">
     <title lang="pt">Retrô - Brasileirão 2009: Flamengo x Cruzeiro</title>
     <sub-title lang="pt">20ª Rodada, realizado em 20/08/2009</sub-title>
     <desc lang="pt">Reveja partidas históricas do seu esporte favorito!
@@ -24101,7 +24143,7 @@ Já o Gramercy Park fica localizado em uma região nobre e sua coleção é de d
     <date>20/08/2009</date>
     <episode-num system="xmltv_ns">..</episode-num>
   </programme>
-  <programme start="20240630170938 -0300" stop="20240630175959 -0300" channel="premiere">
+  <programme start="20240630165250 -0300" stop="20240630180930 -0300" channel="premiere">
     <title lang="pt">Retrô - Brasileirão 2019: Cruzeiro x Flamengo</title>
     <sub-title lang="pt">20ª Rodada, realizado em 21/09/2019</sub-title>
     <desc lang="pt">Reveja partidas históricas do seu esporte favorito!
@@ -24111,13 +24153,13 @@ Já o Gramercy Park fica localizado em uma região nobre e sua coleção é de d
     <date>21/09/2019</date>
     <episode-num system="xmltv_ns">..</episode-num>
   </programme>
-  <programme start="20240630180000 -0300" stop="20240630182959 -0300" channel="premiere">
+  <programme start="20240630180934 -0300" stop="20240630183816 -0300" channel="premiere">
     <title lang="pt">Aquecimento SporTV: Flamengo x Cruzeiro - ao vivo</title>
     <desc lang="pt">Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes, aqui no sportv!</desc>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">..</episode-num>
   </programme>
-  <programme start="20240630183000 -0300" stop="20240630202959 -0300" channel="premiere">
+  <programme start="20240630183817 -0300" stop="20240630202959 -0300" channel="premiere">
     <title lang="pt">Brasileirão: Flamengo x Cruzeiro - ao vivo</title>
     <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
     <category lang="en">live broadcast</category>
@@ -24147,20 +24189,28 @@ Já o Gramercy Park fica localizado em uma região nobre e sua coleção é de d
     <category lang="en">football/soccer</category>
     <episode-num system="xmltv_ns">..</episode-num>
   </programme>
-  <programme start="20240630105000 -0300" stop="20240630125959 -0300" channel="premiere-2">
-    <title lang="pt">Brasileirão Série B: Avaí x Amazonas - ao vivo</title>
-    <desc lang="pt">Confira mais um jogão do Brasileirão Masculino Série B! Tem coisa pra caramba!</desc>
-    <category lang="en">live broadcast</category>
+  <programme start="20240630133000 -0300" stop="20240630142959 -0300" channel="premiere-3">
+    <title lang="pt">VT - Copa do Brasil: 2005</title>
+    <sub-title lang="pt">Oitavas de Final - Jogo de Volta, realizado em 04/05/2005</sub-title>
+    <desc lang="pt">Reveja partidas históricas do seu esporte favorito!
+
+</desc>
+    <category lang="en">football/soccer</category>
+    <date>04/05/2005</date>
     <episode-num system="xmltv_ns">..</episode-num>
   </programme>
-  <programme start="20240630180000 -0300" stop="20240630182959 -0300" channel="premiere-2">
-    <title lang="pt">Aquecimento SporTV: Criciúma x Internacional - ao vivo</title>
-    <desc lang="pt">Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes, aqui no sportv!</desc>
-    <category lang="en">live broadcast</category>
+  <programme start="20240630143000 -0300" stop="20240630152959 -0300" channel="premiere-3">
+    <title lang="pt">Retrô - Copa do Brasil 2001: Grêmio x Fluminense</title>
+    <sub-title lang="pt">Jogo de Ida, realizado em 02/05/2001</sub-title>
+    <desc lang="pt">Reveja partidas históricas do seu esporte favorito!
+
+</desc>
+    <category lang="en">sports (general)</category>
+    <date>02/05/2001</date>
     <episode-num system="xmltv_ns">..</episode-num>
   </programme>
-  <programme start="20240630183000 -0300" stop="20240630202959 -0300" channel="premiere-2">
-    <title lang="pt">Brasileirão: Criciúma x Internacional - ao vivo</title>
+  <programme start="20240630153000 -0300" stop="20240630175959 -0300" channel="premiere-3">
+    <title lang="pt">Brasileirão: Grêmio x Fluminense - ao vivo</title>
     <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">..</episode-num>
@@ -24219,28 +24269,13 @@ Já o Gramercy Park fica localizado em uma região nobre e sua coleção é de d
       <value>[14] Não recomendado para menores de 14 anos</value>
     </rating>
   </programme>
-  <programme start="20240630172526 -0300" stop="20240630174959 -0300" channel="combate">
+  <programme start="20240630172526 -0300" stop="20240630195200 -0300" channel="combate">
     <title lang="pt">VT - Attack Fight 32</title>
     <desc lang="pt"> - O ATTACK FIGHT é uma organização de esportes de contato fundada por Adriano Souza em 2015, é um dos maiores eventos de Muay Thai profissional do Brasil.</desc>
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">..</episode-num>
   </programme>
-  <programme start="20240630175000 -0300" stop="20240630175959 -0300" channel="combate">
-    <title lang="pt">Marta Souza</title>
-    <desc lang="pt"> - Assista agora os maiores lutadores do mundo no GIRO COMBATE.</desc>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">..</episode-num>
-    <rating system="Brazil">
-      <value>[14] Não recomendado para menores de 14 anos</value>
-    </rating>
-  </programme>
-  <programme start="20240630180000 -0300" stop="20240630205959 -0300" channel="combate">
-    <title lang="pt">VT - Attack Fight 32</title>
-    <desc lang="pt"> - O ATTACK FIGHT é uma organização de esportes de contato fundada por Adriano Souza em 2015, é um dos maiores eventos de Muay Thai profissional do Brasil.</desc>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">..</episode-num>
-  </programme>
-  <programme start="20240630210000 -0300" stop="20240630235959 -0300" channel="combate">
+  <programme start="20240630195204 -0300" stop="20240630213855 -0300" channel="combate">
     <title lang="pt">VT - Pfl 2024 - Regular Season #6</title>
     <desc lang="pt"> - PFL é a liga esportiva mais inovadora e de crescimento mais rápido. A PFL é a única com o formato de temporada esportiva em que lutadores individuais competem na Temporada Regular, Playoffs e Campeonato pelo prêmio de 1 milhão de dólares. Grandes nomes de atletas brasileiros como: Larissa Pacheco, Natan Schulte, Renan Ferreira, Raush Manfio e muitos outros.</desc>
     <category lang="en">sports (general)</category>
@@ -28144,9 +28179,9 @@ a relação da transexualidade com a espiritualidade, a partir da ancestralidade
     <category lang="en">football/soccer</category>
     <episode-num system="xmltv_ns">..</episode-num>
   </programme>
-  <programme start="20240701193000 -0300" stop="20240701222959 -0300" channel="premiere-2">
-    <title lang="pt">Charla No Premiere: Palmeiras x Corinthians - ao vivo</title>
-    <desc lang="pt">O Premiere traz a transmissão mais humorada da internet brasileira, Bruno Cantarelli e Beto Junior assumem o controle de mais um jogão.</desc>
+  <programme start="20240701184500 -0300" stop="20240701205959 -0300" channel="premiere-3">
+    <title lang="pt">Brasileirão Série B: Santos x Chapecoense - ao vivo</title>
+    <desc lang="pt">Confira mais um jogão do Brasileirão Masculino Série B! Tem coisa pra caramba!</desc>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">..</episode-num>
   </programme>
@@ -32096,12 +32131,6 @@ o Vale do Jequitinhonha e os cafés que crescem, ao lado de uma fauna bem preser
     <sub-title lang="pt">13ª Rodada</sub-title>
     <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol aqui o sportv!</desc>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">..</episode-num>
-  </programme>
-  <programme start="20240702194500 -0300" stop="20240703192959 -0300" channel="premiere-2">
-    <title lang="pt">Brasileirão Série B: Novorizontino x Mirassol - ao vivo</title>
-    <desc lang="pt">Confira mais um jogão do Brasileirão Masculino Série B! Tem coisa pra caramba!</desc>
-    <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">..</episode-num>
   </programme>
   <programme start="20240702000000 -0300" stop="20240702034959 -0300" channel="combate">
@@ -36311,15 +36340,29 @@ o Vale do Jequitinhonha e os cafés que crescem, ao lado de uma fauna bem preser
     <category lang="en">football/soccer</category>
     <episode-num system="xmltv_ns">..</episode-num>
   </programme>
-  <programme start="20240702194500 -0300" stop="20240703192959 -0300" channel="premiere-2">
-    <title lang="pt">Brasileirão Série B: Novorizontino x Mirassol - ao vivo</title>
-    <desc lang="pt">Confira mais um jogão do Brasileirão Masculino Série B! Tem coisa pra caramba!</desc>
-    <category lang="en">live broadcast</category>
+  <programme start="20240703190000 -0300" stop="20240703195959 -0300" channel="premiere-3">
+    <title lang="pt">Retrô - Atlético-Mg X Flamengo</title>
+    <sub-title lang="pt">13ª Rodada, realizado em 22/09/2002</sub-title>
+    <desc lang="pt">Reveja partidas históricas do seu esporte favorito!
+
+</desc>
+    <category lang="en">sports (general)</category>
+    <date>22/09/2002</date>
     <episode-num system="xmltv_ns">..</episode-num>
   </programme>
-  <programme start="20240703193000 -0300" stop="20240703222959 -0300" channel="premiere-2">
-    <title lang="pt">Charla No Premiere: Vasco x Fortaleza - ao vivo</title>
-    <desc lang="pt">O Premiere traz a transmissão mais humorada da internet brasileira, Bruno Cantarelli e Beto Junior assumem o controle de Vasco X Flamengo, pela 7ª rodada do Brasileiro.</desc>
+  <programme start="20240703200000 -0300" stop="20240703205959 -0300" channel="premiere-3">
+    <title lang="pt">Retrô - Flamengo X Atlético-Mg</title>
+    <sub-title lang="pt">29ª Rodada, realizado em 11/10/2008</sub-title>
+    <desc lang="pt">Reveja partidas históricas do seu esporte favorito!
+
+</desc>
+    <category lang="en">sports (general)</category>
+    <date>11/10/2008</date>
+    <episode-num system="xmltv_ns">..</episode-num>
+  </programme>
+  <programme start="20240703210000 -0300" stop="20240703232959 -0300" channel="premiere-3">
+    <title lang="pt">Brasileirão: Atlético-MG x Flamengo - ao vivo</title>
+    <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">..</episode-num>
   </programme>
@@ -40406,32 +40449,6 @@ o Vale do Jequitinhonha e os cafés que crescem, ao lado de uma fauna bem preser
     <category lang="en">football/soccer</category>
     <episode-num system="xmltv_ns">..</episode-num>
   </programme>
-  <programme start="20240704173000 -0300" stop="20240704182959 -0300" channel="premiere-2">
-    <title lang="pt">Retrô - Fluminense X Internacional</title>
-    <sub-title lang="pt">18ª Rodada, realizado em 13/08/2018</sub-title>
-    <desc lang="pt">Reveja partidas históricas do seu esporte favorito!
-
-</desc>
-    <category lang="en">sports (general)</category>
-    <date>13/08/2018</date>
-    <episode-num system="xmltv_ns">..</episode-num>
-  </programme>
-  <programme start="20240704183000 -0300" stop="20240704192959 -0300" channel="premiere-2">
-    <title lang="pt">Retrô - Fluminense X Internacional</title>
-    <sub-title lang="pt">8ª Rodada, realizado em 19/06/2005</sub-title>
-    <desc lang="pt">Reveja partidas históricas do seu esporte favorito!
-
-</desc>
-    <category lang="en">sports (general)</category>
-    <date>19/06/2005</date>
-    <episode-num system="xmltv_ns">..</episode-num>
-  </programme>
-  <programme start="20240704193000 -0300" stop="20240704215959 -0300" channel="premiere-2">
-    <title lang="pt">Brasileirão: Fluminense x Internacional - ao vivo</title>
-    <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
-    <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">..</episode-num>
-  </programme>
   <programme start="20240703220000 -0300" stop="20240704005959 -0300" channel="combate">
     <title lang="pt">VT - One Friday Fights 68</title>
     <desc lang="pt"> - Terceira maior franquia de MMA mundial e a principal da Ásia, presente em mais de 170 países, o One é a liga esportiva de diferentes modalidades além do MMA como: Grappling, Muay Thai, Kickboxing. Nomes de atletas brasileiros: Fabrício Andrade, Marcus Buchecha, Allycia Hellen Rodrigues, André Galvão, e muitos outros.</desc>
@@ -41454,18 +41471,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
     <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">..</episode-num>
   </programme>
-  <programme start="20240630111022 -0300" stop="20240630121737 -0300" channel="Silvio Santos">
-    <title lang="pt">Nada Além da Verdade</title>
-    <sub-title lang="pt">realizado em 27/01/2008</sub-title>
-    <desc lang="pt">Silvio Santos recebe convidados para passarem pelo polígrafo</desc>
-    <category lang="en">variety show</category>
-    <date>27/01/2008</date>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <rating system="Brazil">
-      <value>[10] Não recomendado para menores de 10 anos</value>
-    </rating>
-  </programme>
-  <programme start="20240630121737 -0300" stop="20240630141837 -0300" channel="Silvio Santos">
+  <programme start="20240630131553 -0300" stop="20240630141837 -0300" channel="Silvio Santos">
     <title lang="pt">Qual É a Música?</title>
     <sub-title lang="pt">realizado em 23/04/2000</sub-title>
     <desc lang="pt">Silvio Santos testa seus convidados em jogos musicais.</desc>
@@ -42202,25 +42208,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240630113111 -0300" stop="20240630115640 -0300" channel="Novelas">
-    <title lang="pt">Esmeralda</title>
-    <desc lang="pt"> - Duas crianças trocadas no parto e uma vida para corrigir o erro dessa troca.</desc>
-    <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">0.13.</episode-num>
-    <rating system="Brazil">
-      <value>[12] Não recomendado para menores de 12 anos</value>
-    </rating>
-  </programme>
-  <programme start="20240630120003 -0300" stop="20240630125837 -0300" channel="Novelas">
-    <title lang="pt">Rebelde</title>
-    <desc lang="pt"> - No ambiente elitizado da Elite Way School, adolescentes abrem os olhos para a realidade do mundo</desc>
-    <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">0.24.</episode-num>
-    <rating system="Brazil">
-      <value>[14] Não recomendado para menores de 14 anos</value>
-    </rating>
-  </programme>
-  <programme start="20240630125837 -0300" stop="20240630135742 -0300" channel="Novelas">
+  <programme start="20240630132935 -0300" stop="20240630135742 -0300" channel="Novelas">
     <title lang="pt">Rebelde</title>
     <desc lang="pt"> - No ambiente elitizado da Elite Way School, adolescentes abrem os olhos para a realidade do mundo</desc>
     <category lang="en">movie/drama (general)</category>
@@ -43081,18 +43069,25 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240630112210 -0300" stop="20240630120021 -0300" channel="Saudade">
-    <title lang="pt">Domingo Legal</title>
-    <sub-title lang="pt">realizado em 24/01/1993</sub-title>
-    <desc lang="pt">O grande sucesso dos domingos da década de 90, que consagrou Gugu Liberato!</desc>
-    <category lang="en">show/game show (general)</category>
-    <date>24/01/1993</date>
-    <episode-num system="xmltv_ns">1992..</episode-num>
+  <programme start="20240704115358 -0300" stop="20240704125201 -0300" channel="Novelas">
+    <title lang="pt">Rebelde</title>
+    <desc lang="pt"> - No ambiente elitizado da Elite Way School, adolescentes abrem os olhos para a realidade do mundo</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">0.12.</episode-num>
     <rating system="Brazil">
-      <value>[10] Não recomendado para menores de 10 anos</value>
+      <value>[14] Não recomendado para menores de 14 anos</value>
     </rating>
   </programme>
-  <programme start="20240630120028 -0300" stop="20240630140035 -0300" channel="Saudade">
+  <programme start="20240704125536 -0300" stop="20240704135437 -0300" channel="Novelas">
+    <title lang="pt">Rebelde</title>
+    <desc lang="pt"> - No ambiente elitizado da Elite Way School, adolescentes abrem os olhos para a realidade do mundo</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">0.13.</episode-num>
+    <rating system="Brazil">
+      <value>[14] Não recomendado para menores de 14 anos</value>
+    </rating>
+  </programme>
+  <programme start="20240630133449 -0300" stop="20240630140035 -0300" channel="Saudade">
     <title lang="pt">Fantasia</title>
     <sub-title lang="pt">realizado em 13/12/1998</sub-title>
     <desc lang="pt">O programa interativo dos anos 90 que derrubou o sistema de telefonia da maior cidade do Brasil.</desc>
@@ -43572,39 +43567,6 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
     <episode-num system="xmltv_ns">1997..</episode-num>
     <rating system="Brazil">
       <value>[L] Livre para todos os públicos</value>
-    </rating>
-  </programme>
-  <programme start="20240630113713 -0300" stop="20240630120325 -0300" channel="Pop">
-    <title lang="pt">Rola ou Enrola</title>
-    <sub-title lang="pt">realizado em 06/11/2011</sub-title>
-    <desc lang="pt">Cinco mulheres estão a procura de um novo amor e vão se arriscar no "Rola ou Enrola".</desc>
-    <category lang="en">variety show</category>
-    <date>06/11/2011</date>
-    <episode-num system="xmltv_ns">0..</episode-num>
-    <rating system="Brazil">
-      <value>[10] Não recomendado para menores de 10 anos</value>
-    </rating>
-  </programme>
-  <programme start="20240630120711 -0300" stop="20240630124359 -0300" channel="Pop">
-    <title lang="pt">Famosos da Internet</title>
-    <sub-title lang="pt">Programa</sub-title>
-    <desc lang="pt">realizado em 05/02/2012 - As chamadas “Celebridades da Internet” se apresentam no palco do programa da Eliana.</desc>
-    <category lang="en">variety show</category>
-    <date>05/02/2012</date>
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <rating system="Brazil">
-      <value>[10] Não recomendado para menores de 10 anos</value>
-    </rating>
-  </programme>
-  <programme start="20240630124740 -0300" stop="20240630134019 -0300" channel="Pop">
-    <title lang="pt">Famosos da Internet</title>
-    <sub-title lang="pt">realizado em 24/07/2011</sub-title>
-    <desc lang="pt">As chamadas “Celebridades da Internet” se apresentam no palco do programa da Eliana.</desc>
-    <category lang="en">variety show</category>
-    <date>24/07/2011</date>
-    <episode-num system="xmltv_ns">0..</episode-num>
-    <rating system="Brazil">
-      <value>[10] Não recomendado para menores de 10 anos</value>
     </rating>
   </programme>
   <programme start="20240630134349 -0300" stop="20240630143840 -0300" channel="Pop">
@@ -44179,40 +44141,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[10] Não recomendado para menores de 10 anos</value>
     </rating>
   </programme>
-  <programme start="20240630113729 -0300" stop="20240630115644 -0300" channel="Humor">
-    <title lang="pt">Veja o Gordo</title>
-    <sub-title lang="pt">realizado em 03/08/1988</sub-title>
-    <desc lang="pt">Jô Soares era um só? Não mesmo! Com personagens memoráveis ele mostra que era muitos!</desc>
-    <category lang="en">comedy</category>
-    <date>03/08/1988</date>
-    <episode-num system="xmltv_ns">..</episode-num>
-    <rating system="Brazil">
-      <value>[A10] Não recomendado para menores de 10 nos</value>
-    </rating>
-  </programme>
-  <programme start="20240630120519 -0300" stop="20240630122916 -0300" channel="Humor">
-    <title lang="pt">Escolinha do Golias</title>
-    <sub-title lang="pt">realizado em 26/09/1990</sub-title>
-    <desc lang="pt">Se vida de professor não é fácil, imagina se tiver um aluno como Ronald Golias na sala!</desc>
-    <category lang="en">comedy</category>
-    <date>26/09/1990</date>
-    <episode-num system="xmltv_ns">..</episode-num>
-    <rating system="Brazil">
-      <value>[A12] Não recomendado para menores de 12 nos</value>
-    </rating>
-  </programme>
-  <programme start="20240630123538 -0300" stop="20240630125829 -0300" channel="Humor">
-    <title lang="pt">Escolinha do Golias</title>
-    <sub-title lang="pt">realizado em 17/10/1990</sub-title>
-    <desc lang="pt">Se vida de professor não é fácil, imagina se tiver um aluno como Ronald Golias na sala!</desc>
-    <category lang="en">comedy</category>
-    <date>17/10/1990</date>
-    <episode-num system="xmltv_ns">..</episode-num>
-    <rating system="Brazil">
-      <value>[A12] Não recomendado para menores de 12 nos</value>
-    </rating>
-  </programme>
-  <programme start="20240630130351 -0300" stop="20240630140559 -0300" channel="Humor">
+  <programme start="20240630134341 -0300" stop="20240630140559 -0300" channel="Humor">
     <title lang="pt">A Praça é Nossa</title>
     <sub-title lang="pt">realizado em 06/04/2023</sub-title>
     <desc lang="pt">A mesma praça, o mesmo banco e os humoristas mais queridos do Brasil.</desc>
@@ -46505,87 +46434,6 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
     <episode-num system="xmltv_ns">..</episode-num>
     <rating system="Brazil">
       <value>[A12] Não recomendado para menores de 12 nos</value>
-    </rating>
-  </programme>
-  <programme start="20240630113822 -0300" stop="20240630114506 -0300" channel="Criança">
-    <title lang="pt">Oi, Duggee</title>
-    <desc lang="pt"> - Duggee é um cachorrão que atua como o líder de um clubinho chamado "Os Esquilos".</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.25.</episode-num>
-    <rating system="Brazil">
-      <value>[AL] Livre para todos os públicos</value>
-    </rating>
-  </programme>
-  <programme start="20240630114739 -0300" stop="20240630115423 -0300" channel="Criança">
-    <title lang="pt">Oi, Duggee</title>
-    <desc lang="pt"> - Duggee é um cachorrão que atua como o líder de um clubinho chamado "Os Esquilos".</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.26.</episode-num>
-    <rating system="Brazil">
-      <value>[AL] Livre para todos os públicos</value>
-    </rating>
-  </programme>
-  <programme start="20240630115615 -0300" stop="20240630120318 -0300" channel="Criança">
-    <title lang="pt">Oi, Duggee</title>
-    <desc lang="pt"> - Duggee é um cachorrão que atua como o líder de um clubinho chamado "Os Esquilos".</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.27.</episode-num>
-    <rating system="Brazil">
-      <value>[AL] Livre para todos os públicos</value>
-    </rating>
-  </programme>
-  <programme start="20240630120535 -0300" stop="20240630121205 -0300" channel="Criança">
-    <title lang="pt">Louie</title>
-    <desc lang="pt"> - Embarque no mundo da criatividade e aprenda a desenhar com Louie e Yoko!</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.24.</episode-num>
-    <rating system="Brazil">
-      <value>[L] Livre para todos os públicos</value>
-    </rating>
-  </programme>
-  <programme start="20240630121322 -0300" stop="20240630121951 -0300" channel="Criança">
-    <title lang="pt">Louie</title>
-    <desc lang="pt"> - Embarque no mundo da criatividade e aprenda a desenhar com Louie e Yoko!</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.25.</episode-num>
-    <rating system="Brazil">
-      <value>[L] Livre para todos os públicos</value>
-    </rating>
-  </programme>
-  <programme start="20240630122213 -0300" stop="20240630122848 -0300" channel="Criança">
-    <title lang="pt">Louie</title>
-    <desc lang="pt"> - Embarque no mundo da criatividade e aprenda a desenhar com Louie e Yoko!</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.26.</episode-num>
-    <rating system="Brazil">
-      <value>[L] Livre para todos os públicos</value>
-    </rating>
-  </programme>
-  <programme start="20240630123020 -0300" stop="20240630123715 -0300" channel="Criança">
-    <title lang="pt">Louie</title>
-    <desc lang="pt"> - Embarque no mundo da criatividade e aprenda a desenhar com Louie e Yoko!</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.27.</episode-num>
-    <rating system="Brazil">
-      <value>[L] Livre para todos os públicos</value>
-    </rating>
-  </programme>
-  <programme start="20240630130731 -0300" stop="20240630131826 -0300" channel="Criança">
-    <title lang="pt">Ziggy e o Trenzinho do Zoológico</title>
-    <desc lang="pt"> - Embarque nesse trem e se aventure com Ziggy e seus amigos!</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.12.</episode-num>
-    <rating system="Brazil">
-      <value>[L] Livre para todos os públicos</value>
-    </rating>
-  </programme>
-  <programme start="20240630131948 -0300" stop="20240630133049 -0300" channel="Criança">
-    <title lang="pt">Ziggy e o Trenzinho do Zoológico</title>
-    <desc lang="pt"> - Embarque nesse trem e se aventure com Ziggy e seus amigos!</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.13.</episode-num>
-    <rating system="Brazil">
-      <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
   <programme start="20240630133221 -0300" stop="20240630134301 -0300" channel="Criança">
@@ -50620,7 +50468,88 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[AL] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240630120625 -0300" stop="20240630135003 -0300" channel="INFORMACAO">
+  <programme start="20240704114750 -0300" stop="20240704115434 -0300" channel="Criança">
+    <title lang="pt">Oi, Duggee</title>
+    <desc lang="pt"> - Duggee é um cachorrão que atua como o líder de um clubinho chamado "Os Esquilos".</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
+    <rating system="Brazil">
+      <value>[AL] Livre para todos os públicos</value>
+    </rating>
+  </programme>
+  <programme start="20240704115626 -0300" stop="20240704120329 -0300" channel="Criança">
+    <title lang="pt">Oi, Duggee</title>
+    <desc lang="pt"> - Duggee é um cachorrão que atua como o líder de um clubinho chamado "Os Esquilos".</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.15.</episode-num>
+    <rating system="Brazil">
+      <value>[AL] Livre para todos os públicos</value>
+    </rating>
+  </programme>
+  <programme start="20240704120546 -0300" stop="20240704121215 -0300" channel="Criança">
+    <title lang="pt">Louie</title>
+    <desc lang="pt"> - Embarque no mundo da criatividade e aprenda a desenhar com Louie e Yoko!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.12.</episode-num>
+    <rating system="Brazil">
+      <value>[L] Livre para todos os públicos</value>
+    </rating>
+  </programme>
+  <programme start="20240704121332 -0300" stop="20240704122005 -0300" channel="Criança">
+    <title lang="pt">Louie</title>
+    <desc lang="pt"> - Embarque no mundo da criatividade e aprenda a desenhar com Louie e Yoko!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.13.</episode-num>
+    <rating system="Brazil">
+      <value>[L] Livre para todos os públicos</value>
+    </rating>
+  </programme>
+  <programme start="20240704122227 -0300" stop="20240704122902 -0300" channel="Criança">
+    <title lang="pt">Louie</title>
+    <desc lang="pt"> - Embarque no mundo da criatividade e aprenda a desenhar com Louie e Yoko!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
+    <rating system="Brazil">
+      <value>[L] Livre para todos os públicos</value>
+    </rating>
+  </programme>
+  <programme start="20240704123034 -0300" stop="20240704123729 -0300" channel="Criança">
+    <title lang="pt">Louie</title>
+    <desc lang="pt"> - Embarque no mundo da criatividade e aprenda a desenhar com Louie e Yoko!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.15.</episode-num>
+    <rating system="Brazil">
+      <value>[L] Livre para todos os públicos</value>
+    </rating>
+  </programme>
+  <programme start="20240704130744 -0300" stop="20240704131840 -0300" channel="Criança">
+    <title lang="pt">Ziggy e o Trenzinho do Zoológico</title>
+    <desc lang="pt"> - Embarque nesse trem e se aventure com Ziggy e seus amigos!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <rating system="Brazil">
+      <value>[L] Livre para todos os públicos</value>
+    </rating>
+  </programme>
+  <programme start="20240704132002 -0300" stop="20240704133103 -0300" channel="Criança">
+    <title lang="pt">Ziggy e o Trenzinho do Zoológico</title>
+    <desc lang="pt"> - Embarque nesse trem e se aventure com Ziggy e seus amigos!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <rating system="Brazil">
+      <value>[L] Livre para todos os públicos</value>
+    </rating>
+  </programme>
+  <programme start="20240704133235 -0300" stop="20240704134315 -0300" channel="Criança">
+    <title lang="pt">O Livro da Selva</title>
+    <desc lang="pt"> - Se aventure e proteja os animais junto de Mogli, o menino lobo!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <rating system="Brazil">
+      <value>[AL] Livre para todos os públicos</value>
+    </rating>
+  </programme>
+  <programme start="20240630132519 -0300" stop="20240630135003 -0300" channel="INFORMACAO">
     <title lang="pt">Brasil Agora</title>
     <desc lang="pt"> - Direto de BrasÃ­lia, os jornalistas Murilo Fagundes e Iasmin Costa trazem as principais notÃ­cias do dia no Brasil Agora.</desc>
     <episode-num system="xmltv_ns">..</episode-num>
@@ -50806,7 +50735,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[Sem ClassificaÃ§Ã£o] Não recomendado para menores de Sem ClassificaÃ§Ã£o anos</value>
     </rating>
   </programme>
-  <programme start="20240630114617 -0300" stop="20240701000000 -0300" channel="Series">
+  <programme start="20240630130958 -0300" stop="20240701000000 -0300" channel="Series">
     <title lang="pt">Programação Series</title>
     <desc lang="pt"> - </desc>
     <episode-num system="xmltv_ns">..</episode-num>
