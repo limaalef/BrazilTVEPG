@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2024-07-03 16:45:04" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2024-07-03 18:15:03" generator-info-url="http://limaalef.com">
   <channel id="Claro TV+ 4K">
     <display-name lang="pt">Claro TV+ 4K</display-name>
   </channel>
@@ -134,6 +134,9 @@
   </channel>
   <channel id="premiere">
     <display-name lang="pt">premiere</display-name>
+  </channel>
+  <channel id="premiere-4">
+    <display-name lang="pt">premiere-4</display-name>
   </channel>
   <channel id="combate">
     <display-name lang="pt">combate</display-name>
@@ -4531,23 +4534,19 @@
     <desc lang="pt"> - Maratona é a revista mensal que mostra noticiais, materias especiais e detalhes da preparação dos atletas brasileiros.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240704210000 -0300" stop="20240704220000 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Esporte Agora: 2ª Edição - Ao Vivo</title>
-    <desc lang="pt"> - O Esporte Agora sempre traz os fatos mais quentes do dia, além de muita resenha e análises, mas sem enrolação.</desc>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20240704220000 -0300" stop="20240704223000 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Magazine TCR Brasil</title>
-    <desc lang="pt"> - Não perca o primeiro episódio do Magazine TCR Brasil com tudo o que aconteceu na primeira etapa do ano em Interlagos, Brasil.</desc>
-  </programme>
-  <programme start="20240704223000 -0300" stop="20240704230000 -0300" channel="BAND SPORTS HD">
+  <programme start="20240704210000 -0300" stop="20240704213000 -0300" channel="BAND SPORTS HD">
     <title lang="pt">VT - Porsche Supercup: GP da Áustria</title>
     <desc lang="pt"> - A Porsche Motorsport Supercup chega à sua 32ª temporada no circuito da Áustria.</desc>
     <previously-shown />
   </programme>
-  <programme start="20240704230000 -0300" stop="20240704233000 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Porsche Carrera Cup: Etapa Estoril</title>
-    <desc lang="pt"> - Foi dada a largada: acompanhe as emoções da Porsche Carrera Cup aqui no Bandsports.</desc>
+  <programme start="20240704213000 -0300" stop="20240704220000 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">Magazine TCR Brasil</title>
+    <desc lang="pt"> - Não perca o primeiro episódio do Magazine TCR Brasil com tudo o que aconteceu na primeira etapa do ano em Interlagos, Brasil.</desc>
+  </programme>
+  <programme start="20240704220000 -0300" stop="20240704233000 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">Esporte Agora: 2ª Edição - Ao Vivo</title>
+    <desc lang="pt"> - O Esporte Agora sempre traz os fatos mais quentes do dia, além de muita resenha e análises, mas sem enrolação.</desc>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20240704233000 -0300" stop="20240705003000 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Depois do Jogo - Ao Vivo</title>
@@ -4909,7 +4908,7 @@
       <value>[14] Não recomendado para menores de 14 anos</value>
     </rating>
   </programme>
-  <programme start="20240704000900 -0300" stop="20240704005600 -0300" channel="TNT SERIES HD">
+  <programme start="20240704000900 -0300" stop="20240704005800 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt"> - A CBI investiga o assassinato de um casal a caminho da reunião de seus ex-colegas de escola.</desc>
     <episode-num system="xmltv_ns">1.10.</episode-num>
@@ -4917,7 +4916,7 @@
       <value>[14] Não recomendado para menores de 14 anos</value>
     </rating>
   </programme>
-  <programme start="20240704005600 -0300" stop="20240704014100 -0300" channel="TNT SERIES HD">
+  <programme start="20240704005800 -0300" stop="20240704014200 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt"> - Um repórter é contratado para fazer um documentário sobre a CBI.</desc>
     <episode-num system="xmltv_ns">1.11.</episode-num>
@@ -4925,7 +4924,7 @@
       <value>[14] Não recomendado para menores de 14 anos</value>
     </rating>
   </programme>
-  <programme start="20240704014100 -0300" stop="20240704022800 -0300" channel="TNT SERIES HD">
+  <programme start="20240704014200 -0300" stop="20240704023000 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person Of Interest</title>
     <desc lang="pt"> - Sinopse não disponível.</desc>
     <episode-num system="xmltv_ns">0.5.</episode-num>
@@ -4933,7 +4932,7 @@
       <value>[14] Não recomendado para menores de 14 anos</value>
     </rating>
   </programme>
-  <programme start="20240704022800 -0300" stop="20240704031500 -0300" channel="TNT SERIES HD">
+  <programme start="20240704023000 -0300" stop="20240704031600 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person Of Interest</title>
     <desc lang="pt"> - A máquina identifica uma professora que testemunhou um crime da máfia como sua próxima pessoa de interesse, e Reese e Finch correm para salvar sua vida.</desc>
     <episode-num system="xmltv_ns">0.6.</episode-num>
@@ -4941,7 +4940,7 @@
       <value>[14] Não recomendado para menores de 14 anos</value>
     </rating>
   </programme>
-  <programme start="20240704031500 -0300" stop="20240704040000 -0300" channel="TNT SERIES HD">
+  <programme start="20240704031600 -0300" stop="20240704040100 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <desc lang="pt"> - Problemas relacionados à saúde mental são explorados em um caso que começa com um possível estupro envolvendo estudantes de um cursinho preparatório em que a norma é a experimentação sexual.</desc>
     <episode-num system="xmltv_ns">6.19.</episode-num>
@@ -4949,7 +4948,7 @@
       <value>[14] Não recomendado para menores de 14 anos</value>
     </rating>
   </programme>
-  <programme start="20240704040000 -0300" stop="20240704044500 -0300" channel="TNT SERIES HD">
+  <programme start="20240704040100 -0300" stop="20240704044600 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <desc lang="pt"> - Um grupo de adolescentes ataca e estupra uma garota, que é uma notória pianista e aluna de uma escola de prestígio, em Harlem.</desc>
     <episode-num system="xmltv_ns">6.20.</episode-num>
@@ -4957,7 +4956,7 @@
       <value>[14] Não recomendado para menores de 14 anos</value>
     </rating>
   </programme>
-  <programme start="20240704044500 -0300" stop="20240704052800 -0300" channel="TNT SERIES HD">
+  <programme start="20240704044600 -0300" stop="20240704052900 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Closer</title>
     <desc lang="pt"> - A equipe deve resolver um caso de assalto a um banco que teve como resultado a morte de um segurança. Pope recebe notícias sobre sua futura candidatura.</desc>
     <episode-num system="xmltv_ns">5.6.</episode-num>
@@ -4965,7 +4964,7 @@
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240704052800 -0300" stop="20240704053900 -0300" channel="TNT SERIES HD">
+  <programme start="20240704052900 -0300" stop="20240704054000 -0300" channel="TNT SERIES HD">
     <title lang="pt">Hollywood One on One</title>
     <desc lang="pt"> - Entrevistas com personalidades de Hollywood sobre seus novos projetos.</desc>
     <episode-num system="xmltv_ns">4.142.</episode-num>
@@ -4973,7 +4972,7 @@
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240704053900 -0300" stop="20240704054700 -0300" channel="TNT SERIES HD">
+  <programme start="20240704054000 -0300" stop="20240704054900 -0300" channel="TNT SERIES HD">
     <title lang="pt">Hollywood One on One</title>
     <desc lang="pt"> - Entrevistas com personalidades de Hollywood sobre seus novos projetos.</desc>
     <episode-num system="xmltv_ns">4.143.</episode-num>
@@ -4981,7 +4980,7 @@
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240704054700 -0300" stop="20240704060000 -0300" channel="TNT SERIES HD">
+  <programme start="20240704054900 -0300" stop="20240704060000 -0300" channel="TNT SERIES HD">
     <title lang="pt">Hollywood One on One</title>
     <desc lang="pt"> - Entrevistas com personalidades de Hollywood sobre seus novos projetos.</desc>
     <episode-num system="xmltv_ns">4.146.</episode-num>
@@ -4989,49 +4988,49 @@
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240704060000 -0300" stop="20240704060400 -0300" channel="TNT SERIES HD">
+  <programme start="20240704060000 -0300" stop="20240704060600 -0300" channel="TNT SERIES HD">
     <title lang="pt">TNT Buzz</title>
     <desc lang="pt"> - TNT Buzz, o seu ponto de encontro sobre o melhor do mundo do entretenimento.  Aqui vamos opinar, falar bem, falar mal, e dar risada do mundo pop e resumir todo o barulho que o mundo do entretenimento faz.</desc>
     <rating system="Brazil">
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240704060400 -0300" stop="20240704060800 -0300" channel="TNT SERIES HD">
+  <programme start="20240704060600 -0300" stop="20240704061000 -0300" channel="TNT SERIES HD">
     <title lang="pt">TNT Buzz</title>
     <desc lang="pt"> - TNT Buzz, o seu ponto de encontro sobre o melhor do mundo do entretenimento.  Aqui vamos opinar, falar bem, falar mal, e dar risada do mundo pop e resumir todo o barulho que o mundo do entretenimento faz.</desc>
     <rating system="Brazil">
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240704060800 -0300" stop="20240704061100 -0300" channel="TNT SERIES HD">
+  <programme start="20240704061000 -0300" stop="20240704061300 -0300" channel="TNT SERIES HD">
     <title lang="pt">TNT Buzz</title>
     <desc lang="pt"> - TNT Buzz, o seu ponto de encontro sobre o melhor do mundo do entretenimento.  Aqui vamos opinar, falar bem, falar mal, e dar risada do mundo pop e resumir todo o barulho que o mundo do entretenimento faz.</desc>
     <rating system="Brazil">
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240704061100 -0300" stop="20240704061600 -0300" channel="TNT SERIES HD">
+  <programme start="20240704061300 -0300" stop="20240704061800 -0300" channel="TNT SERIES HD">
     <title lang="pt">TNT Buzz</title>
     <desc lang="pt"> - TNT Buzz, o seu ponto de encontro sobre o melhor do mundo do entretenimento.  Aqui vamos opinar, falar bem, falar mal, e dar risada do mundo pop e resumir todo o barulho que o mundo do entretenimento faz.</desc>
     <rating system="Brazil">
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240704061600 -0300" stop="20240704061900 -0300" channel="TNT SERIES HD">
+  <programme start="20240704061800 -0300" stop="20240704062100 -0300" channel="TNT SERIES HD">
     <title lang="pt">TNT Buzz</title>
     <desc lang="pt"> - TNT Buzz, o seu ponto de encontro sobre o melhor do mundo do entretenimento.  Aqui vamos opinar, falar bem, falar mal, e dar risada do mundo pop e resumir todo o barulho que o mundo do entretenimento faz.</desc>
     <rating system="Brazil">
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240704061900 -0300" stop="20240704062100 -0300" channel="TNT SERIES HD">
+  <programme start="20240704062100 -0300" stop="20240704062400 -0300" channel="TNT SERIES HD">
     <title lang="pt">TNT Buzz</title>
     <desc lang="pt"> - TNT Buzz, o seu ponto de encontro sobre o melhor do mundo do entretenimento.  Aqui vamos opinar, falar bem, falar mal, e dar risada do mundo pop e resumir todo o barulho que o mundo do entretenimento faz.</desc>
     <rating system="Brazil">
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240704062100 -0300" stop="20240704081300 -0300" channel="TNT SERIES HD">
+  <programme start="20240704062400 -0300" stop="20240704071000 -0300" channel="TNT SERIES HD">
     <title lang="pt">Major Crimes</title>
     <desc lang="pt"> - Uma investigação sobre a suspeita morte de um agente de quem ninguém gostava coloca o esquadrão em contato com habitantes de um velho complexo de apartamentos.</desc>
     <episode-num system="xmltv_ns">1.8.</episode-num>
@@ -5039,7 +5038,7 @@
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240704081300 -0300" stop="20240704085800 -0300" channel="TNT SERIES HD">
+  <programme start="20240704071000 -0300" stop="20240704075700 -0300" channel="TNT SERIES HD">
     <title lang="pt">Major Crimes</title>
     <desc lang="pt"> - Uma prostituta de 19 anos é brutalmente assassinada. Enquanto isso, a equipe luta contra o tempo para lidar com um criminoso que pode ser parte de um empreendimento criminoso muito maior.</desc>
     <episode-num system="xmltv_ns">1.9.</episode-num>
@@ -5047,7 +5046,7 @@
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240704085800 -0300" stop="20240704094400 -0300" channel="TNT SERIES HD">
+  <programme start="20240704075700 -0300" stop="20240704084600 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <desc lang="pt"> - Benson e Stabler perseguem maníaco sexual após descobrirem que uma menina de nove anos foi molestada.</desc>
     <episode-num system="xmltv_ns">5.12.</episode-num>
@@ -5055,7 +5054,7 @@
       <value>[14] Não recomendado para menores de 14 anos</value>
     </rating>
   </programme>
-  <programme start="20240704094400 -0300" stop="20240704103000 -0300" channel="TNT SERIES HD">
+  <programme start="20240704084600 -0300" stop="20240704093800 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <desc lang="pt"> - Benson e Stabler investigam a morte de membro de uma gangue acusada de cometer crimes sexuais.</desc>
     <episode-num system="xmltv_ns">5.13.</episode-num>
@@ -5063,7 +5062,7 @@
       <value>[14] Não recomendado para menores de 14 anos</value>
     </rating>
   </programme>
-  <programme start="20240704103000 -0300" stop="20240704111800 -0300" channel="TNT SERIES HD">
+  <programme start="20240704093800 -0300" stop="20240704103100 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <desc lang="pt"> - A equipe investiga um assassinato de 1983, em que um grafiteiro foi morto com uma dose letal de tinta.</desc>
     <episode-num system="xmltv_ns">6.12.</episode-num>
@@ -5071,7 +5070,7 @@
       <value>[14] Não recomendado para menores de 14 anos</value>
     </rating>
   </programme>
-  <programme start="20240704111800 -0300" stop="20240704120400 -0300" channel="TNT SERIES HD">
+  <programme start="20240704103100 -0300" stop="20240704112300 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <desc lang="pt"> - Quando novas evidências de uma farsa surgem, a equipe volta a investigar um caso de 1971. Uma equilibrista de circo, adolescente, caiu e morreu enquanto apresentava um novo número.</desc>
     <episode-num system="xmltv_ns">6.13.</episode-num>
@@ -5079,7 +5078,7 @@
       <value>[14] Não recomendado para menores de 14 anos</value>
     </rating>
   </programme>
-  <programme start="20240704120400 -0300" stop="20240704125100 -0300" channel="TNT SERIES HD">
+  <programme start="20240704112300 -0300" stop="20240704121100 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Closer</title>
     <desc lang="pt"> - Brenda investiga o assassinato de uma atriz que estava utilizando um serviço de namoro pela internet. Ao mesmo tempo, ela se prepara para uma entrevista com o prefeito e avalia se ainda está interessada na vaga.</desc>
     <episode-num system="xmltv_ns">5.8.</episode-num>
@@ -5087,7 +5086,7 @@
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240704125100 -0300" stop="20240704133500 -0300" channel="TNT SERIES HD">
+  <programme start="20240704121100 -0300" stop="20240704125900 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Closer</title>
     <desc lang="pt"> - Brenda e sua equipe investigam dois casos que poderiam estar vinculados a um ataque terrorista. Brenda deve trabalhar junto com o chefe da unidade antiterrorista, que também está se candidatando a chefe de polícia.</desc>
     <episode-num system="xmltv_ns">5.9.</episode-num>
@@ -5095,7 +5094,7 @@
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240704133500 -0300" stop="20240704142200 -0300" channel="TNT SERIES HD">
+  <programme start="20240704125900 -0300" stop="20240704134700 -0300" channel="TNT SERIES HD">
     <title lang="pt">Major Crimes</title>
     <desc lang="pt"> - Uma investigação sobre a suspeita morte de um agente de quem ninguém gostava coloca o esquadrão em contato com habitantes de um velho complexo de apartamentos.</desc>
     <episode-num system="xmltv_ns">1.8.</episode-num>
@@ -5103,7 +5102,7 @@
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240704142200 -0300" stop="20240704150600 -0300" channel="TNT SERIES HD">
+  <programme start="20240704134700 -0300" stop="20240704143500 -0300" channel="TNT SERIES HD">
     <title lang="pt">Major Crimes</title>
     <desc lang="pt"> - Uma prostituta de 19 anos é brutalmente assassinada. Enquanto isso, a equipe luta contra o tempo para lidar com um criminoso que pode ser parte de um empreendimento criminoso muito maior.</desc>
     <episode-num system="xmltv_ns">1.9.</episode-num>
@@ -5111,7 +5110,7 @@
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240704150600 -0300" stop="20240704155500 -0300" channel="TNT SERIES HD">
+  <programme start="20240704143500 -0300" stop="20240704152800 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Sempre Policial</sub-title>
     <desc lang="pt"> - Depois de um condenado em agonia fornecer dados que podem resolver o assassinato de um policial, Rush reabre o caso.</desc>
@@ -5120,7 +5119,7 @@
       <value>[14] Não recomendado para menores de 14 anos</value>
     </rating>
   </programme>
-  <programme start="20240704155500 -0300" stop="20240704164200 -0300" channel="TNT SERIES HD">
+  <programme start="20240704152800 -0300" stop="20240704161700 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <desc lang="pt"> - Quando o ex-companheiro de Jeffries compartilha uma nova informação sobre o assassinato de um cantor no ano 2000, o caso é reaberto o que torna necessário que Rush e Scotty viajem para Knoxvilte e Tennessee.</desc>
     <episode-num system="xmltv_ns">3.10.</episode-num>
@@ -5128,7 +5127,7 @@
       <value>[14] Não recomendado para menores de 14 anos</value>
     </rating>
   </programme>
-  <programme start="20240704164200 -0300" stop="20240704172800 -0300" channel="TNT SERIES HD">
+  <programme start="20240704161700 -0300" stop="20240704170600 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt"> - Quando o corpo de Liselle Douglas, uma bela e jovem vendedora de automóveis, é descoberto no porta-malas de um veículo em uma revendedora de elite, Jane e o CBI são chamados para investigar.</desc>
     <episode-num system="xmltv_ns">1.12.</episode-num>
@@ -5136,7 +5135,7 @@
       <value>[14] Não recomendado para menores de 14 anos</value>
     </rating>
   </programme>
-  <programme start="20240704172800 -0300" stop="20240704181400 -0300" channel="TNT SERIES HD">
+  <programme start="20240704170600 -0300" stop="20240704175500 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt"> - Jane fica sozinha com Cho, que ajuda a polícia na investigação de um assassinato - a vítima era companheira de gangue em sua juventude, e também seu melhor amigo.</desc>
     <episode-num system="xmltv_ns">1.13.</episode-num>
@@ -5144,7 +5143,7 @@
       <value>[14] Não recomendado para menores de 14 anos</value>
     </rating>
   </programme>
-  <programme start="20240704181400 -0300" stop="20240704190100 -0300" channel="TNT SERIES HD">
+  <programme start="20240704175500 -0300" stop="20240704184200 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <desc lang="pt"> - Benson e Stabler perseguem maníaco sexual após descobrirem que uma menina de nove anos foi molestada.</desc>
     <episode-num system="xmltv_ns">5.12.</episode-num>
@@ -5152,7 +5151,7 @@
       <value>[14] Não recomendado para menores de 14 anos</value>
     </rating>
   </programme>
-  <programme start="20240704190100 -0300" stop="20240704195200 -0300" channel="TNT SERIES HD">
+  <programme start="20240704184200 -0300" stop="20240704193300 -0300" channel="TNT SERIES HD">
     <title lang="pt">Irmãos Freitas</title>
     <sub-title lang="pt">Knockdown</sub-title>
     <desc lang="pt"> - Em Miami, nos Estados Unidos, os irmãos Freitas ganham uma luta atrás da outra no torneio. Mas logo percebem que o mundo do pugilismo não é para amadores.</desc>
@@ -5161,7 +5160,7 @@
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240704195200 -0300" stop="20240704200700 -0300" channel="TNT SERIES HD">
+  <programme start="20240704193300 -0300" stop="20240704200300 -0300" channel="TNT SERIES HD">
     <title lang="pt">Mapa do Pop</title>
     <sub-title lang="pt">Cena Cultural de Belém</sub-title>
     <desc lang="pt"> - Um passeio pelo mundo do entretenimento através dos locais significativos para a criação de artistas, bandas, diretores de cinema, escritores, atores ou personalidades do mundo pop.</desc>
@@ -5170,7 +5169,7 @@
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240704200700 -0300" stop="20240704205600 -0300" channel="TNT SERIES HD">
+  <programme start="20240704200300 -0300" stop="20240704205200 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <desc lang="pt"> - Benson e Stabler investigam a morte de membro de uma gangue acusada de cometer crimes sexuais.</desc>
     <episode-num system="xmltv_ns">5.13.</episode-num>
@@ -5178,7 +5177,7 @@
       <value>[14] Não recomendado para menores de 14 anos</value>
     </rating>
   </programme>
-  <programme start="20240704205600 -0300" stop="20240704214200 -0300" channel="TNT SERIES HD">
+  <programme start="20240704205200 -0300" stop="20240704214100 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <desc lang="pt"> - Uma mãe fica desolada ao descobrir que seu filho de 8 anos foi abusado sexualmente anos antes do ex-marido dela ir para a prisão por molestar o filho mais velho.</desc>
     <episode-num system="xmltv_ns">6.21.</episode-num>
@@ -5186,7 +5185,7 @@
       <value>[14] Não recomendado para menores de 14 anos</value>
     </rating>
   </programme>
-  <programme start="20240704214200 -0300" stop="20240704223000 -0300" channel="TNT SERIES HD">
+  <programme start="20240704214100 -0300" stop="20240704223000 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <desc lang="pt"> - Uma jovem é espancada e estuprada. Ela se recusa a fazer um exame para confirmar o estupro, mas Benson rouba a calcinha da moça e manda o material para teste.</desc>
     <episode-num system="xmltv_ns">7.0.</episode-num>
@@ -5194,7 +5193,7 @@
       <value>[14] Não recomendado para menores de 14 anos</value>
     </rating>
   </programme>
-  <programme start="20240704223000 -0300" stop="20240704231900 -0300" channel="TNT SERIES HD">
+  <programme start="20240704223000 -0300" stop="20240704231800 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <desc lang="pt"> - A equipe investiga um assassinato de 1983, em que um grafiteiro foi morto com uma dose letal de tinta.</desc>
     <episode-num system="xmltv_ns">6.12.</episode-num>
@@ -5202,7 +5201,7 @@
       <value>[14] Não recomendado para menores de 14 anos</value>
     </rating>
   </programme>
-  <programme start="20240704231900 -0300" stop="20240705000600 -0300" channel="TNT SERIES HD">
+  <programme start="20240704231800 -0300" stop="20240705000800 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <desc lang="pt"> - Quando novas evidências de uma farsa surgem, a equipe volta a investigar um caso de 1971. Uma equilibrista de circo, adolescente, caiu e morreu enquanto apresentava um novo número.</desc>
     <episode-num system="xmltv_ns">6.13.</episode-num>
@@ -14515,7 +14514,7 @@
     <category lang="en">news/current affairs (general)</category>
     <previously-shown />
   </programme>
-  <programme start="20240703050002 -0300" stop="20240703060021 -0300" channel="globonews">
+  <programme start="20240703050002 -0300" stop="20240703060121 -0300" channel="globonews">
     <title lang="pt">Jornal GloboNews - Edição das 05h - ao vivo</title>
     <desc lang="pt"> - As principais notícias da manhã, a agenda política que vai movimentar o dia e todas as informações que preparam o assinante para amanhecer bem-informado.</desc>
     <category lang="en">live broadcast</category>
@@ -14535,32 +14534,32 @@
     <desc lang="pt"> - A notícia de um jeito único. Apresentado por Leilane Neubarth, do Rio de Janeiro, Daniela Lima, de São Paulo e Camila Bomfim, de Brasília.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240703130038 -0300" stop="20240703155413 -0300" channel="globonews">
+  <programme start="20240703130038 -0300" stop="20240703155854 -0300" channel="globonews">
     <title lang="pt">Estúdio I - ao vivo</title>
     <desc lang="pt"> - Um telejornal que destaca e analisa as principais notícias do dia com leveza e profundidade, sempre acompanhada por um prestigiado time de comentaristas.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240703155507 -0300" stop="20240703175605 -0300" channel="globonews">
+  <programme start="20240703160000 -0300" stop="20240703180429 -0300" channel="globonews">
     <title lang="pt">GloboNews Mais - ao vivo</title>
     <desc lang="pt"> - Um jornal com ritmo da tarde, com a política no dna e que traz também todos os fatos que importam. Apresentação de Júlia Duailibi.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240703175633 -0300" stop="20240703194532 -0300" channel="globonews">
+  <programme start="20240703180433 -0300" stop="20240703195332 -0300" channel="globonews">
     <title lang="pt">Jornal GloboNews - Edição das 18h - ao vivo</title>
     <desc lang="pt"> - Cobertura completa de tudo o que foi destaque ao longo do dia, no Brasil e no Mundo.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240703194543 -0300" stop="20240703214541 -0300" channel="globonews">
+  <programme start="20240703195335 -0300" stop="20240703215333 -0300" channel="globonews">
     <title lang="pt">GloboNews em Pauta - ao vivo</title>
     <desc lang="pt"> - Telejornal diário, com comentaristas que aprofundam as notícias do dia e destaque para política, cenário internacional e cultura.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240703214552 -0300" stop="20240703223006 -0300" channel="globonews">
+  <programme start="20240703215337 -0300" stop="20240703232355 -0300" channel="globonews">
     <title lang="pt">Jornal das Dez - ao vivo</title>
     <desc lang="pt"> - Os bastidores e a informações exclusivas da política, economia e do noticiário internacional. O jornal traz análises do seu time de comentaristas e repórteres.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240703233000 -0300" stop="20240703235959 -0300" channel="globonews">
+  <programme start="20240703232357 -0300" stop="20240703235608 -0300" channel="globonews">
     <title lang="pt">GloboNews Miriam Leitão</title>
     <desc lang="pt"> - Discussão dos principais assuntos da economia e da política e como eles afetam o país. Também trata de questões ambientais e da história do Brasil.</desc>
     <category lang="en">news/current affairs (general)</category>
@@ -14651,33 +14650,38 @@
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240703145009 -0300" stop="20240703165911 -0300" channel="sportv">
+  <programme start="20240703145009 -0300" stop="20240703165806 -0300" channel="sportv">
     <title lang="pt">Brasileirão Sub-20: São Paulo x Internacional - ao vivo</title>
     <desc lang="pt">Acompanhe as emoções do Campeonato Brasileiro de Futebol Sub-20! Venha testemunhar as estrelas que será o futuro do futebol. Aqui no sportv.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240703165917 -0300" stop="20240703175600 -0300" channel="sportv">
+  <programme start="20240703165807 -0300" stop="20240703170436 -0300" channel="sportv">
+    <title lang="pt">Campeonato Brasileiro De Futebol Sub-20 - São Paulo X Internacional - ao vivo</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240703172433 -0300" stop="20240703182116 -0300" channel="sportv">
     <title lang="pt">Tá Na Área - ao vivo</title>
     <desc lang="pt"> - Aproveite o finalzinho da tarde para relaxar e de maneira divertida fique por dentro de todos os assuntos em alta do esporte com Camila Carelli e Thiago Benevenutte.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240703175603 -0300" stop="20240703185115 -0300" channel="sportv">
+  <programme start="20240703182119 -0300" stop="20240703191631 -0300" channel="sportv">
     <title lang="pt">Aquecimento SporTV: Cuiabá x Botafogo - ao vivo</title>
     <desc lang="pt">Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes, aqui no sportv!</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240703185116 -0300" stop="20240703211924 -0300" channel="sportv">
+  <programme start="20240703191644 -0300" stop="20240703214452 -0300" channel="sportv">
     <title lang="pt">Brasileirão: Cuiabá x Botafogo - ao vivo</title>
     <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240703211928 -0300" stop="20240703222104 -0300" channel="sportv">
+  <programme start="20240703214456 -0300" stop="20240703224632 -0300" channel="sportv">
     <title lang="pt">VT - CONMEBOL Copa América: Brasil x Colômbia</title>
     <desc lang="pt">Seleções da América do Sul disputam o título continental em jogos emocionantes Tá na Copa América, tá no sportv</desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20240703222108 -0300" stop="20240703231051 -0300" channel="sportv">
+  <programme start="20240703224649 -0300" stop="20240703231459 -0300" channel="sportv">
     <title lang="pt">Giro da Rodada: Série A</title>
     <sub-title lang="pt">13ª Rodada</sub-title>
     <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol aqui o sportv!</desc>
@@ -14756,7 +14760,7 @@
     <category lang="en">team sports</category>
     <previously-shown />
   </programme>
-  <programme start="20240703152652 -0300" stop="20240703174408 -0300" channel="sportv-2">
+  <programme start="20240703152652 -0300" stop="20240703174403 -0300" channel="sportv-2">
     <title lang="pt">VT - Liga das Nações de Vôlei Masculino: Brasil x Japão</title>
     <sub-title lang="pt">Macau, China</sub-title>
     <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
@@ -14776,14 +14780,14 @@
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240703205523 -0300" stop="20240703225817 -0300" channel="sportv-2">
+  <programme start="20240703205523 -0300" stop="20240703225952 -0300" channel="sportv-2">
     <title lang="pt">LBF: Ituano x Sesi-Araraquara - ao vivo</title>
     <sub-title lang="pt">Semifinal - Jogo 3</sub-title>
     <desc lang="pt">Acompanhe as grandes estrelas brasileiras do Basquete Feminino aqui no sportv
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240703230000 -0300" stop="20240703235959 -0300" channel="sportv-2">
+  <programme start="20240703225954 -0300" stop="20240704000650 -0300" channel="sportv-2">
     <title lang="pt">Ça VA Paris</title>
     <desc lang="pt"> - Acompanhe como está indo os Jogos de Paris em 2024. toda semana, o programa traz entrevistas, atualidades, termômetro de competições e informações do mundo Olímpico. 
 </desc>
@@ -14865,7 +14869,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
     <category lang="en">motor sport</category>
     <previously-shown />
   </programme>
-  <programme start="20240703155053 -0300" stop="20240703165052 -0300" channel="sportv-3">
+  <programme start="20240703155053 -0300" stop="20240703165051 -0300" channel="sportv-3">
     <title lang="pt">VT - Stock Car: GP de Velocitta-Sp - Corrida 2</title>
     <sub-title lang="pt">5ª Etapa</sub-title>
     <desc lang="pt">Acompanhe uma das mais importantes e tradicionais competições de automobilismo, no Sportv</desc>
@@ -15301,7 +15305,7 @@ tema de samba enredo.</desc>
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240703192804 -0300" stop="20240703195659 -0300" channel="multishow">
+  <programme start="20240703192804 -0300" stop="20240703195729 -0300" channel="multishow">
     <title lang="pt">O Dono do Bar</title>
     <sub-title lang="pt">Doces e Travessuras</sub-title>
     <desc lang="pt"> - Por causa do feriado, Miguel e Michele não vão para a escola. Para pôr ondem na bagunça, Américo decide estabelecer regras. Mas uma prima de Luciana aparece para visita-los e acaba bagunçando a rotina da casa.</desc>
@@ -15309,7 +15313,7 @@ tema de samba enredo.</desc>
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240703195700 -0300" stop="20240703202659 -0300" channel="multishow">
+  <programme start="20240703195732 -0300" stop="20240703202731 -0300" channel="multishow">
     <title lang="pt">Tô de Graça</title>
     <sub-title lang="pt">Pronto, Rifei!</sub-title>
     <desc lang="pt"> - Graça quer ganhar dinheiro no ramo das rifas e oferece um jantar com Sara Jane como prêmio. Porém, um imprevisto a impede de ir ao encontro e Maico vai em seu lugar.</desc>
@@ -15317,7 +15321,7 @@ tema de samba enredo.</desc>
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240703202700 -0300" stop="20240703205659 -0300" channel="multishow">
+  <programme start="20240703202732 -0300" stop="20240703205737 -0300" channel="multishow">
     <title lang="pt">Tô de Graça</title>
     <sub-title lang="pt">Laços de Família</sub-title>
     <desc lang="pt"> - Graça anda saudosa ao comparar Moacir com Clovis, uma paixão do passado. As coisas pioram quando Graça reencontra o ex namorando justamente sua filha, Sara Jane.</desc>
@@ -15325,7 +15329,7 @@ tema de samba enredo.</desc>
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240703205700 -0300" stop="20240703214559 -0300" channel="multishow">
+  <programme start="20240703205740 -0300" stop="20240703214656 -0300" channel="multishow">
     <title lang="pt">Vai que Cola</title>
     <sub-title lang="pt">Laboratório de Hits</sub-title>
     <desc lang="pt"> - Jéssica está arrasada por sua carreira no feminejo estar no chão. Por isso, se separa da Berrante Records e de Lindomar a fim de tentar uma carreira solo tendo Lacraia como agente.</desc>
@@ -15333,7 +15337,7 @@ tema de samba enredo.</desc>
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240703214600 -0300" stop="20240703222959 -0300" channel="multishow">
+  <programme start="20240703214658 -0300" stop="20240703223008 -0300" channel="multishow">
     <title lang="pt">Vai que Cola</title>
     <sub-title lang="pt">Boy Magia</sub-title>
     <desc lang="pt"> - Jéssica e Máicol estão sem grana para viajar. Jéssica decide inscrever Máicol no concurso “Boy Magia do Méier”.  Terezinha também decide inscrever um candidato: Sanderson. Descobre-se que é um concurso gay e que uma das contrapartidas é fazer um strip tease ao qual Máicol e Sanderson (ou participação) se negam a participar. No entanto, ninguém imaginava que Ferdinando estava também preparando Wilson para ser boy magia.</desc>
@@ -15341,7 +15345,7 @@ tema de samba enredo.</desc>
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240703223000 -0300" stop="20240703230159 -0300" channel="multishow">
+  <programme start="20240703223010 -0300" stop="20240703230144 -0300" channel="multishow">
     <title lang="pt">Bar do Gogó</title>
     <sub-title lang="pt">Popó</sub-title>
     <desc lang="pt"> - O Tetracampeão Mundial de Boxe encara o desafio mais surreal da sua vida e se diverte num papo sobre comida baiana, nocautear amigos, superação e diz como comprar uma casa fiado.</desc>
@@ -15349,7 +15353,7 @@ tema de samba enredo.</desc>
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240703230200 -0300" stop="20240703233159 -0300" channel="multishow">
+  <programme start="20240703230147 -0300" stop="20240703233115 -0300" channel="multishow">
     <title lang="pt">Portugal Show</title>
     <sub-title lang="pt">Karaokê - Maria Beltrão</sub-title>
     <desc lang="pt"> - O Portugal Show vira um karaokê para receber Maria Beltrão e ouvir suas histórias 
@@ -15359,7 +15363,7 @@ de contexto.</desc>
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240703233200 -0300" stop="20240704000259 -0300" channel="multishow">
+  <programme start="20240703233116 -0300" stop="20240703235030 -0300" channel="multishow">
     <title lang="pt">Tô de Graça</title>
     <sub-title lang="pt">A Promessa</sub-title>
     <desc lang="pt"> - Briti sofre uma tentativa de assalto no sinal e Graça faz uma promessa que ficará um dia sem mentir após a filha ter escapado ilesa.</desc>
@@ -15574,7 +15578,7 @@ de contexto.</desc>
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240703191213 -0300" stop="20240703194418 -0300" channel="gnt">
+  <programme start="20240703191213 -0300" stop="20240703194643 -0300" channel="gnt">
     <title lang="pt">Cozinha Prática Com Rita Lobo</title>
     <sub-title lang="pt">Rocambole Suflê de Chocolate</sub-title>
     <desc lang="pt"> - Rita Lobo resgata uma receita francesa clássica que anda meio esquecida, o rocambole suflê de chocolate. A massa é tão leve que derrete na boca e tem recheio de chantilly caseiro com toque de conhaque.</desc>
@@ -15582,7 +15586,7 @@ de contexto.</desc>
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240703194422 -0300" stop="20240703204558 -0300" channel="gnt">
+  <programme start="20240703194647 -0300" stop="20240703204823 -0300" channel="gnt">
     <title lang="pt">Que Seja Doce</title>
     <sub-title lang="pt">Para Chocólatras</sub-title>
     <desc lang="pt"> - Os confeiteiros assumem o vício pelo chocolate e tentam agradar nossos jurados chocólatras com um pavê de chocolate e um doce livre chocolatudo.</desc>
@@ -15590,7 +15594,7 @@ de contexto.</desc>
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240703204601 -0300" stop="20240703213156 -0300" channel="gnt">
+  <programme start="20240703204826 -0300" stop="20240703214845 -0300" channel="gnt">
     <title lang="pt">Que Seja Doce</title>
     <sub-title lang="pt">Estilingue Humano</sub-title>
     <desc lang="pt"> - No episódio do estilingue humano os confeiteiros tentam acertar em cheio com receitas inspiradas na bala de coco e doces com caramelo toffee. Quem será que vai mais longe?</desc>
@@ -15598,7 +15602,7 @@ de contexto.</desc>
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240703214500 -0300" stop="20240703223059 -0300" channel="gnt">
+  <programme start="20240703214849 -0300" stop="20240703223439 -0300" channel="gnt">
     <title lang="pt">Avisa Lá Que Eu Vou</title>
     <sub-title lang="pt">Uruana</sub-title>
     <desc lang="pt"> - Paulo vai até Uruana, em Goiás, participar da Festa da Melancia, a festa anual que celebra o sucesso da colheita da melancia.</desc>
@@ -15606,7 +15610,7 @@ de contexto.</desc>
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240703223100 -0300" stop="20240703233859 -0300" channel="gnt">
+  <programme start="20240703223443 -0300" stop="20240703233859 -0300" channel="gnt">
     <title lang="pt">Que História É Essa, Porchat?</title>
     <sub-title lang="pt">Gabriel, O Pensador + Ernesto Paglia + Thati Lopes</sub-title>
     <desc lang="pt"> - Thati Lopes, Gabriel o Pensador e Ernesto Paglia são os convidados de Fabio Porchat. Na plateia, uma história de investigação de deixar stalker boquiaberto.</desc>
@@ -15800,7 +15804,7 @@ de contexto.</desc>
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240703154321 -0300" stop="20240703162843 -0300" channel="viva">
+  <programme start="20240703154321 -0300" stop="20240703162844 -0300" channel="viva">
     <title lang="pt">Sinhá Moça</title>
     <desc lang="pt"> - Justino e Fulgêncio fogem da prisão com a ajuda de Frei José. A tipografia de Augusto é destruída. Balbina revela a Justo sobre o ouro escondido do Barão.</desc>
     <rating system="Brazil">
@@ -15814,7 +15818,7 @@ de contexto.</desc>
       <value>[10] Não recomendado para menores de 10 anos</value>
     </rating>
   </programme>
-  <programme start="20240703165834 -0300" stop="20240703172741 -0300" channel="viva">
+  <programme start="20240703165834 -0300" stop="20240703172742 -0300" channel="viva">
     <title lang="pt">Malhação</title>
     <desc lang="pt"> - Lia ouve a opinião de Tatá. Dinho pensa em Ju e Lia. Rafael enfrenta Orelha. Alice pede perdão a Mario. Fatinha pede para morar com Dinho.</desc>
     <rating system="Brazil">
@@ -15869,7 +15873,7 @@ de contexto.</desc>
       <value>[10] Não recomendado para menores de 10 anos</value>
     </rating>
   </programme>
-  <programme start="20240703211244 -0300" stop="20240703212935 -0300" channel="viva">
+  <programme start="20240703211244 -0300" stop="20240703214907 -0300" channel="viva">
     <title lang="pt">Tapas e Beijos</title>
     <sub-title lang="pt">Em Busca Da Atenção Perdida</sub-title>
     <desc lang="pt"> - A insegurança e a rotina serão as vilãs da crise conjugal de Fátima e Sueli neste episódio de Tapas &amp; Beijos. As amigas tomam como verdadeira traição o descuido e a falta de atenção de seus maridos.</desc>
@@ -15877,7 +15881,7 @@ de contexto.</desc>
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240703215100 -0300" stop="20240703223559 -0300" channel="viva">
+  <programme start="20240703214912 -0300" stop="20240703222633 -0300" channel="viva">
     <title lang="pt">A Grande Família</title>
     <sub-title lang="pt">Dona Beiçola</sub-title>
     <desc lang="pt"> - Beiçola aparece no jornal por ter sido detido após surto psicótico. Nenê decide cuidar da pastelaria enquanto o amigo se recupera, mas só não imagina a trabalheira que a espera.</desc>
@@ -15885,7 +15889,7 @@ de contexto.</desc>
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240703222600 -0300" stop="20240703231059 -0300" channel="viva">
+  <programme start="20240703222636 -0300" stop="20240703230442 -0300" channel="viva">
     <title lang="pt">A Grande Família</title>
     <sub-title lang="pt">De Pasteleiro e Louco Todo Mundo Tem Um Pouco</sub-title>
     <desc lang="pt"> - Beiçola recebe alta do hospital e fica aflito quando vê o sucesso do pastel da Nenê. Para conseguir receita secreta, mente sobre recuperação e sobrecarrega Nenê até as últimas.</desc>
@@ -15893,7 +15897,7 @@ de contexto.</desc>
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240703230200 -0300" stop="20240703234659 -0300" channel="viva">
+  <programme start="20240703230446 -0300" stop="20240703234459 -0300" channel="viva">
     <title lang="pt">América</title>
     <desc lang="pt"> - Sol faz Ed prometer que trará Francisco de volta, mas se preocupa com May. Dalva mente para Graça sobre seu caso com Gomes. Zé Higino e Jane relembram o passado.</desc>
     <rating system="Brazil">
@@ -16078,7 +16082,7 @@ de contexto.</desc>
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240703213214 -0300" stop="20240703215959 -0300" channel="canal-brasil">
+  <programme start="20240703213214 -0300" stop="20240703220100 -0300" channel="canal-brasil">
     <title lang="pt">Curta Na Tela</title>
     <sub-title lang="pt">Tea For Two</sub-title>
     <desc lang="pt"> - Silvia é uma cineasta de meia-idade em crise com sua vida. Na mesma noite em que é surpreendida pela visita da ex-esposa, que a largou há alguns anos, conhece outra mulher que a fascina.</desc>
@@ -16086,7 +16090,7 @@ de contexto.</desc>
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240703220000 -0300" stop="20240704001159 -0300" channel="canal-brasil">
+  <programme start="20240703220101 -0300" stop="20240704001459 -0300" channel="canal-brasil">
     <title lang="pt">Quarta Sapatão</title>
     <sub-title lang="pt">As Boas Maneiras</sub-title>
     <desc lang="pt"> - Ana contrata Clara, uma solitária enfermeira, para ser babá de seu filho ainda não nascido. Conforme a gravidez avança, Ana começa a apresentar comportamentos cada vez mais estranhos e sinistros.</desc>
@@ -16353,7 +16357,7 @@ a relação da transexualidade com a espiritualidade, a partir da ancestralidade
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240703164258 -0300" stop="20240703170946 -0300" channel="canal-off">
+  <programme start="20240703164258 -0300" stop="20240703170948 -0300" channel="canal-off">
     <title lang="pt">Morando Na Estrada</title>
     <sub-title lang="pt">Neve Na Austrália</sub-title>
     <desc lang="pt"> - Marcela Witt e Nelson Pinto saem da tradicional praia de Bells Beach e vão em direção as montanhas procurar neve para fazerem snowboard. Eles ficam sabendo que existe uma especialista em Kitesnow na montanha de Thredbo e Marcela se anima a procura-la pra tentar fazer. No caminho, eles ficam surpresos com a diferença de paisagem em relação aos lugares que já passaram nessa viagem.</desc>
@@ -16418,7 +16422,7 @@ a relação da transexualidade com a espiritualidade, a partir da ancestralidade
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240703203132 -0300" stop="20240703205959 -0300" channel="canal-off">
+  <programme start="20240703203132 -0300" stop="20240703210116 -0300" channel="canal-off">
     <title lang="pt">Morando Na Estrada</title>
     <sub-title lang="pt">Todo Fim É Um Novo Começo</sub-title>
     <desc lang="pt"> - Nesse episódio Marcela e Nelsinho chegam na Nova Zelândia, onde passarão dois meses morando em um carro. Esse episódio apresenta os personagens e mostra os melhores momentos da viagem.</desc>
@@ -16426,7 +16430,7 @@ a relação da transexualidade com a espiritualidade, a partir da ancestralidade
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240703210000 -0300" stop="20240703212959 -0300" channel="canal-off">
+  <programme start="20240703210118 -0300" stop="20240703213110 -0300" channel="canal-off">
     <title lang="pt">Na Terra Dos Bichos</title>
     <sub-title lang="pt">Lobo Guará</sub-title>
     <desc lang="pt"> - Bruna e César chegam ao Cerrado brasileiro à procura do lobo-guará, um animal solitário que usa seus sentidos apurados para perceber o ambiente e caçar pequenas presas.</desc>
@@ -16434,7 +16438,7 @@ a relação da transexualidade com a espiritualidade, a partir da ancestralidade
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240703213000 -0300" stop="20240703215959 -0300" channel="canal-off">
+  <programme start="20240703213112 -0300" stop="20240703220116 -0300" channel="canal-off">
     <title lang="pt">África 360º</title>
     <sub-title lang="pt">Rumo ao norte da África do Sul</sub-title>
     <desc lang="pt"> - Os irmão Azulay pegam a estrada para Moçambique e aproveitam para conhecer um pouco da cultura Sangoma. Eles conhecem a região turística Ponta do Ouro e pegam algumas ondas.</desc>
@@ -16442,7 +16446,7 @@ a relação da transexualidade com a espiritualidade, a partir da ancestralidade
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240703220000 -0300" stop="20240703222259 -0300" channel="canal-off">
+  <programme start="20240703220119 -0300" stop="20240703222422 -0300" channel="canal-off">
     <title lang="pt">Reel Rock</title>
     <desc lang="pt"> - Esta série visualmente deslumbrante segue os melhores escaladores, alpinistas e montanhistas do mundo até os lugares mais selvagens da Terra em busca da próxima grande aventura. Histórias de triunfo, fracasso e redenção se desenrolam em palcos de pedra pura.</desc>
     <episode-num system="xmltv_ns">.4.</episode-num>
@@ -16450,7 +16454,7 @@ a relação da transexualidade com a espiritualidade, a partir da ancestralidade
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240703222300 -0300" stop="20240703224459 -0300" channel="canal-off">
+  <programme start="20240703222424 -0300" stop="20240703224640 -0300" channel="canal-off">
     <title lang="pt">Reel Rock</title>
     <desc lang="pt"> - A incansável dupla Tommy Caldwell e Alex Honnold vai ao Colorado para conquistar 17 picos.</desc>
     <episode-num system="xmltv_ns">.4.</episode-num>
@@ -16458,7 +16462,7 @@ a relação da transexualidade com a espiritualidade, a partir da ancestralidade
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240703224500 -0300" stop="20240703232659 -0300" channel="canal-off">
+  <programme start="20240703224641 -0300" stop="20240703232659 -0300" channel="canal-off">
     <title lang="pt">Voices Of Earth</title>
     <sub-title lang="pt">Brasil</sub-title>
     <desc lang="pt"> - Os Awá-Guajá convive com seus Hanimas - animais órfãos, que são adotados como membros da família. Mas a cada minuto, o equivalente a 3 campos de futebol de floresta é destruído.</desc>
@@ -16767,7 +16771,7 @@ a relação da transexualidade com a espiritualidade, a partir da ancestralidade
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240703142238 -0300" stop="20240703160635 -0300" channel="bis">
+  <programme start="20240703142238 -0300" stop="20240703160526 -0300" channel="bis">
     <title lang="pt">Whitney: Can I Be Me?</title>
     <sub-title lang="pt">Arquivo Musical</sub-title>
     <desc lang="pt"> - Feito com imagens inéditas e exclusivas, esse doc conta a incrível e comovente história da vida de Whitney Houston com as percepções das pessoas mais próximas a ela.</desc>
@@ -16775,7 +16779,7 @@ a relação da transexualidade com a espiritualidade, a partir da ancestralidade
       <value>[16] Não recomendado para menores de 16 anos</value>
     </rating>
   </programme>
-  <programme start="20240703160638 -0300" stop="20240703170424 -0300" channel="bis">
+  <programme start="20240703160638 -0300" stop="20240703170425 -0300" channel="bis">
     <title lang="pt">Multishow Ao Vivo - Ana Carolina - Dois Quartos</title>
     <sub-title lang="pt">Palco Principal</sub-title>
     <desc lang="pt"> - Gravado em SP, o show registra o melhor da turnê "Dois Quartos". Nenhum sucesso ficou de fora: "Garganta", "Encostar na Tua" e "Rosas" emocionaram o público. Além de exibição na TV, o projeto dá origem a CD e DVD.</desc>
@@ -16952,7 +16956,7 @@ a relação da transexualidade com a espiritualidade, a partir da ancestralidade
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240703215258 -0300" stop="20240703215630 -0300" channel="bis">
+  <programme start="20240703215258 -0300" stop="20240703215955 -0300" channel="bis">
     <title lang="pt">Só Pra Contrariar - Tem Tudo A Ver</title>
     <sub-title lang="pt">Setlist</sub-title>
     <desc lang="pt"> - SÓ PRA CONTRARIAR - TEM TUDO A VER (MIDAS MUSIC)</desc>
@@ -16960,7 +16964,7 @@ a relação da transexualidade com a espiritualidade, a partir da ancestralidade
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240703220000 -0300" stop="20240703225959 -0300" channel="bis">
+  <programme start="20240703215957 -0300" stop="20240703225957 -0300" channel="bis">
     <title lang="pt">Steven Tyler At Mellrose Ballroom</title>
     <sub-title lang="pt">Palco Principal</sub-title>
     <desc lang="pt"> - Show bem legal filmado no fim do ano passado em LA como um episódio da série Front &amp; Center. Tyler é figura icônica e está p lançar álbum solo neste ano. O setlist inclui o single Love is Your Name e termina com um cover de Janis Joplin.</desc>
@@ -16968,7 +16972,7 @@ a relação da transexualidade com a espiritualidade, a partir da ancestralidade
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240703230000 -0300" stop="20240704000159 -0300" channel="bis">
+  <programme start="20240703225959 -0300" stop="20240703235959 -0300" channel="bis">
     <title lang="pt">Fatboy Slim</title>
     <sub-title lang="pt">Palco Principal</sub-title>
     <desc lang="pt"> - Show do DJ  FatBoy Slim.</desc>
@@ -17256,7 +17260,7 @@ o Vale do Jequitinhonha e os cafés que crescem, ao lado de uma fauna bem preser
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240703153038 -0300" stop="20240703160143 -0300" channel="modo-viagem">
+  <programme start="20240703153038 -0300" stop="20240703160141 -0300" channel="modo-viagem">
     <title lang="pt">Hotéis Incríveis</title>
     <sub-title lang="pt">Capitais do Entretenimento</sub-title>
     <desc lang="pt"> - Não é só de petróleo que vivem os Emirados Árabes. As cidades de Abu Dhabi e Dubai se tornaram pólos turísticos e verdadeiras capitais do entretenimento, com Hotéis Incríveis monumentais.</desc>
@@ -17288,7 +17292,7 @@ o Vale do Jequitinhonha e os cafés que crescem, ao lado de uma fauna bem preser
       <value>[10] Não recomendado para menores de 10 anos</value>
     </rating>
   </programme>
-  <programme start="20240703173050 -0300" stop="20240703175854 -0300" channel="modo-viagem">
+  <programme start="20240703173050 -0300" stop="20240703175857 -0300" channel="modo-viagem">
     <title lang="pt">Hey Ho!</title>
     <sub-title lang="pt">Food Safari No Pantanal - Parte 1</sub-title>
     <desc lang="pt"> - Fernanda Keulla vai ao Pantanal fazer um “Food Safari”, que é uma caçada aos melhores sabores, ingredientes e receitas locais. Mas antes, ela passa por Campo Grande.</desc>
@@ -17352,7 +17356,7 @@ o Vale do Jequitinhonha e os cafés que crescem, ao lado de uma fauna bem preser
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240703213306 -0300" stop="20240703215959 -0300" channel="modo-viagem">
+  <programme start="20240703213306 -0300" stop="20240703220106 -0300" channel="modo-viagem">
     <title lang="pt">Brasil Visto De Cima</title>
     <sub-title lang="pt">Sertão Do Ceará E Norte De Pernambuco</sub-title>
     <desc lang="pt"> - O sertão nordestino, no interior do Ceará e o norte de Pernambuco, surpreende com um relevo cheio de variações, onde as paisagens mais áridas se alternam com chapadões verdejantes.</desc>
@@ -17360,7 +17364,7 @@ o Vale do Jequitinhonha e os cafés que crescem, ao lado de uma fauna bem preser
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240703220000 -0300" stop="20240703222959 -0300" channel="modo-viagem">
+  <programme start="20240703220108 -0300" stop="20240703223037 -0300" channel="modo-viagem">
     <title lang="pt">Mundo Visto De Cima</title>
     <sub-title lang="pt">Alemanha</sub-title>
     <desc lang="pt"> - Com uma câmera aérea de alta definição, Richard Mervyn nos oferece uma nova perspectiva do nosso mundo. Visitamos diversos lugares com uma bela paisagem e histórias para contar.</desc>
@@ -17368,7 +17372,7 @@ o Vale do Jequitinhonha e os cafés que crescem, ao lado de uma fauna bem preser
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240703223000 -0300" stop="20240703225959 -0300" channel="modo-viagem">
+  <programme start="20240703223040 -0300" stop="20240703230046 -0300" channel="modo-viagem">
     <title lang="pt">Mundo Visto De Cima</title>
     <desc lang="pt"> - A 10.000 pés de altitude vemos uma nova perspectiva do nosso mundo. Em cada episódio visitamos cerca de 25 lugares diferentes, todos com uma história para contar e belas paisagens.</desc>
     <episode-num system="xmltv_ns">5.7.</episode-num>
@@ -17376,14 +17380,14 @@ o Vale do Jequitinhonha e os cafés que crescem, ao lado de uma fauna bem preser
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240703230000 -0300" stop="20240703232959 -0300" channel="modo-viagem">
+  <programme start="20240703230049 -0300" stop="20240703233137 -0300" channel="modo-viagem">
     <title lang="pt">Mundo Visto de Cima - África do Sul</title>
     <desc lang="pt"> - Mundo Visto de Cima nos oferece um ponto de vista diferente do nosso planeta. Em cada episódio, um lugar diferente, cada um com uma história para contar e uma bela paisagem para ser apreciada.</desc>
     <rating system="Brazil">
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240703233000 -0300" stop="20240703235959 -0300" channel="modo-viagem">
+  <programme start="20240703233140 -0300" stop="20240703235959 -0300" channel="modo-viagem">
     <title lang="pt">Sem Bagagem</title>
     <sub-title lang="pt">Tanzania - Hadzabe Tribe - parte 2</sub-title>
     <desc lang="pt"> - Neste episódio, o Sem Bagagem continua sua viagem pela Tanzânia, documentando o estilo de vida e hábitos de caça e cultivo da tribo Hadza.</desc>
@@ -18034,7 +18038,7 @@ o Vale do Jequitinhonha e os cafés que crescem, ao lado de uma fauna bem preser
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20240703144722 -0300" stop="20240703154743 -0300" channel="premiere">
+  <programme start="20240703144722 -0300" stop="20240703154740 -0300" channel="premiere">
     <title lang="pt">VT - Brasileirão: Fortaleza x Juventude</title>
     <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
     <category lang="en">football/soccer</category>
@@ -18081,11 +18085,21 @@ o Vale do Jequitinhonha e os cafés que crescem, ao lado de uma fauna bem preser
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20240703234110 -0300" stop="20240704003919 -0300" channel="premiere">
+  <programme start="20240703234110 -0300" stop="20240704004149 -0300" channel="premiere">
     <title lang="pt">VT - Brasileirão: Vasco x Fortaleza</title>
     <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
+  </programme>
+  <programme start="20240703180000 -0300" stop="20240703185959 -0300" channel="premiere-4">
+    <title lang="pt">Aquecimento SporTV: Cuiabá x Botafogo - ao vivo</title>
+    <desc lang="pt">Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes, aqui no sportv!</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240703190000 -0300" stop="20240703205959 -0300" channel="premiere-4">
+    <title lang="pt">Brasileirão: Cuiabá x Botafogo - ao vivo</title>
+    <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20240702222807 -0300" stop="20240703010042 -0300" channel="combate">
     <title lang="pt">VT - Boxe: Teofimo Lopez x Jamaine Ortiz</title>
@@ -18343,10 +18357,10 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
     <title lang="pt">Futebol</title>
     <desc lang="pt"> - Siga ao vivo o Brasileirão, a Libertadores, a Copa do Brasil e mais.</desc>
   </programme>
-  <programme start="20240704000000 -0300" stop="20240704005959 -0300" channel="globonews">
-    <title lang="pt">Jornal GloboNews - Edição da Meia-Noite - ao vivo</title>
-    <desc lang="pt"> - Na medida certa para quem está ligado até mais tarde, o telejornal traz as repercussões das principais notícias no Brasil e no mundo.</desc>
-    <category lang="en">live broadcast</category>
+  <programme start="20240703233946 -0300" stop="20240704001157 -0300" channel="globonews">
+    <title lang="pt">GloboNews Miriam Leitão</title>
+    <desc lang="pt"> - Discussão dos principais assuntos da economia e da política e como eles afetam o país. Também trata de questões ambientais e da história do Brasil.</desc>
+    <category lang="en">news/current affairs (general)</category>
   </programme>
   <programme start="20240704010000 -0300" stop="20240704025959 -0300" channel="globonews">
     <title lang="pt">VT - GloboNews em Pauta</title>
@@ -18415,7 +18429,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
     <desc lang="pt"> - A Central GloboNews traz todos os fatos que movimentaram a semana política, com informação, bastidores e o melhor time da análise.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240703231500 -0300" stop="20240704005959 -0300" channel="sportv">
+  <programme start="20240703235357 -0300" stop="20240704005959 -0300" channel="sportv">
     <title lang="pt">Troca de Passes - ao vivo</title>
     <desc lang="pt"> - Felipe Diniz troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada. Veja os melhores momentos, tire as dúvidas daquele lance polêmico  acompanhe a repercussão com jogadores e treinadores no calor do jogo. Aqui ninguém fica em cima do muro. 
 </desc>
@@ -18523,7 +18537,13 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
     <desc lang="pt">Seleções da América do Sul disputam o título continental em jogos emocionantes Tá na Copa América, tá no sportv</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240704000000 -0300" stop="20240704020959 -0300" channel="sportv-2">
+  <programme start="20240703225954 -0300" stop="20240704000650 -0300" channel="sportv-2">
+    <title lang="pt">Ça VA Paris</title>
+    <desc lang="pt"> - Acompanhe como está indo os Jogos de Paris em 2024. toda semana, o programa traz entrevistas, atualidades, termômetro de competições e informações do mundo Olímpico. 
+</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20240704000652 -0300" stop="20240704020959 -0300" channel="sportv-2">
     <title lang="pt">VT - Liga das Nações de Vôlei Masculino: Brasil x Canadá</title>
     <sub-title lang="pt">Rio De Janeiro, Brasil</sub-title>
     <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
@@ -18644,7 +18664,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
     <desc lang="pt">Mini-programa com os principais destaques da programação do SporTV.</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20240704015941 -0300" stop="20240704022858 -0300" channel="sportv-3">
+  <programme start="20240704015941 -0300" stop="20240704022958 -0300" channel="sportv-3">
     <title lang="pt">Faixa Combate: Fome De Luta 1 - Jéssica Andrade</title>
     <desc lang="pt">Fome De Luta: Jéssica Andrade</desc>
     <category lang="en">sports (general)</category>
@@ -18652,7 +18672,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[14] Não recomendado para menores de 14 anos</value>
     </rating>
   </programme>
-  <programme start="20240704023000 -0300" stop="20240704025959 -0300" channel="sportv-3">
+  <programme start="20240704023001 -0300" stop="20240704025959 -0300" channel="sportv-3">
     <title lang="pt">Faixa Combate: Fome De Luta 2 - Deiveson</title>
     <desc lang="pt">Thiago Castanho nem saiu de casa para conhecer o paraense Deiveson Figueiredo, que já foi cowboy, cabeleireiro e sushiman antes de lutar MMA. Depois de um passeio pela Ilha de Marajó, Deiveson faz um desafio de luta marajoara de tirar o fôlego, e fecham o dia com um prato típico da culinária local.</desc>
     <category lang="en">sports (general)</category>
@@ -18778,14 +18798,6 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
     <title lang="pt">Faixa Combate: Bellator Champions Series - Paris: Mix x Magomedov 2</title>
     <desc lang="pt">Segunda maior franquia de MMA mundial e a segunda maior dos Estados Unidos, presente em mais de 160 países, e com uma audiência disponível para mais de 1 bilhão de pessoas.</desc>
     <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20240703233200 -0300" stop="20240704000259 -0300" channel="multishow">
-    <title lang="pt">Tô de Graça</title>
-    <sub-title lang="pt">A Promessa</sub-title>
-    <desc lang="pt"> - Briti sofre uma tentativa de assalto no sinal e Graça faz uma promessa que ficará um dia sem mentir após a filha ter escapado ilesa.</desc>
-    <rating system="Brazil">
-      <value>[12] Não recomendado para menores de 12 anos</value>
-    </rating>
   </programme>
   <programme start="20240704000300 -0300" stop="20240704005759 -0300" channel="multishow">
     <title lang="pt">Vai que Cola</title>
@@ -19778,7 +19790,7 @@ Primeiro Claude ensina a receita ao mini chef, depois o aprendiz vai cozinhar so
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240703220000 -0300" stop="20240704001159 -0300" channel="canal-brasil">
+  <programme start="20240703220101 -0300" stop="20240704001459 -0300" channel="canal-brasil">
     <title lang="pt">Quarta Sapatão</title>
     <sub-title lang="pt">As Boas Maneiras</sub-title>
     <desc lang="pt"> - Ana contrata Clara, uma solitária enfermeira, para ser babá de seu filho ainda não nascido. Conforme a gravidez avança, Ana começa a apresentar comportamentos cada vez mais estranhos e sinistros.</desc>
@@ -19873,9 +19885,18 @@ Primeiro Claude ensina a receita ao mini chef, depois o aprendiz vai cozinhar so
       <value>[10] Não recomendado para menores de 10 anos</value>
     </rating>
   </programme>
-  <programme start="20240704131500 -0300" stop="20240704134429 -0300" channel="canal-brasil">
-    <title lang="pt">Cinejornal_04/07/2024</title>
-    <desc lang="pt"> - O Cinejornal é um programa diário, apresentado por Simone Zuccolotto, onde encontramos o melhor do cinema brasileiro.</desc>
+  <programme start="20240704131500 -0300" stop="20240704133525 -0300" channel="canal-brasil">
+    <title lang="pt">Cinejornal</title>
+    <sub-title lang="pt">Bastidores Princesa Adormecida e Sem Coração nos cinemas_24/04/2024</sub-title>
+    <desc lang="pt"> - O Cinejornal é um programa diário, presentado por Simone Zuccolotto, no qual é pautado o melhor do cinema brasileiro.</desc>
+  </programme>
+  <programme start="20240704133830 -0300" stop="20240704134059 -0300" channel="canal-brasil">
+    <title lang="pt">Arte Na Capa</title>
+    <sub-title lang="pt">Contrastes</sub-title>
+    <desc lang="pt"> - Série mostra as histórias por trás de emblemáticas capas de discos brasileiros.</desc>
+    <rating system="Brazil">
+      <value>[14] Não recomendado para menores de 14 anos</value>
+    </rating>
   </programme>
   <programme start="20240704134500 -0300" stop="20240704144759 -0300" channel="canal-brasil">
     <title lang="pt">Escravidão - Século Xxi</title>
@@ -20282,14 +20303,6 @@ aliada do nosso bem-estar.</desc>
     <desc lang="pt"> - Os três amigos, Betinho Dias, Caio Texeira e Andrew Serrano fazem a viagem dos sonhos cruzando a Califórnia, com várias pranchas clássicas, em um Motohome.</desc>
     <rating system="Brazil">
       <value>[L] Livre para todos os públicos</value>
-    </rating>
-  </programme>
-  <programme start="20240703230000 -0300" stop="20240704000159 -0300" channel="bis">
-    <title lang="pt">Fatboy Slim</title>
-    <sub-title lang="pt">Palco Principal</sub-title>
-    <desc lang="pt"> - Show do DJ  FatBoy Slim.</desc>
-    <rating system="Brazil">
-      <value>[14] Não recomendado para menores de 14 anos</value>
     </rating>
   </programme>
   <programme start="20240704000200 -0300" stop="20240704013359 -0300" channel="bis">
@@ -21692,13 +21705,13 @@ o Vale do Jequitinhonha e os cafés que crescem, ao lado de uma fauna bem preser
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240703234110 -0300" stop="20240704003919 -0300" channel="premiere">
+  <programme start="20240703234110 -0300" stop="20240704004149 -0300" channel="premiere">
     <title lang="pt">VT - Brasileirão: Vasco x Fortaleza</title>
     <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20240704010000 -0300" stop="20240704015959 -0300" channel="premiere">
+  <programme start="20240704004150 -0300" stop="20240704014049 -0300" channel="premiere">
     <title lang="pt">VT - Brasileirão: Criciúma x Cruzeiro</title>
     <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
     <category lang="en">football/soccer</category>
@@ -21829,6 +21842,11 @@ o Vale do Jequitinhonha e os cafés que crescem, ao lado de uma fauna bem preser
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
+  <programme start="20240704184000 -0300" stop="20240704205959 -0300" channel="premiere-4">
+    <title lang="pt">Brasileirão: Bahia x Juventude - ao vivo</title>
+    <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
   <programme start="20240703214656 -0300" stop="20240704003434 -0300" channel="combate">
     <title lang="pt">VT - One Friday Fights 68</title>
     <desc lang="pt"> - Terceira maior franquia de MMA mundial e a principal da Ásia, presente em mais de 170 países, o One é a liga esportiva de diferentes modalidades além do MMA como: Grappling, Muay Thai, Kickboxing. Nomes de atletas brasileiros: Fabrício Andrade, Marcus Buchecha, Allycia Hellen Rodrigues, André Galvão, e muitos outros.</desc>
@@ -21843,27 +21861,13 @@ o Vale do Jequitinhonha e os cafés que crescem, ao lado de uma fauna bem preser
       <value>[14] Não recomendado para menores de 14 anos</value>
     </rating>
   </programme>
-  <programme start="20240704004514 -0300" stop="20240704004959 -0300" channel="combate">
+  <programme start="20240704004514 -0300" stop="20240704033910 -0300" channel="combate">
     <title lang="pt">VT - Kickboxing: WGP 76: Matheus Nogueira x Ivan Galaz</title>
     <desc lang="pt">Não perca o maior evento de kickboxing.</desc>
     <category lang="en">sports (general)</category>
     <previously-shown />
   </programme>
-  <programme start="20240704005000 -0300" stop="20240704005959 -0300" channel="combate">
-    <title lang="pt">Marta Souza</title>
-    <desc lang="pt"> - Assista agora os maiores lutadores do mundo no GIRO COMBATE.</desc>
-    <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[14] Não recomendado para menores de 14 anos</value>
-    </rating>
-  </programme>
-  <programme start="20240704010000 -0300" stop="20240704035459 -0300" channel="combate">
-    <title lang="pt">VT - Kickboxing: WGP 76: Matheus Nogueira x Ivan Galaz</title>
-    <desc lang="pt">Não perca o maior evento de kickboxing.</desc>
-    <category lang="en">sports (general)</category>
-    <previously-shown />
-  </programme>
-  <programme start="20240704035500 -0300" stop="20240704035959 -0300" channel="combate">
+  <programme start="20240704033912 -0300" stop="20240704034300 -0300" channel="combate">
     <title lang="pt">Top Nocautes John Lineker</title>
     <desc lang="pt"> - Top Nocautes John Lineker</desc>
     <category lang="en">sports (general)</category>
@@ -32088,6 +32092,16 @@ o Vale do Jequitinhonha e os cafés que crescem, ao lado de uma fauna bem preser
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
+  <programme start="20240707154000 -0300" stop="20240707182459 -0300" channel="premiere-4">
+    <title lang="pt">Brasileirão: Fortaleza x Fluminense - ao vivo</title>
+    <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240707182500 -0300" stop="20240707203959 -0300" channel="premiere-4">
+    <title lang="pt">Brasileirão: Vitória x Criciúma - ao vivo</title>
+    <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
   <programme start="20240706213000 -0300" stop="20240707012959 -0300" channel="combate">
     <title lang="pt">Boxe: Shakur Stevenson X Artem Harutyunyan - ao vivo</title>
     <desc lang="pt"> - Top Rank, é uma das maiores promotora de lutas de boxe do mundo. Fundada em 1973, e por quase meio século, promove as lutas mais importantes de algumas lendas do boxe, como Muhammad Ali, Sugar Ray Leonard, Oscar de La Hoya, Floyd Mayweather, Tyson Fury e Manny Pacquiao.
@@ -32697,7 +32711,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
     <desc lang="pt"> - Acompanhe as principais notícias do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
-  <programme start="20240703154247 -0300" stop="20240703175555 -0300" channel="Silvio Santos">
+  <programme start="20240703173105 -0300" stop="20240703175555 -0300" channel="Silvio Santos">
     <title lang="pt">Programa Silvio Santos</title>
     <sub-title lang="pt">realizado em 17/08/2008</sub-title>
     <desc lang="pt">Silvio Santos recebe convidados em brincadeiras engraçadas com prêmios em dinheiro.</desc>
@@ -33522,7 +33536,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240707152955 -0300" stop="20240707154205 -0300" channel="Silvio Santos">
+  <programme start="20240707152955 -0300" stop="20240707160445 -0300" channel="Silvio Santos">
     <title lang="pt">Show do Milhão</title>
     <sub-title lang="pt">realizado em 07/11/1999</sub-title>
     <desc lang="pt">Participantes respondem perguntas diversas para concorrer a um prêmio de até um milhão.</desc>
@@ -33533,25 +33547,29 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240703154437 -0300" stop="20240703155859 -0300" channel="Novelas">
-    <title lang="pt">Rebelde</title>
-    <desc lang="pt"> - No ambiente elitizado da Elite Way School, adolescentes abrem os olhos para a realidade do mundo</desc>
-    <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">0.15.</episode-num>
+  <programme start="20240707161037 -0300" stop="20240707164826 -0300" channel="Silvio Santos">
+    <title lang="pt">Show do Milhão</title>
+    <sub-title lang="pt">realizado em 08/11/1999</sub-title>
+    <desc lang="pt">Participantes respondem perguntas diversas para concorrer a um prêmio de até um milhão.</desc>
+    <category lang="en">variety show</category>
+    <date>08/11/1999</date>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
     <rating system="Brazil">
-      <value>[14] Não recomendado para menores de 14 anos</value>
+      <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240703155859 -0300" stop="20240703165731 -0300" channel="Novelas">
-    <title lang="pt">Pequena Travessa</title>
-    <desc lang="pt"> - Alberto tem a impressão que conhece Júlio, mas ele nega e disfarça.</desc>
-    <category lang="en">movie/drama (general)</category>
+  <programme start="20240707165631 -0300" stop="20240707173849 -0300" channel="Silvio Santos">
+    <title lang="pt">Show do Milhão</title>
+    <sub-title lang="pt">realizado em 09/11/1999</sub-title>
+    <desc lang="pt">Participantes respondem perguntas diversas para concorrer a um prêmio de até um milhão.</desc>
+    <category lang="en">variety show</category>
+    <date>09/11/1999</date>
     <episode-num system="xmltv_ns">0.2.</episode-num>
     <rating system="Brazil">
-      <value>[14] Não recomendado para menores de 14 anos</value>
+      <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240703165731 -0300" stop="20240703175916 -0300" channel="Novelas">
+  <programme start="20240703174600 -0300" stop="20240703175916 -0300" channel="Novelas">
     <title lang="pt">Maria Esperança</title>
     <desc lang="pt"> - Eduardo está inconsolável com a tragédia.</desc>
     <category lang="en">movie/drama (general)</category>
@@ -34398,7 +34416,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[14] Não recomendado para menores de 14 anos</value>
     </rating>
   </programme>
-  <programme start="20240707145838 -0300" stop="20240707153919 -0300" channel="Novelas">
+  <programme start="20240707145838 -0300" stop="20240707155729 -0300" channel="Novelas">
     <title lang="pt">Rebelde</title>
     <desc lang="pt"> - No ambiente elitizado da Elite Way School, adolescentes abrem os olhos para a realidade do mundo</desc>
     <category lang="en">movie/drama (general)</category>
@@ -34407,37 +34425,22 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[14] Não recomendado para menores de 14 anos</value>
     </rating>
   </programme>
-  <programme start="20240703152207 -0300" stop="20240703160833 -0300" channel="Saudade">
-    <title lang="pt">Programa Livre</title>
-    <sub-title lang="pt">realizado em 19/08/1991</sub-title>
-    <desc lang="pt">Na década de 90, a juventude se encontrava com seus ídolos no palco de Serginho Groisman!</desc>
-    <category lang="en">variety show</category>
-    <date>19/08/1991</date>
-    <episode-num system="xmltv_ns">1990..</episode-num>
+  <programme start="20240707155902 -0300" stop="20240707165447 -0300" channel="Novelas">
+    <title lang="pt">Pequena Travessa</title>
+    <desc lang="pt"> - Alberto critica tratamento de George com Júlia.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
     <rating system="Brazil">
-      <value>[L] Livre para todos os públicos</value>
+      <value>[14] Não recomendado para menores de 14 anos</value>
     </rating>
   </programme>
-  <programme start="20240703160836 -0300" stop="20240703170555 -0300" channel="Saudade">
-    <title lang="pt">Programa Livre</title>
-    <sub-title lang="pt">realizado em 20/08/1991</sub-title>
-    <desc lang="pt">Na década de 90, a juventude se encontrava com seus ídolos no palco de Serginho Groisman!</desc>
-    <category lang="en">variety show</category>
-    <date>20/08/1991</date>
-    <episode-num system="xmltv_ns">0..</episode-num>
+  <programme start="20240707165711 -0300" stop="20240707174437 -0300" channel="Novelas">
+    <title lang="pt">Maria Esperança</title>
+    <desc lang="pt"> - Eduardo doa sangue para Andrézinho.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
     <rating system="Brazil">
-      <value>[L] Livre para todos os públicos</value>
-    </rating>
-  </programme>
-  <programme start="20240703170602 -0300" stop="20240703173804 -0300" channel="Saudade">
-    <title lang="pt">Entrevistas do Jô</title>
-    <sub-title lang="pt">Entrevista com Ana Maria Braga</sub-title>
-    <desc lang="pt">realizado em 08/09/1997 - Um marco na TV brasileira! Afinal, ninguém ia para cama sem antes ver as entrevistas de Jô Soares.</desc>
-    <category lang="en">talk show</category>
-    <date>08/09/1997</date>
-    <episode-num system="xmltv_ns">1996..</episode-num>
-    <rating system="Brazil">
-      <value>[L] Livre para todos os públicos</value>
+      <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
   <programme start="20240703173807 -0300" stop="20240703175649 -0300" channel="Saudade">
@@ -34924,29 +34927,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240703154328 -0300" stop="20240703160112 -0300" channel="Pop">
-    <title lang="pt">Beleza Renovada</title>
-    <sub-title lang="pt">realizado em 21/03/2021</sub-title>
-    <desc lang="pt">Um time de especialistas se une a Eliana para transformar mulheres no quadro Beleza Renovada!</desc>
-    <category lang="en">variety show</category>
-    <date>21/03/2021</date>
-    <episode-num system="xmltv_ns">11..</episode-num>
-    <rating system="Brazil">
-      <value>[10] Não recomendado para menores de 10 anos</value>
-    </rating>
-  </programme>
-  <programme start="20240703160122 -0300" stop="20240703163716 -0300" channel="Pop">
-    <title lang="pt">Beleza Renovada</title>
-    <sub-title lang="pt">realizado em 18/08/2013</sub-title>
-    <desc lang="pt">Um time de especialistas se une a Eliana para transformar mulheres no quadro Beleza Renovada!</desc>
-    <category lang="en">variety show</category>
-    <date>18/08/2013</date>
-    <episode-num system="xmltv_ns">3..</episode-num>
-    <rating system="Brazil">
-      <value>[10] Não recomendado para menores de 10 anos</value>
-    </rating>
-  </programme>
-  <programme start="20240703164231 -0300" stop="20240703180050 -0300" channel="Pop">
+  <programme start="20240703171647 -0300" stop="20240703180050 -0300" channel="Pop">
     <title lang="pt">Esquadrão da Moda</title>
     <sub-title lang="pt">realizado em 05/08/2023</sub-title>
     <desc lang="pt">Lesley Macedo é dona de um corpo lindo, ela precisa do Esquadrão para usar a beleza a seu favor!</desc>
@@ -35881,77 +35862,26 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[10] Não recomendado para menores de 10 anos</value>
     </rating>
   </programme>
-  <programme start="20240703153653 -0300" stop="20240703160518 -0300" channel="Humor">
-    <title lang="pt">A Praça é Nossa</title>
-    <sub-title lang="pt">realizado em 13/04/2023</sub-title>
-    <desc lang="pt">A mesma praça, o mesmo banco e os humoristas mais queridos do Brasil.</desc>
-    <category lang="en">comedy</category>
-    <date>13/04/2023</date>
+  <programme start="20240707154353 -0300" stop="20240707164046 -0300" channel="Pop">
+    <title lang="pt">Famosos da Internet</title>
+    <sub-title lang="pt">realizado em 14/08/2011</sub-title>
+    <desc lang="pt">As chamadas “Celebridades da Internet” se apresentam no palco do programa da Eliana.</desc>
+    <category lang="en">variety show</category>
+    <date>14/08/2011</date>
+    <episode-num system="xmltv_ns">0..</episode-num>
     <rating system="Brazil">
-      <value>[14] Não recomendado para menores de 14 anos</value>
+      <value>[10] Não recomendado para menores de 10 anos</value>
     </rating>
   </programme>
-  <programme start="20240703160525 -0300" stop="20240703161234 -0300" channel="Humor">
-    <title lang="pt">Câmeras Escondidas</title>
-    <sub-title lang="pt">Câmera de Segurança na Loja</sub-title>
-    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
-    <category lang="en">comedy</category>
+  <programme start="20240707164431 -0300" stop="20240707174536 -0300" channel="Pop">
+    <title lang="pt">Famosos da Internet</title>
+    <sub-title lang="pt">Programa</sub-title>
+    <desc lang="pt">realizado em 28/04/2013 - As chamadas “Celebridades da Internet” se apresentam no palco do programa da Eliana.</desc>
+    <category lang="en">variety show</category>
+    <date>28/04/2013</date>
+    <episode-num system="xmltv_ns">2..</episode-num>
     <rating system="Brazil">
-      <value>[A12] Não recomendado para menores de 12 anos</value>
-    </rating>
-  </programme>
-  <programme start="20240703161234 -0300" stop="20240703161913 -0300" channel="Humor">
-    <title lang="pt">Câmeras Escondidas</title>
-    <sub-title lang="pt">Carrinho de Tortas</sub-title>
-    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
-    <category lang="en">comedy</category>
-    <rating system="Brazil">
-      <value>[A12] Não recomendado para menores de 12 anos</value>
-    </rating>
-  </programme>
-  <programme start="20240703162451 -0300" stop="20240703163028 -0300" channel="Humor">
-    <title lang="pt">Câmeras Escondidas</title>
-    <sub-title lang="pt">Carta do Crematório</sub-title>
-    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
-    <category lang="en">comedy</category>
-    <rating system="Brazil">
-      <value>[A12] Não recomendado para menores de 12 anos</value>
-    </rating>
-  </programme>
-  <programme start="20240703164027 -0300" stop="20240703164604 -0300" channel="Humor">
-    <title lang="pt">Câmeras Escondidas</title>
-    <sub-title lang="pt">Cego no Elevador</sub-title>
-    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
-    <category lang="en">comedy</category>
-    <rating system="Brazil">
-      <value>[A12] Não recomendado para menores de 12 anos</value>
-    </rating>
-  </programme>
-  <programme start="20240703165551 -0300" stop="20240703170216 -0300" channel="Humor">
-    <title lang="pt">Câmeras Escondidas</title>
-    <sub-title lang="pt">Esmola para Enterrar a Mãe</sub-title>
-    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
-    <category lang="en">comedy</category>
-    <rating system="Brazil">
-      <value>[A12] Não recomendado para menores de 12 anos</value>
-    </rating>
-  </programme>
-  <programme start="20240703170216 -0300" stop="20240703171229 -0300" channel="Humor">
-    <title lang="pt">Câmeras Escondidas</title>
-    <sub-title lang="pt">Fofão</sub-title>
-    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
-    <category lang="en">comedy</category>
-    <rating system="Brazil">
-      <value>[A12] Não recomendado para menores de 12 anos</value>
-    </rating>
-  </programme>
-  <programme start="20240703172318 -0300" stop="20240703173027 -0300" channel="Humor">
-    <title lang="pt">Câmeras Escondidas</title>
-    <sub-title lang="pt">Ivo Empacotador</sub-title>
-    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
-    <category lang="en">comedy</category>
-    <rating system="Brazil">
-      <value>[A12] Não recomendado para menores de 12 anos</value>
+      <value>[10] Não recomendado para menores de 10 anos</value>
     </rating>
   </programme>
   <programme start="20240703174103 -0300" stop="20240703174816 -0300" channel="Humor">
@@ -38212,85 +38142,34 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[A10] Não recomendado para menores de 10 anos</value>
     </rating>
   </programme>
-  <programme start="20240703154342 -0300" stop="20240703155027 -0300" channel="Criança">
-    <title lang="pt">Oi, Duggee</title>
-    <desc lang="pt"> - Duggee é um cachorrão que atua como o líder de um clubinho chamado "Os Esquilos".</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.10.</episode-num>
+  <programme start="20240707155444 -0300" stop="20240707161841 -0300" channel="Humor">
+    <title lang="pt">Escolinha do Golias</title>
+    <sub-title lang="pt">realizado em 26/09/1990</sub-title>
+    <desc lang="pt">Se vida de professor não é fácil, imagina se tiver um aluno como Ronald Golias na sala!</desc>
+    <category lang="en">comedy</category>
+    <date>26/09/1990</date>
     <rating system="Brazil">
-      <value>[AL] Livre para todos os públicos</value>
+      <value>[A12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240703155249 -0300" stop="20240703155952 -0300" channel="Criança">
-    <title lang="pt">Oi, Duggee</title>
-    <desc lang="pt"> - Duggee é um cachorrão que atua como o líder de um clubinho chamado "Os Esquilos".</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.11.</episode-num>
+  <programme start="20240707162503 -0300" stop="20240707164754 -0300" channel="Humor">
+    <title lang="pt">Escolinha do Golias</title>
+    <sub-title lang="pt">realizado em 17/10/1990</sub-title>
+    <desc lang="pt">Se vida de professor não é fácil, imagina se tiver um aluno como Ronald Golias na sala!</desc>
+    <category lang="en">comedy</category>
+    <date>17/10/1990</date>
     <rating system="Brazil">
-      <value>[AL] Livre para todos os públicos</value>
+      <value>[A12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240703160209 -0300" stop="20240703160833 -0300" channel="Criança">
-    <title lang="pt">Louie</title>
-    <desc lang="pt"> - Embarque no mundo da criatividade e aprenda a desenhar com Louie e Yoko!</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
+  <programme start="20240707165317 -0300" stop="20240707175525 -0300" channel="Humor">
+    <title lang="pt">A Praça é Nossa</title>
+    <sub-title lang="pt">realizado em 06/04/2023</sub-title>
+    <desc lang="pt">A mesma praça, o mesmo banco e os humoristas mais queridos do Brasil.</desc>
+    <category lang="en">comedy</category>
+    <date>06/04/2023</date>
     <rating system="Brazil">
-      <value>[L] Livre para todos os públicos</value>
-    </rating>
-  </programme>
-  <programme start="20240703160955 -0300" stop="20240703161624 -0300" channel="Criança">
-    <title lang="pt">Louie</title>
-    <desc lang="pt"> - Embarque no mundo da criatividade e aprenda a desenhar com Louie e Yoko!</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
-    <rating system="Brazil">
-      <value>[L] Livre para todos os públicos</value>
-    </rating>
-  </programme>
-  <programme start="20240703161741 -0300" stop="20240703162406 -0300" channel="Criança">
-    <title lang="pt">Louie</title>
-    <desc lang="pt"> - Embarque no mundo da criatividade e aprenda a desenhar com Louie e Yoko!</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.10.</episode-num>
-    <rating system="Brazil">
-      <value>[L] Livre para todos os públicos</value>
-    </rating>
-  </programme>
-  <programme start="20240703162628 -0300" stop="20240703163324 -0300" channel="Criança">
-    <title lang="pt">Louie</title>
-    <desc lang="pt"> - Embarque no mundo da criatividade e aprenda a desenhar com Louie e Yoko!</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.11.</episode-num>
-    <rating system="Brazil">
-      <value>[L] Livre para todos os públicos</value>
-    </rating>
-  </programme>
-  <programme start="20240703170308 -0300" stop="20240703171403 -0300" channel="Criança">
-    <title lang="pt">Ziggy e o Trenzinho do Zoológico</title>
-    <desc lang="pt"> - Embarque nesse trem e se aventure com Ziggy e seus amigos!</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <rating system="Brazil">
-      <value>[L] Livre para todos os públicos</value>
-    </rating>
-  </programme>
-  <programme start="20240703171625 -0300" stop="20240703172726 -0300" channel="Criança">
-    <title lang="pt">Ziggy e o Trenzinho do Zoológico</title>
-    <desc lang="pt"> - Embarque nesse trem e se aventure com Ziggy e seus amigos!</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <rating system="Brazil">
-      <value>[L] Livre para todos os públicos</value>
-    </rating>
-  </programme>
-  <programme start="20240703172843 -0300" stop="20240703173923 -0300" channel="Criança">
-    <title lang="pt">O Livro da Selva</title>
-    <desc lang="pt"> - Se aventure e proteja os animais junto de Mogli, o menino lobo!</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <rating system="Brazil">
-      <value>[AL] Livre para todos os públicos</value>
+      <value>[14] Não recomendado para menores de 14 anos</value>
     </rating>
   </programme>
   <programme start="20240703174045 -0300" stop="20240703175145 -0300" channel="Criança">
@@ -42316,34 +42195,108 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[AL] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240703162748 -0300" stop="20240703172617 -0300" channel="INFORMACAO">
-    <title lang="pt">Chega Mais</title>
-    <desc lang="pt"> - Regina Volpato, Michelle Barros e Paulo Mathias trazem muita informaÃ§Ã£o, prestaÃ§Ã£o de serviÃ§o, culinÃ¡ria, diversÃ£o e entretenimento no "Chega Mais".</desc>
-    <episode-num system="xmltv_ns">0..</episode-num>
+  <programme start="20240707154626 -0300" stop="20240707155311 -0300" channel="Criança">
+    <title lang="pt">Oi, Duggee</title>
+    <desc lang="pt"> - Duggee é um cachorrão que atua como o líder de um clubinho chamado "Os Esquilos".</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.26.</episode-num>
     <rating system="Brazil">
-      <value>[12] Não recomendado para menores de 12 anos</value>
+      <value>[AL] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240703172817 -0300" stop="20240703175618 -0300" channel="INFORMACAO">
-    <title lang="pt">Giro InformaÃ§Ã£o</title>
-    <desc lang="pt"> - </desc>
+  <programme start="20240707155503 -0300" stop="20240707160206 -0300" channel="Criança">
+    <title lang="pt">Oi, Duggee</title>
+    <desc lang="pt"> - Duggee é um cachorrão que atua como o líder de um clubinho chamado "Os Esquilos".</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.27.</episode-num>
+    <rating system="Brazil">
+      <value>[AL] Livre para todos os públicos</value>
+    </rating>
   </programme>
-  <programme start="20240703175653 -0300" stop="20240703190202 -0300" channel="INFORMACAO">
+  <programme start="20240707160423 -0300" stop="20240707161052 -0300" channel="Criança">
+    <title lang="pt">Louie</title>
+    <desc lang="pt"> - Embarque no mundo da criatividade e aprenda a desenhar com Louie e Yoko!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.24.</episode-num>
+    <rating system="Brazil">
+      <value>[L] Livre para todos os públicos</value>
+    </rating>
+  </programme>
+  <programme start="20240707161210 -0300" stop="20240707161839 -0300" channel="Criança">
+    <title lang="pt">Louie</title>
+    <desc lang="pt"> - Embarque no mundo da criatividade e aprenda a desenhar com Louie e Yoko!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.25.</episode-num>
+    <rating system="Brazil">
+      <value>[L] Livre para todos os públicos</value>
+    </rating>
+  </programme>
+  <programme start="20240707162101 -0300" stop="20240707162736 -0300" channel="Criança">
+    <title lang="pt">Louie</title>
+    <desc lang="pt"> - Embarque no mundo da criatividade e aprenda a desenhar com Louie e Yoko!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.26.</episode-num>
+    <rating system="Brazil">
+      <value>[L] Livre para todos os públicos</value>
+    </rating>
+  </programme>
+  <programme start="20240707162908 -0300" stop="20240707163603 -0300" channel="Criança">
+    <title lang="pt">Louie</title>
+    <desc lang="pt"> - Embarque no mundo da criatividade e aprenda a desenhar com Louie e Yoko!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.27.</episode-num>
+    <rating system="Brazil">
+      <value>[L] Livre para todos os públicos</value>
+    </rating>
+  </programme>
+  <programme start="20240707170619 -0300" stop="20240707171714 -0300" channel="Criança">
+    <title lang="pt">Ziggy e o Trenzinho do Zoológico</title>
+    <desc lang="pt"> - Embarque nesse trem e se aventure com Ziggy e seus amigos!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.12.</episode-num>
+    <rating system="Brazil">
+      <value>[L] Livre para todos os públicos</value>
+    </rating>
+  </programme>
+  <programme start="20240707171836 -0300" stop="20240707172937 -0300" channel="Criança">
+    <title lang="pt">Ziggy e o Trenzinho do Zoológico</title>
+    <desc lang="pt"> - Embarque nesse trem e se aventure com Ziggy e seus amigos!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.13.</episode-num>
+    <rating system="Brazil">
+      <value>[L] Livre para todos os públicos</value>
+    </rating>
+  </programme>
+  <programme start="20240707173109 -0300" stop="20240707174149 -0300" channel="Criança">
+    <title lang="pt">O Livro da Selva</title>
+    <desc lang="pt"> - Se aventure e proteja os animais junto de Mogli, o menino lobo!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.12.</episode-num>
+    <rating system="Brazil">
+      <value>[AL] Livre para todos os públicos</value>
+    </rating>
+  </programme>
+  <programme start="20240703181444 -0300" stop="20240703185501 -0300" channel="INFORMACAO">
     <title lang="pt">Focalizando</title>
     <desc lang="pt"> - Fique por dentro das principais notÃ­cias do mundo das celebridades em primeira mÃ£o.</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
   </programme>
-  <programme start="20240703190202 -0300" stop="20240703211025 -0300" channel="INFORMACAO">
+  <programme start="20240703185501 -0300" stop="20240703191227 -0300" channel="INFORMACAO">
+    <title lang="pt">Focalizando</title>
+    <desc lang="pt"> - Fique por dentro das principais notÃ­cias do mundo das celebridades em primeira mÃ£o.</desc>
+    <episode-num system="xmltv_ns">0..</episode-num>
+  </programme>
+  <programme start="20240703191257 -0300" stop="20240703212120 -0300" channel="INFORMACAO">
     <title lang="pt">Tá Na Hora</title>
     <desc lang="pt"> - MarcÃ£o do Povo e MÃ¡rcia Dantas comandam o "TÃ¡ na Hora", levando informaÃ§Ã£o e prestaÃ§Ã£o de serviÃ§o durante a sua volta para casa.</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
   </programme>
-  <programme start="20240703211040 -0300" stop="20240703220413 -0300" channel="INFORMACAO">
+  <programme start="20240703212135 -0300" stop="20240703221509 -0300" channel="INFORMACAO">
     <title lang="pt">SBT Brasil</title>
     <desc lang="pt"> - Cesar Filho leva ao telespectador as notÃ­cias mais importantes do dia, ao vivo, com liberdade editorial e credibilidade.</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
   </programme>
-  <programme start="20240703220428 -0300" stop="20240703225939 -0300" channel="INFORMACAO">
+  <programme start="20240703221524 -0300" stop="20240703231034 -0300" channel="INFORMACAO">
     <title lang="pt">The Noite com Danilo Gentili</title>
     <desc lang="pt"> - Danilo Gentili entrevista famosos e comanda o Roda Solta com ajuda de humoristas do Brasil.</desc>
     <category lang="en">comedy</category>
@@ -42352,7 +42305,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240703230009 -0300" stop="20240703235942 -0300" channel="INFORMACAO">
+  <programme start="20240703231104 -0300" stop="20240704001037 -0300" channel="INFORMACAO">
     <title lang="pt">Passo a Passo - A HistÃ³ria do Ballet ParaisÃ³polis</title>
     <desc lang="pt"> - A danÃ§a como alavanca para uma vida melhor. Arte, resistÃªncia e esperanÃ§a em ParaisÃ³polis.</desc>
     <category lang="en">informational/educational/school programmes</category>
@@ -42361,11 +42314,11 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240704000027 -0300" stop="20240704002920 -0300" channel="INFORMACAO">
+  <programme start="20240704001122 -0300" stop="20240704004015 -0300" channel="INFORMACAO">
     <title lang="pt">Programação INFORMACAO</title>
     <desc lang="pt"> - </desc>
   </programme>
-  <programme start="20240704002935 -0300" stop="20240704012346 -0300" channel="INFORMACAO">
+  <programme start="20240704004030 -0300" stop="20240704013441 -0300" channel="INFORMACAO">
     <title lang="pt">The Noite com Danilo Gentili</title>
     <desc lang="pt"> - Danilo Gentili entrevista famosos e comanda o Roda Solta com ajuda de humoristas do Brasil.</desc>
     <category lang="en">comedy</category>
@@ -42374,16 +42327,16 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240704012416 -0300" stop="20240704021749 -0300" channel="INFORMACAO">
+  <programme start="20240704013511 -0300" stop="20240704022844 -0300" channel="INFORMACAO">
     <title lang="pt">SBT Brasil</title>
     <desc lang="pt"> - Cesar Filho leva ao telespectador as notÃ­cias mais importantes do dia, ao vivo, com liberdade editorial e credibilidade.</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
   </programme>
-  <programme start="20240704022004 -0300" stop="20240704030253 -0300" channel="INFORMACAO">
+  <programme start="20240704023059 -0300" stop="20240704031348 -0300" channel="INFORMACAO">
     <title lang="pt">Programação INFORMACAO</title>
     <desc lang="pt"> - </desc>
   </programme>
-  <programme start="20240704031628 -0300" stop="20240704040501 -0300" channel="INFORMACAO">
+  <programme start="20240704032723 -0300" stop="20240704041556 -0300" channel="INFORMACAO">
     <title lang="pt">Gabi Quase Proibida</title>
     <desc lang="pt"> - No Gabi Quase Proibida, MarÃ­lia Gabriela fala abertamente com especialistas, artistas e convidados sobre temas espinhentos.</desc>
     <category lang="en">variety show</category>
@@ -42392,7 +42345,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[A18] Não recomendado para menores de 18 anos</value>
     </rating>
   </programme>
-  <programme start="20240704041634 -0300" stop="20240704045053 -0300" channel="INFORMACAO">
+  <programme start="20240704042729 -0300" stop="20240704050148 -0300" channel="INFORMACAO">
     <title lang="pt">Entrevistas do JÃ´</title>
     <desc lang="pt"> - Um marco na TV brasileira! Afinal, ninguÃ©m ia para cama sem antes ver as entrevistas de JÃ´ Soares.</desc>
     <category lang="en">talk show</category>
@@ -42401,11 +42354,11 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240704045123 -0300" stop="20240704053912 -0300" channel="INFORMACAO">
+  <programme start="20240704050218 -0300" stop="20240704055007 -0300" channel="INFORMACAO">
     <title lang="pt">Programação INFORMACAO</title>
     <desc lang="pt"> - </desc>
   </programme>
-  <programme start="20240704054157 -0300" stop="20240704063608 -0300" channel="INFORMACAO">
+  <programme start="20240704055252 -0300" stop="20240704064703 -0300" channel="INFORMACAO">
     <title lang="pt">The Noite com Danilo Gentili</title>
     <desc lang="pt"> - Danilo Gentili entrevista famosos e comanda o Roda Solta com ajuda de humoristas do Brasil.</desc>
     <category lang="en">comedy</category>
@@ -42414,30 +42367,30 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240704063853 -0300" stop="20240704074231 -0300" channel="INFORMACAO">
+  <programme start="20240704064948 -0300" stop="20240704075327 -0300" channel="INFORMACAO">
     <title lang="pt">Focalizando</title>
     <desc lang="pt"> - Fique por dentro das principais notÃ­cias do mundo das celebridades em primeira mÃ£o.</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
   </programme>
-  <programme start="20240704074247 -0300" stop="20240704081048 -0300" channel="INFORMACAO">
+  <programme start="20240704075342 -0300" stop="20240704082143 -0300" channel="INFORMACAO">
     <title lang="pt">Giro InformaÃ§Ã£o</title>
     <desc lang="pt"> - </desc>
   </programme>
-  <programme start="20240704081318 -0300" stop="20240704095015 -0300" channel="INFORMACAO">
+  <programme start="20240704082413 -0300" stop="20240704100110 -0300" channel="INFORMACAO">
     <title lang="pt">Brasil Agora</title>
     <desc lang="pt"> - Direto de BrasÃ­lia, os jornalistas Murilo Fagundes e Iasmin Costa trazem as principais notÃ­cias do dia no Brasil Agora.</desc>
   </programme>
-  <programme start="20240704095247 -0300" stop="20240704112523 -0300" channel="INFORMACAO">
+  <programme start="20240704100342 -0300" stop="20240704113618 -0300" channel="INFORMACAO">
     <title lang="pt">Primeiro Impacto</title>
     <desc lang="pt"> - TrÃ¢nsito, polÃ­tica, saÃºde, esporte, mercado de trabalho, educaÃ§Ã£o e os assuntos que sÃ£o destaque no Brasil e no mundo.</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
   </programme>
-  <programme start="20240704112753 -0300" stop="20240704131759 -0300" channel="INFORMACAO">
+  <programme start="20240704113848 -0300" stop="20240704132854 -0300" channel="INFORMACAO">
     <title lang="pt">Primeiro Impacto</title>
     <desc lang="pt"> - TrÃ¢nsito, polÃ­tica, saÃºde, esporte, mercado de trabalho, educaÃ§Ã£o e os assuntos que sÃ£o destaque no Brasil e no mundo.</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
   </programme>
-  <programme start="20240704131814 -0300" stop="20240704150218 -0300" channel="INFORMACAO">
+  <programme start="20240704132909 -0300" stop="20240704151313 -0300" channel="INFORMACAO">
     <title lang="pt">Chega Mais</title>
     <desc lang="pt"> - Regina Volpato, Michelle Barros e Paulo Mathias trazem muita informaÃ§Ã£o, prestaÃ§Ã£o de serviÃ§o, culinÃ¡ria, diversÃ£o e entretenimento no "Chega Mais".</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
@@ -42445,7 +42398,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240704150919 -0300" stop="20240704172159 -0300" channel="INFORMACAO">
+  <programme start="20240704152014 -0300" stop="20240704173254 -0300" channel="INFORMACAO">
     <title lang="pt">Chega Mais</title>
     <desc lang="pt"> - Regina Volpato, Michelle Barros e Paulo Mathias trazem muita informaÃ§Ã£o, prestaÃ§Ã£o de serviÃ§o, culinÃ¡ria, diversÃ£o e entretenimento no "Chega Mais".</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
@@ -42453,26 +42406,26 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240704172359 -0300" stop="20240704175200 -0300" channel="INFORMACAO">
+  <programme start="20240704173454 -0300" stop="20240704180256 -0300" channel="INFORMACAO">
     <title lang="pt">Giro InformaÃ§Ã£o</title>
     <desc lang="pt"> - </desc>
   </programme>
-  <programme start="20240704175637 -0300" stop="20240704190146 -0300" channel="INFORMACAO">
+  <programme start="20240704180732 -0300" stop="20240704191241 -0300" channel="INFORMACAO">
     <title lang="pt">Focalizando</title>
     <desc lang="pt"> - Fique por dentro das principais notÃ­cias do mundo das celebridades em primeira mÃ£o.</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
   </programme>
-  <programme start="20240704190146 -0300" stop="20240704211009 -0300" channel="INFORMACAO">
+  <programme start="20240704191241 -0300" stop="20240704212104 -0300" channel="INFORMACAO">
     <title lang="pt">Tá Na Hora</title>
     <desc lang="pt"> - MarcÃ£o do Povo e MÃ¡rcia Dantas comandam o "TÃ¡ na Hora", levando informaÃ§Ã£o e prestaÃ§Ã£o de serviÃ§o durante a sua volta para casa.</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
   </programme>
-  <programme start="20240704211024 -0300" stop="20240704220357 -0300" channel="INFORMACAO">
+  <programme start="20240704212119 -0300" stop="20240704221452 -0300" channel="INFORMACAO">
     <title lang="pt">SBT Brasil</title>
     <desc lang="pt"> - Cesar Filho leva ao telespectador as notÃ­cias mais importantes do dia, ao vivo, com liberdade editorial e credibilidade.</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
   </programme>
-  <programme start="20240704220412 -0300" stop="20240704225923 -0300" channel="INFORMACAO">
+  <programme start="20240704221507 -0300" stop="20240704231018 -0300" channel="INFORMACAO">
     <title lang="pt">The Noite com Danilo Gentili</title>
     <desc lang="pt"> - Danilo Gentili entrevista famosos e comanda o Roda Solta com ajuda de humoristas do Brasil.</desc>
     <category lang="en">comedy</category>
@@ -42481,7 +42434,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240704225953 -0300" stop="20240704235926 -0300" channel="INFORMACAO">
+  <programme start="20240704231048 -0300" stop="20240705001021 -0300" channel="INFORMACAO">
     <title lang="pt">Passo a Passo - A HistÃ³ria do Ballet ParaisÃ³polis</title>
     <desc lang="pt"> - A danÃ§a como alavanca para uma vida melhor. Arte, resistÃªncia e esperanÃ§a em ParaisÃ³polis.</desc>
     <category lang="en">informational/educational/school programmes</category>
@@ -42490,16 +42443,16 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240705000011 -0300" stop="20240705002904 -0300" channel="INFORMACAO">
+  <programme start="20240705001106 -0300" stop="20240705003959 -0300" channel="INFORMACAO">
     <title lang="pt">Programação INFORMACAO</title>
     <desc lang="pt"> - </desc>
   </programme>
-  <programme start="20240705002904 -0300" stop="20240705015358 -0300" channel="INFORMACAO">
+  <programme start="20240705003959 -0300" stop="20240705020453 -0300" channel="INFORMACAO">
     <title lang="pt">Documentário</title>
     <desc lang="pt"> - DocumentÃ¡rio que retrata temas importantes</desc>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20240705015800 -0300" stop="20240705024307 -0300" channel="INFORMACAO">
+  <programme start="20240705020855 -0300" stop="20240705025403 -0300" channel="INFORMACAO">
     <title lang="pt">The Noite com Danilo Gentili</title>
     <desc lang="pt"> - Danilo Gentili entrevista famosos e comanda o Roda Solta com ajuda de humoristas do Brasil.</desc>
     <category lang="en">comedy</category>
@@ -42508,16 +42461,16 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240705024307 -0300" stop="20240705035309 -0300" channel="INFORMACAO">
+  <programme start="20240705025403 -0300" stop="20240705040404 -0300" channel="INFORMACAO">
     <title lang="pt">SBT Brasil</title>
     <desc lang="pt"> - Cesar Filho leva ao telespectador as notÃ­cias mais importantes do dia, ao vivo, com liberdade editorial e credibilidade.</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
   </programme>
-  <programme start="20240705035841 -0300" stop="20240705044130 -0300" channel="INFORMACAO">
+  <programme start="20240705040936 -0300" stop="20240705045225 -0300" channel="INFORMACAO">
     <title lang="pt">Programação INFORMACAO</title>
     <desc lang="pt"> - </desc>
   </programme>
-  <programme start="20240705044130 -0300" stop="20240705052604 -0300" channel="INFORMACAO">
+  <programme start="20240705045225 -0300" stop="20240705053659 -0300" channel="INFORMACAO">
     <title lang="pt">Gabi Quase Proibida</title>
     <desc lang="pt"> - No Gabi Quase Proibida, MarÃ­lia Gabriela fala abertamente com especialistas, artistas e convidados sobre temas espinhentos.</desc>
     <category lang="en">variety show</category>
@@ -42526,12 +42479,12 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[A18] Não recomendado para menores de 18 anos</value>
     </rating>
   </programme>
-  <programme start="20240705053608 -0300" stop="20240705065426 -0300" channel="INFORMACAO">
+  <programme start="20240705054703 -0300" stop="20240705070521 -0300" channel="INFORMACAO">
     <title lang="pt">Focalizando</title>
     <desc lang="pt"> - Fique por dentro das principais notÃ­cias do mundo das celebridades em primeira mÃ£o.</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
   </programme>
-  <programme start="20240705065426 -0300" stop="20240705070752 -0300" channel="INFORMACAO">
+  <programme start="20240705070521 -0300" stop="20240705071847 -0300" channel="INFORMACAO">
     <title lang="pt">The Noite com Danilo Gentili</title>
     <desc lang="pt"> - Danilo Gentili entrevista famosos e comanda o Roda Solta com ajuda de humoristas do Brasil.</desc>
     <category lang="en">comedy</category>
@@ -42540,25 +42493,25 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240705070752 -0300" stop="20240705073553 -0300" channel="INFORMACAO">
+  <programme start="20240705071847 -0300" stop="20240705074648 -0300" channel="INFORMACAO">
     <title lang="pt">Giro InformaÃ§Ã£o</title>
     <desc lang="pt"> - </desc>
   </programme>
-  <programme start="20240705073823 -0300" stop="20240705091521 -0300" channel="INFORMACAO">
+  <programme start="20240705074918 -0300" stop="20240705092616 -0300" channel="INFORMACAO">
     <title lang="pt">Brasil Agora</title>
     <desc lang="pt"> - Direto de BrasÃ­lia, os jornalistas Murilo Fagundes e Iasmin Costa trazem as principais notÃ­cias do dia no Brasil Agora.</desc>
   </programme>
-  <programme start="20240705091752 -0300" stop="20240705105028 -0300" channel="INFORMACAO">
+  <programme start="20240705092847 -0300" stop="20240705110123 -0300" channel="INFORMACAO">
     <title lang="pt">Primeiro Impacto</title>
     <desc lang="pt"> - TrÃ¢nsito, polÃ­tica, saÃºde, esporte, mercado de trabalho, educaÃ§Ã£o e os assuntos que sÃ£o destaque no Brasil e no mundo.</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
   </programme>
-  <programme start="20240705105028 -0300" stop="20240705124939 -0300" channel="INFORMACAO">
+  <programme start="20240705110123 -0300" stop="20240705130034 -0300" channel="INFORMACAO">
     <title lang="pt">Primeiro Impacto</title>
     <desc lang="pt"> - TrÃ¢nsito, polÃ­tica, saÃºde, esporte, mercado de trabalho, educaÃ§Ã£o e os assuntos que sÃ£o destaque no Brasil e no mundo.</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
   </programme>
-  <programme start="20240705124939 -0300" stop="20240705143758 -0300" channel="INFORMACAO">
+  <programme start="20240705130034 -0300" stop="20240705144853 -0300" channel="INFORMACAO">
     <title lang="pt">Chega Mais</title>
     <desc lang="pt"> - Regina Volpato, Michelle Barros e Paulo Mathias trazem muita informaÃ§Ã£o, prestaÃ§Ã£o de serviÃ§o, culinÃ¡ria, diversÃ£o e entretenimento no "Chega Mais".</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
@@ -42566,7 +42519,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240705143958 -0300" stop="20240705164647 -0300" channel="INFORMACAO">
+  <programme start="20240705145053 -0300" stop="20240705165742 -0300" channel="INFORMACAO">
     <title lang="pt">Chega Mais</title>
     <desc lang="pt"> - Regina Volpato, Michelle Barros e Paulo Mathias trazem muita informaÃ§Ã£o, prestaÃ§Ã£o de serviÃ§o, culinÃ¡ria, diversÃ£o e entretenimento no "Chega Mais".</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
@@ -42574,26 +42527,26 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240705164732 -0300" stop="20240705171533 -0300" channel="INFORMACAO">
+  <programme start="20240705165827 -0300" stop="20240705172628 -0300" channel="INFORMACAO">
     <title lang="pt">Giro InformaÃ§Ã£o</title>
     <desc lang="pt"> - </desc>
   </programme>
-  <programme start="20240705171538 -0300" stop="20240705182047 -0300" channel="INFORMACAO">
+  <programme start="20240705172633 -0300" stop="20240705183142 -0300" channel="INFORMACAO">
     <title lang="pt">Focalizando</title>
     <desc lang="pt"> - Fique por dentro das principais notÃ­cias do mundo das celebridades em primeira mÃ£o.</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
   </programme>
-  <programme start="20240705182047 -0300" stop="20240705202910 -0300" channel="INFORMACAO">
+  <programme start="20240705183142 -0300" stop="20240705204005 -0300" channel="INFORMACAO">
     <title lang="pt">Tá Na Hora</title>
     <desc lang="pt"> - MarcÃ£o do Povo e MÃ¡rcia Dantas comandam o "TÃ¡ na Hora", levando informaÃ§Ã£o e prestaÃ§Ã£o de serviÃ§o durante a sua volta para casa.</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
   </programme>
-  <programme start="20240705202925 -0300" stop="20240705225801 -0300" channel="INFORMACAO">
+  <programme start="20240705204020 -0300" stop="20240705230856 -0300" channel="INFORMACAO">
     <title lang="pt">SBT Brasil</title>
     <desc lang="pt"> - Cesar Filho leva ao telespectador as notÃ­cias mais importantes do dia, ao vivo, com liberdade editorial e credibilidade.</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
   </programme>
-  <programme start="20240705225801 -0300" stop="20240706000251 -0300" channel="INFORMACAO">
+  <programme start="20240705230856 -0300" stop="20240706001346 -0300" channel="INFORMACAO">
     <title lang="pt">The Noite com Danilo Gentili</title>
     <desc lang="pt"> - Danilo Gentili entrevista famosos e comanda o Roda Solta com ajuda de humoristas do Brasil.</desc>
     <category lang="en">comedy</category>
@@ -42602,38 +42555,38 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240706000954 -0300" stop="20240706010733 -0300" channel="INFORMACAO">
+  <programme start="20240706002049 -0300" stop="20240706011828 -0300" channel="INFORMACAO">
     <title lang="pt">Focalizando</title>
     <desc lang="pt"> - Fique por dentro das principais notÃ­cias do mundo das celebridades em primeira mÃ£o.</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
   </programme>
-  <programme start="20240706011234 -0300" stop="20240706014036 -0300" channel="INFORMACAO">
+  <programme start="20240706012329 -0300" stop="20240706015131 -0300" channel="INFORMACAO">
     <title lang="pt">Giro InformaÃ§Ã£o</title>
     <desc lang="pt"> - </desc>
   </programme>
-  <programme start="20240706014036 -0300" stop="20240706024502 -0300" channel="INFORMACAO">
+  <programme start="20240706015131 -0300" stop="20240706025557 -0300" channel="INFORMACAO">
     <title lang="pt">Brasil Agora</title>
     <desc lang="pt"> - Direto de BrasÃ­lia, os jornalistas Murilo Fagundes e Iasmin Costa trazem as principais notÃ­cias do dia no Brasil Agora.</desc>
   </programme>
-  <programme start="20240706024733 -0300" stop="20240706031535 -0300" channel="INFORMACAO">
+  <programme start="20240706025828 -0300" stop="20240706032630 -0300" channel="INFORMACAO">
     <title lang="pt">Giro InformaÃ§Ã£o</title>
     <desc lang="pt"> - </desc>
   </programme>
-  <programme start="20240706031535 -0300" stop="20240706033707 -0300" channel="INFORMACAO">
+  <programme start="20240706032630 -0300" stop="20240706034802 -0300" channel="INFORMACAO">
     <title lang="pt">Brasil Agora</title>
     <desc lang="pt"> - Direto de BrasÃ­lia, os jornalistas Murilo Fagundes e Iasmin Costa trazem as principais notÃ­cias do dia no Brasil Agora.</desc>
   </programme>
-  <programme start="20240706033707 -0300" stop="20240706051550 -0300" channel="INFORMACAO">
+  <programme start="20240706034802 -0300" stop="20240706052645 -0300" channel="INFORMACAO">
     <title lang="pt">Primeiro Impacto</title>
     <desc lang="pt"> - TrÃ¢nsito, polÃ­tica, saÃºde, esporte, mercado de trabalho, educaÃ§Ã£o e os assuntos que sÃ£o destaque no Brasil e no mundo.</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
   </programme>
-  <programme start="20240706052138 -0300" stop="20240706070532 -0300" channel="INFORMACAO">
+  <programme start="20240706053233 -0300" stop="20240706071627 -0300" channel="INFORMACAO">
     <title lang="pt">Primeiro Impacto</title>
     <desc lang="pt"> - TrÃ¢nsito, polÃ­tica, saÃºde, esporte, mercado de trabalho, educaÃ§Ã£o e os assuntos que sÃ£o destaque no Brasil e no mundo.</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
   </programme>
-  <programme start="20240706070532 -0300" stop="20240706085252 -0300" channel="INFORMACAO">
+  <programme start="20240706071627 -0300" stop="20240706090347 -0300" channel="INFORMACAO">
     <title lang="pt">Chega Mais</title>
     <desc lang="pt"> - Regina Volpato, Michelle Barros e Paulo Mathias trazem muita informaÃ§Ã£o, prestaÃ§Ã£o de serviÃ§o, culinÃ¡ria, diversÃ£o e entretenimento no "Chega Mais".</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
@@ -42641,7 +42594,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240706085252 -0300" stop="20240706105753 -0300" channel="INFORMACAO">
+  <programme start="20240706090347 -0300" stop="20240706110848 -0300" channel="INFORMACAO">
     <title lang="pt">Chega Mais</title>
     <desc lang="pt"> - Regina Volpato, Michelle Barros e Paulo Mathias trazem muita informaÃ§Ã£o, prestaÃ§Ã£o de serviÃ§o, culinÃ¡ria, diversÃ£o e entretenimento no "Chega Mais".</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
@@ -42649,25 +42602,25 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240706110225 -0300" stop="20240706113026 -0300" channel="INFORMACAO">
+  <programme start="20240706111320 -0300" stop="20240706114121 -0300" channel="INFORMACAO">
     <title lang="pt">Giro InformaÃ§Ã£o</title>
     <desc lang="pt"> - </desc>
   </programme>
-  <programme start="20240706113026 -0300" stop="20240706123306 -0300" channel="INFORMACAO">
+  <programme start="20240706114121 -0300" stop="20240706124401 -0300" channel="INFORMACAO">
     <title lang="pt">Focalizando</title>
     <desc lang="pt"> - Fique por dentro das principais notÃ­cias do mundo das celebridades em primeira mÃ£o.</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
   </programme>
-  <programme start="20240706123306 -0300" stop="20240706144959 -0300" channel="INFORMACAO">
+  <programme start="20240706124401 -0300" stop="20240706150054 -0300" channel="INFORMACAO">
     <title lang="pt">Tá Na Hora</title>
     <desc lang="pt"> - MarcÃ£o do Povo e MÃ¡rcia Dantas comandam o "TÃ¡ na Hora", levando informaÃ§Ã£o e prestaÃ§Ã£o de serviÃ§o durante a sua volta para casa.</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
   </programme>
-  <programme start="20240706144959 -0300" stop="20240706153838 -0300" channel="INFORMACAO">
+  <programme start="20240706150054 -0300" stop="20240706154933 -0300" channel="INFORMACAO">
     <title lang="pt">SBT Brasil</title>
     <desc lang="pt"> - Cesar Filho leva ao telespectador as notÃ­cias mais importantes do dia, ao vivo, com liberdade editorial e credibilidade.</desc>
   </programme>
-  <programme start="20240706153838 -0300" stop="20240706162346 -0300" channel="INFORMACAO">
+  <programme start="20240706154933 -0300" stop="20240706163441 -0300" channel="INFORMACAO">
     <title lang="pt">The Noite com Danilo Gentili</title>
     <desc lang="pt"> - Danilo Gentili entrevista famosos e comanda o Roda Solta com ajuda de humoristas do Brasil.</desc>
     <category lang="en">comedy</category>
@@ -42676,16 +42629,16 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240706162346 -0300" stop="20240706174840 -0300" channel="INFORMACAO">
+  <programme start="20240706163441 -0300" stop="20240706175935 -0300" channel="INFORMACAO">
     <title lang="pt">Documentário</title>
     <desc lang="pt"> - DocumentÃ¡rio que retrata temas importantes</desc>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20240706174840 -0300" stop="20240706181641 -0300" channel="INFORMACAO">
+  <programme start="20240706175935 -0300" stop="20240706182736 -0300" channel="INFORMACAO">
     <title lang="pt">Giro InformaÃ§Ã£o</title>
     <desc lang="pt"> - </desc>
   </programme>
-  <programme start="20240706182143 -0300" stop="20240706190650 -0300" channel="INFORMACAO">
+  <programme start="20240706183238 -0300" stop="20240706191746 -0300" channel="INFORMACAO">
     <title lang="pt">The Noite com Danilo Gentili</title>
     <desc lang="pt"> - Danilo Gentili entrevista famosos e comanda o Roda Solta com ajuda de humoristas do Brasil.</desc>
     <category lang="en">comedy</category>
@@ -42694,16 +42647,16 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240706190650 -0300" stop="20240706201652 -0300" channel="INFORMACAO">
+  <programme start="20240706191746 -0300" stop="20240706202747 -0300" channel="INFORMACAO">
     <title lang="pt">SBT Brasil</title>
     <desc lang="pt"> - Cesar Filho leva ao telespectador as notÃ­cias mais importantes do dia, ao vivo, com liberdade editorial e credibilidade.</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
   </programme>
-  <programme start="20240706202224 -0300" stop="20240706210513 -0300" channel="INFORMACAO">
+  <programme start="20240706203319 -0300" stop="20240706211608 -0300" channel="INFORMACAO">
     <title lang="pt">Programação INFORMACAO</title>
     <desc lang="pt"> - </desc>
   </programme>
-  <programme start="20240706210513 -0300" stop="20240706214947 -0300" channel="INFORMACAO">
+  <programme start="20240706211608 -0300" stop="20240706220042 -0300" channel="INFORMACAO">
     <title lang="pt">Gabi Quase Proibida</title>
     <desc lang="pt"> - No Gabi Quase Proibida, MarÃ­lia Gabriela fala abertamente com especialistas, artistas e convidados sobre temas espinhentos.</desc>
     <category lang="en">variety show</category>
@@ -42712,12 +42665,12 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[A18] Não recomendado para menores de 18 anos</value>
     </rating>
   </programme>
-  <programme start="20240706215951 -0300" stop="20240706231809 -0300" channel="INFORMACAO">
+  <programme start="20240706221046 -0300" stop="20240706232904 -0300" channel="INFORMACAO">
     <title lang="pt">Focalizando</title>
     <desc lang="pt"> - Fique por dentro das principais notÃ­cias do mundo das celebridades em primeira mÃ£o.</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
   </programme>
-  <programme start="20240706231809 -0300" stop="20240707000317 -0300" channel="INFORMACAO">
+  <programme start="20240706232904 -0300" stop="20240707001412 -0300" channel="INFORMACAO">
     <title lang="pt">The Noite com Danilo Gentili</title>
     <desc lang="pt"> - Danilo Gentili entrevista famosos e comanda o Roda Solta com ajuda de humoristas do Brasil.</desc>
     <category lang="en">comedy</category>
@@ -42726,38 +42679,38 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240707001020 -0300" stop="20240707010759 -0300" channel="INFORMACAO">
+  <programme start="20240707002115 -0300" stop="20240707011854 -0300" channel="INFORMACAO">
     <title lang="pt">Focalizando</title>
     <desc lang="pt"> - Fique por dentro das principais notÃ­cias do mundo das celebridades em primeira mÃ£o.</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
   </programme>
-  <programme start="20240707011300 -0300" stop="20240707014102 -0300" channel="INFORMACAO">
+  <programme start="20240707012355 -0300" stop="20240707015157 -0300" channel="INFORMACAO">
     <title lang="pt">Giro InformaÃ§Ã£o</title>
     <desc lang="pt"> - </desc>
   </programme>
-  <programme start="20240707014102 -0300" stop="20240707024528 -0300" channel="INFORMACAO">
+  <programme start="20240707015157 -0300" stop="20240707025623 -0300" channel="INFORMACAO">
     <title lang="pt">Brasil Agora</title>
     <desc lang="pt"> - Direto de BrasÃ­lia, os jornalistas Murilo Fagundes e Iasmin Costa trazem as principais notÃ­cias do dia no Brasil Agora.</desc>
   </programme>
-  <programme start="20240707024759 -0300" stop="20240707031601 -0300" channel="INFORMACAO">
+  <programme start="20240707025854 -0300" stop="20240707032656 -0300" channel="INFORMACAO">
     <title lang="pt">Giro InformaÃ§Ã£o</title>
     <desc lang="pt"> - </desc>
   </programme>
-  <programme start="20240707031601 -0300" stop="20240707033733 -0300" channel="INFORMACAO">
+  <programme start="20240707032656 -0300" stop="20240707034828 -0300" channel="INFORMACAO">
     <title lang="pt">Brasil Agora</title>
     <desc lang="pt"> - Direto de BrasÃ­lia, os jornalistas Murilo Fagundes e Iasmin Costa trazem as principais notÃ­cias do dia no Brasil Agora.</desc>
   </programme>
-  <programme start="20240707033733 -0300" stop="20240707051616 -0300" channel="INFORMACAO">
+  <programme start="20240707034828 -0300" stop="20240707052711 -0300" channel="INFORMACAO">
     <title lang="pt">Primeiro Impacto</title>
     <desc lang="pt"> - TrÃ¢nsito, polÃ­tica, saÃºde, esporte, mercado de trabalho, educaÃ§Ã£o e os assuntos que sÃ£o destaque no Brasil e no mundo.</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
   </programme>
-  <programme start="20240707052204 -0300" stop="20240707070558 -0300" channel="INFORMACAO">
+  <programme start="20240707053259 -0300" stop="20240707071653 -0300" channel="INFORMACAO">
     <title lang="pt">Primeiro Impacto</title>
     <desc lang="pt"> - TrÃ¢nsito, polÃ­tica, saÃºde, esporte, mercado de trabalho, educaÃ§Ã£o e os assuntos que sÃ£o destaque no Brasil e no mundo.</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
   </programme>
-  <programme start="20240707070558 -0300" stop="20240707085318 -0300" channel="INFORMACAO">
+  <programme start="20240707071653 -0300" stop="20240707090413 -0300" channel="INFORMACAO">
     <title lang="pt">Chega Mais</title>
     <desc lang="pt"> - Regina Volpato, Michelle Barros e Paulo Mathias trazem muita informaÃ§Ã£o, prestaÃ§Ã£o de serviÃ§o, culinÃ¡ria, diversÃ£o e entretenimento no "Chega Mais".</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
@@ -42765,7 +42718,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240707085318 -0300" stop="20240707105819 -0300" channel="INFORMACAO">
+  <programme start="20240707090413 -0300" stop="20240707110914 -0300" channel="INFORMACAO">
     <title lang="pt">Chega Mais</title>
     <desc lang="pt"> - Regina Volpato, Michelle Barros e Paulo Mathias trazem muita informaÃ§Ã£o, prestaÃ§Ã£o de serviÃ§o, culinÃ¡ria, diversÃ£o e entretenimento no "Chega Mais".</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
@@ -42773,25 +42726,25 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240707110251 -0300" stop="20240707113052 -0300" channel="INFORMACAO">
+  <programme start="20240707111346 -0300" stop="20240707114147 -0300" channel="INFORMACAO">
     <title lang="pt">Giro InformaÃ§Ã£o</title>
     <desc lang="pt"> - </desc>
   </programme>
-  <programme start="20240707113052 -0300" stop="20240707123332 -0300" channel="INFORMACAO">
+  <programme start="20240707114147 -0300" stop="20240707124427 -0300" channel="INFORMACAO">
     <title lang="pt">Focalizando</title>
     <desc lang="pt"> - Fique por dentro das principais notÃ­cias do mundo das celebridades em primeira mÃ£o.</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
   </programme>
-  <programme start="20240707123332 -0300" stop="20240707145025 -0300" channel="INFORMACAO">
+  <programme start="20240707124427 -0300" stop="20240707150120 -0300" channel="INFORMACAO">
     <title lang="pt">Tá Na Hora</title>
     <desc lang="pt"> - MarcÃ£o do Povo e MÃ¡rcia Dantas comandam o "TÃ¡ na Hora", levando informaÃ§Ã£o e prestaÃ§Ã£o de serviÃ§o durante a sua volta para casa.</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
   </programme>
-  <programme start="20240707145025 -0300" stop="20240707153904 -0300" channel="INFORMACAO">
+  <programme start="20240707150120 -0300" stop="20240707154959 -0300" channel="INFORMACAO">
     <title lang="pt">SBT Brasil</title>
     <desc lang="pt"> - Cesar Filho leva ao telespectador as notÃ­cias mais importantes do dia, ao vivo, com liberdade editorial e credibilidade.</desc>
   </programme>
-  <programme start="20240707153904 -0300" stop="20240707162411 -0300" channel="INFORMACAO">
+  <programme start="20240707154959 -0300" stop="20240707163507 -0300" channel="INFORMACAO">
     <title lang="pt">The Noite com Danilo Gentili</title>
     <desc lang="pt"> - Danilo Gentili entrevista famosos e comanda o Roda Solta com ajuda de humoristas do Brasil.</desc>
     <category lang="en">comedy</category>
@@ -42800,16 +42753,16 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240707162411 -0300" stop="20240707174906 -0300" channel="INFORMACAO">
+  <programme start="20240707163507 -0300" stop="20240707180001 -0300" channel="INFORMACAO">
     <title lang="pt">Documentário</title>
     <desc lang="pt"> - DocumentÃ¡rio que retrata temas importantes</desc>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20240707174906 -0300" stop="20240707181759 -0300" channel="INFORMACAO">
+  <programme start="20240707180001 -0300" stop="20240707182854 -0300" channel="INFORMACAO">
     <title lang="pt">Programação INFORMACAO</title>
     <desc lang="pt"> - </desc>
   </programme>
-  <programme start="20240707181814 -0300" stop="20240707190824 -0300" channel="INFORMACAO">
+  <programme start="20240707182909 -0300" stop="20240707191919 -0300" channel="INFORMACAO">
     <title lang="pt">The Noite com Danilo Gentili</title>
     <desc lang="pt"> - Danilo Gentili entrevista famosos e comanda o Roda Solta com ajuda de humoristas do Brasil.</desc>
     <category lang="en">comedy</category>
@@ -42818,16 +42771,16 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[12] Não recomendado para menores de 12 anos</value>
     </rating>
   </programme>
-  <programme start="20240707190854 -0300" stop="20240707195728 -0300" channel="INFORMACAO">
+  <programme start="20240707191950 -0300" stop="20240707200823 -0300" channel="INFORMACAO">
     <title lang="pt">SBT Brasil</title>
     <desc lang="pt"> - Cesar Filho leva ao telespectador as notÃ­cias mais importantes do dia, ao vivo, com liberdade editorial e credibilidade.</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
   </programme>
-  <programme start="20240707195743 -0300" stop="20240707204032 -0300" channel="INFORMACAO">
+  <programme start="20240707200838 -0300" stop="20240707205127 -0300" channel="INFORMACAO">
     <title lang="pt">Programação INFORMACAO</title>
     <desc lang="pt"> - </desc>
   </programme>
-  <programme start="20240707204102 -0300" stop="20240707212535 -0300" channel="INFORMACAO">
+  <programme start="20240707205157 -0300" stop="20240707213630 -0300" channel="INFORMACAO">
     <title lang="pt">Gabi Quase Proibida</title>
     <desc lang="pt"> - No Gabi Quase Proibida, MarÃ­lia Gabriela fala abertamente com especialistas, artistas e convidados sobre temas espinhentos.</desc>
     <category lang="en">variety show</category>
@@ -42836,7 +42789,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[A18] Não recomendado para menores de 18 anos</value>
     </rating>
   </programme>
-  <programme start="20240707212550 -0300" stop="20240707223937 -0300" channel="INFORMACAO">
+  <programme start="20240707213645 -0300" stop="20240707225032 -0300" channel="INFORMACAO">
     <title lang="pt">Entrevistas do JÃ´</title>
     <desc lang="pt"> - Um marco na TV brasileira! Afinal, ninguÃ©m ia para cama sem antes ver as entrevistas de JÃ´ Soares.</desc>
     <category lang="en">talk show</category>
@@ -42845,38 +42798,11 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[L] Livre para todos os públicos</value>
     </rating>
   </programme>
-  <programme start="20240707224007 -0300" stop="20240707232256 -0300" channel="INFORMACAO">
+  <programme start="20240707225102 -0300" stop="20240707233351 -0300" channel="INFORMACAO">
     <title lang="pt">Programação INFORMACAO</title>
     <desc lang="pt"> - </desc>
   </programme>
-  <programme start="20240707232311 -0300" stop="20240707235349 -0300" channel="INFORMACAO">
-    <title lang="pt">The Noite com Danilo Gentili</title>
-    <desc lang="pt"> - Danilo Gentili entrevista famosos e comanda o Roda Solta com ajuda de humoristas do Brasil.</desc>
-    <category lang="en">comedy</category>
-    <episode-num system="xmltv_ns">0.120.</episode-num>
-    <rating system="Brazil">
-      <value>[12] Não recomendado para menores de 12 anos</value>
-    </rating>
-  </programme>
-  <programme start="20240703164323 -0300" stop="20240703165613 -0300" channel="Series">
-    <title lang="pt">Younger</title>
-    <desc lang="pt"> - Aos 40 anos, Liza finge ser mais nova para conseguir um emprego depois de anos longe do mercado.</desc>
-    <category lang="en">comedy</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <rating system="Brazil">
-      <value>[A14] Não recomendado para menores de 14 anos</value>
-    </rating>
-  </programme>
-  <programme start="20240703170129 -0300" stop="20240703172524 -0300" channel="Series">
-    <title lang="pt">Younger</title>
-    <desc lang="pt"> - Aos 40 anos, Liza finge ser mais nova para conseguir um emprego depois de anos longe do mercado.</desc>
-    <category lang="en">comedy</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <rating system="Brazil">
-      <value>[A14] Não recomendado para menores de 14 anos</value>
-    </rating>
-  </programme>
-  <programme start="20240703172634 -0300" stop="20240703182928 -0300" channel="Series">
+  <programme start="20240703181408 -0300" stop="20240703182928 -0300" channel="Series">
     <title lang="pt">Call The Midwife</title>
     <desc lang="pt"> - Jenny Ã© uma jovem parteira que atende casos difÃ­ceis em uma das Ã¡reas mais pobres de Londres.</desc>
     <category lang="en">movie/drama (general)</category>
