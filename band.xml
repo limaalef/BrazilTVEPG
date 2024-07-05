@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2024-07-04 11:31:46" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2024-07-04 21:22:44" generator-info-url="http://limaalef.com">
   <channel id="Band São Paulo">
     <display-name lang="pt">Band São Paulo</display-name>
   </channel>
@@ -29,6 +29,9 @@
   </channel>
   <channel id="Band Minas">
     <display-name lang="pt">Band Minas</display-name>
+  </channel>
+  <channel id="Band Paulista">
+    <display-name lang="pt">Band Paulista</display-name>
   </channel>
   <channel id="Band Piauí">
     <display-name lang="pt">Band Piauí</display-name>
@@ -1548,6 +1551,10 @@
     <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
+  <programme start="20240706060000 -0300" stop="20240706063000 -0300" channel="Band Bahia">
+    <title lang="pt">Religioso</title>
+    <desc lang="pt"> - Informações aos fiéis. </desc>
+  </programme>
   <programme start="20240706060000 -0300" stop="20240706070000 -0300" channel="Band Bahia">
     <title lang="pt">Band Kids - Os Chocolix</title>
     <desc lang="pt"> - Os Chocolix são uma família de chocolates de cores diferentes que vivem no esplêndido Reino de Chocolândia.</desc>
@@ -1555,10 +1562,6 @@
     <rating system="Brazil">
       <value>[Livre] Não recomendado para menores de Livre anos</value>
     </rating>
-  </programme>
-  <programme start="20240706060000 -0300" stop="20240706063000 -0300" channel="Band Bahia">
-    <title lang="pt">Religioso</title>
-    <desc lang="pt"> - Informações aos fiéis. </desc>
   </programme>
   <programme start="20240706063000 -0300" stop="20240706070000 -0300" channel="Band Bahia">
     <title lang="pt">Infomercial - Auto TV</title>
@@ -2390,16 +2393,16 @@
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20240707013000 -0300" stop="20240707020000 -0300" channel="Band Brasília">
+    <title lang="pt">Band Entrevista</title>
+    <desc lang="pt"> - Espaço aberto para um debate sobre os mais variados temas de interesse da região, na companhia de grandes profissionais.</desc>
+  </programme>
+  <programme start="20240707013000 -0300" stop="20240707020000 -0300" channel="Band Brasília">
     <title lang="pt">Linha de Combate - Reapresentação</title>
     <desc lang="pt"> - O programa mostra o dia a dia dos profissionais que estão na linha de frente combatendo o crime e salvando vidas.</desc>
     <category lang="en">variety show</category>
     <rating system="Brazil">
       <value>[14] Não recomendado para menores de 14 anos</value>
     </rating>
-  </programme>
-  <programme start="20240707013000 -0300" stop="20240707020000 -0300" channel="Band Brasília">
-    <title lang="pt">Band Entrevista</title>
-    <desc lang="pt"> - Espaço aberto para um debate sobre os mais variados temas de interesse da região, na companhia de grandes profissionais.</desc>
   </programme>
   <programme start="20240707030000 -0300" stop="20240707035900 -0300" channel="Band Brasília">
     <title lang="pt">Sex Privé Club</title>
@@ -5400,9 +5403,17 @@
     <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
+  <programme start="20240706060000 -0300" stop="20240706063000 -0300" channel="Band Campinas">
+    <title lang="pt">Band Kids - Os Chocolix</title>
+    <desc lang="pt"> - Os Chocolix são uma família de chocolates de cores diferentes que vivem no esplêndido Reino de Chocolândia.</desc>
+    <category lang="en">cartoons/puppets</category>
+    <rating system="Brazil">
+      <value>[Livre] Não recomendado para menores de Livre anos</value>
+    </rating>
+  </programme>
   <programme start="20240706063000 -0300" stop="20240706070000 -0300" channel="Band Campinas">
-    <title lang="pt">Band Entrevista</title>
-    <desc lang="pt"> - Espaço aberto para um debate sobre os mais variados temas de interesse da região, na companhia de grandes profissionais.</desc>
+    <title lang="pt">Entretenimento</title>
+    <desc lang="pt"> - Faixa voltada para programas de entretenimento. </desc>
   </programme>
   <programme start="20240706070000 -0300" stop="20240706073000 -0300" channel="Band Campinas">
     <title lang="pt">AgroBand - ao vivo</title>
@@ -5410,8 +5421,8 @@
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20240706073000 -0300" stop="20240706080000 -0300" channel="Band Campinas">
-    <title lang="pt">Entretenimento</title>
-    <desc lang="pt"> - Faixa voltada para programas de entretenimento. </desc>
+    <title lang="pt">Band Entrevista</title>
+    <desc lang="pt"> - Espaço aberto para um debate sobre os mais variados temas de interesse da região, na companhia de grandes profissionais.</desc>
   </programme>
   <programme start="20240706080000 -0300" stop="20240706083000 -0300" channel="Band Campinas">
     <title lang="pt">Esquadrão Proteção Animal</title>
@@ -5533,36 +5544,44 @@
     <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
-  <programme start="20240707063000 -0300" stop="20240707070000 -0300" channel="Band Campinas">
-    <title lang="pt">Entretenimento</title>
-    <desc lang="pt"> - Faixa voltada para programas de entretenimento. </desc>
+  <programme start="20240707060000 -0300" stop="20240707073000 -0300" channel="Band Campinas">
+    <title lang="pt">Band Kids - Os Chocolix</title>
+    <desc lang="pt"> - Os Chocolix são uma família de chocolates de cores diferentes que vivem no esplêndido Reino de Chocolândia.</desc>
+    <category lang="en">cartoons/puppets</category>
+    <rating system="Brazil">
+      <value>[Livre] Não recomendado para menores de Livre anos</value>
+    </rating>
   </programme>
-  <programme start="20240707070000 -0300" stop="20240707073000 -0300" channel="Band Campinas">
+  <programme start="20240707073000 -0300" stop="20240707080000 -0300" channel="Band Campinas">
     <title lang="pt">Esquadrão Proteção Animal</title>
     <desc lang="pt"> - Programa com objetivo de promover a defesa e proteção aos animais através de reportagens sobre o tema.</desc>
     <rating system="Brazil">
       <value>[Livre] Não recomendado para menores de Livre anos</value>
     </rating>
   </programme>
-  <programme start="20240707073000 -0300" stop="20240707080000 -0300" channel="Band Campinas">
+  <programme start="20240707080000 -0300" stop="20240707083000 -0300" channel="Band Campinas">
     <title lang="pt">AgroBand - ao vivo</title>
     <desc lang="pt"> - Entrevistas e reportagens especiais sobre o agronegócio resumem o programa.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240707080000 -0300" stop="20240707083000 -0300" channel="Band Campinas">
+  <programme start="20240707083000 -0300" stop="20240707090000 -0300" channel="Band Campinas">
     <title lang="pt">Tendências e Atualidades</title>
     <desc lang="pt"> - Informação e entretenimento em entrevistas, quadros e reportagens com personalidades da nossa região. Uma janela aberta para Campinas e sua área de influência.</desc>
     <rating system="Brazil">
       <value>[Livre] Não recomendado para menores de Livre anos</value>
     </rating>
   </programme>
-  <programme start="20240707083000 -0300" stop="20240707093000 -0300" channel="Band Campinas">
+  <programme start="20240707090000 -0300" stop="20240707100000 -0300" channel="Band Campinas">
     <title lang="pt">Infomercial - Vida Cap - ao vivo</title>
     <desc lang="pt"> - Programa de sorteios.  </desc>
     <category lang="en">live broadcast</category>
     <rating system="Brazil">
       <value>[Livre] Não recomendado para menores de Livre anos</value>
     </rating>
+  </programme>
+  <programme start="20240707100000 -0300" stop="20240707103000 -0300" channel="Band Campinas">
+    <title lang="pt">Entretenimento</title>
+    <desc lang="pt"> - Faixa voltada para programas de entretenimento. </desc>
   </programme>
   <programme start="20240707103000 -0300" stop="20240707130000 -0300" channel="Band Campinas">
     <title lang="pt">Fórmula 1 2024</title>
@@ -6431,6 +6450,669 @@
     <desc lang="pt"> - Um programa jornalístico onde Zico comanda um bate-papo descontraído a respeito do mundo dos esportes.</desc>
   </programme>
   <programme start="20240709024000 -0300" stop="20240709030000 -0300" channel="Band Minas">
+    <title lang="pt">Mais INFO</title>
+    <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20240704030000 -0300" stop="20240704040000 -0300" channel="Band Paulista">
+    <title lang="pt">Jornal da Band - reapresentação</title>
+    <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20240704040000 -0300" stop="20240704054500 -0300" channel="Band Paulista">
+    <title lang="pt">1º Jornal - ao vivo</title>
+    <desc lang="pt"> - As principais notícias do Brasil e do Mundo, com agilidade e prestação de serviços, deixando o telespectador bem informado logo nas primeiras horas da manhã.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240704054500 -0300" stop="20240704060000 -0300" channel="Band Paulista">
+    <title lang="pt">Religioso</title>
+    <desc lang="pt"> - Informações aos fiéis. </desc>
+  </programme>
+  <programme start="20240704060000 -0300" stop="20240704080000 -0300" channel="Band Paulista">
+    <title lang="pt">Igreja Unida Deus Proverá - ao vivo</title>
+    <desc lang="pt"> - o Bispo Luciano Neves busca impactar pessoas através de conteúdos que trazem avivamento da fé e encorajamento para as dificuldades da vida. </desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240704080000 -0300" stop="20240704090000 -0300" channel="Band Paulista">
+    <title lang="pt">Bora SP Interior - ao vivo</title>
+    <desc lang="pt"> - Programa jornalístico leve, interativo e com muita prestação de serviço, valorizando sempre as notícias locais.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240704090000 -0300" stop="20240704092500 -0300" channel="Band Paulista">
+    <title lang="pt">Bora Brasil - ao vivo</title>
+    <desc lang="pt"> - As principais informações do Brasil e do Mundo com leveza, interatividade e credibilidade.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240704092500 -0300" stop="20240704110000 -0300" channel="Band Paulista">
+    <title lang="pt">The Chef - ao vivo</title>
+    <desc lang="pt"> - Programa culinário com as maiores receitas de Edu Guedes.</desc>
+    <category lang="en">live broadcast</category>
+    <rating system="Brazil">
+      <value>[Livre] Não recomendado para menores de Livre anos</value>
+    </rating>
+  </programme>
+  <programme start="20240704110000 -0300" stop="20240704120000 -0300" channel="Band Paulista">
+    <title lang="pt">Jogo Aberto - ao vivo</title>
+    <desc lang="pt"> - Notícias, debates diários e tudo o que você precisa saber sobre o futebol e os demais esportes no Brasil e ao redor do mundo.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240704120000 -0300" stop="20240704130000 -0300" channel="Band Paulista">
+    <title lang="pt">Jogo Aberto - Debate - ao vivo</title>
+    <desc lang="pt"> - Depois do noticiário é hora de debater as novidades. O programa reúne jornalistas e esportistas para falar sobre o que tem rolado de mais quente no futebol do Brasil e do mundo e nos demais esportes populares.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240704130000 -0300" stop="20240704132500 -0300" channel="Band Paulista">
+    <title lang="pt">Os Donos da Bola - Paulista - ao vivo</title>
+    <desc lang="pt"> - O programa de debate sobre o mundo do futebol mais bem humorado da TV.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240704132500 -0300" stop="20240704135000 -0300" channel="Band Paulista">
+    <title lang="pt">Band Cidade - Paulista</title>
+    <desc lang="pt"> - A integridade e a credibilidade do jornalismo Band em um telejornal presente em metade do estado de São Paulo. O Band Cidade traz informações das regiões de Araçatuba, Bauru, Marília, Presidente Prudente e São José do Rio Preto de maneira independente e imparcial. Presente e atuante na comunidade, o Band Cidade é referência na qualidade da informação.</desc>
+  </programme>
+  <programme start="20240704135000 -0300" stop="20240704143000 -0300" channel="Band Paulista">
+    <title lang="pt">Band Mulher - Paulista - ao vivo</title>
+    <desc lang="pt"> - O programa traz tudo sobre os principais assuntos do universo feminino, como saúde, família, carreira profissional, moda, beleza e bem-estar.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240704143000 -0300" stop="20240704160000 -0300" channel="Band Paulista">
+    <title lang="pt">Melhor da Tarde - ao vivo</title>
+    <desc lang="pt"> - Dicas de bem-estar, culinária, fofocas, astrologia e muito mais. Todo dia, uma tarde diferente com um time completo de colaboradores.</desc>
+    <category lang="en">live broadcast</category>
+    <rating system="Brazil">
+      <value>[Livre] Não recomendado para menores de Livre anos</value>
+    </rating>
+  </programme>
+  <programme start="20240704160000 -0300" stop="20240704185000 -0300" channel="Band Paulista">
+    <title lang="pt">Brasil Urgente  - ao vivo</title>
+    <desc lang="pt"> - Os acontecimentos do dia, com foco na segurança, no transporte, na saúde, no trabalho e no comportamento do povo Brasileiro.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240704185000 -0300" stop="20240704192000 -0300" channel="Band Paulista">
+    <title lang="pt">Band Cidade - Paulista</title>
+    <desc lang="pt"> - A integridade e a credibilidade do jornalismo Band em um telejornal presente em metade do estado de São Paulo. O Band Cidade traz informações das regiões de Araçatuba, Bauru, Marília, Presidente Prudente e São José do Rio Preto de maneira independente e imparcial. Presente e atuante na comunidade, o Band Cidade é referência na qualidade da informação.</desc>
+  </programme>
+  <programme start="20240704192000 -0300" stop="20240704203000 -0300" channel="Band Paulista">
+    <title lang="pt">Jornal da Band - ao vivo</title>
+    <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240704203000 -0300" stop="20240704220000 -0300" channel="Band Paulista">
+    <title lang="pt">Melhor da Noite - ao vivo</title>
+    <desc lang="pt"> - Programa de entretenimento que une informação e diversão em um só lugar.</desc>
+    <category lang="en">live broadcast</category>
+    <rating system="Brazil">
+      <value>[12] Não recomendado para menores de 12 anos</value>
+    </rating>
+  </programme>
+  <programme start="20240704220000 -0300" stop="20240704223000 -0300" channel="Band Paulista">
+    <title lang="pt">Perrengue do Dia - ao vivo</title>
+    <desc lang="pt"> - Programa humorístico que garante muita diversão para toda a família.</desc>
+    <category lang="en">live broadcast</category>
+    <rating system="Brazil">
+      <value>[12] Não recomendado para menores de 12 anos</value>
+    </rating>
+  </programme>
+  <programme start="20240704223000 -0300" stop="20240704233000 -0300" channel="Band Paulista">
+    <title lang="pt">Documento Band</title>
+    <desc lang="pt"> - Séries de reportagens especiais produzidas pelo jornalismo da Band.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20240704233000 -0300" stop="20240705003000 -0300" channel="Band Paulista">
+    <title lang="pt">Jornal da Noite - ao vivo</title>
+    <desc lang="pt"> - Análises, entrevistas, matérias especiais e todos os fatos relevantes do dia no Brasil e no mundo.  </desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240705003000 -0300" stop="20240705012500 -0300" channel="Band Paulista">
+    <title lang="pt">Esporte Total - ao vivo</title>
+    <desc lang="pt"> - Um resumo das últimas rodadas do futebol brasileiro e internacional e tudo sobre as modalidades esportivas ao redor do mundo.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240705012500 -0300" stop="20240705021000 -0300" channel="Band Paulista">
+    <title lang="pt">Band Esporte</title>
+    <desc lang="pt"> - Séries de reportagens especiais produzidas pelo jornalismo esportivo da Band.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20240705021000 -0300" stop="20240705030000 -0300" channel="Band Paulista">
+    <title lang="pt">Mais INFO</title>
+    <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20240705030000 -0300" stop="20240705040000 -0300" channel="Band Paulista">
+    <title lang="pt">Jornal da Band - reapresentação</title>
+    <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20240705040000 -0300" stop="20240705054500 -0300" channel="Band Paulista">
+    <title lang="pt">1º Jornal - ao vivo</title>
+    <desc lang="pt"> - As principais notícias do Brasil e do Mundo, com agilidade e prestação de serviços, deixando o telespectador bem informado logo nas primeiras horas da manhã.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240705054500 -0300" stop="20240705060000 -0300" channel="Band Paulista">
+    <title lang="pt">Religioso</title>
+    <desc lang="pt"> - Informações aos fiéis. </desc>
+  </programme>
+  <programme start="20240705060000 -0300" stop="20240705080000 -0300" channel="Band Paulista">
+    <title lang="pt">Igreja Unida Deus Proverá - ao vivo</title>
+    <desc lang="pt"> - o Bispo Luciano Neves busca impactar pessoas através de conteúdos que trazem avivamento da fé e encorajamento para as dificuldades da vida. </desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240705080000 -0300" stop="20240705090000 -0300" channel="Band Paulista">
+    <title lang="pt">Bora SP Interior - ao vivo</title>
+    <desc lang="pt"> - Programa jornalístico leve, interativo e com muita prestação de serviço, valorizando sempre as notícias locais.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240705090000 -0300" stop="20240705092500 -0300" channel="Band Paulista">
+    <title lang="pt">Bora Brasil - ao vivo</title>
+    <desc lang="pt"> - As principais informações do Brasil e do Mundo com leveza, interatividade e credibilidade.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240705092500 -0300" stop="20240705110000 -0300" channel="Band Paulista">
+    <title lang="pt">The Chef - ao vivo</title>
+    <desc lang="pt"> - Programa culinário com as maiores receitas de Edu Guedes.</desc>
+    <category lang="en">live broadcast</category>
+    <rating system="Brazil">
+      <value>[Livre] Não recomendado para menores de Livre anos</value>
+    </rating>
+  </programme>
+  <programme start="20240705110000 -0300" stop="20240705120000 -0300" channel="Band Paulista">
+    <title lang="pt">Jogo Aberto - ao vivo</title>
+    <desc lang="pt"> - Notícias, debates diários e tudo o que você precisa saber sobre o futebol e os demais esportes no Brasil e ao redor do mundo.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240705120000 -0300" stop="20240705130000 -0300" channel="Band Paulista">
+    <title lang="pt">Jogo Aberto - Debate - ao vivo</title>
+    <desc lang="pt"> - Depois do noticiário é hora de debater as novidades. O programa reúne jornalistas e esportistas para falar sobre o que tem rolado de mais quente no futebol do Brasil e do mundo e nos demais esportes populares.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240705130000 -0300" stop="20240705132500 -0300" channel="Band Paulista">
+    <title lang="pt">Os Donos da Bola - Paulista - ao vivo</title>
+    <desc lang="pt"> - O programa de debate sobre o mundo do futebol mais bem humorado da TV.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240705132500 -0300" stop="20240705135000 -0300" channel="Band Paulista">
+    <title lang="pt">Band Cidade - Paulista</title>
+    <desc lang="pt"> - A integridade e a credibilidade do jornalismo Band em um telejornal presente em metade do estado de São Paulo. O Band Cidade traz informações das regiões de Araçatuba, Bauru, Marília, Presidente Prudente e São José do Rio Preto de maneira independente e imparcial. Presente e atuante na comunidade, o Band Cidade é referência na qualidade da informação.</desc>
+  </programme>
+  <programme start="20240705135000 -0300" stop="20240705143000 -0300" channel="Band Paulista">
+    <title lang="pt">Band Mulher - Paulista - ao vivo</title>
+    <desc lang="pt"> - O programa traz tudo sobre os principais assuntos do universo feminino, como saúde, família, carreira profissional, moda, beleza e bem-estar.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240705143000 -0300" stop="20240705160000 -0300" channel="Band Paulista">
+    <title lang="pt">Melhor da Tarde - ao vivo</title>
+    <desc lang="pt"> - Dicas de bem-estar, culinária, fofocas, astrologia e muito mais. Todo dia, uma tarde diferente com um time completo de colaboradores.</desc>
+    <category lang="en">live broadcast</category>
+    <rating system="Brazil">
+      <value>[Livre] Não recomendado para menores de Livre anos</value>
+    </rating>
+  </programme>
+  <programme start="20240705160000 -0300" stop="20240705185000 -0300" channel="Band Paulista">
+    <title lang="pt">Brasil Urgente  - ao vivo</title>
+    <desc lang="pt"> - Os acontecimentos do dia, com foco na segurança, no transporte, na saúde, no trabalho e no comportamento do povo Brasileiro.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240705185000 -0300" stop="20240705192000 -0300" channel="Band Paulista">
+    <title lang="pt">Band Cidade - Paulista</title>
+    <desc lang="pt"> - A integridade e a credibilidade do jornalismo Band em um telejornal presente em metade do estado de São Paulo. O Band Cidade traz informações das regiões de Araçatuba, Bauru, Marília, Presidente Prudente e São José do Rio Preto de maneira independente e imparcial. Presente e atuante na comunidade, o Band Cidade é referência na qualidade da informação.</desc>
+  </programme>
+  <programme start="20240705192000 -0300" stop="20240705203000 -0300" channel="Band Paulista">
+    <title lang="pt">Jornal da Band - ao vivo</title>
+    <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240705203000 -0300" stop="20240705220000 -0300" channel="Band Paulista">
+    <title lang="pt">Melhor da Noite - ao vivo</title>
+    <desc lang="pt"> - Programa de entretenimento que une informação e diversão em um só lugar.</desc>
+    <category lang="en">live broadcast</category>
+    <rating system="Brazil">
+      <value>[12] Não recomendado para menores de 12 anos</value>
+    </rating>
+  </programme>
+  <programme start="20240705220000 -0300" stop="20240705223000 -0300" channel="Band Paulista">
+    <title lang="pt">Perrengue do Dia - ao vivo</title>
+    <desc lang="pt"> - Programa humorístico que garante muita diversão para toda a família.</desc>
+    <category lang="en">live broadcast</category>
+    <rating system="Brazil">
+      <value>[12] Não recomendado para menores de 12 anos</value>
+    </rating>
+  </programme>
+  <programme start="20240705223000 -0300" stop="20240705232500 -0300" channel="Band Paulista">
+    <title lang="pt">Hora Max - Operação Fronteira</title>
+    <desc lang="pt"> - Operação Fronteira Brasil mostra o trabalho incansável da Polícia Rodoviária Federal no combate ao contrabando e ao crime organizado. 
+</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[14] Não recomendado para menores de 14 anos</value>
+    </rating>
+  </programme>
+  <programme start="20240705232500 -0300" stop="20240706002000 -0300" channel="Band Paulista">
+    <title lang="pt">Jornal da Noite - ao vivo</title>
+    <desc lang="pt"> - Análises, entrevistas, matérias especiais e todos os fatos relevantes do dia no Brasil e no mundo.  </desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240706002000 -0300" stop="20240706012000 -0300" channel="Band Paulista">
+    <title lang="pt">Esporte Total - ao vivo</title>
+    <desc lang="pt"> - Um resumo das últimas rodadas do futebol brasileiro e internacional e tudo sobre as modalidades esportivas ao redor do mundo.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240706012000 -0300" stop="20240706020500 -0300" channel="Band Paulista">
+    <title lang="pt">O Melhor do UFC</title>
+    <desc lang="pt"> - Uma análise dos cards, melhores momentos e os bastidores do UFC.</desc>
+  </programme>
+  <programme start="20240706020500 -0300" stop="20240706024000 -0300" channel="Band Paulista">
+    <title lang="pt">NBA Action</title>
+    <desc lang="pt"> - Uma análise completa e os bastidores da rodada NBA.</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20240706024000 -0300" stop="20240706030000 -0300" channel="Band Paulista">
+    <title lang="pt">Mais INFO</title>
+    <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20240706040000 -0300" stop="20240706053000 -0300" channel="Band Paulista">
+    <title lang="pt">Estação Cinema </title>
+    <desc lang="pt"> - Sessão noturna de filmes com espaço para todos os gêneros do cinema e grandes produções.
+
+</desc>
+    <category lang="en">film/cinema</category>
+    <rating system="Brazil">
+      <value>[16] Não recomendado para menores de 16 anos</value>
+    </rating>
+  </programme>
+  <programme start="20240706053000 -0300" stop="20240706060000 -0300" channel="Band Paulista">
+    <title lang="pt">Mais INFO</title>
+    <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20240706060000 -0300" stop="20240706063000 -0300" channel="Band Paulista">
+    <title lang="pt">Band Kids - Os Chocolix</title>
+    <desc lang="pt"> - Os Chocolix são uma família de chocolates de cores diferentes que vivem no esplêndido Reino de Chocolândia.</desc>
+    <category lang="en">cartoons/puppets</category>
+    <rating system="Brazil">
+      <value>[Livre] Não recomendado para menores de Livre anos</value>
+    </rating>
+  </programme>
+  <programme start="20240706063000 -0300" stop="20240706070000 -0300" channel="Band Paulista">
+    <title lang="pt">AgroBand - ao vivo</title>
+    <desc lang="pt"> - Entrevistas e reportagens especiais sobre o agronegócio resumem o programa.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240706070000 -0300" stop="20240706073000 -0300" channel="Band Paulista">
+    <title lang="pt">Manhã de Sábado - ao vivo</title>
+    <desc lang="pt"> - Programa que visita as cidades da região, mostrando sua cultura e gastronomia.</desc>
+    <category lang="en">live broadcast</category>
+    <rating system="Brazil">
+      <value>[Livre] Não recomendado para menores de Livre anos</value>
+    </rating>
+  </programme>
+  <programme start="20240706070000 -0300" stop="20240706073000 -0300" channel="Band Paulista">
+    <title lang="pt">Vem Comigo com Tuca Noronha</title>
+    <desc lang="pt"> - O programa apresenta os lugares mais incríveis do Brasil com dicas de turismo e gastronomia.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[Livre] Não recomendado para menores de Livre anos</value>
+    </rating>
+  </programme>
+  <programme start="20240706073000 -0300" stop="20240706080000 -0300" channel="Band Paulista">
+    <title lang="pt">Auto Motor Vrum</title>
+    <desc lang="pt"> - Um espaço dedicado ao público apaixonado por carros. Dicas de oficina, prestação de serviços, participação do telespectador, lançamentos, impressões ao volante, test  drive, super motos e cobertura dos salões internacionais.</desc>
+    <rating system="Brazil">
+      <value>[Livre] Não recomendado para menores de Livre anos</value>
+    </rating>
+  </programme>
+  <programme start="20240706080000 -0300" stop="20240706083000 -0300" channel="Band Paulista">
+    <title lang="pt">Religioso - Mudança de Vida</title>
+    <desc lang="pt"> - Informação aos fiéis.</desc>
+  </programme>
+  <programme start="20240706083000 -0300" stop="20240706090000 -0300" channel="Band Paulista">
+    <title lang="pt">Band Kids - O Diário de Mika</title>
+    <desc lang="pt"> - Mika, uma menina de quatro anos muito curiosa, aprende a lidar com tudo que o mundo tem para oferecer.</desc>
+    <category lang="en">cartoons/puppets</category>
+    <rating system="Brazil">
+      <value>[Livre] Não recomendado para menores de Livre anos</value>
+    </rating>
+  </programme>
+  <programme start="20240706090000 -0300" stop="20240706093000 -0300" channel="Band Paulista">
+    <title lang="pt">Band Mulher - Paulista - ao vivo</title>
+    <desc lang="pt"> - O programa traz tudo sobre os principais assuntos do universo feminino, como saúde, família, carreira profissional, moda, beleza e bem-estar.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240706093000 -0300" stop="20240706094500 -0300" channel="Band Paulista">
+    <title lang="pt">Mais INFO</title>
+    <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20240706094500 -0300" stop="20240706100000 -0300" channel="Band Paulista">
+    <title lang="pt">Histórias dos Empresários</title>
+    <desc lang="pt"> - O programa conta histórias reais e inspiradoras de pessoas, que de uma pequena ideia, criaram grandes negócios.</desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20240706100000 -0300" stop="20240706103000 -0300" channel="Band Paulista">
+    <title lang="pt">DNA</title>
+    <desc lang="pt"> - De pergunta em pergunta o programa revela a história de vida dos grandes  empresários e personalidades da nossa região.</desc>
+  </programme>
+  <programme start="20240706103000 -0300" stop="20240706121500 -0300" channel="Band Paulista">
+    <title lang="pt">Fórmula 1 2024</title>
+    <desc lang="pt"> - As emoções da modalidade mais popular do mundo do automobilismo na tela da Band.</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20240706121500 -0300" stop="20240706124500 -0300" channel="Band Paulista">
+    <title lang="pt">Agro, Do Campo Pra Você</title>
+    <desc lang="pt"> - Histórias de quem vive no campo, trabalha e produz para o Brasil e o Mundo. Saiba como o agro está presente na sua vida, mesmo nos grandes centros urbanos.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20240706124500 -0300" stop="20240706131500 -0300" channel="Band Paulista">
+    <title lang="pt">Mundo dos Negócios</title>
+    <desc lang="pt"> - Programa que mostra o dia a dia de grandes e pequenas empresas de diversos estados do Brasil.</desc>
+  </programme>
+  <programme start="20240706131500 -0300" stop="20240706134500 -0300" channel="Band Paulista">
+    <title lang="pt">Igreja Cristã Maranata</title>
+    <desc lang="pt"> - A Igreja Cristã Maranata é uma comunidade evangélica, com sede localizada em Vila Velha, ES. Que crê e propaga a pratica dos ensinamentos das escrituras sagradas.</desc>
+    <category lang="en">religion</category>
+  </programme>
+  <programme start="20240706134500 -0300" stop="20240706144500 -0300" channel="Band Paulista">
+    <title lang="pt">Prêmio Band Cidades Excelentes </title>
+    <desc lang="pt"> - Premiação das cidades com boas práticas da gestão pública.</desc>
+  </programme>
+  <programme start="20240706144500 -0300" stop="20240706160000 -0300" channel="Band Paulista">
+    <title lang="pt">Band Esporte Clube - ao vivo</title>
+    <desc lang="pt"> - Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240706162000 -0300" stop="20240706192000 -0300" channel="Band Paulista">
+    <title lang="pt">Campeonato Brasileiro Série B</title>
+    <desc lang="pt"> - Torneio de futebol brasileiro com os clubes da segunda divisão.
+</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20240706192000 -0300" stop="20240706203000 -0300" channel="Band Paulista">
+    <title lang="pt">Jornal da Band - ao vivo</title>
+    <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240706203000 -0300" stop="20240706220000 -0300" channel="Band Paulista">
+    <title lang="pt">Programa do João</title>
+    <desc lang="pt"> - Um programa de auditório que vai trazer muita animação e uma ampla variedade de conteúdo para o seu sábado a noite.</desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20240706220000 -0300" stop="20240706230000 -0300" channel="Band Paulista">
+    <title lang="pt">The Blacklist</title>
+    <desc lang="pt"> - Raymond Reddington é um fugitivo que decide se entregar ao FBI e ajudar a prender criminosos internacionais em parceria com a agente Liz Keen.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <rating system="Brazil">
+      <value>[16] Não recomendado para menores de 16 anos</value>
+    </rating>
+  </programme>
+  <programme start="20240706230000 -0300" stop="20240707010000 -0300" channel="Band Paulista">
+    <title lang="pt">SFT</title>
+    <desc lang="pt"> - Evento de MMA, com transmissão das melhores lutas.</desc>
+  </programme>
+  <programme start="20240707010000 -0300" stop="20240707020000 -0300" channel="Band Paulista">
+    <title lang="pt">BWF</title>
+    <desc lang="pt"> - Um programa de entretenimento esportivo</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20240707020000 -0300" stop="20240707030000 -0300" channel="Band Paulista">
+    <title lang="pt">Cine Privé</title>
+    <desc lang="pt"> - O AMANTE MISTERIOSO: Desencantado com seu trabalho e marido traidor, um redator de anúncios coloca um anúncio pessoal para um amante que é rapidamente respondido. O que começa como uma ligação tórrida e apaixonada se transforma em um exercício de obsessão perigosa.
+
+</desc>
+    <category lang="en">adult movie/drama</category>
+    <rating system="Brazil">
+      <value>[18] Não recomendado para menores de 18 anos</value>
+    </rating>
+  </programme>
+  <programme start="20240707030000 -0300" stop="20240707040000 -0300" channel="Band Paulista">
+    <title lang="pt">Jornal da Band - reapresentação</title>
+    <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20240707040000 -0300" stop="20240707053000 -0300" channel="Band Paulista">
+    <title lang="pt">Cinema na Madrugada</title>
+    <desc lang="pt"> - Uma sessão de filmes clássicos e campeões de bilheteria.
+</desc>
+    <category lang="en">film/cinema</category>
+    <rating system="Brazil">
+      <value>[12] Não recomendado para menores de 12 anos</value>
+    </rating>
+  </programme>
+  <programme start="20240707053000 -0300" stop="20240707060000 -0300" channel="Band Paulista">
+    <title lang="pt">Mais INFO</title>
+    <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20240707060000 -0300" stop="20240707063000 -0300" channel="Band Paulista">
+    <title lang="pt">Band Kids - Os Chocolix</title>
+    <desc lang="pt"> - Os Chocolix são uma família de chocolates de cores diferentes que vivem no esplêndido Reino de Chocolândia.</desc>
+    <category lang="en">cartoons/puppets</category>
+    <rating system="Brazil">
+      <value>[Livre] Não recomendado para menores de Livre anos</value>
+    </rating>
+  </programme>
+  <programme start="20240707063000 -0300" stop="20240707070000 -0300" channel="Band Paulista">
+    <title lang="pt">AgroBand - ao vivo</title>
+    <desc lang="pt"> - Entrevistas e reportagens especiais sobre o agronegócio resumem o programa.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240707070000 -0300" stop="20240707073000 -0300" channel="Band Paulista">
+    <title lang="pt">Auto Motor Vrum</title>
+    <desc lang="pt"> - Um espaço dedicado ao público apaixonado por carros. Dicas de oficina, prestação de serviços, participação do telespectador, lançamentos, impressões ao volante, test  drive, super motos e cobertura dos salões internacionais.</desc>
+    <rating system="Brazil">
+      <value>[Livre] Não recomendado para menores de Livre anos</value>
+    </rating>
+  </programme>
+  <programme start="20240707073000 -0300" stop="20240707080000 -0300" channel="Band Paulista">
+    <title lang="pt">Religioso - Mudança de Vida</title>
+    <desc lang="pt"> - Informação aos fiéis.</desc>
+  </programme>
+  <programme start="20240707080000 -0300" stop="20240707083000 -0300" channel="Band Paulista">
+    <title lang="pt">Band Kids - O Diário de Mika</title>
+    <desc lang="pt"> - Mika, uma menina de quatro anos muito curiosa, aprende a lidar com tudo que o mundo tem para oferecer.</desc>
+    <category lang="en">cartoons/puppets</category>
+    <rating system="Brazil">
+      <value>[Livre] Não recomendado para menores de Livre anos</value>
+    </rating>
+  </programme>
+  <programme start="20240707083000 -0300" stop="20240707090000 -0300" channel="Band Paulista">
+    <title lang="pt">Band Eleições</title>
+    <desc lang="pt"> - Entrevistas, reportagens e debates. Uma fonte de informações para ajudar o eleitor a escolher quem é o melhor candidato.</desc>
+  </programme>
+  <programme start="20240707090000 -0300" stop="20240707100000 -0300" channel="Band Paulista">
+    <title lang="pt">INFOMERCIAL - SP Cap</title>
+    <desc lang="pt"> - Sorteio dominical de prêmios.</desc>
+    <category lang="en">advertisement/shopping</category>
+  </programme>
+  <programme start="20240707100000 -0300" stop="20240707103000 -0300" channel="Band Paulista">
+    <title lang="pt">Arena Aberta</title>
+    <desc lang="pt"> - O programa mostra o mundo do Rodeio, o agro, e tudo que a raiz sertaneja da nossa região tem de melhor, sempre com convidados especiais.</desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20240707103000 -0300" stop="20240707130000 -0300" channel="Band Paulista">
+    <title lang="pt">Fórmula 1 2024</title>
+    <desc lang="pt"> - As emoções da modalidade mais popular do mundo do automobilismo na tela da Band.</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20240707130000 -0300" stop="20240707143000 -0300" channel="Band Paulista">
+    <title lang="pt">Viva Sorte</title>
+    <desc lang="pt"> - Programa de sorteios que transforma vidas em todo o Brasil. São vários prêmios e lindas histórias pelo caminho.</desc>
+  </programme>
+  <programme start="20240707143000 -0300" stop="20240707154500 -0300" channel="Band Paulista">
+    <title lang="pt">Show do Esporte - ao vivo</title>
+    <desc lang="pt"> - O canal do Esporte traz a cobertura completa dos campeonatos de futebol, automobilismo e basquete.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240707154500 -0300" stop="20240707180000 -0300" channel="Band Paulista">
+    <title lang="pt">Campeonato Brasileiro Série B</title>
+    <desc lang="pt"> - Torneio de futebol brasileiro com os clubes da segunda divisão.
+</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20240707180000 -0300" stop="20240707200000 -0300" channel="Band Paulista">
+    <title lang="pt">Apito Final - ao vivo</title>
+    <desc lang="pt"> - Um giro esportivo da semana para você ficar por dentro de tudo o que acontece no mundo da bola.</desc>
+    <category lang="en">live broadcast</category>
+    <rating system="Brazil">
+      <value>[Livre] Não recomendado para menores de Livre anos</value>
+    </rating>
+  </programme>
+  <programme start="20240707200000 -0300" stop="20240707220000 -0300" channel="Band Paulista">
+    <title lang="pt">Perrengue Na Band - ao vivo</title>
+    <desc lang="pt"> - Programa humorístico que garante muita diversão para toda a família.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240707220000 -0300" stop="20240707233000 -0300" channel="Band Paulista">
+    <title lang="pt">Top Cine</title>
+    <desc lang="pt"> - Uma sessão dedicada aos filmes de comédia, ação, aventura e suspense. 
+</desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20240707233000 -0300" stop="20240707235900 -0300" channel="Band Paulista">
+    <title lang="pt">Canal Livre</title>
+    <desc lang="pt"> - Momento de entrevista e análise com personalidades do mundo político, econômico, cultural, esportivo, científico e empresarial.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20240707003000 -0300" stop="20240707013000 -0300" channel="Band Paulista">
+    <title lang="pt">Nascar Cup Series</title>
+    <desc lang="pt"> - As emoções da modalidade da Nascar Cup Series</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20240707013000 -0300" stop="20240707020000 -0300" channel="Band Paulista">
+    <title lang="pt">Linha de Combate - Reapresentação</title>
+    <desc lang="pt"> - O programa mostra o dia a dia dos profissionais que estão na linha de frente combatendo o crime e salvando vidas.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[14] Não recomendado para menores de 14 anos</value>
+    </rating>
+  </programme>
+  <programme start="20240707013000 -0300" stop="20240707020000 -0300" channel="Band Paulista">
+    <title lang="pt">DNA</title>
+    <desc lang="pt"> - De pergunta em pergunta o programa revela a história de vida dos grandes  empresários e personalidades da nossa região.</desc>
+  </programme>
+  <programme start="20240707030000 -0300" stop="20240707035900 -0300" channel="Band Paulista">
+    <title lang="pt">Sex Privé Club</title>
+    <desc lang="pt"> - Programa que aborda temas relacionados a sexo, relacionamento e bem-estar de forma respeitosa e bem-humorada, ajudando as pessoas a quebrarem tabus.</desc>
+    <rating system="Brazil">
+      <value>[18] Não recomendado para menores de 18 anos</value>
+    </rating>
+  </programme>
+  <programme start="20240708040000 -0300" stop="20240708054500 -0300" channel="Band Paulista">
+    <title lang="pt">1º Jornal - ao vivo</title>
+    <desc lang="pt"> - As principais notícias do Brasil e do Mundo, com agilidade e prestação de serviços, deixando o telespectador bem informado logo nas primeiras horas da manhã.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240708054500 -0300" stop="20240708060000 -0300" channel="Band Paulista">
+    <title lang="pt">Religioso</title>
+    <desc lang="pt"> - Informações aos fiéis. </desc>
+  </programme>
+  <programme start="20240708060000 -0300" stop="20240708080000 -0300" channel="Band Paulista">
+    <title lang="pt">Igreja Unida Deus Proverá - ao vivo</title>
+    <desc lang="pt"> - o Bispo Luciano Neves busca impactar pessoas através de conteúdos que trazem avivamento da fé e encorajamento para as dificuldades da vida. </desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240708080000 -0300" stop="20240708090000 -0300" channel="Band Paulista">
+    <title lang="pt">Bora SP Interior - ao vivo</title>
+    <desc lang="pt"> - Programa jornalístico leve, interativo e com muita prestação de serviço, valorizando sempre as notícias locais.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240708090000 -0300" stop="20240708092500 -0300" channel="Band Paulista">
+    <title lang="pt">Bora Brasil - ao vivo</title>
+    <desc lang="pt"> - As principais informações do Brasil e do Mundo com leveza, interatividade e credibilidade.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240708092500 -0300" stop="20240708110000 -0300" channel="Band Paulista">
+    <title lang="pt">The Chef - ao vivo</title>
+    <desc lang="pt"> - Programa culinário com as maiores receitas de Edu Guedes.</desc>
+    <category lang="en">live broadcast</category>
+    <rating system="Brazil">
+      <value>[Livre] Não recomendado para menores de Livre anos</value>
+    </rating>
+  </programme>
+  <programme start="20240708110000 -0300" stop="20240708120000 -0300" channel="Band Paulista">
+    <title lang="pt">Jogo Aberto - ao vivo</title>
+    <desc lang="pt"> - Notícias, debates diários e tudo o que você precisa saber sobre o futebol e os demais esportes no Brasil e ao redor do mundo.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240708120000 -0300" stop="20240708130000 -0300" channel="Band Paulista">
+    <title lang="pt">Jogo Aberto - Debate - ao vivo</title>
+    <desc lang="pt"> - Depois do noticiário é hora de debater as novidades. O programa reúne jornalistas e esportistas para falar sobre o que tem rolado de mais quente no futebol do Brasil e do mundo e nos demais esportes populares.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240708130000 -0300" stop="20240708132500 -0300" channel="Band Paulista">
+    <title lang="pt">Os Donos da Bola - Paulista - ao vivo</title>
+    <desc lang="pt"> - O programa de debate sobre o mundo do futebol mais bem humorado da TV.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240708132500 -0300" stop="20240708135000 -0300" channel="Band Paulista">
+    <title lang="pt">Band Cidade - Paulista</title>
+    <desc lang="pt"> - A integridade e a credibilidade do jornalismo Band em um telejornal presente em metade do estado de São Paulo. O Band Cidade traz informações das regiões de Araçatuba, Bauru, Marília, Presidente Prudente e São José do Rio Preto de maneira independente e imparcial. Presente e atuante na comunidade, o Band Cidade é referência na qualidade da informação.</desc>
+  </programme>
+  <programme start="20240708135000 -0300" stop="20240708143000 -0300" channel="Band Paulista">
+    <title lang="pt">Band Mulher - Paulista - ao vivo</title>
+    <desc lang="pt"> - O programa traz tudo sobre os principais assuntos do universo feminino, como saúde, família, carreira profissional, moda, beleza e bem-estar.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240708143000 -0300" stop="20240708160000 -0300" channel="Band Paulista">
+    <title lang="pt">Melhor da Tarde - ao vivo</title>
+    <desc lang="pt"> - Dicas de bem-estar, culinária, fofocas, astrologia e muito mais. Todo dia, uma tarde diferente com um time completo de colaboradores.</desc>
+    <category lang="en">live broadcast</category>
+    <rating system="Brazil">
+      <value>[Livre] Não recomendado para menores de Livre anos</value>
+    </rating>
+  </programme>
+  <programme start="20240708160000 -0300" stop="20240708185000 -0300" channel="Band Paulista">
+    <title lang="pt">Brasil Urgente  - ao vivo</title>
+    <desc lang="pt"> - Os acontecimentos do dia, com foco na segurança, no transporte, na saúde, no trabalho e no comportamento do povo Brasileiro.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240708185000 -0300" stop="20240708192000 -0300" channel="Band Paulista">
+    <title lang="pt">Band Cidade - Paulista</title>
+    <desc lang="pt"> - A integridade e a credibilidade do jornalismo Band em um telejornal presente em metade do estado de São Paulo. O Band Cidade traz informações das regiões de Araçatuba, Bauru, Marília, Presidente Prudente e São José do Rio Preto de maneira independente e imparcial. Presente e atuante na comunidade, o Band Cidade é referência na qualidade da informação.</desc>
+  </programme>
+  <programme start="20240708192000 -0300" stop="20240708203000 -0300" channel="Band Paulista">
+    <title lang="pt">Jornal da Band - ao vivo</title>
+    <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240708203000 -0300" stop="20240708220000 -0300" channel="Band Paulista">
+    <title lang="pt">Melhor da Noite - ao vivo</title>
+    <desc lang="pt"> - Programa de entretenimento que une informação e diversão em um só lugar.</desc>
+    <category lang="en">live broadcast</category>
+    <rating system="Brazil">
+      <value>[12] Não recomendado para menores de 12 anos</value>
+    </rating>
+  </programme>
+  <programme start="20240708220000 -0300" stop="20240708223000 -0300" channel="Band Paulista">
+    <title lang="pt">Perrengue do Dia - ao vivo</title>
+    <desc lang="pt"> - Programa humorístico que garante muita diversão para toda a família.</desc>
+    <category lang="en">live broadcast</category>
+    <rating system="Brazil">
+      <value>[12] Não recomendado para menores de 12 anos</value>
+    </rating>
+  </programme>
+  <programme start="20240708223000 -0300" stop="20240709001500 -0300" channel="Band Paulista">
+    <title lang="pt">Sessão Especial</title>
+    <desc lang="pt"> - Espaço reservado para exibição extra de consagradas produções cinematográficas. </desc>
+    <category lang="en">film/cinema</category>
+    <rating system="Brazil">
+      <value>[Livre] Não recomendado para menores de Livre anos</value>
+    </rating>
+  </programme>
+  <programme start="20240709001500 -0300" stop="20240709011000 -0300" channel="Band Paulista">
+    <title lang="pt">Jornal da Noite - ao vivo</title>
+    <desc lang="pt"> - Análises, entrevistas, matérias especiais e todos os fatos relevantes do dia no Brasil e no mundo.  </desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240709011000 -0300" stop="20240709020500 -0300" channel="Band Paulista">
+    <title lang="pt">Esporte Total - ao vivo</title>
+    <desc lang="pt"> - Um resumo das últimas rodadas do futebol brasileiro e internacional e tudo sobre as modalidades esportivas ao redor do mundo.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240709020500 -0300" stop="20240709024000 -0300" channel="Band Paulista">
+    <title lang="pt">Resenha do Galinho</title>
+    <desc lang="pt"> - Um programa jornalístico onde Zico comanda um bate-papo descontraído a respeito do mundo dos esportes.</desc>
+  </programme>
+  <programme start="20240709024000 -0300" stop="20240709030000 -0300" channel="Band Paulista">
     <title lang="pt">Mais INFO</title>
     <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
@@ -11205,6 +11887,21 @@ O programa de debate sobre o mundo do futebol mais bem humorado da TV.</desc>
     <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
+  <programme start="20240706060000 -0300" stop="20240706070000 -0300" channel="Band Vale">
+    <title lang="pt">Band Kids - Os Chocolix</title>
+    <desc lang="pt"> - Os Chocolix são uma família de chocolates de cores diferentes que vivem no esplêndido Reino de Chocolândia.</desc>
+    <category lang="en">cartoons/puppets</category>
+    <rating system="Brazil">
+      <value>[Livre] Não recomendado para menores de Livre anos</value>
+    </rating>
+  </programme>
+  <programme start="20240706070000 -0300" stop="20240706073000 -0300" channel="Band Vale">
+    <title lang="pt">Infomercial - Vale Shop</title>
+    <desc lang="pt"> - Uma revista eletrônica que oferece ao telespectador a oportunidade de pesquisar sobre os mais diversos produtos. </desc>
+    <rating system="Brazil">
+      <value>[Livre] Não recomendado para menores de Livre anos</value>
+    </rating>
+  </programme>
   <programme start="20240706070000 -0300" stop="20240706073000 -0300" channel="Band Vale">
     <title lang="pt">Página Cultural</title>
     <desc lang="pt"> - Semanalmente apresentada uma cidade da região, exaltando sua cultura, turismo e a gastronomia.</desc>
@@ -11212,20 +11909,19 @@ O programa de debate sobre o mundo do futebol mais bem humorado da TV.</desc>
       <value>[Livre] Não recomendado para menores de Livre anos</value>
     </rating>
   </programme>
+  <programme start="20240706073000 -0300" stop="20240706080000 -0300" channel="Band Vale">
+    <title lang="pt">Infomercial </title>
+    <desc lang="pt"> - Espaço Publicitário.</desc>
+    <category lang="en">advertisement/shopping</category>
+  </programme>
   <programme start="20240706080000 -0300" stop="20240706083000 -0300" channel="Band Vale">
-    <title lang="pt">Infomercial - Vale Shop</title>
-    <desc lang="pt"> - Uma revista eletrônica que oferece ao telespectador a oportunidade de pesquisar sobre os mais diversos produtos. </desc>
-    <rating system="Brazil">
-      <value>[Livre] Não recomendado para menores de Livre anos</value>
-    </rating>
+    <title lang="pt">O Mundo de Kaboo</title>
+    <desc lang="pt"> - O Mundo de Kaboo é um programa infantil divertido, interativo e muito educativo para crianças de todas as idades.</desc>
   </programme>
   <programme start="20240706083000 -0300" stop="20240706090000 -0300" channel="Band Vale">
-    <title lang="pt">Infomercial - Sincovat Tv</title>
-    <desc lang="pt"> - Espaço Publicitário </desc>
-  </programme>
-  <programme start="20240706090000 -0300" stop="20240706091500 -0300" channel="Band Vale">
-    <title lang="pt">Em Família</title>
-    <desc lang="pt"> - Histórias de famílias que trazem questionamentos e até soluções para diferentes conflitos familiares.</desc>
+    <title lang="pt">Construção &amp; Valor</title>
+    <desc lang="pt"> - O programa Construção &amp; Valor vai além de entrevistas, uma experiência interativa que conecta o público com tendências, estratégias e histórias inspiradoras</desc>
+    <category lang="en">variety show</category>
   </programme>
   <programme start="20240706090000 -0300" stop="20240706101500 -0300" channel="Band Vale">
     <title lang="pt">Manhã na Band</title>
@@ -11233,6 +11929,10 @@ O programa de debate sobre o mundo do futebol mais bem humorado da TV.</desc>
     <rating system="Brazil">
       <value>[Livre] Não recomendado para menores de Livre anos</value>
     </rating>
+  </programme>
+  <programme start="20240706090000 -0300" stop="20240706091500 -0300" channel="Band Vale">
+    <title lang="pt">Em Família</title>
+    <desc lang="pt"> - Histórias de famílias que trazem questionamentos e até soluções para diferentes conflitos familiares.</desc>
   </programme>
   <programme start="20240706101500 -0300" stop="20240706103000 -0300" channel="Band Vale">
     <title lang="pt">Tudo com Estilo </title>
@@ -11328,9 +12028,10 @@ O programa de debate sobre o mundo do futebol mais bem humorado da TV.</desc>
     <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
-  <programme start="20240707070000 -0300" stop="20240707073000 -0300" channel="Band Vale">
-    <title lang="pt">Infomercial - Vale Shop</title>
-    <desc lang="pt"> - Uma revista eletrônica que oferece ao telespectador a oportunidade de pesquisar sobre os mais diversos produtos. </desc>
+  <programme start="20240707060000 -0300" stop="20240707073000 -0300" channel="Band Vale">
+    <title lang="pt">Band Kids - Os Chocolix</title>
+    <desc lang="pt"> - Os Chocolix são uma família de chocolates de cores diferentes que vivem no esplêndido Reino de Chocolândia.</desc>
+    <category lang="en">cartoons/puppets</category>
     <rating system="Brazil">
       <value>[Livre] Não recomendado para menores de Livre anos</value>
     </rating>
@@ -11342,16 +12043,38 @@ O programa de debate sobre o mundo do futebol mais bem humorado da TV.</desc>
       <value>[Livre] Não recomendado para menores de Livre anos</value>
     </rating>
   </programme>
-  <programme start="20240707080000 -0300" stop="20240707083000 -0300" channel="Band Vale">
+  <programme start="20240707073000 -0300" stop="20240707080000 -0300" channel="Band Vale">
     <title lang="pt">Infomercial - Vale Shop</title>
     <desc lang="pt"> - Uma revista eletrônica que oferece ao telespectador a oportunidade de pesquisar sobre os mais diversos produtos. </desc>
     <rating system="Brazil">
       <value>[Livre] Não recomendado para menores de Livre anos</value>
     </rating>
   </programme>
-  <programme start="20240707083000 -0300" stop="20240707093000 -0300" channel="Band Vale">
+  <programme start="20240707080000 -0300" stop="20240707083000 -0300" channel="Band Vale">
+    <title lang="pt">Band Kids - O Diário de Mika</title>
+    <desc lang="pt"> - Mika, uma menina de quatro anos muito curiosa, aprende a lidar com tudo que o mundo tem para oferecer.</desc>
+    <category lang="en">cartoons/puppets</category>
+    <rating system="Brazil">
+      <value>[Livre] Não recomendado para menores de Livre anos</value>
+    </rating>
+  </programme>
+  <programme start="20240707083000 -0300" stop="20240707090000 -0300" channel="Band Vale">
+    <title lang="pt">Infomercial - Vale Shop</title>
+    <desc lang="pt"> - Uma revista eletrônica que oferece ao telespectador a oportunidade de pesquisar sobre os mais diversos produtos. </desc>
+    <rating system="Brazil">
+      <value>[Livre] Não recomendado para menores de Livre anos</value>
+    </rating>
+  </programme>
+  <programme start="20240707090000 -0300" stop="20240707100000 -0300" channel="Band Vale">
     <title lang="pt">Infomercial - Vale Cap</title>
     <desc lang="pt"> - Transmissão dos sorteios do título de capitalização</desc>
+    <rating system="Brazil">
+      <value>[Livre] Não recomendado para menores de Livre anos</value>
+    </rating>
+  </programme>
+  <programme start="20240707100000 -0300" stop="20240707103000 -0300" channel="Band Vale">
+    <title lang="pt">Infomercial - Vale Shop</title>
+    <desc lang="pt"> - Uma revista eletrônica que oferece ao telespectador a oportunidade de pesquisar sobre os mais diversos produtos. </desc>
     <rating system="Brazil">
       <value>[Livre] Não recomendado para menores de Livre anos</value>
     </rating>
