@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2024-07-08 19:45:03" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2024-07-08 21:15:03" generator-info-url="http://limaalef.com">
   <channel id="Claro TV+ 4K">
     <display-name lang="pt">Claro TV+ 4K</display-name>
   </channel>
@@ -146,6 +146,9 @@
   </channel>
   <channel id="premiere">
     <display-name lang="pt">premiere</display-name>
+  </channel>
+  <channel id="premiere-2">
+    <display-name lang="pt">premiere-2</display-name>
   </channel>
   <channel id="combate">
     <display-name lang="pt">combate</display-name>
@@ -20696,11 +20699,6 @@
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
-  <programme start="" stop="" channel="1682">
-    <title lang="pt">Documentário TV Câmara</title>
-    <desc lang="pt"> - </desc>
-    <category lang="en">documentary</category>
-  </programme>
   <programme start="" stop="" channel="1765">
     <title lang="pt">Brasil em Constituição</title>
     <desc lang="pt"> - </desc>
@@ -20861,11 +20859,6 @@
     <desc lang="pt"> - </desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
-  <programme start="" stop="" channel="1765">
-    <title lang="pt">Brasil em Constituição</title>
-    <desc lang="pt"> - </desc>
-    <category lang="en">movie/drama (general)</category>
-  </programme>
   <programme start="" stop="" channel="1779">
     <title lang="pt">Senadoc: Os Anos JK - Uma Trajetória Política</title>
     <desc lang="pt"> - </desc>
@@ -20988,11 +20981,6 @@
   </programme>
   <programme start="" stop="" channel="1779">
     <title lang="pt">Senadoc</title>
-    <desc lang="pt"> - </desc>
-    <category lang="en">documentary</category>
-  </programme>
-  <programme start="" stop="" channel="1779">
-    <title lang="pt">Senadoc: Arte No Caos</title>
     <desc lang="pt"> - </desc>
     <category lang="en">documentary</category>
   </programme>
@@ -21153,11 +21141,6 @@
   </programme>
   <programme start="" stop="" channel="2302">
     <title lang="pt">Atos do Executivo</title>
-    <desc lang="pt"> - </desc>
-    <category lang="en">variety show</category>
-  </programme>
-  <programme start="" stop="" channel="2302">
-    <title lang="pt">Mulheres pela Independência</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
@@ -21466,28 +21449,28 @@
     <category lang="en">sports (general)</category>
     <new />
   </programme>
-  <programme start="20240708180528 -0300" stop="20240708193240 -0300" channel="sportv">
+  <programme start="20240708180528 -0300" stop="20240708193641 -0300" channel="sportv">
     <title lang="pt">Tá Na Área - ao vivo</title>
     <desc lang="pt"> - Aproveite o finalzinho da tarde para relaxar e de maneira divertida fique por dentro de todos os assuntos em alta do esporte com Camila Carelli e Thiago Benevenutte.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240708195759 -0300" stop="20240708222608 -0300" channel="sportv">
+  <programme start="20240708193642 -0300" stop="20240708220451 -0300" channel="sportv">
     <title lang="pt">Brasileirão Série B: Avaí x Novorizontino - ao vivo</title>
     <desc lang="pt">Confira mais um jogão do Brasileirão Masculino Série B! Tem coisa pra caramba!</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240708222621 -0300" stop="20240708233738 -0300" channel="sportv">
+  <programme start="20240708220454 -0300" stop="20240708231611 -0300" channel="sportv">
     <title lang="pt">Troca de Passes - ao vivo</title>
     <desc lang="pt"> - Felipe Diniz troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada. Veja os melhores momentos, tire as dúvidas daquele lance polêmico  acompanhe a repercussão com jogadores e treinadores no calor do jogo. Aqui ninguém fica em cima do muro. 
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240708233753 -0300" stop="20240708235549 -0300" channel="sportv">
+  <programme start="20240708231615 -0300" stop="20240708233411 -0300" channel="sportv">
     <title lang="pt">Especial Sportv: 10 Anos Do 7x1</title>
     <desc lang="pt">O 7x1 na visão dos vencedores.</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20240708235551 -0300" stop="20240709000920 -0300" channel="sportv">
+  <programme start="20240708233413 -0300" stop="20240708234742 -0300" channel="sportv">
     <title lang="pt">Heróis Do Futuro: Hebert Conceição - Boxe - Inédito</title>
     <desc lang="pt">Heróis no Futuro é uma série de 26 episódios de 8 minutos de 
 duração, onde as futuras estrelas mirins do esporte, virtuosos e dedicados 
@@ -21531,6 +21514,13 @@ Uma paixão que de fato transformou e segue transformando suas vidas.
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
+    <new />
+  </programme>
+  <programme start="20240708234744 -0300" stop="20240709004006 -0300" channel="sportv">
+    <title lang="pt">Giro da Rodada: Série A - Inédito</title>
+    <sub-title lang="pt">15ª Rodada</sub-title>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol aqui o sportv!</desc>
+    <category lang="en">sports (general)</category>
     <new />
   </programme>
   <programme start="20240707225233 -0300" stop="20240708010734 -0300" channel="sportv-2">
@@ -21619,7 +21609,7 @@ Uma paixão que de fato transformou e segue transformando suas vidas.
 </desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20240708184302 -0300" stop="20240708204258 -0300" channel="sportv-2">
+  <programme start="20240708184302 -0300" stop="20240708204253 -0300" channel="sportv-2">
     <title lang="pt">VT - Diamond League: 8ª Etapa</title>
     <sub-title lang="pt">Paris,França</sub-title>
     <desc lang="pt">Acompanhe a Diamond League, uma das principais competições de atletismo com grandes nomes do esporte.</desc>
@@ -21738,7 +21728,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
     <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
     <category lang="en">water sports</category>
   </programme>
-  <programme start="20240708141954 -0300" stop="20240708180014 -0300" channel="sportv-3">
+  <programme start="20240708141954 -0300" stop="20240708180011 -0300" channel="sportv-3">
     <title lang="pt">Faixa Combate: KSW 95: Wiklacz x Przybysz 5</title>
     <desc lang="pt">É a principal organização de artes marciais mistas da Polônia e uma das ligas líderes na Europa.</desc>
     <category lang="en">sports (general)</category>
@@ -22098,7 +22088,7 @@ de contexto.</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240708180010 -0300" stop="20240708190118 -0300" channel="multishow">
+  <programme start="20240708180010 -0300" stop="20240708190152 -0300" channel="multishow">
     <title lang="pt">TVZ Ao Vivo com Preta Gil - ao vivo</title>
     <sub-title lang="pt">Liniker (ao vivo)</sub-title>
     <desc lang="pt"> - Tvz Com Preta Gil - Liniker (ao vivo)
@@ -22108,7 +22098,7 @@ Programa exibido em 08 de julho de 2024</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240708190119 -0300" stop="20240708193332 -0300" channel="multishow">
+  <programme start="20240708190156 -0300" stop="20240708193409 -0300" channel="multishow">
     <title lang="pt">O Dono do Bar</title>
     <sub-title lang="pt">A Mentira</sub-title>
     <desc lang="pt"> - Américo reencontra, por acaso, um ex colega de trabalho das antigas e, com inveja da aparente boa situação financeira do homem, decide fingir que também está bem de vida.</desc>
@@ -22116,7 +22106,7 @@ Programa exibido em 08 de julho de 2024</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240708193335 -0300" stop="20240708200218 -0300" channel="multishow">
+  <programme start="20240708193412 -0300" stop="20240708200254 -0300" channel="multishow">
     <title lang="pt">O Dono do Bar</title>
     <sub-title lang="pt">Entrando pelo cano</sub-title>
     <desc lang="pt"> - Cris tem um sonho e Américo o incentiva a jogar no bicho. Em troca, pede ao cunhado que vá ao banco pagar uma conta atrasada, enquanto tenta adiantar a obra que está parada por causa das faltas do mestre de obras.</desc>
@@ -22124,7 +22114,7 @@ Programa exibido em 08 de julho de 2024</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240708200220 -0300" stop="20240708203217 -0300" channel="multishow">
+  <programme start="20240708200257 -0300" stop="20240708203255 -0300" channel="multishow">
     <title lang="pt">Tô de Graça</title>
     <sub-title lang="pt">Calores</sub-title>
     <desc lang="pt"> - Graça tem uma crise de calores, o ar condicionado está quebrado e a comunidade está em guerra. Ela sai em meio aos tiros e acaba virando heroína na comunidade.</desc>
@@ -22132,7 +22122,7 @@ Programa exibido em 08 de julho de 2024</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240708203239 -0300" stop="20240708210213 -0300" channel="multishow">
+  <programme start="20240708203256 -0300" stop="20240708210230 -0300" channel="multishow">
     <title lang="pt">Tô de Graça</title>
     <sub-title lang="pt">Refém de uma Paixão</sub-title>
     <desc lang="pt"> - Briti se apaixona por um bandido e começa a se articular para ajudá-lo dentro da prisão. O que ela não sabe é que o bandido, amigo de seu irmão Pablo, está apenas usando-a para armar sua fuga.</desc>
@@ -22140,7 +22130,7 @@ Programa exibido em 08 de julho de 2024</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240708210217 -0300" stop="20240708214443 -0300" channel="multishow">
+  <programme start="20240708210233 -0300" stop="20240708214459 -0300" channel="multishow">
     <title lang="pt">Vai que Cola</title>
     <sub-title lang="pt">Jessi e Jessimara</sub-title>
     <desc lang="pt"> - Jéssica precisa encontrar uma pessoa para ser sua dupla sertaneja. Então, ela e Sidlayne têm a ideia de inventar uma irmã gêmea para a cantora, fazendo surgir “Jéssi e Jessimara”.
@@ -22151,7 +22141,7 @@ Programa exibido em 08 de julho de 2024</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240708214447 -0300" stop="20240708223248 -0300" channel="multishow">
+  <programme start="20240708214504 -0300" stop="20240708223305 -0300" channel="multishow">
     <title lang="pt">Vai que Cola</title>
     <sub-title lang="pt">Absurdos Na Pensão</sub-title>
     <desc lang="pt"> - Dona Jô está cheia de dívidas e cansada da mordomia que dá para seus hóspedes. Ela resolve que a partir de agora só vai ter comida aquele que trabalhar e pensa seriamente em vender a pensão. Ela chega a marcar com uma senhora que está interessada em comprar a pensão, mas não imagina quanto absurdo pode sair dessa visita.</desc>
@@ -22159,7 +22149,7 @@ Programa exibido em 08 de julho de 2024</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240708223250 -0300" stop="20240708230532 -0300" channel="multishow">
+  <programme start="20240708223306 -0300" stop="20240708230548 -0300" channel="multishow">
     <title lang="pt">Bar do Gogó</title>
     <sub-title lang="pt">Xuxa</sub-title>
     <desc lang="pt"> - O Bar se enche de luz com a Rainha dos Baixinhos, que mordeu a jaca e abriu o coração sobre veganismo, intimidades, educação e uma nave prestes a pendurar as turbinas.</desc>
@@ -22167,7 +22157,7 @@ Programa exibido em 08 de julho de 2024</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240708230548 -0300" stop="20240708233537 -0300" channel="multishow">
+  <programme start="20240708230550 -0300" stop="20240708233539 -0300" channel="multishow">
     <title lang="pt">Portugal Show</title>
     <sub-title lang="pt">Autoescola - Cleo Pires</sub-title>
     <desc lang="pt"> - O Portugal Show vira uma autoescola pra receber Cleo, que conta suas histórias 
@@ -22177,7 +22167,7 @@ desentendimento no trânsito.</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240708233541 -0300" stop="20240709000550 -0300" channel="multishow">
+  <programme start="20240708233543 -0300" stop="20240709000552 -0300" channel="multishow">
     <title lang="pt">Tô de Graça</title>
     <sub-title lang="pt">Traição Não Tem Perdão</sub-title>
     <desc lang="pt"> - Ao mesmo tempo em que Graça divaga sobre traição e dá em cima de Fravio, Sonaira descobre que Marraia a traiu. Marraia pede ajuda da família em um plano para ser perdoada.</desc>
@@ -22393,7 +22383,7 @@ desentendimento no trânsito.</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240708181651 -0300" stop="20240708190120 -0300" channel="gnt">
+  <programme start="20240708181651 -0300" stop="20240708190117 -0300" channel="gnt">
     <title lang="pt">Que Marravilha!</title>
     <sub-title lang="pt">Minha Primeira Receita</sub-title>
     <desc lang="pt"> - Os chefs prepararam as primeiras receitas que criaram. Enquanto Claude e Batista preparam um blanquette de frango, Carola faz um brownie e uma calda de chocolate.</desc>
@@ -22451,7 +22441,7 @@ desentendimento no trânsito.</desc>
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20240708234353 -0300" stop="20240709002247 -0300" channel="gnt">
+  <programme start="20240708234353 -0300" stop="20240709000730 -0300" channel="gnt">
     <title lang="pt">Conversa Com Bial</title>
     <desc lang="pt"> - Com experiência de décadas de reportagem e o espírito curioso pela história do outro, Pedro Bial apresenta um amplo espaço para escutar, opinar e multiplicar opiniões.</desc>
     <rating system="Brazil">
@@ -23634,7 +23624,7 @@ aliada do nosso bem-estar.</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240708185455 -0300" stop="20240708190056 -0300" channel="bis">
+  <programme start="20240708185455 -0300" stop="20240708190055 -0300" channel="bis">
     <title lang="pt">Weks E Tássia Reis – Pérola</title>
     <sub-title lang="pt">Setlist</sub-title>
     <desc lang="pt"> - WEKS E TÁSSIA REIS – PÉROLA (INDEPENDENTE)</desc>
@@ -23731,7 +23721,7 @@ aliada do nosso bem-estar.</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240708235214 -0300" stop="20240709013240 -0300" channel="bis">
+  <programme start="20240708235214 -0300" stop="20240709013838 -0300" channel="bis">
     <title lang="pt">The Rolling Stones - Olé Olé Olé! A Trip Across Latin America</title>
     <sub-title lang="pt">Arquivo Musical</sub-title>
     <desc lang="pt"> - Documentário acompanha os Rolling Stones na turnê Olé pela América Latina, em 2016. O doc também aborda o histórico show em Havana, o 1º da banda em Cuba, que fechou a turnê.</desc>
@@ -24074,7 +24064,7 @@ aliada do nosso bem-estar.</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240708203129 -0300" stop="20240708210124 -0300" channel="modo-viagem">
+  <programme start="20240708203129 -0300" stop="20240708210127 -0300" channel="modo-viagem">
     <title lang="pt">Brasil Visto De Cima</title>
     <sub-title lang="pt">Centro Do Rio</sub-title>
     <desc lang="pt"> - Brasil Visto de Cima leva você a uma parte menos famosa do Rio de Janeiro: a sua região central. O passeio é uma aula de história e uma lição de arquitetura. Em meio a paisagens exuberantes, monumentos da fase colonial se misturam a exemplares da Belle Époque e do modernismo brasileiro e internacional.</desc>
@@ -24804,7 +24794,7 @@ aliada do nosso bem-estar.</desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20240708180337 -0300" stop="20240708192936 -0300" channel="premiere">
+  <programme start="20240708180337 -0300" stop="20240708192942 -0300" channel="premiere">
     <title lang="pt">VT - Brasileirão: Palmeiras x Bahia</title>
     <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
     <category lang="en">football/soccer</category>
@@ -24832,6 +24822,11 @@ aliada do nosso bem-estar.</desc>
     <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
+  </programme>
+  <programme start="20240708204500 -0300" stop="20240708225959 -0300" channel="premiere-2">
+    <title lang="pt">Brasileirão Série B: Amazonas x Vila Nova - ao vivo</title>
+    <desc lang="pt">Confira mais um jogão do Brasileirão Masculino Série B! Tem coisa pra caramba!</desc>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20240707233740 -0300" stop="20240708032759 -0300" channel="combate">
     <title lang="pt">VT - Bellator Champions Series - Paris: Mix x Magomedov 2</title>
@@ -24938,7 +24933,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">.16.</episode-num>
   </programme>
-  <programme start="20240708235630 -0300" stop="20240709012042 -0300" channel="combate">
+  <programme start="20240708235630 -0300" stop="20240709025249 -0300" channel="combate">
     <title lang="pt">VT - One Fight Night 23: Buntan x Meksen</title>
     <desc lang="pt">Terceira maior franquia de MMA mundial e a principal da Ásia, presente em mais de 170 países, o One é a liga esportiva de diferentes modalidades além do MMA como: Grappling, Muay Thai, Kickboxing. Nomes de atletas brasileiros: Fabrício Andrade, Marcus Buchecha, Allycia Hellen Rodrigues, André Galvão, e muitos outros.</desc>
     <category lang="en">sports (general)</category>
@@ -25156,78 +25151,32 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
     <category lang="en">news/current affairs (general)</category>
     <new />
   </programme>
-  <programme start="20240708235551 -0300" stop="20240709000920 -0300" channel="sportv">
-    <title lang="pt">Heróis Do Futuro: Hebert Conceição - Boxe - Inédito</title>
-    <desc lang="pt">Heróis no Futuro é uma série de 26 episódios de 8 minutos de 
-duração, onde as futuras estrelas mirins do esporte, virtuosos e dedicados 
-fenômenos espalhados pelo Brasil, serão colocados lado a lado daqueles 
-que são seus maiores ídolos. Seus heróis. Partindo desse dispositivo 
-simples, com a condução leve e carismática de Pedro Motta (o Pippo da 
-série “Detetives do Prédio Azul”) e com transições que flertam com a 
-linguagem dos HQs inspirados nos heróis em quadrinhos da Marvel, 
-vamos revelar de forma lúdica toda emoção que move a paixão pelo 
-esporte. Uma paixão que molda cidadãos de coragem e nos alimenta de 
-esperança para sonhar com um futuro de vitórias. A partir de uma pesquisa 
-profunda no universo de distintas categorias esportivas em todo Brasil, 
-vamos encontrar o futuro “Medina”, a futura “Rebeca” e a partir dessa 
-legítima investigação realizar um sonho. Todos os episódios devem iniciar 
-com o futuro astro mirim e o super astro real se apresentando e dizendo o 
-porquê de estarem no programa. Todos os programas devem lançar uma 
-pergunta que será respondida sempre após o break, uma espécie de quiz 
-interativo e provocador que estimule as crianças a saberem mais sobre o 
-esporte, num tom educativo e aspiracional. Entre outros jogos de 
-conhecimento, perguntas “malucas” formuladas por meninas e meninos 
-entre 8 e 12 anos, serão lançadas ao astro/herói, que de forma alegre vai 
-tentar responder. Por vezes perguntas sobre a própria infância do herói, 
-algumas sobre seus sonhos e outras sobre suas brincadeiras de criança. O 
-objetivo desse “dispositivo” é o de promover a interação do público jovem 
-e convidar a garotada a participar dessa história divertida e emocionante. 
-Uma experiência que irá produzir uma série de relatos reais, pensamentos 
-lúdicos e inspiradores, coletados de centenas de crianças espalhadas por 
-todo o país. Nessa curva dramático lúdica e heroica, as superestrelas do 
-esporte estarão lá para ensinar, assim como para aprender sempre, visto 
-que toda troca de experiências entre diferentes gerações promove alguma 
-forma de conhecimento fruto dessa interação. A cada episódio, propomos 
-para ambos, tanto ao personagem mirim quanto a seu herói, revelarem um 
-aprendizado e um ensinamento. Legítimo registro da trajetória do herói, 
-conduzido por uma narrativa que culmina, em regra geral, no aprendizado 
-de ambos: criador e criatura. 
-Um aprendizado que surge da oportunidade de vivenciarem juntos a 
-aventura de praticarem o esporte que é uma paixão em comum entre eles. 
-Uma paixão que de fato transformou e segue transformando suas vidas.
-</desc>
-    <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-    <new />
-  </programme>
-  <programme start="20240709000922 -0300" stop="20240709010144 -0300" channel="sportv">
+  <programme start="20240708234744 -0300" stop="20240709004006 -0300" channel="sportv">
     <title lang="pt">Giro da Rodada: Série A - Inédito</title>
     <sub-title lang="pt">15ª Rodada</sub-title>
     <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol aqui o sportv!</desc>
     <category lang="en">sports (general)</category>
     <new />
   </programme>
-  <programme start="20240709010209 -0300" stop="20240709015921 -0300" channel="sportv">
+  <programme start="20240709004012 -0300" stop="20240709013724 -0300" channel="sportv">
     <title lang="pt">VT - Brasileirão: Cruzeiro x Corinthians</title>
     <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20240709015924 -0300" stop="20240709023959 -0300" channel="sportv">
+  <programme start="20240709013726 -0300" stop="20240709023603 -0300" channel="sportv">
     <title lang="pt">VT - Brasileirão: Palmeiras x Bahia</title>
     <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20240709024000 -0300" stop="20240709025959 -0300" channel="sportv">
+  <programme start="20240709023608 -0300" stop="20240709030924 -0300" channel="sportv">
     <title lang="pt">Giro da Rodada: Série A</title>
     <sub-title lang="pt">15ª Rodada</sub-title>
     <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol aqui o sportv!</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20240709030000 -0300" stop="20240709035959 -0300" channel="sportv">
+  <programme start="20240709030929 -0300" stop="20240709035959 -0300" channel="sportv">
     <title lang="pt">VT - CONMEBOL Copa América: Uruguai x Brasil</title>
     <sub-title lang="pt">Quartas de Final</sub-title>
     <desc lang="pt">Seleções da América do Sul disputam o título continental em jogos emocionantes Tá na Copa América, tá no sportv</desc>
@@ -25425,28 +25374,28 @@ Uma paixão que de fato transformou e segue transformando suas vidas.
     <category lang="en">sports (general)</category>
     <previously-shown />
   </programme>
-  <programme start="20240709005651 -0300" stop="20240709011819 -0300" channel="sportv-3">
+  <programme start="20240709005651 -0300" stop="20240709015836 -0300" channel="sportv-3">
     <title lang="pt">VT - UEFA Euro 2024: Inglaterra x Suíça</title>
     <sub-title lang="pt">Quartas de Final</sub-title>
     <desc lang="pt">A UEFA Euro 2024 promete emoções intensas com as melhores seleções europeias disputando o título. Prepare-se para momentos de paixão, rivalidade e futebol de alto nível. Tá no futebol, tá no sportv.</desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20240709020000 -0300" stop="20240709025959 -0300" channel="sportv-3">
+  <programme start="20240709015839 -0300" stop="20240709025820 -0300" channel="sportv-3">
     <title lang="pt">VT - UEFA Euro 2024: Espanha x Alemanha</title>
     <sub-title lang="pt">Quartas de Final</sub-title>
     <desc lang="pt">A UEFA Euro 2024 promete emoções intensas com as melhores seleções europeias disputando o título. Prepare-se para momentos de paixão, rivalidade e futebol de alto nível. Tá no futebol, tá no sportv.</desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20240709030000 -0300" stop="20240709035959 -0300" channel="sportv-3">
+  <programme start="20240709025822 -0300" stop="20240709035857 -0300" channel="sportv-3">
     <title lang="pt">VT - CONMEBOL Copa América: Colômbia x Panamá</title>
     <sub-title lang="pt">Quartas de Final</sub-title>
     <desc lang="pt">Seleções da América do Sul disputam o título continental em jogos emocionantes Tá na Copa América, tá no sportv</desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20240709040000 -0300" stop="20240709045959 -0300" channel="sportv-3">
+  <programme start="20240709035859 -0300" stop="20240709042625 -0300" channel="sportv-3">
     <title lang="pt">VT - CONMEBOL Copa América: Venezuela x Canadá</title>
     <sub-title lang="pt">Quartas de Final</sub-title>
     <desc lang="pt">Seleções da América do Sul disputam o título continental em jogos emocionantes Tá na Copa América, tá no sportv</desc>
@@ -25593,7 +25542,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240709000554 -0300" stop="20240709004859 -0300" channel="multishow">
+  <programme start="20240709000554 -0300" stop="20240709005109 -0300" channel="multishow">
     <title lang="pt">Vai que Cola</title>
     <sub-title lang="pt">Parque Aquático</sub-title>
     <desc lang="pt"> - Está um sol de rachar e os moradores da Pensão se queixam, mas Dona Jô não tem condições de comprar um ar condicionado. Para solucionar o problema, Wilson compra uma piscina de plástico, só que além do calor infernal do Méier, falta água na pensão da Dona Jô.</desc>
@@ -25601,7 +25550,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240709004900 -0300" stop="20240709011959 -0300" channel="multishow">
+  <programme start="20240709005111 -0300" stop="20240709012212 -0300" channel="multishow">
     <title lang="pt">Tô de Graça</title>
     <sub-title lang="pt">Calores</sub-title>
     <desc lang="pt"> - Graça tem uma crise de calores, o ar condicionado está quebrado e a comunidade está em guerra. Ela sai em meio aos tiros e acaba virando heroína na comunidade.</desc>
@@ -25609,7 +25558,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240709012000 -0300" stop="20240709014959 -0300" channel="multishow">
+  <programme start="20240709012215 -0300" stop="20240709014959 -0300" channel="multishow">
     <title lang="pt">Tô de Graça</title>
     <sub-title lang="pt">Refém de uma Paixão</sub-title>
     <desc lang="pt"> - Briti se apaixona por um bandido e começa a se articular para ajudá-lo dentro da prisão. O que ela não sabe é que o bandido, amigo de seu irmão Pablo, está apenas usando-a para armar sua fuga.</desc>
@@ -26013,14 +25962,14 @@ desentendimento no trânsito.</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240708234353 -0300" stop="20240709002247 -0300" channel="gnt">
+  <programme start="20240708234353 -0300" stop="20240709000730 -0300" channel="gnt">
     <title lang="pt">Conversa Com Bial</title>
     <desc lang="pt"> - Com experiência de décadas de reportagem e o espírito curioso pela história do outro, Pedro Bial apresenta um amplo espaço para escutar, opinar e multiplicar opiniões.</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240709002248 -0300" stop="20240709011347 -0300" channel="gnt">
+  <programme start="20240709000732 -0300" stop="20240709005831 -0300" channel="gnt">
     <title lang="pt">Mãe</title>
     <desc lang="pt"> - Zeynep fica arrasada quando Sule leva Turna embora e pensa em como resgatá-la. Sule não pode fazer com que Turna confie nela novamente.</desc>
     <episode-num system="xmltv_ns">.20.</episode-num>
@@ -26028,7 +25977,7 @@ desentendimento no trânsito.</desc>
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20240709011350 -0300" stop="20240709014230 -0300" channel="gnt">
+  <programme start="20240709005834 -0300" stop="20240709014511 -0300" channel="gnt">
     <title lang="pt">Que História É Essa, Porchat?</title>
     <sub-title lang="pt">Larissa Manoela, Caio Blat e Marcelo Marrom</sub-title>
     <desc lang="pt"> - Porchat se encontra com Caio Blat, Marcelo Marrom e Larissa Manoela. Na plateia, a história da mulher que “fugiu com o palhaço” e do menino que teve  aniversários desastrosos.</desc>
@@ -26250,7 +26199,7 @@ A Stella é louca por um desafio. Ela pediu pra ser avaliada por um grande chef.
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240709214500 -0300" stop="20240709224659 -0300" channel="gnt">
+  <programme start="20240709214500 -0300" stop="20240709230259 -0300" channel="gnt">
     <title lang="pt">Que História É Essa, Porchat?</title>
     <sub-title lang="pt">Especial Ivete Sangalo com Xuxa + Preta Gil + Márcio Victor</sub-title>
     <desc lang="pt"> - Celebrando os 30 anos de carreira de Ivete Sangalo, Porchat reúne Xuxa, Preta Gil e Márcio Victor. Na plateia, lembranças de histórias do início da carreira e uma proteção do céu.</desc>
@@ -26258,7 +26207,7 @@ A Stella é louca por um desafio. Ela pediu pra ser avaliada por um grande chef.
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20240709224700 -0300" stop="20240709233359 -0300" channel="gnt">
+  <programme start="20240709230300 -0300" stop="20240709234959 -0300" channel="gnt">
     <title lang="pt">Avisa Lá Que Eu Vou</title>
     <sub-title lang="pt">Uruana</sub-title>
     <desc lang="pt"> - Paulo vai até Uruana, em Goiás, participar da Festa da Melancia, a festa anual que celebra o sucesso da colheita da melancia.</desc>
@@ -26266,42 +26215,42 @@ A Stella é louca por um desafio. Ela pediu pra ser avaliada por um grande chef.
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240709233400 -0300" stop="20240710001159 -0300" channel="gnt">
+  <programme start="20240709234800 -0300" stop="20240710002559 -0300" channel="gnt">
     <title lang="pt">Conversa Com Bial</title>
     <desc lang="pt"> - Com experiência de décadas de reportagem e o espírito curioso pela história do outro, Pedro Bial apresenta um amplo espaço para escutar, opinar e multiplicar opiniões.</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240708230231 -0300" stop="20240709000259 -0300" channel="viva">
+  <programme start="20240708230231 -0300" stop="20240709000523 -0300" channel="viva">
     <title lang="pt">América</title>
     <desc lang="pt"> - Tião aceita o desafio contra o Boi Bandido. Sol avisa a Ed que vai fazer a travessia. Júnior diz a Kerry que ama outra pessoa. Vera e Jatobá fazem uma proposta a Radar e Rose.</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240709000300 -0300" stop="20240709004759 -0300" channel="viva">
+  <programme start="20240709000527 -0300" stop="20240709004617 -0300" channel="viva">
     <title lang="pt">Sinhá Moça</title>
     <desc lang="pt"> - O Barão pede a Fontes que os dois voltem a trabalhar juntos. Ana começa a ser seduzida pelas palavras de Eduardo. O Barão entrega as cartas de alforria de Bá e Bastião.</desc>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240709004300 -0300" stop="20240709012759 -0300" channel="viva">
+  <programme start="20240709004621 -0300" stop="20240709012942 -0300" channel="viva">
     <title lang="pt">Corpo A Corpo</title>
     <desc lang="pt"> - Busca de ascenção social, sede de vingança e discussão sobre racismo conduziam as principais tramas da novela.</desc>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240709012700 -0300" stop="20240709021159 -0300" channel="viva">
+  <programme start="20240709012945 -0300" stop="20240709021444 -0300" channel="viva">
     <title lang="pt">Andando Nas Nuvens</title>
     <desc lang="pt"> - Chico faz descobertas sobre Eva. Tiago cobra Celi pelo beijo que ela deu nele. Otávio se disfarça e descobre ligação de uma pessoa inesperada com o acidente de Eva.</desc>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20240709021200 -0300" stop="20240709025659 -0300" channel="viva">
+  <programme start="20240709021448 -0300" stop="20240709025359 -0300" channel="viva">
     <title lang="pt">A Viagem</title>
     <desc lang="pt"> - Otávio explica a Alberto o motivo de sua postura com os filhos. Dinah sai com Otávio. Otávio tenta convencer Dinah a não proibir a ida de Téo à sua casa. Dinah vai à casa de Téo.</desc>
     <rating system="Brazil">
@@ -26362,7 +26311,7 @@ A Stella é louca por um desafio. Ela pediu pra ser avaliada por um grande chef.
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240709070000 -0300" stop="20240709072959 -0300" channel="viva">
+  <programme start="20240709070700 -0300" stop="20240709073659 -0300" channel="viva">
     <title lang="pt">Escolinha do Professor Raimundo</title>
     <desc lang="pt"> - Chico Anysio comanda uma turma da pesada que apronta altas confusões na Escolinha do Professor Raimundo. Em matéria de humor, eles são nota dez.</desc>
     <episode-num system="xmltv_ns">.177.</episode-num>
@@ -26370,7 +26319,7 @@ A Stella é louca por um desafio. Ela pediu pra ser avaliada por um grande chef.
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240709073000 -0300" stop="20240709081459 -0300" channel="viva">
+  <programme start="20240709073800 -0300" stop="20240709082259 -0300" channel="viva">
     <title lang="pt">Carga Pesada</title>
     <sub-title lang="pt">Terceiro Sinal</sub-title>
     <desc lang="pt"> - Pedro e Bino salvam grupo de teatro de acidente. Pedro se oferece para ajudar o grupo de teatro e sofre dificuldades com o texto. Pedro fica chateado com Bino após peça.  
@@ -26380,7 +26329,7 @@ A Stella é louca por um desafio. Ela pediu pra ser avaliada por um grande chef.
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240709081500 -0300" stop="20240709084459 -0300" channel="viva">
+  <programme start="20240709082400 -0300" stop="20240709085359 -0300" channel="viva">
     <title lang="pt">Tapas e Beijos</title>
     <sub-title lang="pt">Lucilene É O Novo Problema De Fátima E Sueli</sub-title>
     <desc lang="pt"> - Neste episódio de Tapas &amp; Beijos, a chegada de Lucilene abala a estrutura emocional de Fátima. Ela, que perdeu o teste de dançarinas na La Conga, esbarra com Armane e ele a contrata como vendedora.</desc>
@@ -26461,7 +26410,7 @@ A Stella é louca por um desafio. Ela pediu pra ser avaliada por um grande chef.
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240709161500 -0300" stop="20240709164459 -0300" channel="viva">
+  <programme start="20240709162100 -0300" stop="20240709165059 -0300" channel="viva">
     <title lang="pt">Malhação</title>
     <desc lang="pt"> - Rita aconselha Bruno. Cezar é apresentado como o novo professor. Orelha planeja uma vingança contra Gil. Tatá conforta Paulina. Lia e Dinho reagem perplexos ao pedido de Excelsior.</desc>
     <rating system="Brazil">
@@ -26483,7 +26432,7 @@ A Stella é louca por um desafio. Ela pediu pra ser avaliada por um grande chef.
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240709180000 -0300" stop="20240709184459 -0300" channel="viva">
+  <programme start="20240709180800 -0300" stop="20240709185259 -0300" channel="viva">
     <title lang="pt">Os Casais que Amamos</title>
     <sub-title lang="pt">Tancinha &amp; Beto/Ruth &amp; Tonho da Lua</sub-title>
     <desc lang="pt"> - Claudia Raia e Marcos Frota relembram o divertido casal Tancinha e Beto, de Sassaricando, enquanto Marcos também relembra o amor de Tonho da Lua por Ruth, em Mulheres de Areia.</desc>
@@ -26491,7 +26440,7 @@ A Stella é louca por um desafio. Ela pediu pra ser avaliada por um grande chef.
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240709184500 -0300" stop="20240709191459 -0300" channel="viva">
+  <programme start="20240709185300 -0300" stop="20240709192259 -0300" channel="viva">
     <title lang="pt">Escolinha do Professor Raimundo</title>
     <desc lang="pt"> - Chico Anysio comanda uma turma da pesada que apronta altas confusões na Escolinha do Professor Raimundo. Em matéria de humor, eles são nota dez.</desc>
     <episode-num system="xmltv_ns">.178.</episode-num>
@@ -26499,7 +26448,7 @@ A Stella é louca por um desafio. Ela pediu pra ser avaliada por um grande chef.
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240709191400 -0300" stop="20240709194359 -0300" channel="viva">
+  <programme start="20240709192100 -0300" stop="20240709195059 -0300" channel="viva">
     <title lang="pt">Escolinha do Professor Raimundo</title>
     <desc lang="pt"> - Chico Anysio comanda uma turma da pesada que apronta altas confusões na Escolinha do Professor Raimundo. Em matéria de humor, eles são nota dez.</desc>
     <episode-num system="xmltv_ns">.179.</episode-num>
@@ -26507,7 +26456,7 @@ A Stella é louca por um desafio. Ela pediu pra ser avaliada por um grande chef.
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240709194200 -0300" stop="20240709202159 -0300" channel="viva">
+  <programme start="20240709195100 -0300" stop="20240709203059 -0300" channel="viva">
     <title lang="pt">Toma Lá, Dá Cá</title>
     <sub-title lang="pt">Boa Noite, Seu Ladir</sub-title>
     <desc lang="pt"> - Copélia conhece um homem pela internet e o leva para casa. Arnaldo ganha um prêmio. Tatalo e Isadora filmam seu Ladir em uma situação delicada. Todos se surpreendem com Esteban.</desc>
@@ -26515,7 +26464,7 @@ A Stella é louca por um desafio. Ela pediu pra ser avaliada por um grande chef.
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20240709203000 -0300" stop="20240709211459 -0300" channel="viva">
+  <programme start="20240709203600 -0300" stop="20240709212059 -0300" channel="viva">
     <title lang="pt">Fatmagul</title>
     <desc lang="pt"> - Perihan desconfia de Lale e começa a investigar. Erdogan enfrenta problemas. Rhami chega à nova casa e é surpreendido. Fahrettin dá esperança a Kerim.</desc>
     <episode-num system="xmltv_ns">.146.</episode-num>
@@ -26523,7 +26472,7 @@ A Stella é louca por um desafio. Ela pediu pra ser avaliada por um grande chef.
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20240709211700 -0300" stop="20240709214659 -0300" channel="viva">
+  <programme start="20240709212300 -0300" stop="20240709215259 -0300" channel="viva">
     <title lang="pt">Tapas e Beijos</title>
     <sub-title lang="pt">Uma Noite Decisiva No Forró Furreca</sub-title>
     <desc lang="pt"> - Neste episódio de Tapas &amp; Beijos, Fátima e Sueli vivem uma noite na melhor solteirice, o que pode destruir ou salvar seus casamentos. E o cenário dessa noite com muitas emoções será o Forró Furreca.</desc>
@@ -26547,20 +26496,11 @@ A Stella é louca por um desafio. Ela pediu pra ser avaliada por um grande chef.
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240709230500 -0300" stop="20240709234459 -0300" channel="viva">
+  <programme start="20240709230500 -0300" stop="20240709234959 -0300" channel="viva">
     <title lang="pt">América</title>
     <desc lang="pt"> - Glauco diz a Lurdinha que devolverá todo o dinheiro que ele deve a justiça. Tony avisa a Haydée que está indo embora. Tião monta o Boi Bandido e sofre um grave acidente.</desc>
     <rating system="Brazil">
       <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20240709234500 -0300" stop="20240710002959 -0300" channel="viva">
-    <title lang="pt">Sinhá Moça</title>
-    <desc lang="pt"> - Escravidão, amor, política e liberdade formam os pilares temáticos de Sinhá Moça, um retrato primoroso do final do Império.
-
-</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
     </rating>
   </programme>
   <programme start="20240708222039 -0300" stop="20240709000158 -0300" channel="canal-brasil">
@@ -26570,7 +26510,7 @@ A Stella é louca por um desafio. Ela pediu pra ser avaliada por um grande chef.
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20240709000159 -0300" stop="20240709014459 -0300" channel="canal-brasil">
+  <programme start="20240709000159 -0300" stop="20240709014547 -0300" channel="canal-brasil">
     <title lang="pt">Anna</title>
     <desc lang="pt"> - Um renomado diretor decide montar "Hamlet" e escala Anna como protagonista. Ao longo do processo, limites são ultrapassados, construindo um ambiente tóxico para a atriz.
 </desc>
@@ -26578,7 +26518,7 @@ A Stella é louca por um desafio. Ela pediu pra ser avaliada por um grande chef.
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20240709014500 -0300" stop="20240709031859 -0300" channel="canal-brasil">
+  <programme start="20240709014549 -0300" stop="20240709031959 -0300" channel="canal-brasil">
     <title lang="pt">Solidão - Uma Linda História De Amor</title>
     <desc lang="pt"> - Mesmo casada com Rodrigo, Joana não consegue deixar os amantes, que incluem um homem mais velho e um padre. A situação piora quando conhece Pedro, ex-feirante com uma carreira em ascensão no jogo do bicho.</desc>
     <rating system="Brazil">
@@ -26751,7 +26691,7 @@ A Stella é louca por um desafio. Ela pediu pra ser avaliada por um grande chef.
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240709010850 -0300" stop="20240709013759 -0300" channel="canal-off">
+  <programme start="20240709010850 -0300" stop="20240709013840 -0300" channel="canal-off">
     <title lang="pt">Onda De Esperança</title>
     <sub-title lang="pt">Anderson "Loirinho"</sub-title>
     <desc lang="pt"> - Loirinho é um trabalhador que encontra paz no surfe, na relação com os animais e nas diferentes formas de pesca que domina. Seu jeito amoroso o faz muito querido em sua comunidade.</desc>
@@ -26759,7 +26699,7 @@ A Stella é louca por um desafio. Ela pediu pra ser avaliada por um grande chef.
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240709013800 -0300" stop="20240709020659 -0300" channel="canal-off">
+  <programme start="20240709013842 -0300" stop="20240709020659 -0300" channel="canal-off">
     <title lang="pt">Onda De Esperança</title>
     <sub-title lang="pt">Moisés Estevan</sub-title>
     <desc lang="pt"> - Moisés é um jovem prodígio do surfe na Rocinha que sonha em viajar o mundo e ser uma referência para sua favela, como Popó, Mister, Caveirinha e Loirinho sempre foram para ele.</desc>
@@ -27099,7 +27039,7 @@ impõe na prática dos esportes. “É como reaprender a surfar” Caio chega a 
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240708235214 -0300" stop="20240709013240 -0300" channel="bis">
+  <programme start="20240708235214 -0300" stop="20240709013838 -0300" channel="bis">
     <title lang="pt">The Rolling Stones - Olé Olé Olé! A Trip Across Latin America</title>
     <sub-title lang="pt">Arquivo Musical</sub-title>
     <desc lang="pt"> - Documentário acompanha os Rolling Stones na turnê Olé pela América Latina, em 2016. O doc também aborda o histórico show em Havana, o 1º da banda em Cuba, que fechou a turnê.</desc>
@@ -27107,7 +27047,7 @@ impõe na prática dos esportes. “É como reaprender a surfar” Caio chega a 
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240709013800 -0300" stop="20240709023759 -0300" channel="bis">
+  <programme start="20240709013839 -0300" stop="20240709023759 -0300" channel="bis">
     <title lang="pt">Versões - Cícero Canta Caetano Veloso</title>
     <desc lang="pt"> - 3ªTemporada do Programa Versões. Artistas são convidados para fazerem suas versões de clássicos da música. Uma banda/ artista é homenageada por episódio.</desc>
     <episode-num system="xmltv_ns">2.9.</episode-num>
@@ -27489,7 +27429,7 @@ impõe na prática dos esportes. “É como reaprender a surfar” Caio chega a 
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240709003146 -0300" stop="20240709005959 -0300" channel="modo-viagem">
+  <programme start="20240709003146 -0300" stop="20240709010234 -0300" channel="modo-viagem">
     <title lang="pt">Vinícolas Ao Redor Do Mundo</title>
     <sub-title lang="pt">Alemanha - Francônia, Os Guardiões do Patrimônio</sub-title>
     <desc lang="pt"> - Francônia é uma pequena região de vinhedos no norte da Baviera, a erosão e a seca colocam em risco o caráter único das variedades de uvas do local.</desc>
@@ -27497,7 +27437,7 @@ impõe na prática dos esportes. “É como reaprender a surfar” Caio chega a 
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240709010000 -0300" stop="20240709012959 -0300" channel="modo-viagem">
+  <programme start="20240709010237 -0300" stop="20240709013156 -0300" channel="modo-viagem">
     <title lang="pt">Xscape – Aventuras Por Aí</title>
     <sub-title lang="pt">Seychelles</sub-title>
     <desc lang="pt"> - Com suas águas azuis profundas e praias de areia branca, não há como negar que as Seychelles são um paraíso na Terra. E Amber te mostra tudo, aqui no Xscape.</desc>
@@ -27505,7 +27445,7 @@ impõe na prática dos esportes. “É como reaprender a surfar” Caio chega a 
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240709013000 -0300" stop="20240709015959 -0300" channel="modo-viagem">
+  <programme start="20240709013200 -0300" stop="20240709020018 -0300" channel="modo-viagem">
     <title lang="pt">Xscape – Aventuras Por Aí</title>
     <sub-title lang="pt">Ilhas Turks e Caicos</sub-title>
     <desc lang="pt"> - Neste episódio, mostraremos desde a história interessante da área com piratas, até os encontros próximos com a vida selvagem e até iniciativas inovadoras de saúde e bem-estar.</desc>
@@ -27513,7 +27453,7 @@ impõe na prática dos esportes. “É como reaprender a surfar” Caio chega a 
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240709020000 -0300" stop="20240709022959 -0300" channel="modo-viagem">
+  <programme start="20240709020021 -0300" stop="20240709023224 -0300" channel="modo-viagem">
     <title lang="pt">Ruas Mundo Afora</title>
     <sub-title lang="pt">Indonésia - Parte 2</sub-title>
     <desc lang="pt"> - No caminho para Ubud, Ruas faz uma parada para aprender como é feito o Luwak Café, o mais caro do mundo! Chegando em Ubud, ele te leva para conhecer um hotel-templo muito charmoso.</desc>
@@ -27521,7 +27461,7 @@ impõe na prática dos esportes. “É como reaprender a surfar” Caio chega a 
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240709023000 -0300" stop="20240709025959 -0300" channel="modo-viagem">
+  <programme start="20240709023227 -0300" stop="20240709025959 -0300" channel="modo-viagem">
     <title lang="pt">Ruas Mundo Afora</title>
     <sub-title lang="pt">Suíça – Zurique</sub-title>
     <desc lang="pt"> - Rodrigo Ruas cruza o mundo em busca de experiências únicas e mostra qual o melhor jeito de ir, o que levar, onde comer, a melhor época do ano para cada destino e o quanto custa cada viagem.</desc>
@@ -28427,19 +28367,19 @@ impõe na prática dos esportes. “É como reaprender a surfar” Caio chega a 
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20240709014300 -0300" stop="20240709021235 -0300" channel="premiere">
+  <programme start="20240709014300 -0300" stop="20240709024141 -0300" channel="premiere">
     <title lang="pt">VT - Brasileirão: Internacional x Vasco</title>
     <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20240709030000 -0300" stop="20240709035959 -0300" channel="premiere">
+  <programme start="20240709024143 -0300" stop="20240709034016 -0300" channel="premiere">
     <title lang="pt">VT - Brasileirão: Botafogo x Atlético-MG</title>
     <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20240709040000 -0300" stop="20240709045959 -0300" channel="premiere">
+  <programme start="20240709034019 -0300" stop="20240709040953 -0300" channel="premiere">
     <title lang="pt">VT - Brasileirão: Vitória x Criciúma</title>
     <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
     <category lang="en">football/soccer</category>
@@ -28552,13 +28492,13 @@ impõe na prática dos esportes. “É como reaprender a surfar” Caio chega a 
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20240708235630 -0300" stop="20240709012042 -0300" channel="combate">
+  <programme start="20240708235630 -0300" stop="20240709025249 -0300" channel="combate">
     <title lang="pt">VT - One Fight Night 23: Buntan x Meksen</title>
     <desc lang="pt">Terceira maior franquia de MMA mundial e a principal da Ásia, presente em mais de 170 países, o One é a liga esportiva de diferentes modalidades além do MMA como: Grappling, Muay Thai, Kickboxing. Nomes de atletas brasileiros: Fabrício Andrade, Marcus Buchecha, Allycia Hellen Rodrigues, André Galvão, e muitos outros.</desc>
     <category lang="en">sports (general)</category>
     <previously-shown />
   </programme>
-  <programme start="20240709030000 -0300" stop="20240709052959 -0300" channel="combate">
+  <programme start="20240709025253 -0300" stop="20240709040756 -0300" channel="combate">
     <title lang="pt">VT - Boxe: Shakur Stevenson x Artem Harutyunyan</title>
     <desc lang="pt">Top Rank, é uma das maiores promotora de lutas de boxe do mundo. Fundada em 1973, e por quase meio século, promove as lutas mais importantes de algumas lendas do boxe, como Muhammad Ali, Sugar Ray Leonard, Oscar de La Hoya, Floyd Mayweather, Tyson Fury e Manny Pacquiao.
 A top rank conta com a participação de grandes nobres da nobre arte da atualidade, entre eles os brasileiros e medalhistas olímpicos Robson Conceição e Esquiva Falcão.
@@ -29763,7 +29703,7 @@ não dormir dirigindo.</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240709233400 -0300" stop="20240710001159 -0300" channel="gnt">
+  <programme start="20240709234800 -0300" stop="20240710002559 -0300" channel="gnt">
     <title lang="pt">Conversa Com Bial</title>
     <desc lang="pt"> - Com experiência de décadas de reportagem e o espírito curioso pela história do outro, Pedro Bial apresenta um amplo espaço para escutar, opinar e multiplicar opiniões.</desc>
     <rating system="Brazil">
@@ -30015,15 +29955,6 @@ não dormir dirigindo.</desc>
     <desc lang="pt"> - Com experiência de décadas de reportagem e o espírito curioso pela história do outro, Pedro Bial apresenta um amplo espaço para escutar, opinar e multiplicar opiniões.</desc>
     <rating system="Brazil">
       <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20240709234500 -0300" stop="20240710002959 -0300" channel="viva">
-    <title lang="pt">Sinhá Moça</title>
-    <desc lang="pt"> - Escravidão, amor, política e liberdade formam os pilares temáticos de Sinhá Moça, um retrato primoroso do final do Império.
-
-</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
     </rating>
   </programme>
   <programme start="20240710001000 -0300" stop="20240710005459 -0300" channel="viva">
@@ -32384,7 +32315,7 @@ impõe na prática dos esportes. “É como reaprender a surfar” Caio chega a 
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20240709220000 -0300" stop="20240710002459 -0300" channel="combate">
+  <programme start="20240709221000 -0300" stop="20240710003459 -0300" channel="combate">
     <title lang="pt">VT - One Friday Fights 69</title>
     <desc lang="pt"> - Terceira maior franquia de MMA mundial e a principal da Ásia, presente em mais de 170 países, o One é a liga esportiva de diferentes modalidades além do MMA como: Grappling, Muay Thai, Kickboxing. Nomes de atletas brasileiros: Fabrício Andrade, Marcus Buchecha, Allycia Hellen Rodrigues, André Galvão, e muitos outros.</desc>
     <category lang="en">sports (general)</category>
@@ -51315,7 +51246,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[A14]</value>
     </rating>
   </programme>
-  <programme start="20240708193501 -0300" stop="20240708212743 -0300" channel="INFORMACAO">
+  <programme start="20240708211520 -0300" stop="20240708212743 -0300" channel="INFORMACAO">
     <title lang="pt">Tá Na Hora</title>
     <desc lang="pt"> - MarcÃ£o do Povo e MÃ¡rcia Dantas comandam o "TÃ¡ na Hora", levando informaÃ§Ã£o e prestaÃ§Ã£o de serviÃ§o durante a sua volta para casa.</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
@@ -51731,24 +51662,6 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20240708194022 -0300" stop="20240708202235 -0300" channel="Series">
-    <title lang="pt">Mary Kills People</title>
-    <desc lang="pt"> - Dra. Mary, mÃ©dica de dia e anjo da morte Ã  noite, enfrenta dilemas Ã©ticos.</desc>
-    <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <rating system="Brazil">
-      <value>[A16]</value>
-    </rating>
-  </programme>
-  <programme start="20240708202345 -0300" stop="20240708211547 -0300" channel="Series">
-    <title lang="pt">Rookie Blue</title>
-    <desc lang="pt"> - RecÃ©m-formados da academia de polÃ­cia, Ally e seus colegas precisam se adaptar aos desafios do cargo</desc>
-    <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <rating system="Brazil">
-      <value>[A16]</value>
     </rating>
   </programme>
   <programme start="20240708211627 -0300" stop="20240708220824 -0300" channel="Series">
@@ -52732,7 +52645,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[A14]</value>
     </rating>
   </programme>
-  <programme start="20240712225307 -0300" stop="20240712234602 -0300" channel="Series">
+  <programme start="20240712225307 -0300" stop="20240712231915 -0300" channel="Series">
     <title lang="pt">Haven</title>
     <desc lang="pt"> - A agente do FBI, Audrey Parker, chega Ã  misteriosa cidade de Haven para resolver seus mistÃ©rios.</desc>
     <category lang="en">movie/drama (general)</category>
