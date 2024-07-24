@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2024-07-24 18:15:06" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2024-07-24 19:45:05" generator-info-url="http://limaalef.com">
   <channel id="Claro TV+ 4K">
     <display-name lang="pt">Claro TV+ 4K</display-name>
   </channel>
@@ -150,23 +150,23 @@
   <channel id="premiere">
     <display-name lang="pt">premiere</display-name>
   </channel>
+  <channel id="premiere-2">
+    <display-name lang="pt">premiere-2</display-name>
+  </channel>
+  <channel id="premiere-4">
+    <display-name lang="pt">premiere-4</display-name>
+  </channel>
   <channel id="premiere-5">
     <display-name lang="pt">premiere-5</display-name>
   </channel>
   <channel id="premiere-6">
     <display-name lang="pt">premiere-6</display-name>
   </channel>
-  <channel id="combate">
-    <display-name lang="pt">combate</display-name>
-  </channel>
-  <channel id="sinal-extra-sportv-2">
-    <display-name lang="pt">sinal-extra-sportv-2</display-name>
-  </channel>
-  <channel id="sinal-extra-sportv-8">
-    <display-name lang="pt">sinal-extra-sportv-8</display-name>
-  </channel>
   <channel id="premiere-7">
     <display-name lang="pt">premiere-7</display-name>
+  </channel>
+  <channel id="combate">
+    <display-name lang="pt">combate</display-name>
   </channel>
   <channel id="SBT">
     <display-name lang="pt">SBT</display-name>
@@ -18475,7 +18475,17 @@
     </rating>
   </programme>
   <programme start="" stop="" channel="1682">
-    <title lang="pt">Reapresentação do Plenário</title>
+    <title lang="pt">Ciência Sem Limites</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="" stop="" channel="1682">
+    <title lang="pt">Documentário TV Câmara</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="" stop="" channel="1682">
+    <title lang="pt">Reapresentação de Comissão</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
@@ -18495,7 +18505,7 @@
     <category lang="en">variety show</category>
   </programme>
   <programme start="" stop="" channel="1682">
-    <title lang="pt">Painel Eletrônico</title>
+    <title lang="pt">Ocupação</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
@@ -18505,22 +18515,17 @@
     <category lang="en">variety show</category>
   </programme>
   <programme start="" stop="" channel="1682">
-    <title lang="pt">Câmara Agora</title>
-    <desc lang="pt"> - </desc>
-    <category lang="en">news/current affairs (general)</category>
-  </programme>
-  <programme start="" stop="" channel="1682">
-    <title lang="pt">Comissão</title>
+    <title lang="pt">Reapresentação da Sessão Plenária</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
   <programme start="" stop="" channel="1682">
-    <title lang="pt">Direto da Câmara</title>
+    <title lang="pt">Reapresentação da Sessão Plenária</title>
     <desc lang="pt"> - </desc>
-    <category lang="en">news/current affairs (general)</category>
+    <category lang="en">variety show</category>
   </programme>
   <programme start="" stop="" channel="1682">
-    <title lang="pt">Sessão Deliberativa Extraordinária</title>
+    <title lang="pt">Reapresentação da Sessão Plenária</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
@@ -18550,7 +18555,7 @@
     <category lang="en">variety show</category>
   </programme>
   <programme start="" stop="" channel="1682">
-    <title lang="pt">Reapresentação do Plenário</title>
+    <title lang="pt">Reapresentação de Comissão</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
@@ -18700,7 +18705,12 @@
     <category lang="en">movie/drama (general)</category>
   </programme>
   <programme start="" stop="" channel="1779">
-    <title lang="pt">Senadoc: O Presidente Improvável</title>
+    <title lang="pt">Senadoc: Nunca me Sonharam</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="" stop="" channel="1779">
+    <title lang="pt">Senadoc: Aldeia do Saber</title>
     <desc lang="pt"> - </desc>
     <category lang="en">documentary</category>
   </programme>
@@ -18745,12 +18755,13 @@
     <category lang="en">movie/drama (general)</category>
   </programme>
   <programme start="" stop="" channel="1779">
-    <title lang="pt">Senadoc Acervo: JK - Um Cometa no Céu do Brasil</title>
+    <title lang="pt">Senadoc Acervo: Brasil No Olhar dos Viajantes</title>
     <desc lang="pt"> - </desc>
     <category lang="en">documentary</category>
+    <episode-num system="xmltv_ns">.2.</episode-num>
   </programme>
   <programme start="" stop="" channel="1779">
-    <title lang="pt">Tela Brasil: Libertárixs - Escrevivência e Resistência</title>
+    <title lang="pt">Tela Brasil: Libertárixs - Ciência e Racismo</title>
     <desc lang="pt"> - </desc>
     <category lang="en">documentary</category>
   </programme>
@@ -18770,22 +18781,32 @@
     <category lang="en">news/current affairs (general)</category>
   </programme>
   <programme start="" stop="" channel="1779">
-    <title lang="pt">Comissão: Comissão de Constituição, Justiça e Cidadania</title>
+    <title lang="pt">Comissão 1: Comissão de Constituição, Justiça e Cidadania</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
   <programme start="" stop="" channel="1779">
-    <title lang="pt">Senado Notícias: Boletim</title>
+    <title lang="pt">Senado Notícias: Especial</title>
     <desc lang="pt"> - </desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
   <programme start="" stop="" channel="1779">
-    <title lang="pt">Sessão Plenária</title>
+    <title lang="pt">Sessão Plenária 1: Sessão Especial do Senado</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
   <programme start="" stop="" channel="1779">
-    <title lang="pt">Senado Notícias: Boletim</title>
+    <title lang="pt">Sessão Plenária 2: Sessão Especial do Senado</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="" stop="" channel="1779">
+    <title lang="pt">Comissão 2: CDD e CMA</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="" stop="" channel="1779">
+    <title lang="pt">Senado Notícias: Especial</title>
     <desc lang="pt"> - </desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
@@ -18800,12 +18821,22 @@
     <category lang="en">news/current affairs (general)</category>
   </programme>
   <programme start="" stop="" channel="1779">
-    <title lang="pt">Comissão: Comissão de Ciência, Tecnologia e Informática</title>
+    <title lang="pt">Senadoc: Doméstica</title>
     <desc lang="pt"> - </desc>
-    <category lang="en">variety show</category>
+    <category lang="en">documentary</category>
   </programme>
   <programme start="" stop="" channel="1779">
-    <title lang="pt">Senadoc: Jango</title>
+    <title lang="pt">Senadoc: Palavra de Mulher</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="" stop="" channel="1779">
+    <title lang="pt">Senadoc: Estávamos Lá - Mulheres Na História</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="" stop="" channel="1779">
+    <title lang="pt">Senadoc: Democracia Para Sempre</title>
     <desc lang="pt"> - </desc>
     <category lang="en">documentary</category>
   </programme>
@@ -18815,12 +18846,12 @@
     <category lang="en">variety show</category>
   </programme>
   <programme start="" stop="" channel="2302">
-    <title lang="pt">Mitos Vivos</title>
+    <title lang="pt">Me conta Brasil</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
   <programme start="" stop="" channel="2302">
-    <title lang="pt">Canal da Quebrada</title>
+    <title lang="pt">Voz do Brasil</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
@@ -18840,12 +18871,12 @@
     <category lang="en">variety show</category>
   </programme>
   <programme start="" stop="" channel="2302">
-    <title lang="pt">Brasil em Pauta</title>
+    <title lang="pt">Me conta Brasil</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
   <programme start="" stop="" channel="2302">
-    <title lang="pt">Canal da Quebrada</title>
+    <title lang="pt">Voz do Brasil</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
@@ -18855,7 +18886,7 @@
     <category lang="en">variety show</category>
   </programme>
   <programme start="" stop="" channel="2302">
-    <title lang="pt">Mitos Vivos</title>
+    <title lang="pt">Me conta Brasil</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
@@ -18875,7 +18906,7 @@
     <category lang="en">variety show</category>
   </programme>
   <programme start="" stop="" channel="2302">
-    <title lang="pt">Bom dia, Ministro – Ao vivo</title>
+    <title lang="pt">Bom Dia, Ministro</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
@@ -18920,11 +18951,6 @@
     <category lang="en">variety show</category>
   </programme>
   <programme start="" stop="" channel="2302">
-    <title lang="pt">Brasil em Pauta</title>
-    <desc lang="pt"> - </desc>
-    <category lang="en">variety show</category>
-  </programme>
-  <programme start="" stop="" channel="2302">
     <title lang="pt">Atos do Executivo</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
@@ -18955,14 +18981,9 @@
     <category lang="en">variety show</category>
   </programme>
   <programme start="" stop="" channel="2302">
-    <title lang="pt">Brasil em Pauta</title>
+    <title lang="pt">Me conta Brasil</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
-  </programme>
-  <programme start="" stop="" channel="2302">
-    <title lang="pt">Brasil em Dia</title>
-    <desc lang="pt"> - </desc>
-    <category lang="en">news/current affairs (general)</category>
   </programme>
   <programme start="" stop="" channel="2302">
     <title lang="pt">Atos do Executivo</title>
@@ -19071,6 +19092,11 @@
   </programme>
   <programme start="" stop="" channel="1682">
     <title lang="pt">Palavra Aberta</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="" stop="" channel="1682">
+    <title lang="pt">Reapresentação de Comissão</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
@@ -19229,6 +19255,11 @@
     <desc lang="pt"> - </desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
+  <programme start="" stop="" channel="1765">
+    <title lang="pt">Brasil em Constituição</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">movie/drama (general)</category>
+  </programme>
   <programme start="" stop="" channel="1779">
     <title lang="pt">Senadoc: Democracia Para Sempre</title>
     <desc lang="pt"> - </desc>
@@ -19357,6 +19388,11 @@
   </programme>
   <programme start="" stop="" channel="1779">
     <title lang="pt">Senadoc: A Rainha Nzinga Chegou</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="" stop="" channel="1779">
+    <title lang="pt">Senadoc: O Presidente Improvável</title>
     <desc lang="pt"> - </desc>
     <category lang="en">documentary</category>
   </programme>
@@ -19510,6 +19546,11 @@
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
+  <programme start="" stop="" channel="2302">
+    <title lang="pt">Mulheres pela Independência</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
   <programme start="" stop="" channel="1682">
     <title lang="pt">Reapresentação de Comissão</title>
     <desc lang="pt"> - </desc>
@@ -19619,6 +19660,11 @@
     <title lang="pt">Palavra Aberta</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
+  </programme>
+  <programme start="" stop="" channel="1682">
+    <title lang="pt">Documentário TV Câmara</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
   </programme>
   <programme start="" stop="" channel="1765">
     <title lang="pt">Brasil em Constituição</title>
@@ -19780,6 +19826,11 @@
     <desc lang="pt"> - </desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
+  <programme start="" stop="" channel="1765">
+    <title lang="pt">Brasil em Constituição</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">movie/drama (general)</category>
+  </programme>
   <programme start="" stop="" channel="1779">
     <title lang="pt">Senadoc: Os Anos JK - Uma Trajetória Política</title>
     <desc lang="pt"> - </desc>
@@ -19902,6 +19953,11 @@
   </programme>
   <programme start="" stop="" channel="1779">
     <title lang="pt">Senadoc</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="" stop="" channel="1779">
+    <title lang="pt">Senadoc: Arte No Caos</title>
     <desc lang="pt"> - </desc>
     <category lang="en">documentary</category>
   </programme>
@@ -20065,6 +20121,11 @@
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
+  <programme start="" stop="" channel="2302">
+    <title lang="pt">Mulheres pela Independência</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
   <programme start="" stop="" channel="1682">
     <title lang="pt">Documentário TV Câmara</title>
     <desc lang="pt"> - </desc>
@@ -20106,9 +20167,9 @@
     <category lang="en">variety show</category>
   </programme>
   <programme start="" stop="" channel="1682">
-    <title lang="pt">Parlamento Brasil</title>
+    <title lang="pt">Fatos e Opiniões</title>
     <desc lang="pt"> - </desc>
-    <category lang="en">variety show</category>
+    <category lang="en">news/current affairs (general)</category>
   </programme>
   <programme start="" stop="" channel="1682">
     <title lang="pt">Interesse Público</title>
@@ -20121,12 +20182,7 @@
     <category lang="en">variety show</category>
   </programme>
   <programme start="" stop="" channel="1682">
-    <title lang="pt">Ciência Sem Limites</title>
-    <desc lang="pt"> - </desc>
-    <category lang="en">variety show</category>
-  </programme>
-  <programme start="" stop="" channel="1682">
-    <title lang="pt">Encontro com o Autor</title>
+    <title lang="pt">Ponto de Vista</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
@@ -20196,9 +20252,9 @@
     <category lang="en">documentary</category>
   </programme>
   <programme start="" stop="" channel="1682">
-    <title lang="pt">Câmara Debate</title>
+    <title lang="pt">Fatos e Opiniões</title>
     <desc lang="pt"> - </desc>
-    <category lang="en">variety show</category>
+    <category lang="en">news/current affairs (general)</category>
   </programme>
   <programme start="" stop="" channel="1682">
     <title lang="pt">Qual a Questão?</title>
@@ -20330,13 +20386,13 @@
     <desc lang="pt"> - </desc>
     <category lang="en">serious music/classical music</category>
   </programme>
-  <programme start="" stop="" channel="1765">
-    <title lang="pt">Iluminuras</title>
+  <programme start="" stop="" channel="1779">
+    <title lang="pt">Senadoc: Arte No Caos</title>
     <desc lang="pt"> - </desc>
-    <category lang="en">variety show</category>
+    <category lang="en">documentary</category>
   </programme>
   <programme start="" stop="" channel="1779">
-    <title lang="pt">Senadoc: Jango</title>
+    <title lang="pt">Senadoc: Um Presente à Prova de Futuro</title>
     <desc lang="pt"> - </desc>
     <category lang="en">documentary</category>
   </programme>
@@ -20381,7 +20437,7 @@
     <category lang="en">variety show</category>
   </programme>
   <programme start="" stop="" channel="1779">
-    <title lang="pt">Senadoc Acervo: Darcy, Um Brasileiro - 2ª Parte</title>
+    <title lang="pt">Senadoc Acervo: Jango em 03 Atos - 1ª parte</title>
     <desc lang="pt"> - </desc>
     <category lang="en">documentary</category>
   </programme>
@@ -20396,12 +20452,12 @@
     <category lang="en">variety show</category>
   </programme>
   <programme start="" stop="" channel="1779">
-    <title lang="pt">Senado Notícias: Especial</title>
+    <title lang="pt">Senado Notícias Revista</title>
     <desc lang="pt"> - </desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
   <programme start="" stop="" channel="1779">
-    <title lang="pt">EcoSenado</title>
+    <title lang="pt">Ecosenado</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
@@ -20446,7 +20502,7 @@
     <category lang="en">variety show</category>
   </programme>
   <programme start="" stop="" channel="1779">
-    <title lang="pt">Senado Notícias: Especial</title>
+    <title lang="pt">Senado Notícias Revista</title>
     <desc lang="pt"> - </desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
@@ -20476,12 +20532,12 @@
     <category lang="en">movie/drama (general)</category>
   </programme>
   <programme start="" stop="" channel="1779">
-    <title lang="pt">EcoSenado</title>
+    <title lang="pt">Ecosenado</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
   <programme start="" stop="" channel="1779">
-    <title lang="pt">Tela Brasil: O Caminho da Água - Os Guardiões da Água</title>
+    <title lang="pt">Tela Brasil</title>
     <desc lang="pt"> - </desc>
     <category lang="en">documentary</category>
   </programme>
@@ -20496,7 +20552,7 @@
     <category lang="en">variety show</category>
   </programme>
   <programme start="" stop="" channel="1779">
-    <title lang="pt">Tela Brasil: O Caminho da Água - O Rio Atoyac</title>
+    <title lang="pt">Tela Brasil</title>
     <desc lang="pt"> - </desc>
     <category lang="en">documentary</category>
   </programme>
@@ -20506,7 +20562,12 @@
     <category lang="en">variety show</category>
   </programme>
   <programme start="" stop="" channel="1779">
-    <title lang="pt">Senadoc: Raça</title>
+    <title lang="pt">Senadoc</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="" stop="" channel="1779">
+    <title lang="pt">Senadoc</title>
     <desc lang="pt"> - </desc>
     <category lang="en">documentary</category>
   </programme>
@@ -20515,23 +20576,18 @@
     <desc lang="pt"> - </desc>
     <category lang="en">movie/drama (general)</category>
   </programme>
-  <programme start="" stop="" channel="1779">
-    <title lang="pt">Tela Brasil: O Caminho da Água - O Rio Atoyac</title>
-    <desc lang="pt"> - </desc>
-    <category lang="en">documentary</category>
-  </programme>
   <programme start="" stop="" channel="2302">
     <title lang="pt">Mulheres pela Independência</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
   <programme start="" stop="" channel="2302">
-    <title lang="pt">Me conta Brasil</title>
+    <title lang="pt">Mitos Vivos</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
   <programme start="" stop="" channel="2302">
-    <title lang="pt">Voz do Brasil</title>
+    <title lang="pt">Canal da Quebrada</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
@@ -20551,12 +20607,12 @@
     <category lang="en">variety show</category>
   </programme>
   <programme start="" stop="" channel="2302">
-    <title lang="pt">Me conta Brasil</title>
+    <title lang="pt">Brasil em Pauta</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
   <programme start="" stop="" channel="2302">
-    <title lang="pt">Voz do Brasil</title>
+    <title lang="pt">Canal da Quebrada</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
@@ -20566,9 +20622,14 @@
     <category lang="en">variety show</category>
   </programme>
   <programme start="" stop="" channel="2302">
-    <title lang="pt">Me conta Brasil</title>
+    <title lang="pt">Mitos Vivos</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
+  </programme>
+  <programme start="" stop="" channel="2302">
+    <title lang="pt">Expedições</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
   </programme>
   <programme start="" stop="" channel="2302">
     <title lang="pt">Nossos Biomas</title>
@@ -20596,12 +20657,12 @@
     <category lang="en">variety show</category>
   </programme>
   <programme start="" stop="" channel="2302">
-    <title lang="pt">Semana GOV</title>
+    <title lang="pt">Trilha de Letras</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
   <programme start="" stop="" channel="2302">
-    <title lang="pt">Trilha de Letras</title>
+    <title lang="pt">Resumo da Semana</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
@@ -20622,11 +20683,6 @@
   </programme>
   <programme start="" stop="" channel="2302">
     <title lang="pt">Brasil em Pauta</title>
-    <desc lang="pt"> - </desc>
-    <category lang="en">variety show</category>
-  </programme>
-  <programme start="" stop="" channel="2302">
-    <title lang="pt">Semana GOV</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
@@ -20662,11 +20718,6 @@
   </programme>
   <programme start="" stop="" channel="2302">
     <title lang="pt">Trilha de Letras</title>
-    <desc lang="pt"> - </desc>
-    <category lang="en">variety show</category>
-  </programme>
-  <programme start="" stop="" channel="2302">
-    <title lang="pt">Brasil em Pauta</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
@@ -21592,32 +21643,32 @@
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240724145005 -0300" stop="20240724170535 -0300" channel="sportv">
+  <programme start="20240724145005 -0300" stop="20240724173431 -0300" channel="sportv">
     <title lang="pt">Brasileirão Sub-20: Flamengo x Botafogo - ao vivo</title>
     <desc lang="pt">Acompanhe as emoções do Campeonato Brasileiro de Futebol Sub-20! Venha testemunhar as estrelas que será o futuro do futebol. Aqui no sportv.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240724172528 -0300" stop="20240724191001 -0300" channel="sportv">
+  <programme start="20240724173438 -0300" stop="20240724184502 -0300" channel="sportv">
     <title lang="pt">Tá Na Área - ao vivo</title>
     <desc lang="pt"> - Aproveite o finalzinho da tarde para relaxar e de maneira divertida fique por dentro de todos os assuntos em alta do esporte com Camila Carelli e Thiago Benevenutte.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240724191018 -0300" stop="20240724195030 -0300" channel="sportv">
+  <programme start="20240724184507 -0300" stop="20240724192217 -0300" channel="sportv">
     <title lang="pt">Aquecimento SporTV: São Paulo x Botafogo - ao vivo</title>
     <desc lang="pt">Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes, aqui no sportv!</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240724195032 -0300" stop="20240724215330 -0300" channel="sportv">
+  <programme start="20240724192219 -0300" stop="20240724212517 -0300" channel="sportv">
     <title lang="pt">Brasileirão: São Paulo x Botafogo - ao vivo</title>
     <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240724215358 -0300" stop="20240724232959 -0300" channel="sportv">
+  <programme start="20240724212521 -0300" stop="20240724233110 -0300" channel="sportv">
     <title lang="pt">Brasileirão Série B: Amazonas x Guarani - ao vivo</title>
     <desc lang="pt">Confira mais um jogão do Brasileirão Masculino Série B! Tem coisa pra caramba!</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240724233000 -0300" stop="20240725005959 -0300" channel="sportv">
+  <programme start="20240724233113 -0300" stop="20240725010116 -0300" channel="sportv">
     <title lang="pt">Troca de Passes - ao vivo</title>
     <desc lang="pt"> - Felipe Diniz troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada. Veja os melhores momentos, tire as dúvidas daquele lance polêmico  acompanhe a repercussão com jogadores e treinadores no calor do jogo. Aqui ninguém fica em cima do muro. 
 </desc>
@@ -21680,17 +21731,17 @@
     <desc lang="pt">A cobertura de 100% dos Jogos Olímpicos de Paris 2024 está no sportv! Embarque em nosso mundo e acompanhe tudo em 4 canais e mais de 40 sinais ao vivo. Tá em Paris, tá no sportv.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240724155929 -0300" stop="20240724170150 -0300" channel="sportv-2">
+  <programme start="20240724155929 -0300" stop="20240724170146 -0300" channel="sportv-2">
     <title lang="pt">Jogos Olímpicos Paris 2024: Futebol Masculino - França x EUA - ao vivo</title>
     <desc lang="pt">A cobertura de 100% dos Jogos Olímpicos de Paris 2024 está no sportv! Embarque em nosso mundo e acompanhe tudo em 4 canais e mais de 40 sinais ao vivo. Tá em Paris, tá no sportv.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240724170151 -0300" stop="20240724175745 -0300" channel="sportv-2">
+  <programme start="20240724170151 -0300" stop="20240724181428 -0300" channel="sportv-2">
     <title lang="pt">Jogos Olímpicos De Paris 2024 - Futebol Masculino - França X EUA - ao vivo</title>
     <desc lang="pt"> - </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240724175746 -0300" stop="20240724183110 -0300" channel="sportv-2">
+  <programme start="20240724181429 -0300" stop="20240724185207 -0300" channel="sportv-2">
     <title lang="pt">Sem Bloqueio: : O Mundo Mágico De Macau - Inédito</title>
     <desc lang="pt">Sem Bloqueio viaja para Macau com a Seleção e mostra os bastidores da segunda etapa da VNL. É a hora do Brasil enfrentar o Japão e a Itália e tentar manter sua invencibilidade. Na folga, atletas se divertem em um mundo lúdico.</desc>
     <category lang="en">sports (general)</category>
@@ -21700,7 +21751,7 @@
     </rating>
     <new />
   </programme>
-  <programme start="20240724183112 -0300" stop="20240724192105 -0300" channel="sportv-2">
+  <programme start="20240724185209 -0300" stop="20240724194202 -0300" channel="sportv-2">
     <title lang="pt">As Bicampeãs</title>
     <desc lang="pt"> - A série documental AS BICAMPEÃS, acompanha a história da Seleção de vôlei feminino de 2004 a 2012, quando o time brasileiro conquistou duas medalhas de ouro olímpicas inéditas. A série revela desafios, bastidores, processos e emoções dessa trajetória que reverteu a fama de amarelonas da seleção e alçou o time a uma hegemonia histórica.</desc>
     <category lang="en">sports (general)</category>
@@ -21709,7 +21760,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240724192106 -0300" stop="20240724201341 -0300" channel="sportv-2">
+  <programme start="20240724194204 -0300" stop="20240724203439 -0300" channel="sportv-2">
     <title lang="pt">As Bicampeãs</title>
     <desc lang="pt"> - A série documental AS BICAMPEÃS, acompanha a história da Seleção de vôlei feminino de 2004 a 2012, quando o time brasileiro conquistou duas medalhas de ouro olímpicas inéditas. A série revela desafios, bastidores, processos e emoções dessa trajetória que reverteu a fama de amarelonas da seleção e alçou o time a uma hegemonia histórica.</desc>
     <category lang="en">sports (general)</category>
@@ -21718,7 +21769,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240724201343 -0300" stop="20240724210201 -0300" channel="sportv-2">
+  <programme start="20240724203441 -0300" stop="20240724212259 -0300" channel="sportv-2">
     <title lang="pt">As Bicampeãs</title>
     <desc lang="pt"> - A série documental AS BICAMPEÃS, acompanha a história da 
 Seleção de vôlei feminino de 2004 a 2012, quando o time brasileiro 
@@ -21733,7 +21784,7 @@ sensíveis ao universo feminino esportivo hoje.</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240724210202 -0300" stop="20240724220054 -0300" channel="sportv-2">
+  <programme start="20240724212300 -0300" stop="20240724222152 -0300" channel="sportv-2">
     <title lang="pt">As Bicampeãs</title>
     <desc lang="pt"> - A série documental AS BICAMPEÃS, acompanha a história da 
 Seleção de vôlei feminino de 2004 a 2012, quando o time brasileiro 
@@ -21748,7 +21799,7 @@ sensíveis ao universo feminino esportivo hoje.</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240724220056 -0300" stop="20240724223341 -0300" channel="sportv-2">
+  <programme start="20240724222154 -0300" stop="20240724225439 -0300" channel="sportv-2">
     <title lang="pt">Sem Bloqueio</title>
     <desc lang="pt"> - Ano olímpico. Vamos a Turquia, onde Zé Roberto treina 3 das nossas atletas. Macris, com hérnia, luta contra o tempo.  No Fenerbahçe, Ana Cristina segue em recuperação. No Rio, inicia a VNL. O palco é o Maracanãzinho.</desc>
     <category lang="en">sports (general)</category>
@@ -21757,7 +21808,7 @@ sensíveis ao universo feminino esportivo hoje.</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240724223343 -0300" stop="20240724230537 -0300" channel="sportv-2">
+  <programme start="20240724225441 -0300" stop="20240724233049 -0300" channel="sportv-2">
     <title lang="pt">Sem Bloqueio: : O Mundo Mágico De Macau</title>
     <desc lang="pt">Sem Bloqueio viaja para Macau com a Seleção e mostra os bastidores da segunda etapa da VNL. É a hora do Brasil enfrentar o Japão e a Itália e tentar manter sua invencibilidade. Na folga, atletas se divertem em um mundo lúdico.</desc>
     <category lang="en">sports (general)</category>
@@ -21766,17 +21817,9 @@ sensíveis ao universo feminino esportivo hoje.</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240724230538 -0300" stop="20240724233639 -0300" channel="sportv-2">
+  <programme start="20240724233050 -0300" stop="20240725000151 -0300" channel="sportv-2">
     <title lang="pt">Fome De Medalha: Maratona Aquática</title>
     <desc lang="pt">Maratona Aquática</desc>
-    <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20240724233642 -0300" stop="20240725000304 -0300" channel="sportv-2">
-    <title lang="pt">Fome De Medalha: Vôlei De Praia</title>
-    <desc lang="pt">Episódio 1 - Vôlei De Praia.</desc>
     <category lang="en">sports (general)</category>
     <rating system="Brazil">
       <value>[L]</value>
@@ -21962,59 +22005,53 @@ Uma paixão que de fato transformou e segue transformando suas vidas.
     <desc lang="pt">A cobertura de 100% dos Jogos Olímpicos de Paris 2024 está no sportv! Embarque em nosso mundo e acompanhe tudo em 4 canais e mais de 40 sinais ao vivo. Tá em Paris, tá no sportv.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240724175207 -0300" stop="20240724185844 -0300" channel="sportv-3">
+  <programme start="20240724180218 -0300" stop="20240724190855 -0300" channel="sportv-3">
     <title lang="pt">VT - Jogos Olímpicos Paris 2024: Futebol Masculino - Argentina x Marrocos</title>
     <desc lang="pt">A cobertura de 100% dos Jogos Olímpicos de Paris 2024 está no sportv! Embarque em nosso mundo e acompanhe tudo em 4 canais e mais de 40 sinais ao vivo. Tá em Paris, tá no sportv.</desc>
     <category lang="en">sports (general)</category>
     <previously-shown />
   </programme>
-  <programme start="20240724185848 -0300" stop="20240724195912 -0300" channel="sportv-3">
+  <programme start="20240724190858 -0300" stop="20240724200922 -0300" channel="sportv-3">
     <title lang="pt">VT - Jogos Olímpicos Paris 2024: Futebol Masculino - França x EUA</title>
     <desc lang="pt">A cobertura de 100% dos Jogos Olímpicos de Paris 2024 está no sportv! Embarque em nosso mundo e acompanhe tudo em 4 canais e mais de 40 sinais ao vivo. Tá em Paris, tá no sportv.</desc>
     <category lang="en">sports (general)</category>
     <previously-shown />
   </programme>
-  <programme start="20240724195913 -0300" stop="20240724205940 -0300" channel="sportv-3">
+  <programme start="20240724200936 -0300" stop="20240724211003 -0300" channel="sportv-3">
     <title lang="pt">VT - Jogos Olímpicos Paris 2024: Futebol Masculino - Uzbequistão x Espanha</title>
     <desc lang="pt">A cobertura de 100% dos Jogos Olímpicos de Paris 2024 está no sportv! Embarque em nosso mundo e acompanhe tudo em 4 canais e mais de 40 sinais ao vivo. Tá em Paris, tá no sportv.</desc>
     <category lang="en">sports (general)</category>
     <previously-shown />
   </programme>
-  <programme start="20240724205942 -0300" stop="20240724213315 -0300" channel="sportv-3">
+  <programme start="20240724211006 -0300" stop="20240724214339 -0300" channel="sportv-3">
     <title lang="pt">É Ouro!: Rebeca Andrade - A Rainha Do Baile</title>
     <desc lang="pt">É Ouro - o brilho do Brasil em Tóquio 2021</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20240724213317 -0300" stop="20240724215815 -0300" channel="sportv-3">
+  <programme start="20240724214340 -0300" stop="20240724220838 -0300" channel="sportv-3">
     <title lang="pt">É Ouro!: Isaquias Queiroz: Siga Remando</title>
     <desc lang="pt">É Ouro - o brilho do Brasil em Tóquio 2021</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20240724215817 -0300" stop="20240724222722 -0300" channel="sportv-3">
+  <programme start="20240724220840 -0300" stop="20240724223745 -0300" channel="sportv-3">
     <title lang="pt">É Ouro!: Ítalo Ferreira - Diz Amém, Que O Ouro Vem!</title>
     <desc lang="pt">É Ouro - o brilho do Brasil em Tóquio 2021</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20240724222723 -0300" stop="20240724225406 -0300" channel="sportv-3">
+  <programme start="20240724223747 -0300" stop="20240724230430 -0300" channel="sportv-3">
     <title lang="pt">É Ouro!: Ana Marcela - É Verdade Esse Bilhete</title>
     <desc lang="pt">É Ouro - o brilho do Brasil em Tóquio 2021</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20240724225409 -0300" stop="20240724232759 -0300" channel="sportv-3">
+  <programme start="20240724230443 -0300" stop="20240724233833 -0300" channel="sportv-3">
     <title lang="pt">É Ouro!: Futebol - Batuque De Ouro!</title>
     <desc lang="pt">É Ouro - o brilho do Brasil em Tóquio 2021</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20240724232801 -0300" stop="20240724235509 -0300" channel="sportv-3">
+  <programme start="20240724233835 -0300" stop="20240725000543 -0300" channel="sportv-3">
     <title lang="pt">É Ouro!: Martine E Kahena - O Que É Intuição?</title>
     <desc lang="pt">É Ouro - o brilho do Brasil em Tóquio 2021</desc>
     <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20240724235512 -0300" stop="20240725005920 -0300" channel="sportv-3">
-    <title lang="pt">VT - Jogos Olímpicos Paris 2024: Futebol Masculino - Argentina x Marrocos</title>
-    <desc lang="pt">A cobertura de 100% dos Jogos Olímpicos de Paris 2024 está no sportv! Embarque em nosso mundo e acompanhe tudo em 4 canais e mais de 40 sinais ao vivo. Tá em Paris, tá no sportv.</desc>
-    <category lang="en">sports (general)</category>
-    <previously-shown />
   </programme>
   <programme start="20240724070000 -0300" stop="20240724072959 -0300" channel="sportv-4">
     <title lang="pt">Fome De Medalha: Maratona Aquática</title>
@@ -22663,7 +22700,7 @@ Uma paixão que de fato transformou e segue transformando suas vidas.
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240724230114 -0300" stop="20240724232959 -0300" channel="multishow">
+  <programme start="20240724230114 -0300" stop="20240724233037 -0300" channel="multishow">
     <title lang="pt">Portugal Show</title>
     <sub-title lang="pt">Restaurante - Lúcio Mauro Filho</sub-title>
     <desc lang="pt"> - Rafael Portugal não se vê apresentando um talk show tradicional, por isso ele transforma o cenário do seu programa em lugares cotidianos onde o papo pode fluir naturalmente.</desc>
@@ -22672,7 +22709,7 @@ Uma paixão que de fato transformou e segue transformando suas vidas.
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240724233000 -0300" stop="20240724235959 -0300" channel="multishow">
+  <programme start="20240724233040 -0300" stop="20240725000011 -0300" channel="multishow">
     <title lang="pt">Stories Da Mansão</title>
     <sub-title lang="pt">Um amor para Gilzona</sub-title>
     <desc lang="pt"> - Carlinhos e amigos se unem para arranjar um date romântico para Gilzona, que busca um amor na cidade.</desc>
@@ -22865,7 +22902,7 @@ Uma paixão que de fato transformou e segue transformando suas vidas.
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240724170156 -0300" stop="20240724173411 -0300" channel="gnt">
+  <programme start="20240724170156 -0300" stop="20240724173408 -0300" channel="gnt">
     <title lang="pt">Pia e Salada de batatas com camarões</title>
     <desc lang="pt"> - Rodrigo faz pia na oficina reutilizando peça antiga. Na cozinha prepara salada de batatas com camarões e palha de casca de batata com molho hollandaise aproveitando o máximo dos ingredientes.</desc>
     <rating system="Brazil">
@@ -22887,7 +22924,7 @@ Uma paixão que de fato transformou e segue transformando suas vidas.
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240724183512 -0300" stop="20240724190631 -0300" channel="gnt">
+  <programme start="20240724183512 -0300" stop="20240724190630 -0300" channel="gnt">
     <title lang="pt">Cozinha Prática Com Rita Lobo</title>
     <sub-title lang="pt">Panqueca de Carne</sub-title>
     <desc lang="pt"> - Rita Lobo ensina o preparo da caseiríssima panqueca de carne gratinada com molho branco. Um prato, três receitas:  a massa, o recheio e o molho podem ser aproveitados em diferentes preparações.</desc>
@@ -22935,7 +22972,7 @@ Uma paixão que de fato transformou e segue transformando suas vidas.
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20240724235000 -0300" stop="20240725002259 -0300" channel="gnt">
+  <programme start="20240724235000 -0300" stop="20240725002532 -0300" channel="gnt">
     <title lang="pt">Conversa Com Bial</title>
     <desc lang="pt"> - Com experiência de décadas de reportagem e o espírito curioso pela história do outro, Pedro Bial apresenta um amplo espaço para escutar, opinar e multiplicar opiniões.</desc>
     <rating system="Brazil">
@@ -23144,7 +23181,7 @@ Uma paixão que de fato transformou e segue transformando suas vidas.
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20240724172506 -0300" stop="20240724181400 -0300" channel="viva">
+  <programme start="20240724172506 -0300" stop="20240724181401 -0300" channel="viva">
     <title lang="pt">Carga Pesada</title>
     <sub-title lang="pt">Carga perecível</sub-title>
     <desc lang="pt"> - Após um intervalo de 22 anos, os personagens Pedro (Antonio Fagundes) e Bino (Stênio Garcia) voltam a percorrer as estradas do país enfrentando fortes emoções.</desc>
@@ -23208,14 +23245,14 @@ Uma paixão que de fato transformou e segue transformando suas vidas.
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240724230101 -0300" stop="20240724234459 -0300" channel="viva">
+  <programme start="20240724230101 -0300" stop="20240724234723 -0300" channel="viva">
     <title lang="pt">Viver A Vida</title>
     <desc lang="pt"> - Ingrid incentiva Jorge a saber mais sobre as finanças de Luciana. Helena pensa em pausar a carreira. Miguel faz uma prova importante. Sandrinha volta para Búzios.</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240724234500 -0300" stop="20240725002959 -0300" channel="viva">
+  <programme start="20240724234727 -0300" stop="20240725003309 -0300" channel="viva">
     <title lang="pt">Sinhá Moça</title>
     <desc lang="pt"> - O Barão revela seu plano de matar Bastião a Rodolfo. Rodolfo decide continuar na Fazenda Araruna para salvar Bastião. Rafael é açoitado no tronco por ordens do Barão.</desc>
     <rating system="Brazil">
@@ -23330,7 +23367,7 @@ Uma paixão que de fato transformou e segue transformando suas vidas.
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20240724163106 -0300" stop="20240724181104 -0300" channel="canal-brasil">
+  <programme start="20240724163106 -0300" stop="20240724181105 -0300" channel="canal-brasil">
     <title lang="pt">Tia Virgínia</title>
     <desc lang="pt"> - Tia Virgínia nunca se casou ou teve filhos. Convencida pelas irmãs, ela muda de cidade para cuidar dos pais. O filme se desenrola em um único dia, quando Virgínia se prepara para receber as irmãs Vanda e Valquírial.</desc>
     <rating system="Brazil">
@@ -23360,7 +23397,7 @@ Uma paixão que de fato transformou e segue transformando suas vidas.
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240724220102 -0300" stop="20240724235959 -0300" channel="canal-brasil">
+  <programme start="20240724220102 -0300" stop="20240725000044 -0300" channel="canal-brasil">
     <title lang="pt">Um Animal Amarelo</title>
     <desc lang="pt"> - Fernando, um cineasta brasileiro falido, mergulha em uma jornada entre Brasil, Portugal e Moçambique, em busca de pistas sobre o passado violento de seu avô. Uma tragicômica fábula tropical.</desc>
     <rating system="Brazil">
@@ -23726,7 +23763,7 @@ pegam carona em um trator e a cena resulta em uma sessão de surfe inesquecível
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240724230341 -0300" stop="20240724232659 -0300" channel="canal-off">
+  <programme start="20240724230341 -0300" stop="20240724232818 -0300" channel="canal-off">
     <title lang="pt">Life Of Kai</title>
     <desc lang="pt"> - Kai Lenny persegue o sonho de vencer The Eddie Aikdau e, em seguida, enfrenta os melhores profissionais na etapa de Sunset Beach do circuito mundial.</desc>
     <episode-num system="xmltv_ns">.2.</episode-num>
@@ -23734,7 +23771,7 @@ pegam carona em um trator e a cena resulta em uma sessão de surfe inesquecível
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240724232700 -0300" stop="20240724235959 -0300" channel="canal-off">
+  <programme start="20240724232819 -0300" stop="20240725000034 -0300" channel="canal-off">
     <title lang="pt">Sail And Trail</title>
     <sub-title lang="pt">Vela, Corrida, Trekking</sub-title>
     <desc lang="pt"> - Vamos num veleiro conhecer um cantinho especial da região e de lá correr 18kms para desbravar cachoeiras locais. Para finalizar, vamos de trekking até o Pico da Pedra da Macela onde um visual alucinante nos espera</desc>
@@ -24138,7 +24175,7 @@ pegam carona em um trator e a cena resulta em uma sessão de surfe inesquecível
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240724185153 -0300" stop="20240724185940 -0300" channel="bis">
+  <programme start="20240724185153 -0300" stop="20240724185941 -0300" channel="bis">
     <title lang="pt">Yahoo e Cláudia Leitte - Frevo Mulher</title>
     <sub-title lang="pt">Setlist</sub-title>
     <desc lang="pt"> - Yahoo e Cláudia Leitte - Frevo Mulher (Bazuca)</desc>
@@ -24259,7 +24296,7 @@ pegam carona em um trator e a cena resulta em uma sessão de surfe inesquecível
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240724232806 -0300" stop="20240724235959 -0300" channel="bis">
+  <programme start="20240724232806 -0300" stop="20240725000031 -0300" channel="bis">
     <title lang="pt">Niall Horan - Live With The Rte Concert Orchestra</title>
     <sub-title lang="pt">Palco Principal</sub-title>
     <desc lang="pt"> - Show do cantor solo Niall Horan do seu último álbum: Flicker. Gravado no Studio 1, em Dublin, esta performance intimista e sensível mostra um lado de Niall pouco visto e explorado, tudo isso com a participação da incrível orquestra.
@@ -24604,7 +24641,7 @@ pegam carona em um trator e a cena resulta em uma sessão de surfe inesquecível
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20240724172857 -0300" stop="20240724175926 -0300" channel="modo-viagem">
+  <programme start="20240724172857 -0300" stop="20240724175927 -0300" channel="modo-viagem">
     <title lang="pt">Hey Ho!</title>
     <sub-title lang="pt">Braga, Uma Jovem Cidade Milenar</sub-title>
     <desc lang="pt"> - Carol Peixinho vai até Braga, cidade portuguesa cheia de tradição, mas ao mesmo tempo moderna e muito atraente. Ela também visita Guimarães, uma das 7 maravilhas de Portugal.</desc>
@@ -24620,7 +24657,7 @@ pegam carona em um trator e a cena resulta em uma sessão de surfe inesquecível
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240724182929 -0300" stop="20240724185930 -0300" channel="modo-viagem">
+  <programme start="20240724182929 -0300" stop="20240724185931 -0300" channel="modo-viagem">
     <title lang="pt">Brasil Visto De Cima</title>
     <sub-title lang="pt">Cachoeiro De Itapemirim</sub-title>
     <desc lang="pt"> - Cachoeiro do Itapemirim, no sul do Espírito Santo, é a terra natal do escritor Rubem Braga e do Roberto Carlos. Neste episódio, Brasil Visto de Cima leva você aos sobrados centenários e à casa em que o Rei passou a infância. Na periferia de Cachoeiro, incríveis formações em granito e vilazinhas rurais adoráveis também esperam por nós</desc>
@@ -24685,7 +24722,7 @@ pegam carona em um trator e a cena resulta em uma sessão de surfe inesquecível
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240724222930 -0300" stop="20240724225839 -0300" channel="modo-viagem">
+  <programme start="20240724222930 -0300" stop="20240724225846 -0300" channel="modo-viagem">
     <title lang="pt">Mundo Visto De Cima</title>
     <sub-title lang="pt">Itália</sub-title>
     <desc lang="pt"> - Hoje visitamos as regiões de Abruzzo e Puglia, na Itália, que abrigam diversas construções históricas do Imperador Romano Frederico II, além das grutas de Matera, um dos tipos de moradia mais antigos do mundo.</desc>
@@ -24693,7 +24730,7 @@ pegam carona em um trator e a cena resulta em uma sessão de surfe inesquecível
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240724230000 -0300" stop="20240724233059 -0300" channel="modo-viagem">
+  <programme start="20240724225849 -0300" stop="20240724232928 -0300" channel="modo-viagem">
     <title lang="pt">Mundo Visto De Cima</title>
     <sub-title lang="pt">Brasil - De Cabo Frio a Brasília</sub-title>
     <desc lang="pt"> - Nessa 11ª temporada de The World from Above, nós podemos conhecer lugares como a famosa Costa Amalfitana da Itália, catedrais de Paris, a paisagem selvagem do Desfiladeiro de Bighorn em Montana, o pico do Matterhorn na Suíça, e muito mais.</desc>
@@ -24701,7 +24738,7 @@ pegam carona em um trator e a cena resulta em uma sessão de surfe inesquecível
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240724233100 -0300" stop="20240725000059 -0300" channel="modo-viagem">
+  <programme start="20240724232931 -0300" stop="20240724235925 -0300" channel="modo-viagem">
     <title lang="pt">Sem Bagagem</title>
     <sub-title lang="pt">Etiópia - Dallol - parte 1</sub-title>
     <desc lang="pt"> - Sem Bagagem explora a região de Dallol, um planalto extremamente deserto na Etiópia, que se assemelha ao imaginamos ser o paraíso no céu.</desc>
@@ -25324,40 +25361,68 @@ pegam carona em um trator e a cena resulta em uma sessão de surfe inesquecível
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20240724170718 -0300" stop="20240724180523 -0300" channel="premiere">
+  <programme start="20240724170718 -0300" stop="20240724180522 -0300" channel="premiere">
     <title lang="pt">VT - Brasileirão: Grêmio x Vitória</title>
     <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20240724180526 -0300" stop="20240724192951 -0300" channel="premiere">
+  <programme start="20240724180526 -0300" stop="20240724192952 -0300" channel="premiere">
     <title lang="pt">VT - Brasileirão: Botafogo x Internacional</title>
     <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20240724192957 -0300" stop="20240724215815 -0300" channel="premiere">
+  <programme start="20240724193000 -0300" stop="20240724215818 -0300" channel="premiere">
     <title lang="pt">Brasileirão: Vitória x Flamengo - ao vivo</title>
     <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240724215818 -0300" stop="20240724224340 -0300" channel="premiere">
+  <programme start="20240724215821 -0300" stop="20240724224343 -0300" channel="premiere">
     <title lang="pt">Giro da Rodada: Série A</title>
     <sub-title lang="pt">18ª Rodada</sub-title>
     <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol aqui o sportv!</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20240724224346 -0300" stop="20240724234340 -0300" channel="premiere">
+  <programme start="20240724224348 -0300" stop="20240724234342 -0300" channel="premiere">
     <title lang="pt">VT - Brasileirão: Cruzeiro x Juventude</title>
     <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20240724234341 -0300" stop="20240725004224 -0300" channel="premiere">
+  <programme start="20240724234344 -0300" stop="20240725004227 -0300" channel="premiere">
     <title lang="pt">VT - Brasileirão: Vitória x Flamengo</title>
     <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
+  </programme>
+  <programme start="20240724193000 -0300" stop="20240724222959 -0300" channel="premiere-2">
+    <title lang="pt">Charla No Premiere: Vitória x Flamengo - ao vivo</title>
+    <desc lang="pt">O Premiere traz a transmissão mais humorada da internet brasileira, Bruno Cantarelli e Beto Junior assumem o controle de mais um jogão.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240724190000 -0300" stop="20240724195959 -0300" channel="premiere-4">
+    <title lang="pt">Retrô - Fluminense X Palmeiras</title>
+    <sub-title lang="pt">22ª Rodada, realizado em 28/08/2016</sub-title>
+    <desc lang="pt">Reveja partidas históricas do seu esporte favorito!
+
+</desc>
+    <category lang="en">sports (general)</category>
+    <date>28/08/2016</date>
+  </programme>
+  <programme start="20240724200000 -0300" stop="20240724205959 -0300" channel="premiere-4">
+    <title lang="pt">Retrô - Fluminense X Palmeiras</title>
+    <sub-title lang="pt">34ª Rodada, realizado em 08/11/2009</sub-title>
+    <desc lang="pt">Reveja partidas históricas do seu esporte favorito!
+
+</desc>
+    <category lang="en">sports (general)</category>
+    <date>08/11/2009</date>
+  </programme>
+  <programme start="20240724210000 -0300" stop="20240724232959 -0300" channel="premiere-4">
+    <title lang="pt">Brasileirão: Fluminense x Palmeiras - ao vivo</title>
+    <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20240724164500 -0300" stop="20240724174459 -0300" channel="premiere-5">
     <title lang="pt">Retrô - São Paulo X Botafogo</title>
@@ -25395,6 +25460,21 @@ pegam carona em um trator e a cena resulta em uma sessão de surfe inesquecível
   <programme start="20240724211500 -0300" stop="20240724232959 -0300" channel="premiere-6">
     <title lang="pt">Brasileirão Série B: Amazonas x Guarani - ao vivo</title>
     <desc lang="pt">Confira mais um jogão do Brasileirão Masculino Série B! Tem coisa pra caramba!</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240717204500 -0300" stop="20240724183959 -0300" channel="premiere-7">
+    <title lang="pt">Brasileirão Série B: Operário-PR x Goiás - ao vivo</title>
+    <desc lang="pt">Confira mais um jogão do Brasileirão Masculino Série B! Tem coisa pra caramba!</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240724184000 -0300" stop="20240724212459 -0300" channel="premiere-7">
+    <title lang="pt">Brasileirão: Criciúma x Fortaleza - ao vivo</title>
+    <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240724212500 -0300" stop="20240724232959 -0300" channel="premiere-7">
+    <title lang="pt">Brasileirão: Atlético-GO x Bahia - ao vivo</title>
+    <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20240723231123 -0300" stop="20240724020349 -0300" channel="combate">
@@ -25470,7 +25550,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
     <category lang="en">sports (general)</category>
     <previously-shown />
   </programme>
-  <programme start="20240724183119 -0300" stop="20240724183617 -0300" channel="combate">
+  <programme start="20240724183119 -0300" stop="20240724183616 -0300" channel="combate">
     <title lang="pt">Top Nocautes John Lineker</title>
     <desc lang="pt"> - Top Nocautes John Lineker</desc>
     <category lang="en">sports (general)</category>
@@ -25515,26 +25595,11 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20240724225838 -0300" stop="20240725005901 -0300" channel="combate">
+  <programme start="20240724225838 -0300" stop="20240725020714 -0300" channel="combate">
     <title lang="pt">VT - Ksw 96: Pawlak x Janikowski</title>
     <desc lang="pt">É a principal organização de artes marciais mistas da Polônia e uma das ligas líderes na Europa.</desc>
     <category lang="en">sports (general)</category>
     <previously-shown />
-  </programme>
-  <programme start="20240724100000 -0300" stop="20240724115959 -0300" channel="sinal-extra-sportv-2">
-    <title lang="pt">Futebol - ao vivo</title>
-    <desc lang="pt"> - Jogos Olímpicos de Paris 2024</desc>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20240724160000 -0300" stop="20240724175959 -0300" channel="sinal-extra-sportv-2">
-    <title lang="pt">Futebol - ao vivo</title>
-    <desc lang="pt"> - Jogos Olímpicos de Paris 2024</desc>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20240724160000 -0300" stop="20240724175959 -0300" channel="sinal-extra-sportv-8">
-    <title lang="pt">Futebol - ao vivo</title>
-    <desc lang="pt"> - Jogos Olímpicos de Paris 2024</desc>
-    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20240724234500 -0300" stop="20240725002959 -0300" channel="tv-globo">
     <title lang="pt">Que História é Essa Porchat?</title>
@@ -25785,33 +25850,32 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
     <category lang="en">news/current affairs (general)</category>
     <previously-shown />
   </programme>
-  <programme start="20240724233000 -0300" stop="20240725005959 -0300" channel="sportv">
+  <programme start="20240724233113 -0300" stop="20240725010116 -0300" channel="sportv">
     <title lang="pt">Troca de Passes - ao vivo</title>
     <desc lang="pt"> - Felipe Diniz troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada. Veja os melhores momentos, tire as dúvidas daquele lance polêmico  acompanhe a repercussão com jogadores e treinadores no calor do jogo. Aqui ninguém fica em cima do muro. 
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240725010000 -0300" stop="20240725011459 -0300" channel="sportv">
-    <title lang="pt">Heróis Do Futuro: Gabriele Souza - Salto Triplo - Inédito</title>
-    <desc lang="pt">As futuras estrelas mirins do esporte, virtuosos e dedicados fenômenos espalhados pelo Brasil, serão colocados lado a lado daqueles que são seus maiores ídolos.</desc>
+  <programme start="20240725010120 -0300" stop="20240725011429 -0300" channel="sportv">
+    <title lang="pt">1/1 HERÓIS DO FUTURO - GABRIELE SOUZA - SALTO TRIPLO</title>
+    <sub-title lang="pt">realizado em 21/07/2024</sub-title>
     <category lang="en">sports (general)</category>
-    <new />
+    <date>21/07/2024</date>
   </programme>
-  <programme start="20240725011500 -0300" stop="20240725012959 -0300" channel="sportv">
-    <title lang="pt">Heróis Do Futuro: Bianca Silva - Rugby</title>
-    <desc lang="pt">As futuras estrelas mirins do esporte, virtuosos e dedicados fenômenos espalhados pelo Brasil, serão colocados lado a lado daqueles que são seus maiores ídolos.</desc>
+  <programme start="20240725011432 -0300" stop="20240725012808 -0300" channel="sportv">
+    <title lang="pt">1/1 HERÓIS DO FUTURO - BIANCA SILVA - RUGBY 12</title>
+    <sub-title lang="pt">realizado em 17/07/2024</sub-title>
     <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+    <date>17/07/2024</date>
+    <episode-num system="xmltv_ns">.11.</episode-num>
   </programme>
-  <programme start="20240725013000 -0300" stop="20240725022959 -0300" channel="sportv">
+  <programme start="20240725012810 -0300" stop="20240725022823 -0300" channel="sportv">
     <title lang="pt">VT - Brasileirão: Fluminense x Palmeiras</title>
     <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20240725023000 -0300" stop="20240725032959 -0300" channel="sportv">
+  <programme start="20240725022826 -0300" stop="20240725025834 -0300" channel="sportv">
     <title lang="pt">VT - Brasileirão: São Paulo x Botafogo</title>
     <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
     <category lang="en">football/soccer</category>
@@ -25898,18 +25962,26 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20240725233000 -0300" stop="20240725234459 -0300" channel="sportv">
-    <title lang="pt">Heróis Do Futuro: Fernando Scheffer - Natação - Inédito</title>
-    <desc lang="pt">As futuras estrelas mirins do esporte, virtuosos e dedicados fenômenos espalhados pelo Brasil, serão colocados lado a lado daqueles que são seus maiores ídolos.</desc>
+    <title lang="pt">Heróis Do Futuro - Inédito</title>
+    <desc lang="pt"> - </desc>
     <category lang="en">sports (general)</category>
     <new />
   </programme>
   <programme start="20240725234500 -0300" stop="20240725235959 -0300" channel="sportv">
-    <title lang="pt">Heróis Do Futuro: Paulo André – Atletismo - Inédito</title>
-    <desc lang="pt">As futuras estrelas mirins do esporte, virtuosos e dedicados fenômenos espalhados pelo Brasil, serão colocados lado a lado daqueles que são seus maiores ídolos.</desc>
+    <title lang="pt">Heróis Do Futuro - Inédito</title>
+    <desc lang="pt"> - </desc>
     <category lang="en">sports (general)</category>
     <new />
   </programme>
-  <programme start="20240724233642 -0300" stop="20240725000304 -0300" channel="sportv-2">
+  <programme start="20240724233050 -0300" stop="20240725000151 -0300" channel="sportv-2">
+    <title lang="pt">Fome De Medalha: Maratona Aquática</title>
+    <desc lang="pt">Maratona Aquática</desc>
+    <category lang="en">sports (general)</category>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20240725000154 -0300" stop="20240725002816 -0300" channel="sportv-2">
     <title lang="pt">Fome De Medalha: Vôlei De Praia</title>
     <desc lang="pt">Episódio 1 - Vôlei De Praia.</desc>
     <category lang="en">sports (general)</category>
@@ -25917,7 +25989,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240725000305 -0300" stop="20240725002930 -0300" channel="sportv-2">
+  <programme start="20240725002817 -0300" stop="20240725005442 -0300" channel="sportv-2">
     <title lang="pt">Fome De Medalha: Tênis</title>
     <desc lang="pt">Tênis</desc>
     <category lang="en">sports (general)</category>
@@ -25925,7 +25997,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240725002932 -0300" stop="20240725002959 -0300" channel="sportv-2">
+  <programme start="20240725005445 -0300" stop="20240725012132 -0300" channel="sportv-2">
     <title lang="pt">Fome De Medalha: Tiro Com Arco</title>
     <desc lang="pt">Fome De Medalha - Episódio 2 - Tiro Com Arco</desc>
     <category lang="en">sports (general)</category>
@@ -25933,23 +26005,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240725003000 -0300" stop="20240725005959 -0300" channel="sportv-2">
-    <title lang="pt">Fome De Medalha: Tênis</title>
-    <desc lang="pt">Tênis</desc>
-    <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20240725010000 -0300" stop="20240725012959 -0300" channel="sportv-2">
-    <title lang="pt">Fome De Medalha: Tiro Com Arco</title>
-    <desc lang="pt">Fome De Medalha - Episódio 2 - Tiro Com Arco</desc>
-    <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20240725013000 -0300" stop="20240725015959 -0300" channel="sportv-2">
+  <programme start="20240725012133 -0300" stop="20240725014643 -0300" channel="sportv-2">
     <title lang="pt">Fome De Medalha: Ginástica Artística</title>
     <desc lang="pt">Fome De Medalha - Ginástica Artística</desc>
     <category lang="en">sports (general)</category>
@@ -25957,7 +26013,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240725020000 -0300" stop="20240725022959 -0300" channel="sportv-2">
+  <programme start="20240725014645 -0300" stop="20240725021330 -0300" channel="sportv-2">
     <title lang="pt">Fome De Medalha: Arremesso De Peso</title>
     <desc lang="pt">Arremesso De Peso</desc>
     <category lang="en">sports (general)</category>
@@ -25965,7 +26021,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240725023000 -0300" stop="20240725025959 -0300" channel="sportv-2">
+  <programme start="20240725021332 -0300" stop="20240725024302 -0300" channel="sportv-2">
     <title lang="pt">Sem Bloqueio</title>
     <desc lang="pt"> - Ano olímpico. Vamos a Turquia, onde Zé Roberto treina 3 das nossas atletas. Macris, com hérnia, luta contra o tempo.  No Fenerbahçe, Ana Cristina segue em recuperação. No Rio, inicia a VNL. O palco é o Maracanãzinho.</desc>
     <category lang="en">sports (general)</category>
@@ -26077,24 +26133,24 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240724233958 -0300" stop="20240725000706 -0300" channel="sportv-3">
+  <programme start="20240724233707 -0300" stop="20240725000415 -0300" channel="sportv-3">
     <title lang="pt">É Ouro!: Martine E Kahena - O Que É Intuição?</title>
     <desc lang="pt">É Ouro - o brilho do Brasil em Tóquio 2021</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20240725000709 -0300" stop="20240725005959 -0300" channel="sportv-3">
+  <programme start="20240725000418 -0300" stop="20240725010826 -0300" channel="sportv-3">
     <title lang="pt">VT - Jogos Olímpicos Paris 2024: Futebol Masculino - Argentina x Marrocos</title>
     <desc lang="pt">A cobertura de 100% dos Jogos Olímpicos de Paris 2024 está no sportv! Embarque em nosso mundo e acompanhe tudo em 4 canais e mais de 40 sinais ao vivo. Tá em Paris, tá no sportv.</desc>
     <category lang="en">sports (general)</category>
     <previously-shown />
   </programme>
-  <programme start="20240725010000 -0300" stop="20240725015959 -0300" channel="sportv-3">
+  <programme start="20240725010828 -0300" stop="20240725020354 -0300" channel="sportv-3">
     <title lang="pt">VT - Jogos Olímpicos Paris 2024: Futebol Masculino - França x EUA</title>
     <desc lang="pt">A cobertura de 100% dos Jogos Olímpicos de Paris 2024 está no sportv! Embarque em nosso mundo e acompanhe tudo em 4 canais e mais de 40 sinais ao vivo. Tá em Paris, tá no sportv.</desc>
     <category lang="en">sports (general)</category>
     <previously-shown />
   </programme>
-  <programme start="20240725020000 -0300" stop="20240725025959 -0300" channel="sportv-3">
+  <programme start="20240725020357 -0300" stop="20240725025959 -0300" channel="sportv-3">
     <title lang="pt">VT - Jogos Olímpicos Paris 2024: Futebol Masculino - Uzbequistão x Espanha</title>
     <desc lang="pt">A cobertura de 100% dos Jogos Olímpicos de Paris 2024 está no sportv! Embarque em nosso mundo e acompanhe tudo em 4 canais e mais de 40 sinais ao vivo. Tá em Paris, tá no sportv.</desc>
     <category lang="en">sports (general)</category>
@@ -26419,7 +26475,15 @@ skate: a MegaRampa.</desc>
     <desc lang="pt">SPORTV CLASSIC 2016</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20240725000000 -0300" stop="20240725004959 -0300" channel="multishow">
+  <programme start="20240724233040 -0300" stop="20240725000011 -0300" channel="multishow">
+    <title lang="pt">Stories Da Mansão</title>
+    <sub-title lang="pt">Um amor para Gilzona</sub-title>
+    <desc lang="pt"> - Carlinhos e amigos se unem para arranjar um date romântico para Gilzona, que busca um amor na cidade.</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20240725000014 -0300" stop="20240725005009 -0300" channel="multishow">
     <title lang="pt">Vai que Cola</title>
     <sub-title lang="pt">Madeira</sub-title>
     <desc lang="pt"> - Sanderson teve um probleminha e Doja Jô chama Eloísa para ajudar a entregar as quentinhas, mas a taxista não pode pois tem que pegar um cliente. Valdo, para variar, está armando um plano e pretende faturar uma grana de um empresário que vai almoçar na pensão. Ele conta com a ajuda de todos os moradores, só não imagina que o empresário não tem mais grana.</desc>
@@ -26427,7 +26491,7 @@ skate: a MegaRampa.</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240725005000 -0300" stop="20240725011959 -0300" channel="multishow">
+  <programme start="20240725005012 -0300" stop="20240725012042 -0300" channel="multishow">
     <title lang="pt">Tô de Graça</title>
     <sub-title lang="pt">Quentinha  tudo dentro</sub-title>
     <desc lang="pt"> - Os gastos com Shubakira têm sido altos e Graça aproveita o (surpreendente) talento de Briti na cozinha para vender quentinhas na comunidade. Ela só não contava que terias problemas com Pará em seu novo negócio.
@@ -26436,7 +26500,7 @@ skate: a MegaRampa.</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240725012000 -0300" stop="20240725014959 -0300" channel="multishow">
+  <programme start="20240725012045 -0300" stop="20240725015109 -0300" channel="multishow">
     <title lang="pt">Tô de Graça</title>
     <sub-title lang="pt">Laticínicos</sub-title>
     <desc lang="pt"> - O nascimento da 14ª filha de Graça, Shubakira, intensificou a produção de leite de Graça, que vendo ali uma chance aumentar sua renda, resolve vender o leite e seus derivados feitos a partir do excesso de sua produção.</desc>
@@ -26444,7 +26508,7 @@ skate: a MegaRampa.</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240725015000 -0300" stop="20240725021359 -0300" channel="multishow">
+  <programme start="20240725015110 -0300" stop="20240725021359 -0300" channel="multishow">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia A Babá</sub-title>
     <desc lang="pt"> - Rochelle e Julius vão sair para uma noite romântica e contratam uma babá para cuidar das crianças. O jantar dá errado quando o restaurante é assaltado.</desc>
@@ -26945,14 +27009,14 @@ skate: a MegaRampa.</desc>
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20240724234300 -0300" stop="20240725002259 -0300" channel="gnt">
+  <programme start="20240724235000 -0300" stop="20240725002532 -0300" channel="gnt">
     <title lang="pt">Conversa Com Bial</title>
     <desc lang="pt"> - Com experiência de décadas de reportagem e o espírito curioso pela história do outro, Pedro Bial apresenta um amplo espaço para escutar, opinar e multiplicar opiniões.</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240725002300 -0300" stop="20240725011259 -0300" channel="gnt">
+  <programme start="20240725002535 -0300" stop="20240725011526 -0300" channel="gnt">
     <title lang="pt">Mãe</title>
     <desc lang="pt"> - A polícia continua as buscas por Zeynep e Gonul. Sule diz a Ali que fez a denúncia contra Zeynep por não suportar vê-la perto de Melek.</desc>
     <episode-num system="xmltv_ns">.32.</episode-num>
@@ -26960,7 +27024,7 @@ skate: a MegaRampa.</desc>
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20240725011300 -0300" stop="20240725021259 -0300" channel="gnt">
+  <programme start="20240725011529 -0300" stop="20240725021359 -0300" channel="gnt">
     <title lang="pt">Que História É Essa, Porchat?</title>
     <sub-title lang="pt">Johnny Massaro, Mariana Rios e Clarissa Pinheiro</sub-title>
     <desc lang="pt"> - Os convidados são ator Johnny Massaro e as atrizes Mariana Rios e Clarissa Pinheiro. Na plateia, um carnaval em Singapura e um resgate em num incêndio.</desc>
@@ -27157,7 +27221,7 @@ skate: a MegaRampa.</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240725185800 -0300" stop="20240725192459 -0300" channel="gnt">
+  <programme start="20240725190311 -0300" stop="20240725193010 -0300" channel="gnt">
     <title lang="pt">Cozinha Prática Com Rita Lobo</title>
     <sub-title lang="pt">Fritata</sub-title>
     <desc lang="pt"> - Rita Lobo explora mais uma vez a versatilidade dos ovos para fazer um prato prático e saboroso. É uma fritata de batata e cebola, mas você também pode chamar de tortilla espanhola – ou simplesmente uma prima da omelete que é finalizada no forno. Para acompanhar: torradas com tapenade de azeitonas.</desc>
@@ -27165,7 +27229,7 @@ skate: a MegaRampa.</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240725192500 -0300" stop="20240725195159 -0300" channel="gnt">
+  <programme start="20240725193053 -0300" stop="20240725195752 -0300" channel="gnt">
     <title lang="pt">Cozinha Prática Com Rita Lobo</title>
     <sub-title lang="pt">Peixe</sub-title>
     <desc lang="pt"> - Para ajudar a levantar o seu jantar do dia a dia, Rita Lobo transforma um velho conhecido das nossas cozinhas, o filé de pescada, em um prato cheio de novidades. Ela prepara ainda um refrescante purê de ervilhas e hortelã e uma salada de ervas frescas e cebola roxa. Para finalizar, tem bolo de chocolate com castanha-de-caju que não leva farinha e não precisa de batedeira!</desc>
@@ -27173,7 +27237,7 @@ skate: a MegaRampa.</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240725195200 -0300" stop="20240725205359 -0300" channel="gnt">
+  <programme start="20240725195919 -0300" stop="20240725210118 -0300" channel="gnt">
     <title lang="pt">Que Seja Doce</title>
     <sub-title lang="pt">Abraço De Vovó</sub-title>
     <desc lang="pt"> - A cozinha era o cômodo principal da casa de Ditinha, avó de Camila e Xongani. O carinho da avó se refletia nos doces. As duas vêm em busca desse carinho e, claro, de doçuras.</desc>
@@ -27181,7 +27245,7 @@ skate: a MegaRampa.</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240725205400 -0300" stop="20240725215359 -0300" channel="gnt">
+  <programme start="20240725210045 -0300" stop="20240725220044 -0300" channel="gnt">
     <title lang="pt">Que Seja Doce</title>
     <sub-title lang="pt">Os Lugares dos Ingredientes</sub-title>
     <desc lang="pt"> - Através das frutas, os confeiteiros viajam para as origens do damasco, pêssego, romã e tangerina, descobrindo assim sabores incríveis.</desc>
@@ -27189,7 +27253,7 @@ skate: a MegaRampa.</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240725215400 -0300" stop="20240725224159 -0300" channel="gnt">
+  <programme start="20240725215952 -0300" stop="20240725224751 -0300" channel="gnt">
     <title lang="pt">Geladeiras Em Ação</title>
     <sub-title lang="pt">Comfort Food</sub-title>
     <desc lang="pt"> - Três cozinheiros amadores terão que competir para fazer café da manhã, almoço e jantar apenas com os ingredientes de uma geladeira "comfort food" montada pelo chef Claude Troisgros.</desc>
@@ -27212,7 +27276,7 @@ skate: a MegaRampa.</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240724234500 -0300" stop="20240725002959 -0300" channel="viva">
+  <programme start="20240724234727 -0300" stop="20240725002959 -0300" channel="viva">
     <title lang="pt">Sinhá Moça</title>
     <desc lang="pt"> - O Barão revela seu plano de matar Bastião a Rodolfo. Rodolfo decide continuar na Fazenda Araruna para salvar Bastião. Rafael é açoitado no tronco por ordens do Barão.</desc>
     <rating system="Brazil">
@@ -27486,7 +27550,14 @@ skate: a MegaRampa.</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240725000000 -0300" stop="20240725002459 -0300" channel="canal-brasil">
+  <programme start="20240724220102 -0300" stop="20240725000044 -0300" channel="canal-brasil">
+    <title lang="pt">Um Animal Amarelo</title>
+    <desc lang="pt"> - Fernando, um cineasta brasileiro falido, mergulha em uma jornada entre Brasil, Portugal e Moçambique, em busca de pistas sobre o passado violento de seu avô. Uma tragicômica fábula tropical.</desc>
+    <rating system="Brazil">
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20240725000048 -0300" stop="20240725002731 -0300" channel="canal-brasil">
     <title lang="pt">Centenário Nelson Sargento</title>
     <sub-title lang="pt">Zoombido</sub-title>
     <desc lang="pt"> - Paulinho Moska convida Nelson Sargento para um papo sobre samba. O compositor mangueirense relembra a carreira e diz que, no momento da criação, nada em sua volta faz sentido.</desc>
@@ -27494,7 +27565,7 @@ skate: a MegaRampa.</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240725002500 -0300" stop="20240725013959 -0300" channel="canal-brasil">
+  <programme start="20240725002735 -0300" stop="20240725014459 -0300" channel="canal-brasil">
     <title lang="pt">Centenário Nelson Sargento</title>
     <sub-title lang="pt">O Primeiro Dia</sub-title>
     <desc lang="pt"> - No réveillon de 1999, dois desconhecidos se encontram no topo de um edifício. O ex-presidiário João e a jovem Maria convivem na mesma cidade, vivendo cada qual o seu exílio particular.</desc>
@@ -27575,7 +27646,8 @@ skate: a MegaRampa.</desc>
     </rating>
   </programme>
   <programme start="20240725131500 -0300" stop="20240725134459 -0300" channel="canal-brasil">
-    <title lang="pt">Cinejornal_25/07/2024</title>
+    <title lang="pt">Cinejornal</title>
+    <sub-title lang="pt">Lançamento Festival de Gramado em Rj e Sp_25/07/2024</sub-title>
     <desc lang="pt"> - O Cinejornal é um programa diário, presentado por Simone Zuccolotto, no qual é pautado o melhor do cinema brasileiro.</desc>
   </programme>
   <programme start="20240725134500 -0300" stop="20240725135659 -0300" channel="canal-brasil">
@@ -27726,7 +27798,15 @@ skate: a MegaRampa.</desc>
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20240725000000 -0300" stop="20240725014159 -0300" channel="canal-off">
+  <programme start="20240724232819 -0300" stop="20240725000034 -0300" channel="canal-off">
+    <title lang="pt">Sail And Trail</title>
+    <sub-title lang="pt">Vela, Corrida, Trekking</sub-title>
+    <desc lang="pt"> - Vamos num veleiro conhecer um cantinho especial da região e de lá correr 18kms para desbravar cachoeiras locais. Para finalizar, vamos de trekking até o Pico da Pedra da Macela onde um visual alucinante nos espera</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20240725000036 -0300" stop="20240725014159 -0300" channel="canal-off">
     <title lang="pt">Off Docs</title>
     <sub-title lang="pt">Kissed By God</sub-title>
     <desc lang="pt"> - O transtorno bipolar e o vício em opiáceos na vida do surfista tricampeão mundial Andy Irons, que lutou até a morte contra demônios que afligem milhões de pessoas. A história não contada de sua vida ajuda a derrubar mitos associados a essas duas doenças ferozes.</desc>
@@ -28060,7 +28140,16 @@ sobre como a questão financeira atravessa o bem-estar das pessoas trans no Bras
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240725000000 -0300" stop="20240725012959 -0300" channel="bis">
+  <programme start="20240724232806 -0300" stop="20240725000031 -0300" channel="bis">
+    <title lang="pt">Niall Horan - Live With The Rte Concert Orchestra</title>
+    <sub-title lang="pt">Palco Principal</sub-title>
+    <desc lang="pt"> - Show do cantor solo Niall Horan do seu último álbum: Flicker. Gravado no Studio 1, em Dublin, esta performance intimista e sensível mostra um lado de Niall pouco visto e explorado, tudo isso com a participação da incrível orquestra.
+</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20240725000035 -0300" stop="20240725012959 -0300" channel="bis">
     <title lang="pt">The Conductor</title>
     <sub-title lang="pt">Arquivo Musical</sub-title>
     <desc lang="pt"> - Retrato da genial regente Marin Alsop que colocou a Orquestra do Estado de São Paulo entre as mais respeitadas do mundo. Uma mulher forte, de ideias claras e um talento vigoroso.</desc>
@@ -28557,15 +28646,7 @@ sobre como a questão financeira atravessa o bem-estar das pessoas trans no Bras
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20240724233100 -0300" stop="20240725000059 -0300" channel="modo-viagem">
-    <title lang="pt">Sem Bagagem</title>
-    <sub-title lang="pt">Etiópia - Dallol - parte 1</sub-title>
-    <desc lang="pt"> - Sem Bagagem explora a região de Dallol, um planalto extremamente deserto na Etiópia, que se assemelha ao imaginamos ser o paraíso no céu.</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20240725000100 -0300" stop="20240725003059 -0300" channel="modo-viagem">
+  <programme start="20240724235929 -0300" stop="20240725002932 -0300" channel="modo-viagem">
     <title lang="pt">Expedição Austrália Com Ernie Dingo</title>
     <sub-title lang="pt">Bungle Bungles, Coranderrk e Cairns</sub-title>
     <desc lang="pt"> - Ernie vive uma experiência de tirar o fôlego na Bungle Bungles, no coração de Kimberley. Narelda visita Coranderrk. E Aaron bate um papo com o músico Dave Hudson.</desc>
@@ -28573,7 +28654,7 @@ sobre como a questão financeira atravessa o bem-estar das pessoas trans no Bras
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240725003100 -0300" stop="20240725005959 -0300" channel="modo-viagem">
+  <programme start="20240725002935 -0300" stop="20240725005632 -0300" channel="modo-viagem">
     <title lang="pt">Os Caminhos Do Sorvete</title>
     <sub-title lang="pt">Los Angeles, Califórnia</sub-title>
     <desc lang="pt"> - Vamos conhecer a diversidade cultural da cidade e como ela influencia no gosto dos moradores por sorvete, experimentar sabores persas, paletas tropicais</desc>
@@ -28581,7 +28662,7 @@ sobre como a questão financeira atravessa o bem-estar das pessoas trans no Bras
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240725010000 -0300" stop="20240725012959 -0300" channel="modo-viagem">
+  <programme start="20240725005634 -0300" stop="20240725012023 -0300" channel="modo-viagem">
     <title lang="pt">Minha Itália</title>
     <sub-title lang="pt">Abruzzo</sub-title>
     <desc lang="pt"> - Alessandra segue para Abruzzo, para conhecer uma região ainda pouco explorada pelos turistas estrangeiros e italianos.</desc>
@@ -29501,19 +29582,19 @@ Vamos a aldeia do povo indígena Suruí, a um resort e a uma fazenda de agricult
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240724234341 -0300" stop="20240725004224 -0300" channel="premiere">
+  <programme start="20240724234344 -0300" stop="20240725004227 -0300" channel="premiere">
     <title lang="pt">VT - Brasileirão: Vitória x Flamengo</title>
     <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20240725004227 -0300" stop="20240725011156 -0300" channel="premiere">
+  <programme start="20240725004229 -0300" stop="20240725014053 -0300" channel="premiere">
     <title lang="pt">VT - Brasileirão: São Paulo x Botafogo</title>
     <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20240725020000 -0300" stop="20240725025959 -0300" channel="premiere">
+  <programme start="20240725014054 -0300" stop="20240725021022 -0300" channel="premiere">
     <title lang="pt">VT - Brasileirão: Fluminense x Palmeiras</title>
     <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
     <category lang="en">football/soccer</category>
@@ -29649,13 +29730,23 @@ Vamos a aldeia do povo indígena Suruí, a um resort e a uma fazenda de agricult
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20240724225838 -0300" stop="20240725005901 -0300" channel="combate">
+  <programme start="20240725211500 -0300" stop="20240725232959 -0300" channel="premiere-2">
+    <title lang="pt">Brasileirão Série B: Ceará x Botafogo-SP - ao vivo</title>
+    <desc lang="pt">Confira mais um jogão do Brasileirão Masculino Série B! Tem coisa pra caramba!</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240725211500 -0300" stop="20240725232959 -0300" channel="premiere-4">
+    <title lang="pt">Brasileirão Série B: Goiás x CRB-AL - ao vivo</title>
+    <desc lang="pt">Confira mais um jogão do Brasileirão Masculino Série B! Tem coisa pra caramba!</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240724225838 -0300" stop="20240725020714 -0300" channel="combate">
     <title lang="pt">VT - Ksw 96: Pawlak x Janikowski</title>
     <desc lang="pt">É a principal organização de artes marciais mistas da Polônia e uma das ligas líderes na Europa.</desc>
     <category lang="en">sports (general)</category>
     <previously-shown />
   </programme>
-  <programme start="20240725021000 -0300" stop="20240725023959 -0300" channel="combate">
+  <programme start="20240725020717 -0300" stop="20240725023547 -0300" channel="combate">
     <title lang="pt">Sessão Combate: Experiência De Mestre: Raul Gazolla</title>
     <desc lang="pt">Raul Gazolla</desc>
     <category lang="en">sports (general)</category>
@@ -29789,11 +29880,6 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
 </desc>
     <category lang="en">sports (general)</category>
     <previously-shown />
-  </programme>
-  <programme start="20240725140000 -0300" stop="20240725155959 -0300" channel="sinal-extra-sportv-8">
-    <title lang="pt">Futebol - ao vivo</title>
-    <desc lang="pt"> - Jogos Olímpicos de Paris 2024</desc>
-    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20240726000000 -0300" stop="20240726004959 -0300" channel="tv-globo">
     <title lang="pt">Jornal da Globo - ao vivo</title>
@@ -36963,6 +37049,39 @@ Vamos a aldeia do povo indígena Suruí, a um resort e a uma fazenda de agricult
     <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
     <category lang="en">live broadcast</category>
   </programme>
+  <programme start="20240727164500 -0300" stop="20240727185959 -0300" channel="premiere-2">
+    <title lang="pt">Brasileirão Série B: Coritiba x Chapecoense - ao vivo</title>
+    <desc lang="pt">Confira mais um jogão do Brasileirão Masculino Série B! Tem coisa pra caramba! </desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240727192000 -0300" stop="20240727201459 -0300" channel="premiere-2">
+    <title lang="pt">Retrô - Cruzeiro X Botafogo</title>
+    <sub-title lang="pt">32ª Rodada, realizado em 02/11/2014</sub-title>
+    <desc lang="pt">Reveja partidas históricas do seu esporte favorito!
+
+</desc>
+    <category lang="en">sports (general)</category>
+    <date>02/11/2014</date>
+  </programme>
+  <programme start="20240727201500 -0300" stop="20240727210959 -0300" channel="premiere-2">
+    <title lang="pt">Retrô - Cruzeiro X Botafogo</title>
+    <sub-title lang="pt">24ª Rodada, realizado em 11/09/2016</sub-title>
+    <desc lang="pt">Reveja partidas históricas do seu esporte favorito!
+
+</desc>
+    <category lang="en">sports (general)</category>
+    <date>11/09/2016</date>
+  </programme>
+  <programme start="20240727211000 -0300" stop="20240727232959 -0300" channel="premiere-2">
+    <title lang="pt">Brasileirão: Botafogo x Cruzeiro - ao vivo</title>
+    <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240727184000 -0300" stop="20240727205959 -0300" channel="premiere-4">
+    <title lang="pt">Brasileirão: Bahia x Internacional - ao vivo</title>
+    <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
   <programme start="20240727184000 -0300" stop="20240727205959 -0300" channel="premiere-5">
     <title lang="pt">Brasileirão: Juventude x Criciúma - ao vivo</title>
     <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
@@ -40403,9 +40522,42 @@ Vamos a aldeia do povo indígena Suruí, a um resort e a uma fazenda de agricult
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
+  <programme start="20240728160000 -0300" stop="20240728165959 -0300" channel="premiere-4">
+    <title lang="pt">Retrô - Vasco X Grêmio</title>
+    <sub-title lang="pt">5ª Rodada, realizado em 09/06/2007</sub-title>
+    <desc lang="pt">Reveja partidas históricas do seu esporte favorito!
+
+</desc>
+    <category lang="en">sports (general)</category>
+    <date>09/06/2007</date>
+  </programme>
+  <programme start="20240728170000 -0300" stop="20240728175959 -0300" channel="premiere-4">
+    <title lang="pt">Retrô - Grêmio X Vasco</title>
+    <sub-title lang="pt">24ª Rodada, realizado em 06/12/2020</sub-title>
+    <desc lang="pt">Reveja partidas históricas do seu esporte favorito!
+
+</desc>
+    <category lang="en">sports (general)</category>
+    <date>06/12/2020</date>
+  </programme>
+  <programme start="20240728180000 -0300" stop="20240728185959 -0300" channel="premiere-4">
+    <title lang="pt">Aquecimento SporTV: Grêmio x Vasco - ao vivo</title>
+    <desc lang="pt">Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes, aqui no sportv!</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240728190000 -0300" stop="20240728205959 -0300" channel="premiere-4">
+    <title lang="pt">Brasileirão: Grêmio x Vasco - ao vivo</title>
+    <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
   <programme start="20240728181500 -0300" stop="20240728202959 -0300" channel="premiere-5">
     <title lang="pt">Brasileirão Série B: CRB-AL x Santos - ao vivo</title>
     <desc lang="pt">Confira mais um jogão do Brasileirão Masculino Série B! Tem coisa pra caramba! </desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240728184000 -0300" stop="20240728205959 -0300" channel="premiere-6">
+    <title lang="pt">Brasileirão: Cuiabá x Athletico-PR - ao vivo</title>
+    <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20240728154500 -0300" stop="20240728182459 -0300" channel="premiere-7">
@@ -41065,18 +41217,7 @@ Serão apresentadas as lutas históricas, e as experiências de Renzo ensinando 
     <desc lang="pt"> - Acompanhe as principais notícias do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
-  <programme start="20240724173444 -0300" stop="20240724180059 -0300" channel="Saudade">
-    <title lang="pt">Entrevistas do Jô</title>
-    <sub-title lang="pt">Entrevista com Clodovil</sub-title>
-    <desc lang="pt">realizado em 15/06/1989 - Um marco na TV brasileira! Afinal, ninguém ia para cama sem antes ver as entrevistas de Jô Soares.</desc>
-    <category lang="en">talk show</category>
-    <date>15/06/1989</date>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20240724180106 -0300" stop="20240724202023 -0300" channel="Saudade">
+  <programme start="20240724192920 -0300" stop="20240724202023 -0300" channel="Saudade">
     <title lang="pt">Fantasia</title>
     <sub-title lang="pt">realizado em 21/02/1999</sub-title>
     <desc lang="pt">O programa interativo dos anos 90 que derrubou o sistema de telefonia da maior cidade do Brasil.</desc>
@@ -41703,38 +41844,27 @@ Serão apresentadas as lutas históricas, e as experiências de Renzo ensinando 
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240724171049 -0300" stop="20240724185006 -0300" channel="Notícias">
-    <title lang="pt">Chega Mais</title>
-    <desc lang="pt"> - Regina Volpato, Michelle Barros e Paulo Mathias trazem muita informação, prestação de serviço, culinária, diversão e entretenimento no "Chega Mais".</desc>
-    <episode-num system="xmltv_ns">0..</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20240724185436 -0300" stop="20240724194719 -0300" channel="Notícias">
+  <programme start="20240724193458 -0300" stop="20240724195805 -0300" channel="Notícias">
     <title lang="pt">Fofocalizando</title>
     <desc lang="pt"> - Fique por dentro das principais notícias do mundo das celebridades em primeira mão.</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
   </programme>
-  <programme start="20240724194719 -0300" stop="20240724195659 -0300" channel="Notícias">
-    <title lang="pt">Fofocalizando</title>
-    <desc lang="pt"> - Fique por dentro das principais notícias do mundo das celebridades em primeira mão.</desc>
-    <episode-num system="xmltv_ns">0..</episode-num>
-    <rating system="Brazil">
-      <value>[ Sem classificação]</value>
-    </rating>
-  </programme>
-  <programme start="20240724195659 -0300" stop="20240724222248 -0300" channel="Notícias">
+  <programme start="20240724195805 -0300" stop="20240724203212 -0300" channel="Notícias">
     <title lang="pt">Tá Na Hora</title>
     <desc lang="pt"> - Marcão do Povo e Márcia Dantas comandam o "Tá na Hora", levando informação e prestação de serviço durante a sua volta para casa.</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
   </programme>
-  <programme start="20240724222248 -0300" stop="20240724232119 -0300" channel="Notícias">
+  <programme start="20240724203642 -0300" stop="20240724223940 -0300" channel="Notícias">
+    <title lang="pt">Tá Na Hora</title>
+    <desc lang="pt"> - Marcão do Povo e Márcia Dantas comandam o "Tá na Hora", levando informação e prestação de serviço durante a sua volta para casa.</desc>
+    <episode-num system="xmltv_ns">0..</episode-num>
+  </programme>
+  <programme start="20240724223940 -0300" stop="20240724233811 -0300" channel="Notícias">
     <title lang="pt">SBT Brasil</title>
     <desc lang="pt"> - Cesar Filho leva ao telespectador as notícias mais importantes do dia, ao vivo, com liberdade editorial e credibilidade.</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
   </programme>
-  <programme start="20240724232119 -0300" stop="20240725002419 -0300" channel="Notícias">
+  <programme start="20240724233811 -0300" stop="20240725004111 -0300" channel="Notícias">
     <title lang="pt">The Noite com Danilo Gentili</title>
     <desc lang="pt"> - Danilo Gentili entrevista famosos e comanda o Roda Solta com ajuda de humoristas do Brasil.</desc>
     <category lang="en">comedy</category>
@@ -41743,12 +41873,12 @@ Serão apresentadas as lutas históricas, e as experiências de Renzo ensinando 
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240725002419 -0300" stop="20240725005659 -0300" channel="Notícias">
+  <programme start="20240725004111 -0300" stop="20240725011351 -0300" channel="Notícias">
     <title lang="pt">Giro Informação</title>
     <desc lang="pt"> - Informação, turismo, curiosidades e muito mais. O Giro Informação te deixa por dentro de assuntos que vão fazer diferença no seu dia a dia.</desc>
     <episode-num system="xmltv_ns">0.3.</episode-num>
   </programme>
-  <programme start="20240725005659 -0300" stop="20240725013820 -0300" channel="Notícias">
+  <programme start="20240725011351 -0300" stop="20240725015511 -0300" channel="Notícias">
     <title lang="pt">The Noite com Danilo Gentili</title>
     <desc lang="pt"> - Danilo Gentili entrevista famosos e comanda o Roda Solta com ajuda de humoristas do Brasil.</desc>
     <category lang="en">comedy</category>
@@ -41757,7 +41887,7 @@ Serão apresentadas as lutas históricas, e as experiências de Renzo ensinando 
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240725013820 -0300" stop="20240725023802 -0300" channel="Notícias">
+  <programme start="20240725015511 -0300" stop="20240725025454 -0300" channel="Notícias">
     <title lang="pt">O Futuro da Educação</title>
     <desc lang="pt"> - Na era da tecnologia, o conhecimento é essencial para se adaptar às novidades. </desc>
     <category lang="en">documentary</category>
@@ -41766,7 +41896,7 @@ Serão apresentadas as lutas históricas, e as experiências de Renzo ensinando 
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240725023802 -0300" stop="20240725033324 -0300" channel="Notícias">
+  <programme start="20240725025454 -0300" stop="20240725035016 -0300" channel="Notícias">
     <title lang="pt">Gabi Quase Proibida</title>
     <desc lang="pt"> - No Gabi Quase Proibida, Marília Gabriela fala abertamente com especialistas, artistas e convidados sobre temas espinhentos.</desc>
     <category lang="en">variety show</category>
@@ -41775,7 +41905,7 @@ Serão apresentadas as lutas históricas, e as experiências de Renzo ensinando 
       <value>[A18]</value>
     </rating>
   </programme>
-  <programme start="20240725033331 -0300" stop="20240725035717 -0300" channel="Notícias">
+  <programme start="20240725035023 -0300" stop="20240725041409 -0300" channel="Notícias">
     <title lang="pt">Entrevistas do Jô</title>
     <desc lang="pt"> - Um marco na TV brasileira! Afinal, ninguém ia para cama sem antes ver as entrevistas de Jô Soares.</desc>
     <category lang="en">talk show</category>
@@ -41784,7 +41914,7 @@ Serão apresentadas as lutas históricas, e as experiências de Renzo ensinando 
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240725040217 -0300" stop="20240725043101 -0300" channel="Notícias">
+  <programme start="20240725041909 -0300" stop="20240725044753 -0300" channel="Notícias">
     <title lang="pt">Entrevistas do Jô</title>
     <desc lang="pt"> - Um marco na TV brasileira! Afinal, ninguém ia para cama sem antes ver as entrevistas de Jô Soares.</desc>
     <category lang="en">talk show</category>
@@ -41793,7 +41923,7 @@ Serão apresentadas as lutas históricas, e as experiências de Renzo ensinando 
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240725043101 -0300" stop="20240725051221 -0300" channel="Notícias">
+  <programme start="20240725044753 -0300" stop="20240725052913 -0300" channel="Notícias">
     <title lang="pt">The Noite com Danilo Gentili</title>
     <desc lang="pt"> - Danilo Gentili entrevista famosos e comanda o Roda Solta com ajuda de humoristas do Brasil.</desc>
     <category lang="en">comedy</category>
@@ -41802,7 +41932,7 @@ Serão apresentadas as lutas históricas, e as experiências de Renzo ensinando 
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240725051221 -0300" stop="20240725061655 -0300" channel="Notícias">
+  <programme start="20240725052913 -0300" stop="20240725063346 -0300" channel="Notícias">
     <title lang="pt">Passo a Passo - A História do Ballet Paraisópolis</title>
     <desc lang="pt"> - A dança como alavanca para uma vida melhor. Arte, resistência e esperança em Paraisópolis.</desc>
     <category lang="en">documentary</category>
@@ -41811,7 +41941,7 @@ Serão apresentadas as lutas históricas, e as experiências de Renzo ensinando 
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240725061955 -0300" stop="20240725073323 -0300" channel="Notícias">
+  <programme start="20240725063647 -0300" stop="20240725075015 -0300" channel="Notícias">
     <title lang="pt">Fofocalizando</title>
     <desc lang="pt"> - Fique por dentro das principais notícias do mundo das celebridades em primeira mão.</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
@@ -41819,26 +41949,26 @@ Serão apresentadas as lutas históricas, e as experiências de Renzo ensinando 
       <value>[ Sem classificação]</value>
     </rating>
   </programme>
-  <programme start="20240725073504 -0300" stop="20240725080714 -0300" channel="Notícias">
+  <programme start="20240725075156 -0300" stop="20240725082406 -0300" channel="Notícias">
     <title lang="pt">Giro Informação</title>
     <desc lang="pt"> - Informação, turismo, curiosidades e muito mais. O Giro Informação te deixa por dentro de assuntos que vão fazer diferença no seu dia a dia.</desc>
     <episode-num system="xmltv_ns">0.3.</episode-num>
   </programme>
-  <programme start="20240725081030 -0300" stop="20240725100255 -0300" channel="Notícias">
+  <programme start="20240725082722 -0300" stop="20240725101946 -0300" channel="Notícias">
     <title lang="pt">Brasil Agora</title>
     <desc lang="pt"> - Direto de Brasília, os jornalistas Murilo Fagundes e Iasmin Costa trazem as principais notícias do dia no Brasil Agora.</desc>
   </programme>
-  <programme start="20240725100325 -0300" stop="20240725114243 -0300" channel="Notícias">
+  <programme start="20240725102016 -0300" stop="20240725115935 -0300" channel="Notícias">
     <title lang="pt">Primeiro Impacto</title>
     <desc lang="pt"> - Trânsito, política, saúde, esporte, mercado de trabalho, educação e os assuntos que são destaque no Brasil e no mundo.</desc>
     <episode-num system="xmltv_ns">0.7.</episode-num>
   </programme>
-  <programme start="20240725115125 -0300" stop="20240725135247 -0300" channel="Notícias">
+  <programme start="20240725120817 -0300" stop="20240725140938 -0300" channel="Notícias">
     <title lang="pt">Primeiro Impacto</title>
     <desc lang="pt"> - Trânsito, política, saúde, esporte, mercado de trabalho, educação e os assuntos que são destaque no Brasil e no mundo.</desc>
     <episode-num system="xmltv_ns">.7.</episode-num>
   </programme>
-  <programme start="20240725135317 -0300" stop="20240725155916 -0300" channel="Notícias">
+  <programme start="20240725141008 -0300" stop="20240725161608 -0300" channel="Notícias">
     <title lang="pt">Chega Mais</title>
     <desc lang="pt"> - Regina Volpato, Michelle Barros e Paulo Mathias trazem muita informação, prestação de serviço, culinária, diversão e entretenimento no "Chega Mais".</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
@@ -41846,7 +41976,7 @@ Serão apresentadas as lutas históricas, e as experiências de Renzo ensinando 
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240725160347 -0300" stop="20240725184458 -0300" channel="Notícias">
+  <programme start="20240725162038 -0300" stop="20240725190150 -0300" channel="Notícias">
     <title lang="pt">Chega Mais</title>
     <desc lang="pt"> - Regina Volpato, Michelle Barros e Paulo Mathias trazem muita informação, prestação de serviço, culinária, diversão e entretenimento no "Chega Mais".</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
@@ -41854,7 +41984,7 @@ Serão apresentadas as lutas históricas, e as experiências de Renzo ensinando 
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240725184928 -0300" stop="20240725193114 -0300" channel="Notícias">
+  <programme start="20240725190620 -0300" stop="20240725194806 -0300" channel="Notícias">
     <title lang="pt">Fofocalizando</title>
     <desc lang="pt"> - Fique por dentro das principais notícias do mundo das celebridades em primeira mão.</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
@@ -41862,17 +41992,17 @@ Serão apresentadas as lutas históricas, e as experiências de Renzo ensinando 
       <value>[ Sem classificação]</value>
     </rating>
   </programme>
-  <programme start="20240725193114 -0300" stop="20240725215704 -0300" channel="Notícias">
+  <programme start="20240725194806 -0300" stop="20240725221356 -0300" channel="Notícias">
     <title lang="pt">Tá Na Hora</title>
     <desc lang="pt"> - Marcão do Povo e Márcia Dantas comandam o "Tá na Hora", levando informação e prestação de serviço durante a sua volta para casa.</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
   </programme>
-  <programme start="20240725215704 -0300" stop="20240725225535 -0300" channel="Notícias">
+  <programme start="20240725221356 -0300" stop="20240725231226 -0300" channel="Notícias">
     <title lang="pt">SBT Brasil</title>
     <desc lang="pt"> - Cesar Filho leva ao telespectador as notícias mais importantes do dia, ao vivo, com liberdade editorial e credibilidade.</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
   </programme>
-  <programme start="20240725225535 -0300" stop="20240725235835 -0300" channel="Notícias">
+  <programme start="20240725231226 -0300" stop="20240726001527 -0300" channel="Notícias">
     <title lang="pt">The Noite com Danilo Gentili</title>
     <desc lang="pt"> - Danilo Gentili entrevista famosos e comanda o Roda Solta com ajuda de humoristas do Brasil.</desc>
     <category lang="en">comedy</category>
@@ -41881,38 +42011,16 @@ Serão apresentadas as lutas históricas, e as experiências de Renzo ensinando 
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240724174920 -0300" stop="20240724175449 -0300" channel="Humor">
-    <title lang="pt">Câmeras Escondidas</title>
-    <sub-title lang="pt">Brinquedo Assassino</sub-title>
-    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
-    <category lang="en">comedy</category>
-    <rating system="Brazil">
-      <value>[A12]</value>
-    </rating>
-  </programme>
-  <programme start="20240724180042 -0300" stop="20240724182508 -0300" channel="Humor">
-    <title lang="pt">Escolinha do Golias</title>
-    <sub-title lang="pt">realizado em 20/06/1991</sub-title>
-    <desc lang="pt">Pacífico deixará o professor Caliostro maluco com suas brincadeiras e artes dentro da sala de aula.</desc>
-    <category lang="en">comedy</category>
-    <date>20/06/1991</date>
-    <episode-num system="xmltv_ns">0.25.</episode-num>
+  <programme start="20240726001527 -0300" stop="20240726010927 -0300" channel="Notícias">
+    <title lang="pt">Megatendências: Desenvolvimento Sustentável para as Cidades </title>
+    <desc lang="pt"> - Conheça a cidade de São Paulo por diferentes aspectos e com foco na sustentabilidade e futuro.</desc>
+    <category lang="en">documentary</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20240724182518 -0300" stop="20240724185205 -0300" channel="Humor">
-    <title lang="pt">Escolinha do Golias</title>
-    <sub-title lang="pt">realizado em 27/06/1991</sub-title>
-    <desc lang="pt">Pacífico deixará o professor Caliostro maluco com suas brincadeiras e artes dentro da sala de aula.</desc>
-    <category lang="en">comedy</category>
-    <date>27/06/1991</date>
-    <episode-num system="xmltv_ns">0.26.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20240724185807 -0300" stop="20240724195531 -0300" channel="Humor">
+  <programme start="20240724193806 -0300" stop="20240724195531 -0300" channel="Humor">
     <title lang="pt">Ô... Coitado</title>
     <sub-title lang="pt">6. A Vaca</sub-title>
     <desc lang="pt"> - Um empregada doméstica que vive tentando limpar a barra do patrão e sempre arranja confusão!</desc>
@@ -42757,87 +42865,6 @@ Serão apresentadas as lutas históricas, e as experiências de Renzo ensinando 
     <category lang="en">comedy</category>
     <rating system="Brazil">
       <value>[A12]</value>
-    </rating>
-  </programme>
-  <programme start="20240724173837 -0300" stop="20240724174937 -0300" channel="Criança">
-    <title lang="pt">O Livro da Selva</title>
-    <desc lang="pt"> - Se aventure e proteja os animais junto de Mogli, o menino lobo!</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.33.</episode-num>
-    <rating system="Brazil">
-      <value>[AL]</value>
-    </rating>
-  </programme>
-  <programme start="20240724175140 -0300" stop="20240724180216 -0300" channel="Criança">
-    <title lang="pt">Rua do Zoo 64</title>
-    <desc lang="pt"> - Faça como a Lucy, se divirta com as histórias de vida dos animais da Rua do Zoo!</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">1.22.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20240724180409 -0300" stop="20240724181441 -0300" channel="Criança">
-    <title lang="pt">Rua do Zoo 64</title>
-    <desc lang="pt"> - Faça como a Lucy, se divirta com as histórias de vida dos animais da Rua do Zoo!</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">1.23.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20240724181648 -0300" stop="20240724182801 -0300" channel="Criança">
-    <title lang="pt">Rua do Zoo 64</title>
-    <desc lang="pt"> - Faça como a Lucy, se divirta com as histórias de vida dos animais da Rua do Zoo!</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">1.24.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20240724183004 -0300" stop="20240724184136 -0300" channel="Criança">
-    <title lang="pt">Peixonauta</title>
-    <desc lang="pt"> - Peixonauta é um agente secreto da Organização Secreta para Total Recuperação Ambiental (OSTRA).</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.32.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20240724184313 -0300" stop="20240724185548 -0300" channel="Criança">
-    <title lang="pt">Peixonauta</title>
-    <desc lang="pt"> - Peixonauta é um agente secreto da Organização Secreta para Total Recuperação Ambiental (OSTRA).</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.33.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20240724185750 -0300" stop="20240724190854 -0300" channel="Criança">
-    <title lang="pt">Dot.</title>
-    <desc lang="pt"> - Está a procura de uma aventura tecnológica? Dot. pode te levar pra uma!</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.32.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20240724191031 -0300" stop="20240724192134 -0300" channel="Criança">
-    <title lang="pt">Dot.</title>
-    <desc lang="pt"> - Está a procura de uma aventura tecnológica? Dot. pode te levar pra uma!</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.33.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20240724192332 -0300" stop="20240724193016 -0300" channel="Criança">
-    <title lang="pt">Oi, Duggee</title>
-    <desc lang="pt"> - Duggee é um cachorrão que atua como o líder de um clubinho chamado "Os Esquilos".</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">1.16.</episode-num>
-    <rating system="Brazil">
-      <value>[AL]</value>
     </rating>
   </programme>
   <programme start="20240724193439 -0300" stop="20240724194124 -0300" channel="Criança">
@@ -44001,16 +44028,7 @@ Serão apresentadas as lutas históricas, e as experiências de Renzo ensinando 
       <value>[AL]</value>
     </rating>
   </programme>
-  <programme start="20240724173102 -0300" stop="20240724181340 -0300" channel="Cinema">
-    <title lang="pt">O que fazer?</title>
-    <desc lang="pt"> - Henry, um homem rabugento, é informado de que tem 90 minutos de vida e está determinado a fazer as </desc>
-    <category lang="en">comedy</category>
-    <episode-num system="xmltv_ns">.0.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20240724181350 -0300" stop="20240724201221 -0300" channel="Cinema">
+  <programme start="20240724194112 -0300" stop="20240724201221 -0300" channel="Cinema">
     <title lang="pt">Relações de Família</title>
     <desc lang="pt"> - Henry enfrenta desafios financeiros, temendo impacto na família.</desc>
     <category lang="en">comedy</category>
@@ -44145,25 +44163,7 @@ Serão apresentadas as lutas históricas, e as experiências de Renzo ensinando 
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20240724173337 -0300" stop="20240724175018 -0300" channel="Séries">
-    <title lang="pt">Younger</title>
-    <desc lang="pt"> - Aos 40 anos, Liza finge ser mais nova para conseguir um emprego depois de anos longe do mercado.</desc>
-    <category lang="en">comedy</category>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
-    <rating system="Brazil">
-      <value>[A14]</value>
-    </rating>
-  </programme>
-  <programme start="20240724180117 -0300" stop="20240724190428 -0300" channel="Séries">
-    <title lang="pt">Call The Midwife</title>
-    <desc lang="pt"> - Jenny é uma jovem parteira que atende casos difíceis em uma das áreas mais pobres de Londres.</desc>
-    <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">1.3.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20240724190538 -0300" stop="20240724195901 -0300" channel="Séries">
+  <programme start="20240724193407 -0300" stop="20240724195901 -0300" channel="Séries">
     <title lang="pt">Saving Hope</title>
     <desc lang="pt"> - A médica Alex Reid luta para manter vivo o noivo Charlie, que entrou em coma após um acidente.</desc>
     <category lang="en">movie/drama (general)</category>
@@ -44703,7 +44703,7 @@ Serão apresentadas as lutas históricas, e as experiências de Renzo ensinando 
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240724181350 -0300" stop="20240724201221 -0300" channel="Cinema">
+  <programme start="20240724194112 -0300" stop="20240724201221 -0300" channel="Cinema">
     <title lang="pt">RelaÃ§Ãµes de FamÃ­lia</title>
     <desc lang="pt"> - Henry enfrenta desafios financeiros, temendo impacto na famÃ­lia.</desc>
     <category lang="en">comedy</category>
@@ -45428,7 +45428,7 @@ Serão apresentadas as lutas históricas, e as experiências de Renzo ensinando 
   </programme>
   <programme start="20240724193000 -0300" stop="20240724214000 -0300" channel="Premiere 5">
     <title lang="pt">Brasileirão: São Paulo x Botafogo - ao vivo</title>
-    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <desc lang="pt">Pela rodada 19, o São Paulo recebe o Botafogo no Estádio MorumBIS, em São Paulo, SP. Em quinto, o Tricolor Paulista precisa vencer para retornar ao G4 do nacional, enquanto que o Glorioso vem na liderança do campeonato.</desc>
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20240724214000 -0300" stop="20240725054000 -0300" channel="Premiere 5">
@@ -45873,7 +45873,7 @@ Serão apresentadas as lutas históricas, e as experiências de Renzo ensinando 
   </programme>
   <programme start="20240724190000 -0300" stop="20240724210000 -0300" channel="Sportv 4K">
     <title lang="pt">Brasileirão: São Paulo x Botafogo - ao vivo</title>
-    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <desc lang="pt">Pela rodada 19, o São Paulo recebe o Botafogo no Estádio MorumBIS, em São Paulo, SP. Em quinto, o Tricolor Paulista precisa vencer para retornar ao G4 do nacional, enquanto que o Glorioso vem na liderança do campeonato.</desc>
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20240724210000 -0300" stop="20240725010000 -0300" channel="Sportv 4K">
