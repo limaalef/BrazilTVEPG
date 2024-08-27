@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2024-08-26 11:31:28" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2024-08-26 23:31:31" generator-info-url="http://limaalef.com">
   <channel id="Band São Paulo">
     <display-name lang="pt">Band São Paulo</display-name>
   </channel>
@@ -57,14 +57,6 @@
   <channel id="Band Vale">
     <display-name lang="pt">Band Vale</display-name>
   </channel>
-  <programme start="20240826023000 -0300" stop="20240826040000 -0300" channel="Band São Paulo">
-    <title lang="pt">Sessão Especial</title>
-    <desc lang="pt"> - Espaço reservado para exibição extra de consagradas produções cinematográficas. </desc>
-    <category lang="en">film/cinema</category>
-    <rating system="Brazil">
-      <value>[Livre]</value>
-    </rating>
-  </programme>
   <programme start="20240826040000 -0300" stop="20240826054500 -0300" channel="Band São Paulo">
     <title lang="pt">1º Jornal - ao vivo</title>
     <desc lang="pt"> - As principais notícias do Brasil e do Mundo, com agilidade e prestação de serviços, deixando o telespectador bem informado logo nas primeiras horas da manhã.</desc>
@@ -576,7 +568,17 @@
     <desc lang="pt"> - Depois do noticiário é hora de debater as novidades. O programa reúne jornalistas e esportistas para falar sobre o que tem rolado de mais quente no futebol do Brasil e do mundo e nos demais esportes populares.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240830130000 -0300" stop="20240830143000 -0300" channel="Band São Paulo">
+  <programme start="20240830125700 -0300" stop="20240830130000 -0300" channel="Band São Paulo">
+    <title lang="pt">Os Donos da Bola - SP - ao vivo</title>
+    <desc lang="pt"> - O programa de debate sobre o mundo do futebol mais bem humorado da TV.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240830130000 -0300" stop="20240830131000 -0300" channel="Band São Paulo">
+    <title lang="pt">Horário Político - 1º Turno - ao vivo</title>
+    <desc lang="pt"> - Horário destinado a propaganda partidária gratuita obrigatória.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240830131000 -0300" stop="20240830143000 -0300" channel="Band São Paulo">
     <title lang="pt">Os Donos da Bola - SP - ao vivo</title>
     <desc lang="pt"> - O programa de debate sobre o mundo do futebol mais bem humorado da TV.</desc>
     <category lang="en">live broadcast</category>
@@ -599,12 +601,25 @@
     <desc lang="pt"> - Os acontecimentos do dia, com foco na segurança, no transporte, na saúde, no trabalho e no comportamento do povo Brasileiro.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240830192000 -0300" stop="20240830203000 -0300" channel="Band São Paulo">
+  <programme start="20240830192000 -0300" stop="20240830202500 -0300" channel="Band São Paulo">
     <title lang="pt">Jornal da Band - ao vivo</title>
     <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240830203000 -0300" stop="20240830212000 -0300" channel="Band São Paulo">
+  <programme start="20240830202500 -0300" stop="20240830203000 -0300" channel="Band São Paulo">
+    <title lang="pt">Melhor da Noite - ao vivo</title>
+    <desc lang="pt"> - Programa de entretenimento que une informação e diversão em um só lugar.</desc>
+    <category lang="en">live broadcast</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20240830203000 -0300" stop="20240830204000 -0300" channel="Band São Paulo">
+    <title lang="pt">Horário Político - 1º Turno - ao vivo</title>
+    <desc lang="pt"> - Horário destinado a propaganda partidária gratuita obrigatória.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240830204000 -0300" stop="20240830212000 -0300" channel="Band São Paulo">
     <title lang="pt">Melhor da Noite - ao vivo</title>
     <desc lang="pt"> - Programa de entretenimento que une informação e diversão em um só lugar.</desc>
     <category lang="en">live broadcast</category>
@@ -628,7 +643,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240830223000 -0300" stop="20240830233000 -0300" channel="Band São Paulo">
+  <programme start="20240830223000 -0300" stop="20240830233500 -0300" channel="Band São Paulo">
     <title lang="pt">Hora Max - Operação Fronteira América do Sul</title>
     <desc lang="pt"> - Conheça o dia a dia das equipes da Polícia Rodoviária Federal nos estados do Paraná e Mato Grosso do Sul, atuando no combate ao crime nas rodovias federais na região de fronteira entre Brasil e Paraguai.</desc>
     <category lang="en">variety show</category>
@@ -664,14 +679,6 @@
     <title lang="pt">Mais INFO</title>
     <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
-  </programme>
-  <programme start="20240826023000 -0300" stop="20240826040000 -0300" channel="Band Aracaju">
-    <title lang="pt">Sessão Especial</title>
-    <desc lang="pt"> - Espaço reservado para exibição extra de consagradas produções cinematográficas. </desc>
-    <category lang="en">film/cinema</category>
-    <rating system="Brazil">
-      <value>[Livre]</value>
-    </rating>
   </programme>
   <programme start="20240826040000 -0300" stop="20240826054500 -0300" channel="Band Aracaju">
     <title lang="pt">1º Jornal - ao vivo</title>
@@ -1239,12 +1246,20 @@
     <desc lang="pt"> - O telejornal mais quente da Bahia. Com agilidade na informação, o telejornal traz as notícias da  capital baiana.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240830192000 -0300" stop="20240830203000 -0300" channel="Band Aracaju">
+  <programme start="20240830192000 -0300" stop="20240830202500 -0300" channel="Band Aracaju">
     <title lang="pt">Jornal da Band - ao vivo</title>
     <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240830203000 -0300" stop="20240830212000 -0300" channel="Band Aracaju">
+  <programme start="20240830202500 -0300" stop="20240830203000 -0300" channel="Band Aracaju">
+    <title lang="pt">Melhor da Noite - ao vivo</title>
+    <desc lang="pt"> - Programa de entretenimento que une informação e diversão em um só lugar.</desc>
+    <category lang="en">live broadcast</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20240830204000 -0300" stop="20240830212000 -0300" channel="Band Aracaju">
     <title lang="pt">Melhor da Noite - ao vivo</title>
     <desc lang="pt"> - Programa de entretenimento que une informação e diversão em um só lugar.</desc>
     <category lang="en">live broadcast</category>
@@ -1268,7 +1283,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240830223000 -0300" stop="20240830233000 -0300" channel="Band Aracaju">
+  <programme start="20240830223000 -0300" stop="20240830233500 -0300" channel="Band Aracaju">
     <title lang="pt">Hora Max - Operação Fronteira América do Sul</title>
     <desc lang="pt"> - Conheça o dia a dia das equipes da Polícia Rodoviária Federal nos estados do Paraná e Mato Grosso do Sul, atuando no combate ao crime nas rodovias federais na região de fronteira entre Brasil e Paraguai.</desc>
     <category lang="en">variety show</category>
@@ -1304,14 +1319,6 @@
     <title lang="pt">Mais INFO</title>
     <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
-  </programme>
-  <programme start="20240826023000 -0300" stop="20240826040000 -0300" channel="Band Bahia">
-    <title lang="pt">Sessão Especial</title>
-    <desc lang="pt"> - Espaço reservado para exibição extra de consagradas produções cinematográficas. </desc>
-    <category lang="en">film/cinema</category>
-    <rating system="Brazil">
-      <value>[Livre]</value>
-    </rating>
   </programme>
   <programme start="20240826040000 -0300" stop="20240826054500 -0300" channel="Band Bahia">
     <title lang="pt">1º Jornal - ao vivo</title>
@@ -1884,12 +1891,20 @@
     <desc lang="pt"> - O telejornal mais quente da Bahia. Com agilidade na informação, o telejornal traz as notícias da  capital baiana.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240830192000 -0300" stop="20240830203000 -0300" channel="Band Bahia">
+  <programme start="20240830192000 -0300" stop="20240830202500 -0300" channel="Band Bahia">
     <title lang="pt">Jornal da Band - ao vivo</title>
     <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240830203000 -0300" stop="20240830212000 -0300" channel="Band Bahia">
+  <programme start="20240830202500 -0300" stop="20240830203000 -0300" channel="Band Bahia">
+    <title lang="pt">Melhor da Noite - ao vivo</title>
+    <desc lang="pt"> - Programa de entretenimento que une informação e diversão em um só lugar.</desc>
+    <category lang="en">live broadcast</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20240830204000 -0300" stop="20240830212000 -0300" channel="Band Bahia">
     <title lang="pt">Melhor da Noite - ao vivo</title>
     <desc lang="pt"> - Programa de entretenimento que une informação e diversão em um só lugar.</desc>
     <category lang="en">live broadcast</category>
@@ -1913,7 +1928,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240830223000 -0300" stop="20240830233000 -0300" channel="Band Bahia">
+  <programme start="20240830223000 -0300" stop="20240830233500 -0300" channel="Band Bahia">
     <title lang="pt">Hora Max - Operação Fronteira América do Sul</title>
     <desc lang="pt"> - Conheça o dia a dia das equipes da Polícia Rodoviária Federal nos estados do Paraná e Mato Grosso do Sul, atuando no combate ao crime nas rodovias federais na região de fronteira entre Brasil e Paraguai.</desc>
     <category lang="en">variety show</category>
@@ -1949,14 +1964,6 @@
     <title lang="pt">Mais INFO</title>
     <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
-  </programme>
-  <programme start="20240826023000 -0300" stop="20240826040000 -0300" channel="Band Brasília">
-    <title lang="pt">Sessão Especial</title>
-    <desc lang="pt"> - Espaço reservado para exibição extra de consagradas produções cinematográficas. </desc>
-    <category lang="en">film/cinema</category>
-    <rating system="Brazil">
-      <value>[Livre]</value>
-    </rating>
   </programme>
   <programme start="20240826040000 -0300" stop="20240826054500 -0300" channel="Band Brasília">
     <title lang="pt">1º Jornal - ao vivo</title>
@@ -2513,12 +2520,20 @@
     <desc lang="pt"> - Os principais fatos do dia da Capital do País e toda a região. O telejornal aborda assuntos de interesse social, cultura, segurança pública, saúde e todos os temas do dia a dia da população. Com uma visão crítica e de acordo com as necessidades da comunidade.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240830192000 -0300" stop="20240830203000 -0300" channel="Band Brasília">
+  <programme start="20240830192000 -0300" stop="20240830202500 -0300" channel="Band Brasília">
     <title lang="pt">Jornal da Band - ao vivo</title>
     <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240830203000 -0300" stop="20240830212000 -0300" channel="Band Brasília">
+  <programme start="20240830202500 -0300" stop="20240830203000 -0300" channel="Band Brasília">
+    <title lang="pt">Melhor da Noite - ao vivo</title>
+    <desc lang="pt"> - Programa de entretenimento que une informação e diversão em um só lugar.</desc>
+    <category lang="en">live broadcast</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20240830204000 -0300" stop="20240830212000 -0300" channel="Band Brasília">
     <title lang="pt">Melhor da Noite - ao vivo</title>
     <desc lang="pt"> - Programa de entretenimento que une informação e diversão em um só lugar.</desc>
     <category lang="en">live broadcast</category>
@@ -2542,7 +2557,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240830223000 -0300" stop="20240830233000 -0300" channel="Band Brasília">
+  <programme start="20240830223000 -0300" stop="20240830233500 -0300" channel="Band Brasília">
     <title lang="pt">Hora Max - Operação Fronteira América do Sul</title>
     <desc lang="pt"> - Conheça o dia a dia das equipes da Polícia Rodoviária Federal nos estados do Paraná e Mato Grosso do Sul, atuando no combate ao crime nas rodovias federais na região de fronteira entre Brasil e Paraguai.</desc>
     <category lang="en">variety show</category>
@@ -2578,14 +2593,6 @@
     <title lang="pt">Mais INFO</title>
     <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
-  </programme>
-  <programme start="20240826023000 -0300" stop="20240826040000 -0300" channel="Band Ceará">
-    <title lang="pt">Sessão Especial</title>
-    <desc lang="pt"> - Espaço reservado para exibição extra de consagradas produções cinematográficas. </desc>
-    <category lang="en">film/cinema</category>
-    <rating system="Brazil">
-      <value>[Livre]</value>
-    </rating>
   </programme>
   <programme start="20240826040000 -0300" stop="20240826054500 -0300" channel="Band Ceará">
     <title lang="pt">1º Jornal - ao vivo</title>
@@ -2945,27 +2952,22 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240828223000 -0300" stop="20240829001500 -0300" channel="Band Ceará">
-    <title lang="pt">Band Eleições - Debate 1º Turno - ao vivo</title>
-    <desc lang="pt"> - Os principais candidatos à Prefeitura de sua cidade debatem suas ideias e respondem os questionamentos dos eleitores e jornalistas.</desc>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20240829001500 -0300" stop="20240829011000 -0300" channel="Band Ceará">
+  <programme start="20240828001500 -0300" stop="20240828011000 -0300" channel="Band Ceará">
     <title lang="pt">Jornal da Noite - ao vivo</title>
     <desc lang="pt"> - Análises, entrevistas, matérias especiais e todos os fatos relevantes do dia no Brasil e no mundo.  </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240829011000 -0300" stop="20240829020500 -0300" channel="Band Ceará">
+  <programme start="20240828011000 -0300" stop="20240828020500 -0300" channel="Band Ceará">
     <title lang="pt">Esporte Total - ao vivo</title>
     <desc lang="pt"> - Um resumo das últimas rodadas do futebol brasileiro e internacional e tudo sobre as modalidades esportivas ao redor do mundo.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240829020500 -0300" stop="20240829024000 -0300" channel="Band Ceará">
+  <programme start="20240828020500 -0300" stop="20240828024000 -0300" channel="Band Ceará">
     <title lang="pt">Band Esporte</title>
     <desc lang="pt"> - Séries de reportagens especiais produzidas pelo jornalismo esportivo da Band.</desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
-  <programme start="20240829024000 -0300" stop="20240829030000 -0300" channel="Band Ceará">
+  <programme start="20240828024000 -0300" stop="20240828030000 -0300" channel="Band Ceará">
     <title lang="pt">Mais INFO</title>
     <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
@@ -3147,6 +3149,11 @@
     <desc lang="pt"> - As principais notícias do estado e da capital de uma forma dinâmica e interativa.</desc>
     <category lang="en">live broadcast</category>
   </programme>
+  <programme start="20240830130000 -0300" stop="20240830131000 -0300" channel="Band Ceará">
+    <title lang="pt">Horário Político - 1º Turno - ao vivo</title>
+    <desc lang="pt"> - Horário destinado a propaganda partidária gratuita obrigatória.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
   <programme start="20240830131000 -0300" stop="20240830135000 -0300" channel="Band Ceará">
     <title lang="pt">Vem com a Gente</title>
     <desc lang="pt"> - Programa leve, divertido e informativo para toda a família. </desc>
@@ -3177,12 +3184,25 @@
     <desc lang="pt"> - As principais notícias do dia na nossa região. Com independência e o compromisso de mostrar sempre a verdade dos fatos, mantendo a marca de credibilidade do Grupo Bandeirantes de Comunicação. </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240830192000 -0300" stop="20240830203000 -0300" channel="Band Ceará">
+  <programme start="20240830192000 -0300" stop="20240830202500 -0300" channel="Band Ceará">
     <title lang="pt">Jornal da Band - ao vivo</title>
     <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240830203000 -0300" stop="20240830212000 -0300" channel="Band Ceará">
+  <programme start="20240830202500 -0300" stop="20240830203000 -0300" channel="Band Ceará">
+    <title lang="pt">Melhor da Noite - ao vivo</title>
+    <desc lang="pt"> - Programa de entretenimento que une informação e diversão em um só lugar.</desc>
+    <category lang="en">live broadcast</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20240830203000 -0300" stop="20240830204000 -0300" channel="Band Ceará">
+    <title lang="pt">Horário Político - 1º Turno - ao vivo</title>
+    <desc lang="pt"> - Horário destinado a propaganda partidária gratuita obrigatória.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240830204000 -0300" stop="20240830212000 -0300" channel="Band Ceará">
     <title lang="pt">Melhor da Noite - ao vivo</title>
     <desc lang="pt"> - Programa de entretenimento que une informação e diversão em um só lugar.</desc>
     <category lang="en">live broadcast</category>
@@ -3206,7 +3226,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240830223000 -0300" stop="20240830233000 -0300" channel="Band Ceará">
+  <programme start="20240830223000 -0300" stop="20240830233500 -0300" channel="Band Ceará">
     <title lang="pt">Hora Max - Operação Fronteira América do Sul</title>
     <desc lang="pt"> - Conheça o dia a dia das equipes da Polícia Rodoviária Federal nos estados do Paraná e Mato Grosso do Sul, atuando no combate ao crime nas rodovias federais na região de fronteira entre Brasil e Paraguai.</desc>
     <category lang="en">variety show</category>
@@ -3242,14 +3262,6 @@
     <title lang="pt">Mais INFO</title>
     <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
-  </programme>
-  <programme start="20240826023000 -0300" stop="20240826040000 -0300" channel="Band Imperatriz">
-    <title lang="pt">Sessão Especial</title>
-    <desc lang="pt"> - Espaço reservado para exibição extra de consagradas produções cinematográficas. </desc>
-    <category lang="en">film/cinema</category>
-    <rating system="Brazil">
-      <value>[Livre]</value>
-    </rating>
   </programme>
   <programme start="20240826040000 -0300" stop="20240826054500 -0300" channel="Band Imperatriz">
     <title lang="pt">1º Jornal - ao vivo</title>
@@ -3587,27 +3599,22 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240828223000 -0300" stop="20240829001500 -0300" channel="Band Imperatriz">
-    <title lang="pt">Band Eleições - Debate 1º Turno - ao vivo</title>
-    <desc lang="pt"> - Os principais candidatos à Prefeitura de sua cidade debatem suas ideias e respondem os questionamentos dos eleitores e jornalistas.</desc>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20240829001500 -0300" stop="20240829011000 -0300" channel="Band Imperatriz">
+  <programme start="20240828001500 -0300" stop="20240828011000 -0300" channel="Band Imperatriz">
     <title lang="pt">Jornal da Noite - ao vivo</title>
     <desc lang="pt"> - Análises, entrevistas, matérias especiais e todos os fatos relevantes do dia no Brasil e no mundo.  </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240829011000 -0300" stop="20240829020500 -0300" channel="Band Imperatriz">
+  <programme start="20240828011000 -0300" stop="20240828020500 -0300" channel="Band Imperatriz">
     <title lang="pt">Esporte Total - ao vivo</title>
     <desc lang="pt"> - Um resumo das últimas rodadas do futebol brasileiro e internacional e tudo sobre as modalidades esportivas ao redor do mundo.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240829020500 -0300" stop="20240829024000 -0300" channel="Band Imperatriz">
+  <programme start="20240828020500 -0300" stop="20240828024000 -0300" channel="Band Imperatriz">
     <title lang="pt">Band Esporte</title>
     <desc lang="pt"> - Séries de reportagens especiais produzidas pelo jornalismo esportivo da Band.</desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
-  <programme start="20240829024000 -0300" stop="20240829030000 -0300" channel="Band Imperatriz">
+  <programme start="20240828024000 -0300" stop="20240828030000 -0300" channel="Band Imperatriz">
     <title lang="pt">Mais INFO</title>
     <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
@@ -3777,7 +3784,12 @@
     <title lang="pt">Jogo Aberto - Maranhão</title>
     <desc lang="pt"> - Depois do noticiário é hora de debater as novidades. O programa reúne jornalistas e esportistas para falar sobre o que tem rolado de mais quente no futebol do Brasil e do mundo e nos demais esportes populares.</desc>
   </programme>
-  <programme start="20240830130000 -0300" stop="20240830140000 -0300" channel="Band Imperatriz">
+  <programme start="20240830130000 -0300" stop="20240830131000 -0300" channel="Band Imperatriz">
+    <title lang="pt">Horário Político - 1º Turno - ao vivo</title>
+    <desc lang="pt"> - Horário destinado a propaganda partidária gratuita obrigatória.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240830131000 -0300" stop="20240830140000 -0300" channel="Band Imperatriz">
     <title lang="pt">Boa Tarde Maranhão - ao vivo</title>
     <desc lang="pt"> - As principais notícias do estado e da capital de uma forma dinâmica e interativa</desc>
     <category lang="en">live broadcast</category>
@@ -3807,12 +3819,25 @@
     <desc lang="pt"> - As principais notícias do dia na nossa região. Com independência e o compromisso de mostrar sempre a verdade dos fatos, mantendo a marca de credibilidade do Grupo Bandeirantes de Comunicação.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240830192000 -0300" stop="20240830203000 -0300" channel="Band Imperatriz">
+  <programme start="20240830192000 -0300" stop="20240830202500 -0300" channel="Band Imperatriz">
     <title lang="pt">Jornal da Band - ao vivo</title>
     <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240830203000 -0300" stop="20240830212000 -0300" channel="Band Imperatriz">
+  <programme start="20240830202500 -0300" stop="20240830203000 -0300" channel="Band Imperatriz">
+    <title lang="pt">Melhor da Noite - ao vivo</title>
+    <desc lang="pt"> - Programa de entretenimento que une informação e diversão em um só lugar.</desc>
+    <category lang="en">live broadcast</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20240830203000 -0300" stop="20240830204000 -0300" channel="Band Imperatriz">
+    <title lang="pt">Horário Político - 1º Turno - ao vivo</title>
+    <desc lang="pt"> - Horário destinado a propaganda partidária gratuita obrigatória.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240830204000 -0300" stop="20240830212000 -0300" channel="Band Imperatriz">
     <title lang="pt">Melhor da Noite - ao vivo</title>
     <desc lang="pt"> - Programa de entretenimento que une informação e diversão em um só lugar.</desc>
     <category lang="en">live broadcast</category>
@@ -3836,7 +3861,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240830223000 -0300" stop="20240830233000 -0300" channel="Band Imperatriz">
+  <programme start="20240830223000 -0300" stop="20240830233500 -0300" channel="Band Imperatriz">
     <title lang="pt">Hora Max - Operação Fronteira América do Sul</title>
     <desc lang="pt"> - Conheça o dia a dia das equipes da Polícia Rodoviária Federal nos estados do Paraná e Mato Grosso do Sul, atuando no combate ao crime nas rodovias federais na região de fronteira entre Brasil e Paraguai.</desc>
     <category lang="en">variety show</category>
@@ -3872,14 +3897,6 @@
     <title lang="pt">Mais INFO</title>
     <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
-  </programme>
-  <programme start="20240826023000 -0300" stop="20240826040000 -0300" channel="Band Maranhão">
-    <title lang="pt">Sessão Especial</title>
-    <desc lang="pt"> - Espaço reservado para exibição extra de consagradas produções cinematográficas. </desc>
-    <category lang="en">film/cinema</category>
-    <rating system="Brazil">
-      <value>[Livre]</value>
-    </rating>
   </programme>
   <programme start="20240826040000 -0300" stop="20240826054500 -0300" channel="Band Maranhão">
     <title lang="pt">1º Jornal - ao vivo</title>
@@ -4043,11 +4060,6 @@
     <desc lang="pt"> - As principais notícias do estado e da capital de uma forma dinâmica e interativa</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240827130000 -0300" stop="20240827140000 -0300" channel="Band Maranhão">
-    <title lang="pt">Boa Tarde Maranhão - ao vivo</title>
-    <desc lang="pt"> - As principais notícias do estado e da capital de uma forma dinâmica e interativa</desc>
-    <category lang="en">live broadcast</category>
-  </programme>
   <programme start="20240827140000 -0300" stop="20240827143000 -0300" channel="Band Maranhão">
     <title lang="pt">Band Mulher - Maranhão</title>
     <desc lang="pt"> - O programa trata de tudo relacionado à mulher de forma leve e interessante para toda a família.</desc>
@@ -4168,11 +4180,6 @@
     <desc lang="pt"> - As principais notícias do estado e da capital de uma forma dinâmica e interativa</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240828130000 -0300" stop="20240828140000 -0300" channel="Band Maranhão">
-    <title lang="pt">Boa Tarde Maranhão - ao vivo</title>
-    <desc lang="pt"> - As principais notícias do estado e da capital de uma forma dinâmica e interativa</desc>
-    <category lang="en">live broadcast</category>
-  </programme>
   <programme start="20240828140000 -0300" stop="20240828143000 -0300" channel="Band Maranhão">
     <title lang="pt">Band Mulher - Maranhão</title>
     <desc lang="pt"> - O programa trata de tudo relacionado à mulher de forma leve e interessante para toda a família.</desc>
@@ -4227,27 +4234,22 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240828223000 -0300" stop="20240829001500 -0300" channel="Band Maranhão">
-    <title lang="pt">Band Eleições - Debate 1º Turno - ao vivo</title>
-    <desc lang="pt"> - Os principais candidatos à Prefeitura de sua cidade debatem suas ideias e respondem os questionamentos dos eleitores e jornalistas.</desc>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20240829001500 -0300" stop="20240829011000 -0300" channel="Band Maranhão">
+  <programme start="20240828001500 -0300" stop="20240828011000 -0300" channel="Band Maranhão">
     <title lang="pt">Jornal da Noite - ao vivo</title>
     <desc lang="pt"> - Análises, entrevistas, matérias especiais e todos os fatos relevantes do dia no Brasil e no mundo.  </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240829011000 -0300" stop="20240829020500 -0300" channel="Band Maranhão">
+  <programme start="20240828011000 -0300" stop="20240828020500 -0300" channel="Band Maranhão">
     <title lang="pt">Esporte Total - ao vivo</title>
     <desc lang="pt"> - Um resumo das últimas rodadas do futebol brasileiro e internacional e tudo sobre as modalidades esportivas ao redor do mundo.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240829020500 -0300" stop="20240829024000 -0300" channel="Band Maranhão">
+  <programme start="20240828020500 -0300" stop="20240828024000 -0300" channel="Band Maranhão">
     <title lang="pt">Band Esporte</title>
     <desc lang="pt"> - Séries de reportagens especiais produzidas pelo jornalismo esportivo da Band.</desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
-  <programme start="20240829024000 -0300" stop="20240829030000 -0300" channel="Band Maranhão">
+  <programme start="20240828024000 -0300" stop="20240828030000 -0300" channel="Band Maranhão">
     <title lang="pt">Mais INFO</title>
     <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
@@ -4289,11 +4291,6 @@
   <programme start="20240829120000 -0300" stop="20240829130000 -0300" channel="Band Maranhão">
     <title lang="pt">Jogo Aberto - Maranhão</title>
     <desc lang="pt"> - Depois do noticiário é hora de debater as novidades. O programa reúne jornalistas e esportistas para falar sobre o que tem rolado de mais quente no futebol do Brasil e do mundo e nos demais esportes populares.</desc>
-  </programme>
-  <programme start="20240829130000 -0300" stop="20240829140000 -0300" channel="Band Maranhão">
-    <title lang="pt">Boa Tarde Maranhão - ao vivo</title>
-    <desc lang="pt"> - As principais notícias do estado e da capital de uma forma dinâmica e interativa</desc>
-    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20240829130000 -0300" stop="20240829140000 -0300" channel="Band Maranhão">
     <title lang="pt">Boa Tarde Maranhão - ao vivo</title>
@@ -4422,12 +4419,12 @@
     <title lang="pt">Jogo Aberto - Maranhão</title>
     <desc lang="pt"> - Depois do noticiário é hora de debater as novidades. O programa reúne jornalistas e esportistas para falar sobre o que tem rolado de mais quente no futebol do Brasil e do mundo e nos demais esportes populares.</desc>
   </programme>
-  <programme start="20240830130000 -0300" stop="20240830140000 -0300" channel="Band Maranhão">
-    <title lang="pt">Boa Tarde Maranhão - ao vivo</title>
-    <desc lang="pt"> - As principais notícias do estado e da capital de uma forma dinâmica e interativa</desc>
+  <programme start="20240830130000 -0300" stop="20240830131000 -0300" channel="Band Maranhão">
+    <title lang="pt">Horário Político - 1º Turno - ao vivo</title>
+    <desc lang="pt"> - Horário destinado a propaganda partidária gratuita obrigatória.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240830130000 -0300" stop="20240830140000 -0300" channel="Band Maranhão">
+  <programme start="20240830131000 -0300" stop="20240830140000 -0300" channel="Band Maranhão">
     <title lang="pt">Boa Tarde Maranhão - ao vivo</title>
     <desc lang="pt"> - As principais notícias do estado e da capital de uma forma dinâmica e interativa</desc>
     <category lang="en">live broadcast</category>
@@ -4457,12 +4454,25 @@
     <desc lang="pt"> - As principais notícias do dia na nossa região. Com independência e o compromisso de mostrar sempre a verdade dos fatos, mantendo a marca de credibilidade do Grupo Bandeirantes de Comunicação.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240830192000 -0300" stop="20240830203000 -0300" channel="Band Maranhão">
+  <programme start="20240830192000 -0300" stop="20240830202500 -0300" channel="Band Maranhão">
     <title lang="pt">Jornal da Band - ao vivo</title>
     <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240830203000 -0300" stop="20240830212000 -0300" channel="Band Maranhão">
+  <programme start="20240830202500 -0300" stop="20240830203000 -0300" channel="Band Maranhão">
+    <title lang="pt">Melhor da Noite - ao vivo</title>
+    <desc lang="pt"> - Programa de entretenimento que une informação e diversão em um só lugar.</desc>
+    <category lang="en">live broadcast</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20240830203000 -0300" stop="20240830204000 -0300" channel="Band Maranhão">
+    <title lang="pt">Horário Político - 1º Turno - ao vivo</title>
+    <desc lang="pt"> - Horário destinado a propaganda partidária gratuita obrigatória.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240830204000 -0300" stop="20240830212000 -0300" channel="Band Maranhão">
     <title lang="pt">Melhor da Noite - ao vivo</title>
     <desc lang="pt"> - Programa de entretenimento que une informação e diversão em um só lugar.</desc>
     <category lang="en">live broadcast</category>
@@ -4486,7 +4496,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240830223000 -0300" stop="20240830233000 -0300" channel="Band Maranhão">
+  <programme start="20240830223000 -0300" stop="20240830233500 -0300" channel="Band Maranhão">
     <title lang="pt">Hora Max - Operação Fronteira América do Sul</title>
     <desc lang="pt"> - Conheça o dia a dia das equipes da Polícia Rodoviária Federal nos estados do Paraná e Mato Grosso do Sul, atuando no combate ao crime nas rodovias federais na região de fronteira entre Brasil e Paraguai.</desc>
     <category lang="en">variety show</category>
@@ -4522,14 +4532,6 @@
     <title lang="pt">Mais INFO</title>
     <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
-  </programme>
-  <programme start="20240826023000 -0300" stop="20240826040000 -0300" channel="Band Maceió">
-    <title lang="pt">Sessão Especial</title>
-    <desc lang="pt"> - Espaço reservado para exibição extra de consagradas produções cinematográficas. </desc>
-    <category lang="en">film/cinema</category>
-    <rating system="Brazil">
-      <value>[Livre]</value>
-    </rating>
   </programme>
   <programme start="20240826040000 -0300" stop="20240826054500 -0300" channel="Band Maceió">
     <title lang="pt">1º Jornal - ao vivo</title>
@@ -4903,27 +4905,22 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240828223000 -0300" stop="20240829001500 -0300" channel="Band Maceió">
-    <title lang="pt">Band Eleições - Debate 1º Turno - ao vivo</title>
-    <desc lang="pt"> - Os principais candidatos à Prefeitura de sua cidade debatem suas ideias e respondem os questionamentos dos eleitores e jornalistas.</desc>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20240829001500 -0300" stop="20240829011000 -0300" channel="Band Maceió">
+  <programme start="20240828001500 -0300" stop="20240828011000 -0300" channel="Band Maceió">
     <title lang="pt">Jornal da Noite - ao vivo</title>
     <desc lang="pt"> - Análises, entrevistas, matérias especiais e todos os fatos relevantes do dia no Brasil e no mundo.  </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240829011000 -0300" stop="20240829020500 -0300" channel="Band Maceió">
+  <programme start="20240828011000 -0300" stop="20240828020500 -0300" channel="Band Maceió">
     <title lang="pt">Esporte Total - ao vivo</title>
     <desc lang="pt"> - Um resumo das últimas rodadas do futebol brasileiro e internacional e tudo sobre as modalidades esportivas ao redor do mundo.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240829020500 -0300" stop="20240829024000 -0300" channel="Band Maceió">
+  <programme start="20240828020500 -0300" stop="20240828024000 -0300" channel="Band Maceió">
     <title lang="pt">Band Esporte</title>
     <desc lang="pt"> - Séries de reportagens especiais produzidas pelo jornalismo esportivo da Band.</desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
-  <programme start="20240829024000 -0300" stop="20240829030000 -0300" channel="Band Maceió">
+  <programme start="20240828024000 -0300" stop="20240828030000 -0300" channel="Band Maceió">
     <title lang="pt">Mais INFO</title>
     <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
@@ -5103,12 +5100,17 @@
     <desc lang="pt"> - Depois do noticiário é hora de debater as novidades. O programa reúne jornalistas e esportistas para falar sobre o que tem rolado de mais quente no futebol do Brasil e do mundo e nos demais esportes populares.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240830122500 -0300" stop="20240830130500 -0300" channel="Band Maceió">
+  <programme start="20240830122500 -0300" stop="20240830130000 -0300" channel="Band Maceió">
     <title lang="pt">Boa Tarde RN - ao vivo</title>
     <desc lang="pt"> - As principais notícias do estado e capital de uma forma dinâmica e interativa.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240830130500 -0300" stop="20240830133500 -0300" channel="Band Maceió">
+  <programme start="20240830130000 -0300" stop="20240830131000 -0300" channel="Band Maceió">
+    <title lang="pt">Horário Político - 1º Turno - ao vivo</title>
+    <desc lang="pt"> - Horário destinado a propaganda partidária gratuita obrigatória.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240830131000 -0300" stop="20240830133500 -0300" channel="Band Maceió">
     <title lang="pt">Jornalístico - ao vivo</title>
     <desc lang="pt"> - Faixa reservada para um programa jornalístico.</desc>
     <category lang="en">live broadcast</category>
@@ -5141,12 +5143,25 @@
     <desc lang="pt"> - As principais notícias do dia na nossa região. Com independência e o compromisso de mostrar sempre a verdade dos fatos, mantendo a marca de credibilidade do Grupo Bandeirantes de Comunicação.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240830192000 -0300" stop="20240830203000 -0300" channel="Band Maceió">
+  <programme start="20240830192000 -0300" stop="20240830202500 -0300" channel="Band Maceió">
     <title lang="pt">Jornal da Band - ao vivo</title>
     <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240830203000 -0300" stop="20240830212000 -0300" channel="Band Maceió">
+  <programme start="20240830202500 -0300" stop="20240830203000 -0300" channel="Band Maceió">
+    <title lang="pt">Melhor da Noite - ao vivo</title>
+    <desc lang="pt"> - Programa de entretenimento que une informação e diversão em um só lugar.</desc>
+    <category lang="en">live broadcast</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20240830203000 -0300" stop="20240830204000 -0300" channel="Band Maceió">
+    <title lang="pt">Horário Político - 1º Turno - ao vivo</title>
+    <desc lang="pt"> - Horário destinado a propaganda partidária gratuita obrigatória.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240830204000 -0300" stop="20240830212000 -0300" channel="Band Maceió">
     <title lang="pt">Melhor da Noite - ao vivo</title>
     <desc lang="pt"> - Programa de entretenimento que une informação e diversão em um só lugar.</desc>
     <category lang="en">live broadcast</category>
@@ -5170,7 +5185,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240830223000 -0300" stop="20240830233000 -0300" channel="Band Maceió">
+  <programme start="20240830223000 -0300" stop="20240830233500 -0300" channel="Band Maceió">
     <title lang="pt">Hora Max - Operação Fronteira América do Sul</title>
     <desc lang="pt"> - Conheça o dia a dia das equipes da Polícia Rodoviária Federal nos estados do Paraná e Mato Grosso do Sul, atuando no combate ao crime nas rodovias federais na região de fronteira entre Brasil e Paraguai.</desc>
     <category lang="en">variety show</category>
@@ -5206,14 +5221,6 @@
     <title lang="pt">Mais INFO</title>
     <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
-  </programme>
-  <programme start="20240826023000 -0300" stop="20240826040000 -0300" channel="Band Campinas">
-    <title lang="pt">Sessão Especial</title>
-    <desc lang="pt"> - Espaço reservado para exibição extra de consagradas produções cinematográficas. </desc>
-    <category lang="en">film/cinema</category>
-    <rating system="Brazil">
-      <value>[Livre]</value>
-    </rating>
   </programme>
   <programme start="20240826040000 -0300" stop="20240826054500 -0300" channel="Band Campinas">
     <title lang="pt">1º Jornal - ao vivo</title>
@@ -5753,7 +5760,12 @@
     <title lang="pt">Os Donos da Bola - Campinas</title>
     <desc lang="pt"> - O programa de debate sobre o mundo do futebol mais bem humorado da TV.</desc>
   </programme>
-  <programme start="20240830130000 -0300" stop="20240830132500 -0300" channel="Band Campinas">
+  <programme start="20240830130000 -0300" stop="20240830131000 -0300" channel="Band Campinas">
+    <title lang="pt">Horário Político - 1º Turno - ao vivo</title>
+    <desc lang="pt"> - Horário destinado a propaganda partidária gratuita obrigatória.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240830131000 -0300" stop="20240830132500 -0300" channel="Band Campinas">
     <title lang="pt">Acontece - Campinas - ao vivo</title>
     <desc lang="pt"> - Os assuntos de polícia, política, cidadania e cultura de Campinas e região.</desc>
     <category lang="en">live broadcast</category>
@@ -5784,12 +5796,25 @@
     <desc lang="pt"> - O cotidiano do interior paulista com apresentação de  Cintia Absalonsen. Informação sobre tráfego nas estradas, saúde , política e educação em tempo real.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240830192000 -0300" stop="20240830203000 -0300" channel="Band Campinas">
+  <programme start="20240830192000 -0300" stop="20240830202500 -0300" channel="Band Campinas">
     <title lang="pt">Jornal da Band - ao vivo</title>
     <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240830203000 -0300" stop="20240830212000 -0300" channel="Band Campinas">
+  <programme start="20240830202500 -0300" stop="20240830203000 -0300" channel="Band Campinas">
+    <title lang="pt">Melhor da Noite - ao vivo</title>
+    <desc lang="pt"> - Programa de entretenimento que une informação e diversão em um só lugar.</desc>
+    <category lang="en">live broadcast</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20240830203000 -0300" stop="20240830204000 -0300" channel="Band Campinas">
+    <title lang="pt">Horário Político - 1º Turno - ao vivo</title>
+    <desc lang="pt"> - Horário destinado a propaganda partidária gratuita obrigatória.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240830204000 -0300" stop="20240830212000 -0300" channel="Band Campinas">
     <title lang="pt">Melhor da Noite - ao vivo</title>
     <desc lang="pt"> - Programa de entretenimento que une informação e diversão em um só lugar.</desc>
     <category lang="en">live broadcast</category>
@@ -5813,7 +5838,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240830223000 -0300" stop="20240830233000 -0300" channel="Band Campinas">
+  <programme start="20240830223000 -0300" stop="20240830233500 -0300" channel="Band Campinas">
     <title lang="pt">Hora Max - Operação Fronteira América do Sul</title>
     <desc lang="pt"> - Conheça o dia a dia das equipes da Polícia Rodoviária Federal nos estados do Paraná e Mato Grosso do Sul, atuando no combate ao crime nas rodovias federais na região de fronteira entre Brasil e Paraguai.</desc>
     <category lang="en">variety show</category>
@@ -5849,14 +5874,6 @@
     <title lang="pt">Mais INFO</title>
     <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
-  </programme>
-  <programme start="20240826023000 -0300" stop="20240826040000 -0300" channel="Band Minas">
-    <title lang="pt">Sessão Especial</title>
-    <desc lang="pt"> - Espaço reservado para exibição extra de consagradas produções cinematográficas. </desc>
-    <category lang="en">film/cinema</category>
-    <rating system="Brazil">
-      <value>[Livre]</value>
-    </rating>
   </programme>
   <programme start="20240826040000 -0300" stop="20240826054500 -0300" channel="Band Minas">
     <title lang="pt">1º Jornal - ao vivo</title>
@@ -6422,12 +6439,20 @@
     <desc lang="pt"> - Carro chefe do jornalismo local na emissora, o programa exibe os principais fatos e noticias que foram destaque em Uberaba, Uberlândia e região do Triângulo Mineiro.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240830192000 -0300" stop="20240830203000 -0300" channel="Band Minas">
+  <programme start="20240830192000 -0300" stop="20240830202500 -0300" channel="Band Minas">
     <title lang="pt">Jornal da Band - ao vivo</title>
     <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240830203000 -0300" stop="20240830212000 -0300" channel="Band Minas">
+  <programme start="20240830202500 -0300" stop="20240830203000 -0300" channel="Band Minas">
+    <title lang="pt">Melhor da Noite - ao vivo</title>
+    <desc lang="pt"> - Programa de entretenimento que une informação e diversão em um só lugar.</desc>
+    <category lang="en">live broadcast</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20240830204000 -0300" stop="20240830212000 -0300" channel="Band Minas">
     <title lang="pt">Melhor da Noite - ao vivo</title>
     <desc lang="pt"> - Programa de entretenimento que une informação e diversão em um só lugar.</desc>
     <category lang="en">live broadcast</category>
@@ -6451,7 +6476,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240830223000 -0300" stop="20240830233000 -0300" channel="Band Minas">
+  <programme start="20240830223000 -0300" stop="20240830233500 -0300" channel="Band Minas">
     <title lang="pt">Hora Max - Operação Fronteira América do Sul</title>
     <desc lang="pt"> - Conheça o dia a dia das equipes da Polícia Rodoviária Federal nos estados do Paraná e Mato Grosso do Sul, atuando no combate ao crime nas rodovias federais na região de fronteira entre Brasil e Paraguai.</desc>
     <category lang="en">variety show</category>
@@ -6487,14 +6512,6 @@
     <title lang="pt">Mais INFO</title>
     <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
-  </programme>
-  <programme start="20240826023000 -0300" stop="20240826040000 -0300" channel="Band Paulista">
-    <title lang="pt">Sessão Especial</title>
-    <desc lang="pt"> - Espaço reservado para exibição extra de consagradas produções cinematográficas. </desc>
-    <category lang="en">film/cinema</category>
-    <rating system="Brazil">
-      <value>[Livre]</value>
-    </rating>
   </programme>
   <programme start="20240826040000 -0300" stop="20240826054500 -0300" channel="Band Paulista">
     <title lang="pt">1º Jornal - ao vivo</title>
@@ -6838,27 +6855,22 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240828223000 -0300" stop="20240829001500 -0300" channel="Band Paulista">
-    <title lang="pt">Band Eleições - Debate 1º Turno - ao vivo</title>
-    <desc lang="pt"> - Os principais candidatos à Prefeitura de sua cidade debatem suas ideias e respondem os questionamentos dos eleitores e jornalistas.</desc>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20240829001500 -0300" stop="20240829011000 -0300" channel="Band Paulista">
+  <programme start="20240828001500 -0300" stop="20240828011000 -0300" channel="Band Paulista">
     <title lang="pt">Jornal da Noite - ao vivo</title>
     <desc lang="pt"> - Análises, entrevistas, matérias especiais e todos os fatos relevantes do dia no Brasil e no mundo.  </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240829011000 -0300" stop="20240829020500 -0300" channel="Band Paulista">
+  <programme start="20240828011000 -0300" stop="20240828020500 -0300" channel="Band Paulista">
     <title lang="pt">Esporte Total - ao vivo</title>
     <desc lang="pt"> - Um resumo das últimas rodadas do futebol brasileiro e internacional e tudo sobre as modalidades esportivas ao redor do mundo.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240829020500 -0300" stop="20240829024000 -0300" channel="Band Paulista">
+  <programme start="20240828020500 -0300" stop="20240828024000 -0300" channel="Band Paulista">
     <title lang="pt">Band Esporte</title>
     <desc lang="pt"> - Séries de reportagens especiais produzidas pelo jornalismo esportivo da Band.</desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
-  <programme start="20240829024000 -0300" stop="20240829030000 -0300" channel="Band Paulista">
+  <programme start="20240828024000 -0300" stop="20240828030000 -0300" channel="Band Paulista">
     <title lang="pt">Mais INFO</title>
     <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
@@ -7062,12 +7074,20 @@
     <title lang="pt">Band Cidade - Paulista</title>
     <desc lang="pt"> - A integridade e a credibilidade do jornalismo Band em um telejornal presente em metade do estado de São Paulo. O Band Cidade traz informações das regiões de Araçatuba, Bauru, Marília, Presidente Prudente e São José do Rio Preto de maneira independente e imparcial. Presente e atuante na comunidade, o Band Cidade é referência na qualidade da informação.</desc>
   </programme>
-  <programme start="20240830192000 -0300" stop="20240830203000 -0300" channel="Band Paulista">
+  <programme start="20240830192000 -0300" stop="20240830202500 -0300" channel="Band Paulista">
     <title lang="pt">Jornal da Band - ao vivo</title>
     <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240830203000 -0300" stop="20240830212000 -0300" channel="Band Paulista">
+  <programme start="20240830202500 -0300" stop="20240830203000 -0300" channel="Band Paulista">
+    <title lang="pt">Melhor da Noite - ao vivo</title>
+    <desc lang="pt"> - Programa de entretenimento que une informação e diversão em um só lugar.</desc>
+    <category lang="en">live broadcast</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20240830204000 -0300" stop="20240830212000 -0300" channel="Band Paulista">
     <title lang="pt">Melhor da Noite - ao vivo</title>
     <desc lang="pt"> - Programa de entretenimento que une informação e diversão em um só lugar.</desc>
     <category lang="en">live broadcast</category>
@@ -7091,7 +7111,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240830223000 -0300" stop="20240830233000 -0300" channel="Band Paulista">
+  <programme start="20240830223000 -0300" stop="20240830233500 -0300" channel="Band Paulista">
     <title lang="pt">Hora Max - Operação Fronteira América do Sul</title>
     <desc lang="pt"> - Conheça o dia a dia das equipes da Polícia Rodoviária Federal nos estados do Paraná e Mato Grosso do Sul, atuando no combate ao crime nas rodovias federais na região de fronteira entre Brasil e Paraguai.</desc>
     <category lang="en">variety show</category>
@@ -7127,14 +7147,6 @@
     <title lang="pt">Mais INFO</title>
     <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
-  </programme>
-  <programme start="20240826023000 -0300" stop="20240826040000 -0300" channel="Band Piauí">
-    <title lang="pt">Sessão Especial</title>
-    <desc lang="pt"> - Espaço reservado para exibição extra de consagradas produções cinematográficas. </desc>
-    <category lang="en">film/cinema</category>
-    <rating system="Brazil">
-      <value>[Livre]</value>
-    </rating>
   </programme>
   <programme start="20240826040000 -0300" stop="20240826054500 -0300" channel="Band Piauí">
     <title lang="pt">1º Jornal - ao vivo</title>
@@ -7704,12 +7716,20 @@
     <desc lang="pt"> - As principais notícias do dia na nossa região. Com independência e o compromisso de mostrar sempre a verdade dos fatos, mantendo a marca de credibilidade do Grupo Bandeirantes de Comunicação.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240830192000 -0300" stop="20240830203000 -0300" channel="Band Piauí">
+  <programme start="20240830192000 -0300" stop="20240830202500 -0300" channel="Band Piauí">
     <title lang="pt">Jornal da Band - ao vivo</title>
     <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240830203000 -0300" stop="20240830212000 -0300" channel="Band Piauí">
+  <programme start="20240830202500 -0300" stop="20240830203000 -0300" channel="Band Piauí">
+    <title lang="pt">Melhor da Noite - ao vivo</title>
+    <desc lang="pt"> - Programa de entretenimento que une informação e diversão em um só lugar.</desc>
+    <category lang="en">live broadcast</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20240830204000 -0300" stop="20240830212000 -0300" channel="Band Piauí">
     <title lang="pt">Melhor da Noite - ao vivo</title>
     <desc lang="pt"> - Programa de entretenimento que une informação e diversão em um só lugar.</desc>
     <category lang="en">live broadcast</category>
@@ -7733,7 +7753,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240830223000 -0300" stop="20240830233000 -0300" channel="Band Piauí">
+  <programme start="20240830223000 -0300" stop="20240830233500 -0300" channel="Band Piauí">
     <title lang="pt">Hora Max - Operação Fronteira América do Sul</title>
     <desc lang="pt"> - Conheça o dia a dia das equipes da Polícia Rodoviária Federal nos estados do Paraná e Mato Grosso do Sul, atuando no combate ao crime nas rodovias federais na região de fronteira entre Brasil e Paraguai.</desc>
     <category lang="en">variety show</category>
@@ -7769,14 +7789,6 @@
     <title lang="pt">Mais INFO</title>
     <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
-  </programme>
-  <programme start="20240826023000 -0300" stop="20240826040000 -0300" channel="Band Paraná">
-    <title lang="pt">Sessão Especial</title>
-    <desc lang="pt"> - Espaço reservado para exibição extra de consagradas produções cinematográficas. </desc>
-    <category lang="en">film/cinema</category>
-    <rating system="Brazil">
-      <value>[Livre]</value>
-    </rating>
   </programme>
   <programme start="20240826040000 -0300" stop="20240826054500 -0300" channel="Band Paraná">
     <title lang="pt">1º Jornal - ao vivo</title>
@@ -8422,12 +8434,20 @@
     <desc lang="pt"> - As principais notícias do dia em Curitiba e no estado. Com independência e o compromisso de mostrar sempre a verdade dos fatos, mantendo a marca de credibilidade do Grupo Bandeirantes de Comunicação</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240830192000 -0300" stop="20240830203000 -0300" channel="Band Paraná">
+  <programme start="20240830192000 -0300" stop="20240830202500 -0300" channel="Band Paraná">
     <title lang="pt">Jornal da Band - ao vivo</title>
     <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240830203000 -0300" stop="20240830212000 -0300" channel="Band Paraná">
+  <programme start="20240830202500 -0300" stop="20240830203000 -0300" channel="Band Paraná">
+    <title lang="pt">Melhor da Noite - ao vivo</title>
+    <desc lang="pt"> - Programa de entretenimento que une informação e diversão em um só lugar.</desc>
+    <category lang="en">live broadcast</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20240830204000 -0300" stop="20240830212000 -0300" channel="Band Paraná">
     <title lang="pt">Melhor da Noite - ao vivo</title>
     <desc lang="pt"> - Programa de entretenimento que une informação e diversão em um só lugar.</desc>
     <category lang="en">live broadcast</category>
@@ -8451,7 +8471,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240830223000 -0300" stop="20240830233000 -0300" channel="Band Paraná">
+  <programme start="20240830223000 -0300" stop="20240830233500 -0300" channel="Band Paraná">
     <title lang="pt">Hora Max - Operação Fronteira América do Sul</title>
     <desc lang="pt"> - Conheça o dia a dia das equipes da Polícia Rodoviária Federal nos estados do Paraná e Mato Grosso do Sul, atuando no combate ao crime nas rodovias federais na região de fronteira entre Brasil e Paraguai.</desc>
     <category lang="en">variety show</category>
@@ -8487,14 +8507,6 @@
     <title lang="pt">Mais INFO</title>
     <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
-  </programme>
-  <programme start="20240826023000 -0300" stop="20240826040000 -0300" channel="Band Rio">
-    <title lang="pt">Sessão Especial</title>
-    <desc lang="pt"> - Espaço reservado para exibição extra de consagradas produções cinematográficas. </desc>
-    <category lang="en">film/cinema</category>
-    <rating system="Brazil">
-      <value>[Livre]</value>
-    </rating>
   </programme>
   <programme start="20240826040000 -0300" stop="20240826054500 -0300" channel="Band Rio">
     <title lang="pt">1º Jornal - ao vivo</title>
@@ -9095,12 +9107,20 @@
     <desc lang="pt"> - Imparcial e pontual: os principais fatos do dia na capital e em todo o estado. Para colocar em dia a vida dos cariocas, dos fluminenses.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240830192000 -0300" stop="20240830203000 -0300" channel="Band Rio">
+  <programme start="20240830192000 -0300" stop="20240830202500 -0300" channel="Band Rio">
     <title lang="pt">Jornal da Band - ao vivo</title>
     <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240830203000 -0300" stop="20240830212000 -0300" channel="Band Rio">
+  <programme start="20240830202500 -0300" stop="20240830203000 -0300" channel="Band Rio">
+    <title lang="pt">Melhor da Noite - ao vivo</title>
+    <desc lang="pt"> - Programa de entretenimento que une informação e diversão em um só lugar.</desc>
+    <category lang="en">live broadcast</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20240830204000 -0300" stop="20240830212000 -0300" channel="Band Rio">
     <title lang="pt">Melhor da Noite - ao vivo</title>
     <desc lang="pt"> - Programa de entretenimento que une informação e diversão em um só lugar.</desc>
     <category lang="en">live broadcast</category>
@@ -9124,7 +9144,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240830223000 -0300" stop="20240830233000 -0300" channel="Band Rio">
+  <programme start="20240830223000 -0300" stop="20240830233500 -0300" channel="Band Rio">
     <title lang="pt">Hora Max - Operação Fronteira América do Sul</title>
     <desc lang="pt"> - Conheça o dia a dia das equipes da Polícia Rodoviária Federal nos estados do Paraná e Mato Grosso do Sul, atuando no combate ao crime nas rodovias federais na região de fronteira entre Brasil e Paraguai.</desc>
     <category lang="en">variety show</category>
@@ -9160,14 +9180,6 @@
     <title lang="pt">Mais INFO</title>
     <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
-  </programme>
-  <programme start="20240826023000 -0300" stop="20240826040000 -0300" channel="Band RN">
-    <title lang="pt">Sessão Especial</title>
-    <desc lang="pt"> - Espaço reservado para exibição extra de consagradas produções cinematográficas. </desc>
-    <category lang="en">film/cinema</category>
-    <rating system="Brazil">
-      <value>[Livre]</value>
-    </rating>
   </programme>
   <programme start="20240826040000 -0300" stop="20240826054500 -0300" channel="Band RN">
     <title lang="pt">1º Jornal - ao vivo</title>
@@ -9536,27 +9548,22 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240828223000 -0300" stop="20240829001500 -0300" channel="Band RN">
-    <title lang="pt">Band Eleições - Debate 1º Turno - ao vivo</title>
-    <desc lang="pt"> - Os principais candidatos à Prefeitura de sua cidade debatem suas ideias e respondem os questionamentos dos eleitores e jornalistas.</desc>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20240829001500 -0300" stop="20240829011000 -0300" channel="Band RN">
+  <programme start="20240828001500 -0300" stop="20240828011000 -0300" channel="Band RN">
     <title lang="pt">Jornal da Noite - ao vivo</title>
     <desc lang="pt"> - Análises, entrevistas, matérias especiais e todos os fatos relevantes do dia no Brasil e no mundo.  </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240829011000 -0300" stop="20240829020500 -0300" channel="Band RN">
+  <programme start="20240828011000 -0300" stop="20240828020500 -0300" channel="Band RN">
     <title lang="pt">Esporte Total - ao vivo</title>
     <desc lang="pt"> - Um resumo das últimas rodadas do futebol brasileiro e internacional e tudo sobre as modalidades esportivas ao redor do mundo.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240829020500 -0300" stop="20240829024000 -0300" channel="Band RN">
+  <programme start="20240828020500 -0300" stop="20240828024000 -0300" channel="Band RN">
     <title lang="pt">Band Esporte</title>
     <desc lang="pt"> - Séries de reportagens especiais produzidas pelo jornalismo esportivo da Band.</desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
-  <programme start="20240829024000 -0300" stop="20240829030000 -0300" channel="Band RN">
+  <programme start="20240828024000 -0300" stop="20240828030000 -0300" channel="Band RN">
     <title lang="pt">Mais INFO</title>
     <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
@@ -9736,12 +9743,22 @@
     <desc lang="pt"> - Depois do noticiário é hora de debater as novidades. O programa reúne jornalistas e esportistas para falar sobre o que tem rolado de mais quente no futebol do Brasil e do mundo e nos demais esportes populares.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240830122500 -0300" stop="20240830130500 -0300" channel="Band RN">
+  <programme start="20240830122500 -0300" stop="20240830130000 -0300" channel="Band RN">
     <title lang="pt">Boa Tarde RN - ao vivo</title>
     <desc lang="pt"> - As principais notícias do estado e capital de uma forma dinâmica e interativa.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240830130500 -0300" stop="20240830133500 -0300" channel="Band RN">
+  <programme start="20240830130000 -0300" stop="20240830131000 -0300" channel="Band RN">
+    <title lang="pt">Horário Político - 1º Turno - ao vivo</title>
+    <desc lang="pt"> - Horário destinado a propaganda partidária gratuita obrigatória.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240830130000 -0300" stop="20240830131000 -0300" channel="Band RN">
+    <title lang="pt">Horário Político - 1º Turno - ao vivo</title>
+    <desc lang="pt"> - Horário destinado a propaganda partidária gratuita obrigatória.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20240830131000 -0300" stop="20240830133500 -0300" channel="Band RN">
     <title lang="pt">Jornalístico - ao vivo</title>
     <desc lang="pt"> - Faixa reservada para um programa jornalístico.</desc>
     <category lang="en">live broadcast</category>
@@ -9774,12 +9791,20 @@
     <desc lang="pt"> - As principais notícias do dia na nossa região. Com independência e o compromisso de mostrar sempre a verdade dos fatos, mantendo a marca de credibilidade do Grupo Bandeirantes de Comunicação.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240830192000 -0300" stop="20240830203000 -0300" channel="Band RN">
+  <programme start="20240830192000 -0300" stop="20240830202500 -0300" channel="Band RN">
     <title lang="pt">Jornal da Band - ao vivo</title>
     <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240830203000 -0300" stop="20240830212000 -0300" channel="Band RN">
+  <programme start="20240830202500 -0300" stop="20240830203000 -0300" channel="Band RN">
+    <title lang="pt">Melhor da Noite - ao vivo</title>
+    <desc lang="pt"> - Programa de entretenimento que une informação e diversão em um só lugar.</desc>
+    <category lang="en">live broadcast</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20240830204000 -0300" stop="20240830212000 -0300" channel="Band RN">
     <title lang="pt">Melhor da Noite - ao vivo</title>
     <desc lang="pt"> - Programa de entretenimento que une informação e diversão em um só lugar.</desc>
     <category lang="en">live broadcast</category>
@@ -9803,7 +9828,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240830223000 -0300" stop="20240830233000 -0300" channel="Band RN">
+  <programme start="20240830223000 -0300" stop="20240830233500 -0300" channel="Band RN">
     <title lang="pt">Hora Max - Operação Fronteira América do Sul</title>
     <desc lang="pt"> - Conheça o dia a dia das equipes da Polícia Rodoviária Federal nos estados do Paraná e Mato Grosso do Sul, atuando no combate ao crime nas rodovias federais na região de fronteira entre Brasil e Paraguai.</desc>
     <category lang="en">variety show</category>
@@ -9839,14 +9864,6 @@
     <title lang="pt">Mais INFO</title>
     <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
-  </programme>
-  <programme start="20240826023000 -0300" stop="20240826040000 -0300" channel="Band RS">
-    <title lang="pt">Sessão Especial</title>
-    <desc lang="pt"> - Espaço reservado para exibição extra de consagradas produções cinematográficas. </desc>
-    <category lang="en">film/cinema</category>
-    <rating system="Brazil">
-      <value>[Livre]</value>
-    </rating>
   </programme>
   <programme start="20240826040000 -0300" stop="20240826054500 -0300" channel="Band RS">
     <title lang="pt">1º Jornal - ao vivo</title>
@@ -10382,12 +10399,20 @@
     <desc lang="pt"> - Com credibilidade aliada ao dinamismo, agilidade e interatividade para fazer um telejornalismo diferenciado, o principal telejornal da Band RS está sempre ligado no que foi notícia no Estado.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240830192000 -0300" stop="20240830203000 -0300" channel="Band RS">
+  <programme start="20240830192000 -0300" stop="20240830202500 -0300" channel="Band RS">
     <title lang="pt">Jornal da Band - ao vivo</title>
     <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240830203000 -0300" stop="20240830212000 -0300" channel="Band RS">
+  <programme start="20240830202500 -0300" stop="20240830203000 -0300" channel="Band RS">
+    <title lang="pt">Melhor da Noite - ao vivo</title>
+    <desc lang="pt"> - Programa de entretenimento que une informação e diversão em um só lugar.</desc>
+    <category lang="en">live broadcast</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20240830204000 -0300" stop="20240830212000 -0300" channel="Band RS">
     <title lang="pt">Melhor da Noite - ao vivo</title>
     <desc lang="pt"> - Programa de entretenimento que une informação e diversão em um só lugar.</desc>
     <category lang="en">live broadcast</category>
@@ -10411,7 +10436,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240830223000 -0300" stop="20240830233000 -0300" channel="Band RS">
+  <programme start="20240830223000 -0300" stop="20240830233500 -0300" channel="Band RS">
     <title lang="pt">Hora Max - Operação Fronteira América do Sul</title>
     <desc lang="pt"> - Conheça o dia a dia das equipes da Polícia Rodoviária Federal nos estados do Paraná e Mato Grosso do Sul, atuando no combate ao crime nas rodovias federais na região de fronteira entre Brasil e Paraguai.</desc>
     <category lang="en">variety show</category>
@@ -10447,14 +10472,6 @@
     <title lang="pt">Mais INFO</title>
     <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
-  </programme>
-  <programme start="20240826023000 -0300" stop="20240826040000 -0300" channel="Band Tocantins">
-    <title lang="pt">Sessão Especial</title>
-    <desc lang="pt"> - Espaço reservado para exibição extra de consagradas produções cinematográficas. </desc>
-    <category lang="en">film/cinema</category>
-    <rating system="Brazil">
-      <value>[Livre]</value>
-    </rating>
   </programme>
   <programme start="20240826040000 -0300" stop="20240826054500 -0300" channel="Band Tocantins">
     <title lang="pt">1º Jornal - ao vivo</title>
@@ -10994,12 +11011,20 @@
     <desc lang="pt"> - Os acontecimentos do dia, com foco na segurança, no transporte, na saúde, no trabalho e no comportamento do povo Brasileiro.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240830192000 -0300" stop="20240830203000 -0300" channel="Band Tocantins">
+  <programme start="20240830192000 -0300" stop="20240830202500 -0300" channel="Band Tocantins">
     <title lang="pt">Jornal da Band - ao vivo</title>
     <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240830203000 -0300" stop="20240830212000 -0300" channel="Band Tocantins">
+  <programme start="20240830202500 -0300" stop="20240830203000 -0300" channel="Band Tocantins">
+    <title lang="pt">Melhor da Noite - ao vivo</title>
+    <desc lang="pt"> - Programa de entretenimento que une informação e diversão em um só lugar.</desc>
+    <category lang="en">live broadcast</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20240830204000 -0300" stop="20240830212000 -0300" channel="Band Tocantins">
     <title lang="pt">Melhor da Noite - ao vivo</title>
     <desc lang="pt"> - Programa de entretenimento que une informação e diversão em um só lugar.</desc>
     <category lang="en">live broadcast</category>
@@ -11023,7 +11048,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240830223000 -0300" stop="20240830233000 -0300" channel="Band Tocantins">
+  <programme start="20240830223000 -0300" stop="20240830233500 -0300" channel="Band Tocantins">
     <title lang="pt">Hora Max - Operação Fronteira América do Sul</title>
     <desc lang="pt"> - Conheça o dia a dia das equipes da Polícia Rodoviária Federal nos estados do Paraná e Mato Grosso do Sul, atuando no combate ao crime nas rodovias federais na região de fronteira entre Brasil e Paraguai.</desc>
     <category lang="en">variety show</category>
@@ -11059,14 +11084,6 @@
     <title lang="pt">Mais INFO</title>
     <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
-  </programme>
-  <programme start="20240826023000 -0300" stop="20240826040000 -0300" channel="Band Triângulo">
-    <title lang="pt">Sessão Especial</title>
-    <desc lang="pt"> - Espaço reservado para exibição extra de consagradas produções cinematográficas. </desc>
-    <category lang="en">film/cinema</category>
-    <rating system="Brazil">
-      <value>[Livre]</value>
-    </rating>
   </programme>
   <programme start="20240826040000 -0300" stop="20240826054500 -0300" channel="Band Triângulo">
     <title lang="pt">1º Jornal - ao vivo</title>
@@ -11428,27 +11445,22 @@ O programa de debate sobre o mundo do futebol mais bem humorado da TV.</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240828223000 -0300" stop="20240829001500 -0300" channel="Band Triângulo">
-    <title lang="pt">Band Eleições - Debate 1º Turno - ao vivo</title>
-    <desc lang="pt"> - Os principais candidatos à Prefeitura de sua cidade debatem suas ideias e respondem os questionamentos dos eleitores e jornalistas.</desc>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20240829001500 -0300" stop="20240829011000 -0300" channel="Band Triângulo">
+  <programme start="20240828001500 -0300" stop="20240828011000 -0300" channel="Band Triângulo">
     <title lang="pt">Jornal da Noite - ao vivo</title>
     <desc lang="pt"> - Análises, entrevistas, matérias especiais e todos os fatos relevantes do dia no Brasil e no mundo.  </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240829011000 -0300" stop="20240829020500 -0300" channel="Band Triângulo">
+  <programme start="20240828011000 -0300" stop="20240828020500 -0300" channel="Band Triângulo">
     <title lang="pt">Esporte Total - ao vivo</title>
     <desc lang="pt"> - Um resumo das últimas rodadas do futebol brasileiro e internacional e tudo sobre as modalidades esportivas ao redor do mundo.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240829020500 -0300" stop="20240829024000 -0300" channel="Band Triângulo">
+  <programme start="20240828020500 -0300" stop="20240828024000 -0300" channel="Band Triângulo">
     <title lang="pt">Band Esporte</title>
     <desc lang="pt"> - Séries de reportagens especiais produzidas pelo jornalismo esportivo da Band.</desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
-  <programme start="20240829024000 -0300" stop="20240829030000 -0300" channel="Band Triângulo">
+  <programme start="20240828024000 -0300" stop="20240828030000 -0300" channel="Band Triângulo">
     <title lang="pt">Mais INFO</title>
     <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
@@ -11664,12 +11676,20 @@ O programa de debate sobre o mundo do futebol mais bem humorado da TV.</desc>
     <desc lang="pt"> - As principais notícias do dia na nossa região. Com independência e o compromisso de mostrar sempre a verdade dos fatos, mantendo a marca de credibilidade do Grupo Bandeirantes de Comunicação.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240830192000 -0300" stop="20240830203000 -0300" channel="Band Triângulo">
+  <programme start="20240830192000 -0300" stop="20240830202500 -0300" channel="Band Triângulo">
     <title lang="pt">Jornal da Band - ao vivo</title>
     <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240830203000 -0300" stop="20240830212000 -0300" channel="Band Triângulo">
+  <programme start="20240830202500 -0300" stop="20240830203000 -0300" channel="Band Triângulo">
+    <title lang="pt">Melhor da Noite - ao vivo</title>
+    <desc lang="pt"> - Programa de entretenimento que une informação e diversão em um só lugar.</desc>
+    <category lang="en">live broadcast</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20240830204000 -0300" stop="20240830212000 -0300" channel="Band Triângulo">
     <title lang="pt">Melhor da Noite - ao vivo</title>
     <desc lang="pt"> - Programa de entretenimento que une informação e diversão em um só lugar.</desc>
     <category lang="en">live broadcast</category>
@@ -11693,7 +11713,7 @@ O programa de debate sobre o mundo do futebol mais bem humorado da TV.</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240830223000 -0300" stop="20240830233000 -0300" channel="Band Triângulo">
+  <programme start="20240830223000 -0300" stop="20240830233500 -0300" channel="Band Triângulo">
     <title lang="pt">Hora Max - Operação Fronteira América do Sul</title>
     <desc lang="pt"> - Conheça o dia a dia das equipes da Polícia Rodoviária Federal nos estados do Paraná e Mato Grosso do Sul, atuando no combate ao crime nas rodovias federais na região de fronteira entre Brasil e Paraguai.</desc>
     <category lang="en">variety show</category>
@@ -11729,14 +11749,6 @@ O programa de debate sobre o mundo do futebol mais bem humorado da TV.</desc>
     <title lang="pt">Mais INFO</title>
     <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
-  </programme>
-  <programme start="20240826023000 -0300" stop="20240826040000 -0300" channel="Band Vale">
-    <title lang="pt">Sessão Especial</title>
-    <desc lang="pt"> - Espaço reservado para exibição extra de consagradas produções cinematográficas. </desc>
-    <category lang="en">film/cinema</category>
-    <rating system="Brazil">
-      <value>[Livre]</value>
-    </rating>
   </programme>
   <programme start="20240826040000 -0300" stop="20240826054500 -0300" channel="Band Vale">
     <title lang="pt">1º Jornal - ao vivo</title>
@@ -12356,12 +12368,20 @@ O programa de debate sobre o mundo do futebol mais bem humorado da TV.</desc>
     <desc lang="pt"> - As principais notícias do dia na nossa região. Com independência e o compromisso de mostrar sempre a verdade dos fatos, mantendo a marca de credibilidade do Grupo Bandeirantes de Comunicação.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240830192000 -0300" stop="20240830203000 -0300" channel="Band Vale">
+  <programme start="20240830192000 -0300" stop="20240830202500 -0300" channel="Band Vale">
     <title lang="pt">Jornal da Band - ao vivo</title>
     <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20240830203000 -0300" stop="20240830212000 -0300" channel="Band Vale">
+  <programme start="20240830202500 -0300" stop="20240830203000 -0300" channel="Band Vale">
+    <title lang="pt">Melhor da Noite - ao vivo</title>
+    <desc lang="pt"> - Programa de entretenimento que une informação e diversão em um só lugar.</desc>
+    <category lang="en">live broadcast</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20240830204000 -0300" stop="20240830212000 -0300" channel="Band Vale">
     <title lang="pt">Melhor da Noite - ao vivo</title>
     <desc lang="pt"> - Programa de entretenimento que une informação e diversão em um só lugar.</desc>
     <category lang="en">live broadcast</category>
@@ -12385,7 +12405,7 @@ O programa de debate sobre o mundo do futebol mais bem humorado da TV.</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20240830223000 -0300" stop="20240830233000 -0300" channel="Band Vale">
+  <programme start="20240830223000 -0300" stop="20240830233500 -0300" channel="Band Vale">
     <title lang="pt">Hora Max - Operação Fronteira América do Sul</title>
     <desc lang="pt"> - Conheça o dia a dia das equipes da Polícia Rodoviária Federal nos estados do Paraná e Mato Grosso do Sul, atuando no combate ao crime nas rodovias federais na região de fronteira entre Brasil e Paraguai.</desc>
     <category lang="en">variety show</category>
