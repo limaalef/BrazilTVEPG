@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2024-10-16 11:31:30" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2024-10-16 23:31:43" generator-info-url="http://limaalef.com">
   <channel id="Band São Paulo">
     <display-name lang="pt">Band São Paulo</display-name>
   </channel>
@@ -537,11 +537,6 @@
     <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
-  <programme start="20241019030000 -0300" stop="20241019040000 -0300" channel="Band São Paulo">
-    <title lang="pt">Jornal da Band - reapresentação</title>
-    <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
-    <category lang="en">news/current affairs (general)</category>
-  </programme>
   <programme start="20241019040000 -0300" stop="20241019053000 -0300" channel="Band São Paulo">
     <title lang="pt">Estação Cinema </title>
     <desc lang="pt"> - Sessão noturna de filmes com espaço para todos os gêneros do cinema e grandes produções.
@@ -649,7 +644,18 @@
     <desc lang="pt"> - A Igreja Cristã Maranata é uma comunidade evangélica, com sede localizada em Vila Velha, ES. Que crê e propaga a pratica dos ensinamentos das escrituras sagradas.</desc>
     <category lang="en">religion</category>
   </programme>
-  <programme start="20241019134000 -0300" stop="20241019160000 -0300" channel="Band São Paulo">
+  <programme start="20241019134000 -0300" stop="20241019143000 -0300" channel="Band São Paulo">
+    <title lang="pt">Band Esporte Clube - ao vivo</title>
+    <desc lang="pt"> - Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20241019143000 -0300" stop="20241019154500 -0300" channel="Band São Paulo">
+    <title lang="pt">Fórmula 1 2024 - Corrida Sprint</title>
+    <desc lang="pt"> - As emoções da modalidade mais popular do mundo do automobilismo na tela da Band.
+</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20241019154500 -0300" stop="20241019160000 -0300" channel="Band São Paulo">
     <title lang="pt">Band Esporte Clube - ao vivo</title>
     <desc lang="pt"> - Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
     <category lang="en">live broadcast</category>
@@ -674,7 +680,7 @@
     <desc lang="pt"> - Horário destinado a propaganda partidária gratuita obrigatória.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20241019204000 -0300" stop="20241019221000 -0300" channel="Band São Paulo">
+  <programme start="20241019204000 -0300" stop="20241019220000 -0300" channel="Band São Paulo">
     <title lang="pt">Sabadão da Gente</title>
     <desc lang="pt"> - Um programa de humor, diversão, artistas e momentos emocionantes, na tela da Band.
 </desc>
@@ -683,31 +689,27 @@
       <value>[Auto Livre]</value>
     </rating>
   </programme>
-  <programme start="20241019221000 -0300" stop="20241019230000 -0300" channel="Band São Paulo">
-    <title lang="pt">The Blacklist</title>
-    <desc lang="pt"> - Raymond Reddington é um fugitivo que decide se entregar ao FBI e ajudar a prender criminosos internacionais em parceria com a agente Liz Keen.</desc>
-    <category lang="en">movie/drama (general)</category>
+  <programme start="20241019220000 -0300" stop="20241020003000 -0300" channel="Band São Paulo">
+    <title lang="pt">UFC Fight Night Las Vegas - ao vivo</title>
+    <desc lang="pt"> - Os mais emocionantes combates da maior e mais popular organização de MMA do mundo.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20241020003000 -0300" stop="20241020010000 -0300" channel="Band São Paulo">
+    <title lang="pt">Fórmula 1 2022 - melhores momentos</title>
+    <desc lang="pt"> - Melhores Momentos do treino classificatório do GP dos EUA.</desc>
+  </programme>
+  <programme start="20241020010000 -0300" stop="20241020030000 -0300" channel="Band São Paulo">
+    <title lang="pt">Sessão Especial</title>
+    <desc lang="pt"> - Espaço reservado para exibição extra de consagradas produções cinematográficas. </desc>
+    <category lang="en">film/cinema</category>
     <rating system="Brazil">
-      <value>[16]</value>
+      <value>[Livre]</value>
     </rating>
   </programme>
-  <programme start="20241019010500 -0300" stop="20241019020500 -0300" channel="Band São Paulo">
-    <title lang="pt">BWF</title>
-    <desc lang="pt"> - Um programa de entretenimento esportivo</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20241019020500 -0300" stop="20241019030500 -0300" channel="Band São Paulo">
-    <title lang="pt">Cine Privé</title>
-    <desc lang="pt"> - A sessão mostra um grande sucesso do gênero adulto e sexy, com enredo instigante, popular e estimulante.  
-</desc>
-    <category lang="en">adult movie/drama</category>
-    <rating system="Brazil">
-      <value>[18]</value>
-    </rating>
-  </programme>
-  <programme start="20241019230000 -0300" stop="20241020010500 -0300" channel="Band São Paulo">
-    <title lang="pt">SFT</title>
-    <desc lang="pt"> - Evento de MMA, com transmissão das melhores lutas.</desc>
+  <programme start="20241020030000 -0300" stop="20241020040000 -0300" channel="Band São Paulo">
+    <title lang="pt">Jornal da Band - reapresentação</title>
+    <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
+    <category lang="en">news/current affairs (general)</category>
   </programme>
   <programme start="20241020040000 -0300" stop="20241020053500 -0300" channel="Band São Paulo">
     <title lang="pt">Cinema na Madrugada</title>
@@ -1313,11 +1315,6 @@
     <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
-  <programme start="20241019030000 -0300" stop="20241019040000 -0300" channel="Band Aracaju">
-    <title lang="pt">Jornal da Band - reapresentação</title>
-    <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
-    <category lang="en">news/current affairs (general)</category>
-  </programme>
   <programme start="20241019040000 -0300" stop="20241019053000 -0300" channel="Band Aracaju">
     <title lang="pt">Estação Cinema </title>
     <desc lang="pt"> - Sessão noturna de filmes com espaço para todos os gêneros do cinema e grandes produções.
@@ -1411,7 +1408,18 @@
     <desc lang="pt"> - A Igreja Cristã Maranata é uma comunidade evangélica, com sede localizada em Vila Velha, ES. Que crê e propaga a pratica dos ensinamentos das escrituras sagradas.</desc>
     <category lang="en">religion</category>
   </programme>
-  <programme start="20241019134000 -0300" stop="20241019160000 -0300" channel="Band Aracaju">
+  <programme start="20241019134000 -0300" stop="20241019143000 -0300" channel="Band Aracaju">
+    <title lang="pt">Band Esporte Clube - ao vivo</title>
+    <desc lang="pt"> - Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20241019143000 -0300" stop="20241019154500 -0300" channel="Band Aracaju">
+    <title lang="pt">Fórmula 1 2024 - Corrida Sprint</title>
+    <desc lang="pt"> - As emoções da modalidade mais popular do mundo do automobilismo na tela da Band.
+</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20241019154500 -0300" stop="20241019160000 -0300" channel="Band Aracaju">
     <title lang="pt">Band Esporte Clube - ao vivo</title>
     <desc lang="pt"> - Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
     <category lang="en">live broadcast</category>
@@ -1430,7 +1438,7 @@
     <desc lang="pt"> - Horário destinado a propaganda partidária gratuita obrigatória.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20241019204000 -0300" stop="20241019221000 -0300" channel="Band Aracaju">
+  <programme start="20241019204000 -0300" stop="20241019220000 -0300" channel="Band Aracaju">
     <title lang="pt">Sabadão da Gente</title>
     <desc lang="pt"> - Um programa de humor, diversão, artistas e momentos emocionantes, na tela da Band.
 </desc>
@@ -1439,31 +1447,27 @@
       <value>[Auto Livre]</value>
     </rating>
   </programme>
-  <programme start="20241019221000 -0300" stop="20241019230000 -0300" channel="Band Aracaju">
-    <title lang="pt">The Blacklist</title>
-    <desc lang="pt"> - Raymond Reddington é um fugitivo que decide se entregar ao FBI e ajudar a prender criminosos internacionais em parceria com a agente Liz Keen.</desc>
-    <category lang="en">movie/drama (general)</category>
+  <programme start="20241019220000 -0300" stop="20241020003000 -0300" channel="Band Aracaju">
+    <title lang="pt">UFC Fight Night Las Vegas - ao vivo</title>
+    <desc lang="pt"> - Os mais emocionantes combates da maior e mais popular organização de MMA do mundo.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20241020003000 -0300" stop="20241020010000 -0300" channel="Band Aracaju">
+    <title lang="pt">Fórmula 1 2022 - melhores momentos</title>
+    <desc lang="pt"> - Melhores Momentos do treino classificatório do GP dos EUA.</desc>
+  </programme>
+  <programme start="20241020010000 -0300" stop="20241020030000 -0300" channel="Band Aracaju">
+    <title lang="pt">Sessão Especial</title>
+    <desc lang="pt"> - Espaço reservado para exibição extra de consagradas produções cinematográficas. </desc>
+    <category lang="en">film/cinema</category>
     <rating system="Brazil">
-      <value>[16]</value>
+      <value>[Livre]</value>
     </rating>
   </programme>
-  <programme start="20241019010500 -0300" stop="20241019020500 -0300" channel="Band Aracaju">
-    <title lang="pt">BWF</title>
-    <desc lang="pt"> - Um programa de entretenimento esportivo</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20241019020500 -0300" stop="20241019030500 -0300" channel="Band Aracaju">
-    <title lang="pt">Cine Privé</title>
-    <desc lang="pt"> - A sessão mostra um grande sucesso do gênero adulto e sexy, com enredo instigante, popular e estimulante.  
-</desc>
-    <category lang="en">adult movie/drama</category>
-    <rating system="Brazil">
-      <value>[18]</value>
-    </rating>
-  </programme>
-  <programme start="20241019230000 -0300" stop="20241020010500 -0300" channel="Band Aracaju">
-    <title lang="pt">SFT</title>
-    <desc lang="pt"> - Evento de MMA, com transmissão das melhores lutas.</desc>
+  <programme start="20241020030000 -0300" stop="20241020040000 -0300" channel="Band Aracaju">
+    <title lang="pt">Jornal da Band - reapresentação</title>
+    <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
+    <category lang="en">news/current affairs (general)</category>
   </programme>
   <programme start="20241020040000 -0300" stop="20241020053500 -0300" channel="Band Aracaju">
     <title lang="pt">Cinema na Madrugada</title>
@@ -2037,11 +2041,6 @@
     <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
-  <programme start="20241019030000 -0300" stop="20241019040000 -0300" channel="Band Bahia">
-    <title lang="pt">Jornal da Band - reapresentação</title>
-    <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
-    <category lang="en">news/current affairs (general)</category>
-  </programme>
   <programme start="20241019040000 -0300" stop="20241019053000 -0300" channel="Band Bahia">
     <title lang="pt">Estação Cinema </title>
     <desc lang="pt"> - Sessão noturna de filmes com espaço para todos os gêneros do cinema e grandes produções.
@@ -2130,7 +2129,18 @@
     <desc lang="pt"> - A Igreja Cristã Maranata é uma comunidade evangélica, com sede localizada em Vila Velha, ES. Que crê e propaga a pratica dos ensinamentos das escrituras sagradas.</desc>
     <category lang="en">religion</category>
   </programme>
-  <programme start="20241019134000 -0300" stop="20241019160000 -0300" channel="Band Bahia">
+  <programme start="20241019134000 -0300" stop="20241019143000 -0300" channel="Band Bahia">
+    <title lang="pt">Band Esporte Clube - ao vivo</title>
+    <desc lang="pt"> - Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20241019143000 -0300" stop="20241019154500 -0300" channel="Band Bahia">
+    <title lang="pt">Fórmula 1 2024 - Corrida Sprint</title>
+    <desc lang="pt"> - As emoções da modalidade mais popular do mundo do automobilismo na tela da Band.
+</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20241019154500 -0300" stop="20241019160000 -0300" channel="Band Bahia">
     <title lang="pt">Band Esporte Clube - ao vivo</title>
     <desc lang="pt"> - Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
     <category lang="en">live broadcast</category>
@@ -2144,7 +2154,7 @@
     <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20241019204000 -0300" stop="20241019221000 -0300" channel="Band Bahia">
+  <programme start="20241019204000 -0300" stop="20241019220000 -0300" channel="Band Bahia">
     <title lang="pt">Sabadão da Gente</title>
     <desc lang="pt"> - Um programa de humor, diversão, artistas e momentos emocionantes, na tela da Band.
 </desc>
@@ -2153,31 +2163,27 @@
       <value>[Auto Livre]</value>
     </rating>
   </programme>
-  <programme start="20241019221000 -0300" stop="20241019230000 -0300" channel="Band Bahia">
-    <title lang="pt">The Blacklist</title>
-    <desc lang="pt"> - Raymond Reddington é um fugitivo que decide se entregar ao FBI e ajudar a prender criminosos internacionais em parceria com a agente Liz Keen.</desc>
-    <category lang="en">movie/drama (general)</category>
+  <programme start="20241019220000 -0300" stop="20241020003000 -0300" channel="Band Bahia">
+    <title lang="pt">UFC Fight Night Las Vegas - ao vivo</title>
+    <desc lang="pt"> - Os mais emocionantes combates da maior e mais popular organização de MMA do mundo.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20241020003000 -0300" stop="20241020010000 -0300" channel="Band Bahia">
+    <title lang="pt">Fórmula 1 2022 - melhores momentos</title>
+    <desc lang="pt"> - Melhores Momentos do treino classificatório do GP dos EUA.</desc>
+  </programme>
+  <programme start="20241020010000 -0300" stop="20241020030000 -0300" channel="Band Bahia">
+    <title lang="pt">Sessão Especial</title>
+    <desc lang="pt"> - Espaço reservado para exibição extra de consagradas produções cinematográficas. </desc>
+    <category lang="en">film/cinema</category>
     <rating system="Brazil">
-      <value>[16]</value>
+      <value>[Livre]</value>
     </rating>
   </programme>
-  <programme start="20241019010500 -0300" stop="20241019020500 -0300" channel="Band Bahia">
-    <title lang="pt">BWF</title>
-    <desc lang="pt"> - Um programa de entretenimento esportivo</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20241019020500 -0300" stop="20241019030500 -0300" channel="Band Bahia">
-    <title lang="pt">Cine Privé</title>
-    <desc lang="pt"> - A sessão mostra um grande sucesso do gênero adulto e sexy, com enredo instigante, popular e estimulante.  
-</desc>
-    <category lang="en">adult movie/drama</category>
-    <rating system="Brazil">
-      <value>[18]</value>
-    </rating>
-  </programme>
-  <programme start="20241019230000 -0300" stop="20241020010500 -0300" channel="Band Bahia">
-    <title lang="pt">SFT</title>
-    <desc lang="pt"> - Evento de MMA, com transmissão das melhores lutas.</desc>
+  <programme start="20241020030000 -0300" stop="20241020040000 -0300" channel="Band Bahia">
+    <title lang="pt">Jornal da Band - reapresentação</title>
+    <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
+    <category lang="en">news/current affairs (general)</category>
   </programme>
   <programme start="20241020040000 -0300" stop="20241020053500 -0300" channel="Band Bahia">
     <title lang="pt">Cinema na Madrugada</title>
@@ -2748,11 +2754,6 @@
     <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
-  <programme start="20241019030000 -0300" stop="20241019040000 -0300" channel="Band Brasília">
-    <title lang="pt">Jornal da Band - reapresentação</title>
-    <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
-    <category lang="en">news/current affairs (general)</category>
-  </programme>
   <programme start="20241019040000 -0300" stop="20241019053000 -0300" channel="Band Brasília">
     <title lang="pt">Estação Cinema </title>
     <desc lang="pt"> - Sessão noturna de filmes com espaço para todos os gêneros do cinema e grandes produções.
@@ -2829,7 +2830,18 @@
     <desc lang="pt"> - A Igreja Cristã Maranata é uma comunidade evangélica, com sede localizada em Vila Velha, ES. Que crê e propaga a pratica dos ensinamentos das escrituras sagradas.</desc>
     <category lang="en">religion</category>
   </programme>
-  <programme start="20241019134000 -0300" stop="20241019160000 -0300" channel="Band Brasília">
+  <programme start="20241019134000 -0300" stop="20241019143000 -0300" channel="Band Brasília">
+    <title lang="pt">Band Esporte Clube - ao vivo</title>
+    <desc lang="pt"> - Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20241019143000 -0300" stop="20241019154500 -0300" channel="Band Brasília">
+    <title lang="pt">Fórmula 1 2024 - Corrida Sprint</title>
+    <desc lang="pt"> - As emoções da modalidade mais popular do mundo do automobilismo na tela da Band.
+</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20241019154500 -0300" stop="20241019160000 -0300" channel="Band Brasília">
     <title lang="pt">Band Esporte Clube - ao vivo</title>
     <desc lang="pt"> - Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
     <category lang="en">live broadcast</category>
@@ -2839,7 +2851,7 @@
     <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20241019204000 -0300" stop="20241019221000 -0300" channel="Band Brasília">
+  <programme start="20241019204000 -0300" stop="20241019220000 -0300" channel="Band Brasília">
     <title lang="pt">Sabadão da Gente</title>
     <desc lang="pt"> - Um programa de humor, diversão, artistas e momentos emocionantes, na tela da Band.
 </desc>
@@ -2848,31 +2860,27 @@
       <value>[Auto Livre]</value>
     </rating>
   </programme>
-  <programme start="20241019221000 -0300" stop="20241019230000 -0300" channel="Band Brasília">
-    <title lang="pt">The Blacklist</title>
-    <desc lang="pt"> - Raymond Reddington é um fugitivo que decide se entregar ao FBI e ajudar a prender criminosos internacionais em parceria com a agente Liz Keen.</desc>
-    <category lang="en">movie/drama (general)</category>
+  <programme start="20241019220000 -0300" stop="20241020003000 -0300" channel="Band Brasília">
+    <title lang="pt">UFC Fight Night Las Vegas - ao vivo</title>
+    <desc lang="pt"> - Os mais emocionantes combates da maior e mais popular organização de MMA do mundo.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20241020003000 -0300" stop="20241020010000 -0300" channel="Band Brasília">
+    <title lang="pt">Fórmula 1 2022 - melhores momentos</title>
+    <desc lang="pt"> - Melhores Momentos do treino classificatório do GP dos EUA.</desc>
+  </programme>
+  <programme start="20241020010000 -0300" stop="20241020030000 -0300" channel="Band Brasília">
+    <title lang="pt">Sessão Especial</title>
+    <desc lang="pt"> - Espaço reservado para exibição extra de consagradas produções cinematográficas. </desc>
+    <category lang="en">film/cinema</category>
     <rating system="Brazil">
-      <value>[16]</value>
+      <value>[Livre]</value>
     </rating>
   </programme>
-  <programme start="20241019010500 -0300" stop="20241019020500 -0300" channel="Band Brasília">
-    <title lang="pt">BWF</title>
-    <desc lang="pt"> - Um programa de entretenimento esportivo</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20241019020500 -0300" stop="20241019030500 -0300" channel="Band Brasília">
-    <title lang="pt">Cine Privé</title>
-    <desc lang="pt"> - A sessão mostra um grande sucesso do gênero adulto e sexy, com enredo instigante, popular e estimulante.  
-</desc>
-    <category lang="en">adult movie/drama</category>
-    <rating system="Brazil">
-      <value>[18]</value>
-    </rating>
-  </programme>
-  <programme start="20241019230000 -0300" stop="20241020010500 -0300" channel="Band Brasília">
-    <title lang="pt">SFT</title>
-    <desc lang="pt"> - Evento de MMA, com transmissão das melhores lutas.</desc>
+  <programme start="20241020030000 -0300" stop="20241020040000 -0300" channel="Band Brasília">
+    <title lang="pt">Jornal da Band - reapresentação</title>
+    <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
+    <category lang="en">news/current affairs (general)</category>
   </programme>
   <programme start="20241020040000 -0300" stop="20241020053500 -0300" channel="Band Brasília">
     <title lang="pt">Cinema na Madrugada</title>
@@ -3454,11 +3462,6 @@
     <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
-  <programme start="20241019030000 -0300" stop="20241019040000 -0300" channel="Band Ceará">
-    <title lang="pt">Jornal da Band - reapresentação</title>
-    <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
-    <category lang="en">news/current affairs (general)</category>
-  </programme>
   <programme start="20241019040000 -0300" stop="20241019053000 -0300" channel="Band Ceará">
     <title lang="pt">Estação Cinema </title>
     <desc lang="pt"> - Sessão noturna de filmes com espaço para todos os gêneros do cinema e grandes produções.
@@ -3538,7 +3541,18 @@
     <desc lang="pt"> - A Igreja Cristã Maranata é uma comunidade evangélica, com sede localizada em Vila Velha, ES. Que crê e propaga a pratica dos ensinamentos das escrituras sagradas.</desc>
     <category lang="en">religion</category>
   </programme>
-  <programme start="20241019134000 -0300" stop="20241019160000 -0300" channel="Band Ceará">
+  <programme start="20241019134000 -0300" stop="20241019143000 -0300" channel="Band Ceará">
+    <title lang="pt">Band Esporte Clube - ao vivo</title>
+    <desc lang="pt"> - Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20241019143000 -0300" stop="20241019154500 -0300" channel="Band Ceará">
+    <title lang="pt">Fórmula 1 2024 - Corrida Sprint</title>
+    <desc lang="pt"> - As emoções da modalidade mais popular do mundo do automobilismo na tela da Band.
+</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20241019154500 -0300" stop="20241019160000 -0300" channel="Band Ceará">
     <title lang="pt">Band Esporte Clube - ao vivo</title>
     <desc lang="pt"> - Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
     <category lang="en">live broadcast</category>
@@ -3548,7 +3562,7 @@
     <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20241019204000 -0300" stop="20241019221000 -0300" channel="Band Ceará">
+  <programme start="20241019204000 -0300" stop="20241019220000 -0300" channel="Band Ceará">
     <title lang="pt">Sabadão da Gente</title>
     <desc lang="pt"> - Um programa de humor, diversão, artistas e momentos emocionantes, na tela da Band.
 </desc>
@@ -3557,31 +3571,27 @@
       <value>[Auto Livre]</value>
     </rating>
   </programme>
-  <programme start="20241019221000 -0300" stop="20241019230000 -0300" channel="Band Ceará">
-    <title lang="pt">The Blacklist</title>
-    <desc lang="pt"> - Raymond Reddington é um fugitivo que decide se entregar ao FBI e ajudar a prender criminosos internacionais em parceria com a agente Liz Keen.</desc>
-    <category lang="en">movie/drama (general)</category>
+  <programme start="20241019220000 -0300" stop="20241020003000 -0300" channel="Band Ceará">
+    <title lang="pt">UFC Fight Night Las Vegas - ao vivo</title>
+    <desc lang="pt"> - Os mais emocionantes combates da maior e mais popular organização de MMA do mundo.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20241020003000 -0300" stop="20241020010000 -0300" channel="Band Ceará">
+    <title lang="pt">Fórmula 1 2022 - melhores momentos</title>
+    <desc lang="pt"> - Melhores Momentos do treino classificatório do GP dos EUA.</desc>
+  </programme>
+  <programme start="20241020010000 -0300" stop="20241020030000 -0300" channel="Band Ceará">
+    <title lang="pt">Sessão Especial</title>
+    <desc lang="pt"> - Espaço reservado para exibição extra de consagradas produções cinematográficas. </desc>
+    <category lang="en">film/cinema</category>
     <rating system="Brazil">
-      <value>[16]</value>
+      <value>[Livre]</value>
     </rating>
   </programme>
-  <programme start="20241019010500 -0300" stop="20241019020500 -0300" channel="Band Ceará">
-    <title lang="pt">BWF</title>
-    <desc lang="pt"> - Um programa de entretenimento esportivo</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20241019020500 -0300" stop="20241019030500 -0300" channel="Band Ceará">
-    <title lang="pt">Cine Privé</title>
-    <desc lang="pt"> - A sessão mostra um grande sucesso do gênero adulto e sexy, com enredo instigante, popular e estimulante.  
-</desc>
-    <category lang="en">adult movie/drama</category>
-    <rating system="Brazil">
-      <value>[18]</value>
-    </rating>
-  </programme>
-  <programme start="20241019230000 -0300" stop="20241020010500 -0300" channel="Band Ceará">
-    <title lang="pt">SFT</title>
-    <desc lang="pt"> - Evento de MMA, com transmissão das melhores lutas.</desc>
+  <programme start="20241020030000 -0300" stop="20241020040000 -0300" channel="Band Ceará">
+    <title lang="pt">Jornal da Band - reapresentação</title>
+    <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
+    <category lang="en">news/current affairs (general)</category>
   </programme>
   <programme start="20241020040000 -0300" stop="20241020053500 -0300" channel="Band Ceará">
     <title lang="pt">Cinema na Madrugada</title>
@@ -4191,11 +4201,6 @@
     <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
-  <programme start="20241019030000 -0300" stop="20241019040000 -0300" channel="Band Imperatriz">
-    <title lang="pt">Jornal da Band - reapresentação</title>
-    <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
-    <category lang="en">news/current affairs (general)</category>
-  </programme>
   <programme start="20241019040000 -0300" stop="20241019053000 -0300" channel="Band Imperatriz">
     <title lang="pt">Estação Cinema </title>
     <desc lang="pt"> - Sessão noturna de filmes com espaço para todos os gêneros do cinema e grandes produções.
@@ -4296,7 +4301,18 @@
     <desc lang="pt"> - A Igreja Cristã Maranata é uma comunidade evangélica, com sede localizada em Vila Velha, ES. Que crê e propaga a pratica dos ensinamentos das escrituras sagradas.</desc>
     <category lang="en">religion</category>
   </programme>
-  <programme start="20241019134000 -0300" stop="20241019160000 -0300" channel="Band Imperatriz">
+  <programme start="20241019134000 -0300" stop="20241019143000 -0300" channel="Band Imperatriz">
+    <title lang="pt">Band Esporte Clube - ao vivo</title>
+    <desc lang="pt"> - Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20241019143000 -0300" stop="20241019154500 -0300" channel="Band Imperatriz">
+    <title lang="pt">Fórmula 1 2024 - Corrida Sprint</title>
+    <desc lang="pt"> - As emoções da modalidade mais popular do mundo do automobilismo na tela da Band.
+</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20241019154500 -0300" stop="20241019160000 -0300" channel="Band Imperatriz">
     <title lang="pt">Band Esporte Clube - ao vivo</title>
     <desc lang="pt"> - Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
     <category lang="en">live broadcast</category>
@@ -4316,7 +4332,7 @@
     <desc lang="pt"> - Horário destinado a propaganda partidária gratuita obrigatória.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20241019204000 -0300" stop="20241019221000 -0300" channel="Band Imperatriz">
+  <programme start="20241019204000 -0300" stop="20241019220000 -0300" channel="Band Imperatriz">
     <title lang="pt">Sabadão da Gente</title>
     <desc lang="pt"> - Um programa de humor, diversão, artistas e momentos emocionantes, na tela da Band.
 </desc>
@@ -4325,31 +4341,27 @@
       <value>[Auto Livre]</value>
     </rating>
   </programme>
-  <programme start="20241019221000 -0300" stop="20241019230000 -0300" channel="Band Imperatriz">
-    <title lang="pt">The Blacklist</title>
-    <desc lang="pt"> - Raymond Reddington é um fugitivo que decide se entregar ao FBI e ajudar a prender criminosos internacionais em parceria com a agente Liz Keen.</desc>
-    <category lang="en">movie/drama (general)</category>
+  <programme start="20241019220000 -0300" stop="20241020003000 -0300" channel="Band Imperatriz">
+    <title lang="pt">UFC Fight Night Las Vegas - ao vivo</title>
+    <desc lang="pt"> - Os mais emocionantes combates da maior e mais popular organização de MMA do mundo.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20241020003000 -0300" stop="20241020010000 -0300" channel="Band Imperatriz">
+    <title lang="pt">Fórmula 1 2022 - melhores momentos</title>
+    <desc lang="pt"> - Melhores Momentos do treino classificatório do GP dos EUA.</desc>
+  </programme>
+  <programme start="20241020010000 -0300" stop="20241020030000 -0300" channel="Band Imperatriz">
+    <title lang="pt">Sessão Especial</title>
+    <desc lang="pt"> - Espaço reservado para exibição extra de consagradas produções cinematográficas. </desc>
+    <category lang="en">film/cinema</category>
     <rating system="Brazil">
-      <value>[16]</value>
+      <value>[Livre]</value>
     </rating>
   </programme>
-  <programme start="20241019010500 -0300" stop="20241019020500 -0300" channel="Band Imperatriz">
-    <title lang="pt">BWF</title>
-    <desc lang="pt"> - Um programa de entretenimento esportivo</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20241019020500 -0300" stop="20241019030500 -0300" channel="Band Imperatriz">
-    <title lang="pt">Cine Privé</title>
-    <desc lang="pt"> - A sessão mostra um grande sucesso do gênero adulto e sexy, com enredo instigante, popular e estimulante.  
-</desc>
-    <category lang="en">adult movie/drama</category>
-    <rating system="Brazil">
-      <value>[18]</value>
-    </rating>
-  </programme>
-  <programme start="20241019230000 -0300" stop="20241020010500 -0300" channel="Band Imperatriz">
-    <title lang="pt">SFT</title>
-    <desc lang="pt"> - Evento de MMA, com transmissão das melhores lutas.</desc>
+  <programme start="20241020030000 -0300" stop="20241020040000 -0300" channel="Band Imperatriz">
+    <title lang="pt">Jornal da Band - reapresentação</title>
+    <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
+    <category lang="en">news/current affairs (general)</category>
   </programme>
   <programme start="20241020040000 -0300" stop="20241020053500 -0300" channel="Band Imperatriz">
     <title lang="pt">Cinema na Madrugada</title>
@@ -4940,11 +4952,6 @@
     <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
-  <programme start="20241019030000 -0300" stop="20241019040000 -0300" channel="Band Maranhão">
-    <title lang="pt">Jornal da Band - reapresentação</title>
-    <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
-    <category lang="en">news/current affairs (general)</category>
-  </programme>
   <programme start="20241019040000 -0300" stop="20241019053000 -0300" channel="Band Maranhão">
     <title lang="pt">Estação Cinema </title>
     <desc lang="pt"> - Sessão noturna de filmes com espaço para todos os gêneros do cinema e grandes produções.
@@ -5040,7 +5047,18 @@
     <desc lang="pt"> - A Igreja Cristã Maranata é uma comunidade evangélica, com sede localizada em Vila Velha, ES. Que crê e propaga a pratica dos ensinamentos das escrituras sagradas.</desc>
     <category lang="en">religion</category>
   </programme>
-  <programme start="20241019134000 -0300" stop="20241019160000 -0300" channel="Band Maranhão">
+  <programme start="20241019134000 -0300" stop="20241019143000 -0300" channel="Band Maranhão">
+    <title lang="pt">Band Esporte Clube - ao vivo</title>
+    <desc lang="pt"> - Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20241019143000 -0300" stop="20241019154500 -0300" channel="Band Maranhão">
+    <title lang="pt">Fórmula 1 2024 - Corrida Sprint</title>
+    <desc lang="pt"> - As emoções da modalidade mais popular do mundo do automobilismo na tela da Band.
+</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20241019154500 -0300" stop="20241019160000 -0300" channel="Band Maranhão">
     <title lang="pt">Band Esporte Clube - ao vivo</title>
     <desc lang="pt"> - Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
     <category lang="en">live broadcast</category>
@@ -5055,7 +5073,7 @@
     <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20241019204000 -0300" stop="20241019221000 -0300" channel="Band Maranhão">
+  <programme start="20241019204000 -0300" stop="20241019220000 -0300" channel="Band Maranhão">
     <title lang="pt">Sabadão da Gente</title>
     <desc lang="pt"> - Um programa de humor, diversão, artistas e momentos emocionantes, na tela da Band.
 </desc>
@@ -5064,31 +5082,27 @@
       <value>[Auto Livre]</value>
     </rating>
   </programme>
-  <programme start="20241019221000 -0300" stop="20241019230000 -0300" channel="Band Maranhão">
-    <title lang="pt">The Blacklist</title>
-    <desc lang="pt"> - Raymond Reddington é um fugitivo que decide se entregar ao FBI e ajudar a prender criminosos internacionais em parceria com a agente Liz Keen.</desc>
-    <category lang="en">movie/drama (general)</category>
+  <programme start="20241019220000 -0300" stop="20241020003000 -0300" channel="Band Maranhão">
+    <title lang="pt">UFC Fight Night Las Vegas - ao vivo</title>
+    <desc lang="pt"> - Os mais emocionantes combates da maior e mais popular organização de MMA do mundo.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20241020003000 -0300" stop="20241020010000 -0300" channel="Band Maranhão">
+    <title lang="pt">Fórmula 1 2022 - melhores momentos</title>
+    <desc lang="pt"> - Melhores Momentos do treino classificatório do GP dos EUA.</desc>
+  </programme>
+  <programme start="20241020010000 -0300" stop="20241020030000 -0300" channel="Band Maranhão">
+    <title lang="pt">Sessão Especial</title>
+    <desc lang="pt"> - Espaço reservado para exibição extra de consagradas produções cinematográficas. </desc>
+    <category lang="en">film/cinema</category>
     <rating system="Brazil">
-      <value>[16]</value>
+      <value>[Livre]</value>
     </rating>
   </programme>
-  <programme start="20241019010500 -0300" stop="20241019020500 -0300" channel="Band Maranhão">
-    <title lang="pt">BWF</title>
-    <desc lang="pt"> - Um programa de entretenimento esportivo</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20241019020500 -0300" stop="20241019030500 -0300" channel="Band Maranhão">
-    <title lang="pt">Cine Privé</title>
-    <desc lang="pt"> - A sessão mostra um grande sucesso do gênero adulto e sexy, com enredo instigante, popular e estimulante.  
-</desc>
-    <category lang="en">adult movie/drama</category>
-    <rating system="Brazil">
-      <value>[18]</value>
-    </rating>
-  </programme>
-  <programme start="20241019230000 -0300" stop="20241020010500 -0300" channel="Band Maranhão">
-    <title lang="pt">SFT</title>
-    <desc lang="pt"> - Evento de MMA, com transmissão das melhores lutas.</desc>
+  <programme start="20241020030000 -0300" stop="20241020040000 -0300" channel="Band Maranhão">
+    <title lang="pt">Jornal da Band - reapresentação</title>
+    <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
+    <category lang="en">news/current affairs (general)</category>
   </programme>
   <programme start="20241020040000 -0300" stop="20241020053500 -0300" channel="Band Maranhão">
     <title lang="pt">Cinema na Madrugada</title>
@@ -5711,11 +5725,6 @@
     <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
-  <programme start="20241019030000 -0300" stop="20241019040000 -0300" channel="Band Maceió">
-    <title lang="pt">Jornal da Band - reapresentação</title>
-    <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
-    <category lang="en">news/current affairs (general)</category>
-  </programme>
   <programme start="20241019040000 -0300" stop="20241019053000 -0300" channel="Band Maceió">
     <title lang="pt">Estação Cinema </title>
     <desc lang="pt"> - Sessão noturna de filmes com espaço para todos os gêneros do cinema e grandes produções.
@@ -5808,7 +5817,18 @@
     <desc lang="pt"> - A Igreja Cristã Maranata é uma comunidade evangélica, com sede localizada em Vila Velha, ES. Que crê e propaga a pratica dos ensinamentos das escrituras sagradas.</desc>
     <category lang="en">religion</category>
   </programme>
-  <programme start="20241019134000 -0300" stop="20241019160000 -0300" channel="Band Maceió">
+  <programme start="20241019134000 -0300" stop="20241019143000 -0300" channel="Band Maceió">
+    <title lang="pt">Band Esporte Clube - ao vivo</title>
+    <desc lang="pt"> - Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20241019143000 -0300" stop="20241019154500 -0300" channel="Band Maceió">
+    <title lang="pt">Fórmula 1 2024 - Corrida Sprint</title>
+    <desc lang="pt"> - As emoções da modalidade mais popular do mundo do automobilismo na tela da Band.
+</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20241019154500 -0300" stop="20241019160000 -0300" channel="Band Maceió">
     <title lang="pt">Band Esporte Clube - ao vivo</title>
     <desc lang="pt"> - Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
     <category lang="en">live broadcast</category>
@@ -5818,7 +5838,7 @@
     <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20241019204000 -0300" stop="20241019221000 -0300" channel="Band Maceió">
+  <programme start="20241019204000 -0300" stop="20241019220000 -0300" channel="Band Maceió">
     <title lang="pt">Sabadão da Gente</title>
     <desc lang="pt"> - Um programa de humor, diversão, artistas e momentos emocionantes, na tela da Band.
 </desc>
@@ -5827,31 +5847,27 @@
       <value>[Auto Livre]</value>
     </rating>
   </programme>
-  <programme start="20241019221000 -0300" stop="20241019230000 -0300" channel="Band Maceió">
-    <title lang="pt">The Blacklist</title>
-    <desc lang="pt"> - Raymond Reddington é um fugitivo que decide se entregar ao FBI e ajudar a prender criminosos internacionais em parceria com a agente Liz Keen.</desc>
-    <category lang="en">movie/drama (general)</category>
+  <programme start="20241019220000 -0300" stop="20241020003000 -0300" channel="Band Maceió">
+    <title lang="pt">UFC Fight Night Las Vegas - ao vivo</title>
+    <desc lang="pt"> - Os mais emocionantes combates da maior e mais popular organização de MMA do mundo.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20241020003000 -0300" stop="20241020010000 -0300" channel="Band Maceió">
+    <title lang="pt">Fórmula 1 2022 - melhores momentos</title>
+    <desc lang="pt"> - Melhores Momentos do treino classificatório do GP dos EUA.</desc>
+  </programme>
+  <programme start="20241020010000 -0300" stop="20241020030000 -0300" channel="Band Maceió">
+    <title lang="pt">Sessão Especial</title>
+    <desc lang="pt"> - Espaço reservado para exibição extra de consagradas produções cinematográficas. </desc>
+    <category lang="en">film/cinema</category>
     <rating system="Brazil">
-      <value>[16]</value>
+      <value>[Livre]</value>
     </rating>
   </programme>
-  <programme start="20241019010500 -0300" stop="20241019020500 -0300" channel="Band Maceió">
-    <title lang="pt">BWF</title>
-    <desc lang="pt"> - Um programa de entretenimento esportivo</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20241019020500 -0300" stop="20241019030500 -0300" channel="Band Maceió">
-    <title lang="pt">Cine Privé</title>
-    <desc lang="pt"> - A sessão mostra um grande sucesso do gênero adulto e sexy, com enredo instigante, popular e estimulante.  
-</desc>
-    <category lang="en">adult movie/drama</category>
-    <rating system="Brazil">
-      <value>[18]</value>
-    </rating>
-  </programme>
-  <programme start="20241019230000 -0300" stop="20241020010500 -0300" channel="Band Maceió">
-    <title lang="pt">SFT</title>
-    <desc lang="pt"> - Evento de MMA, com transmissão das melhores lutas.</desc>
+  <programme start="20241020030000 -0300" stop="20241020040000 -0300" channel="Band Maceió">
+    <title lang="pt">Jornal da Band - reapresentação</title>
+    <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
+    <category lang="en">news/current affairs (general)</category>
   </programme>
   <programme start="20241020040000 -0300" stop="20241020053500 -0300" channel="Band Maceió">
     <title lang="pt">Cinema na Madrugada</title>
@@ -6418,11 +6434,6 @@
     <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
-  <programme start="20241019030000 -0300" stop="20241019040000 -0300" channel="Band Campinas">
-    <title lang="pt">Jornal da Band - reapresentação</title>
-    <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
-    <category lang="en">news/current affairs (general)</category>
-  </programme>
   <programme start="20241019040000 -0300" stop="20241019053000 -0300" channel="Band Campinas">
     <title lang="pt">Estação Cinema </title>
     <desc lang="pt"> - Sessão noturna de filmes com espaço para todos os gêneros do cinema e grandes produções.
@@ -6517,7 +6528,18 @@
     <desc lang="pt"> - A Igreja Cristã Maranata é uma comunidade evangélica, com sede localizada em Vila Velha, ES. Que crê e propaga a pratica dos ensinamentos das escrituras sagradas.</desc>
     <category lang="en">religion</category>
   </programme>
-  <programme start="20241019134000 -0300" stop="20241019160000 -0300" channel="Band Campinas">
+  <programme start="20241019134000 -0300" stop="20241019143000 -0300" channel="Band Campinas">
+    <title lang="pt">Band Esporte Clube - ao vivo</title>
+    <desc lang="pt"> - Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20241019143000 -0300" stop="20241019154500 -0300" channel="Band Campinas">
+    <title lang="pt">Fórmula 1 2024 - Corrida Sprint</title>
+    <desc lang="pt"> - As emoções da modalidade mais popular do mundo do automobilismo na tela da Band.
+</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20241019154500 -0300" stop="20241019160000 -0300" channel="Band Campinas">
     <title lang="pt">Band Esporte Clube - ao vivo</title>
     <desc lang="pt"> - Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
     <category lang="en">live broadcast</category>
@@ -6527,7 +6549,7 @@
     <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20241019204000 -0300" stop="20241019221000 -0300" channel="Band Campinas">
+  <programme start="20241019204000 -0300" stop="20241019220000 -0300" channel="Band Campinas">
     <title lang="pt">Sabadão da Gente</title>
     <desc lang="pt"> - Um programa de humor, diversão, artistas e momentos emocionantes, na tela da Band.
 </desc>
@@ -6536,31 +6558,27 @@
       <value>[Auto Livre]</value>
     </rating>
   </programme>
-  <programme start="20241019221000 -0300" stop="20241019230000 -0300" channel="Band Campinas">
-    <title lang="pt">The Blacklist</title>
-    <desc lang="pt"> - Raymond Reddington é um fugitivo que decide se entregar ao FBI e ajudar a prender criminosos internacionais em parceria com a agente Liz Keen.</desc>
-    <category lang="en">movie/drama (general)</category>
+  <programme start="20241019220000 -0300" stop="20241020003000 -0300" channel="Band Campinas">
+    <title lang="pt">UFC Fight Night Las Vegas - ao vivo</title>
+    <desc lang="pt"> - Os mais emocionantes combates da maior e mais popular organização de MMA do mundo.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20241020003000 -0300" stop="20241020010000 -0300" channel="Band Campinas">
+    <title lang="pt">Fórmula 1 2022 - melhores momentos</title>
+    <desc lang="pt"> - Melhores Momentos do treino classificatório do GP dos EUA.</desc>
+  </programme>
+  <programme start="20241020010000 -0300" stop="20241020030000 -0300" channel="Band Campinas">
+    <title lang="pt">Sessão Especial</title>
+    <desc lang="pt"> - Espaço reservado para exibição extra de consagradas produções cinematográficas. </desc>
+    <category lang="en">film/cinema</category>
     <rating system="Brazil">
-      <value>[16]</value>
+      <value>[Livre]</value>
     </rating>
   </programme>
-  <programme start="20241019010500 -0300" stop="20241019020500 -0300" channel="Band Campinas">
-    <title lang="pt">BWF</title>
-    <desc lang="pt"> - Um programa de entretenimento esportivo</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20241019020500 -0300" stop="20241019030500 -0300" channel="Band Campinas">
-    <title lang="pt">Cine Privé</title>
-    <desc lang="pt"> - A sessão mostra um grande sucesso do gênero adulto e sexy, com enredo instigante, popular e estimulante.  
-</desc>
-    <category lang="en">adult movie/drama</category>
-    <rating system="Brazil">
-      <value>[18]</value>
-    </rating>
-  </programme>
-  <programme start="20241019230000 -0300" stop="20241020010500 -0300" channel="Band Campinas">
-    <title lang="pt">SFT</title>
-    <desc lang="pt"> - Evento de MMA, com transmissão das melhores lutas.</desc>
+  <programme start="20241020030000 -0300" stop="20241020040000 -0300" channel="Band Campinas">
+    <title lang="pt">Jornal da Band - reapresentação</title>
+    <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
+    <category lang="en">news/current affairs (general)</category>
   </programme>
   <programme start="20241020040000 -0300" stop="20241020053500 -0300" channel="Band Campinas">
     <title lang="pt">Cinema na Madrugada</title>
@@ -6732,6 +6750,11 @@
     <desc lang="pt"> - O mais animado programa de debate sobre o futebol. Craques do comentário esportivo discutem jogadas, times, jogos e polêmicas da rodada. Opinião versus paixão em um bate-bola provocador e divertido.</desc>
     <category lang="en">live broadcast</category>
   </programme>
+  <programme start="20241016130000 -0300" stop="20241016131000 -0300" channel="Band Minas">
+    <title lang="pt">Horário Político - 2º Turno - ao vivo</title>
+    <desc lang="pt"> - Horário destinado a propaganda partidária gratuita obrigatória.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
   <programme start="20241016131000 -0300" stop="20241016142000 -0300" channel="Band Minas">
     <title lang="pt">Os Donos da Bola - Minas - ao vivo</title>
     <desc lang="pt"> - O mais animado programa de debate sobre o futebol. Craques do comentário esportivo discutem jogadas, times, jogos e polêmicas da rodada. Opinião versus paixão em um bate-bola provocador e divertido.</desc>
@@ -6777,6 +6800,11 @@
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
+  </programme>
+  <programme start="20241016203000 -0300" stop="20241016204000 -0300" channel="Band Minas">
+    <title lang="pt">Horário Político - 2º Turno - ao vivo</title>
+    <desc lang="pt"> - Horário destinado a propaganda partidária gratuita obrigatória.</desc>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20241016204000 -0300" stop="20241016213000 -0300" channel="Band Minas">
     <title lang="pt">Melhor da Noite - ao vivo</title>
@@ -6891,6 +6919,11 @@
     <desc lang="pt"> - O mais animado programa de debate sobre o futebol. Craques do comentário esportivo discutem jogadas, times, jogos e polêmicas da rodada. Opinião versus paixão em um bate-bola provocador e divertido.</desc>
     <category lang="en">live broadcast</category>
   </programme>
+  <programme start="20241017130000 -0300" stop="20241017131000 -0300" channel="Band Minas">
+    <title lang="pt">Horário Político - 2º Turno - ao vivo</title>
+    <desc lang="pt"> - Horário destinado a propaganda partidária gratuita obrigatória.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
   <programme start="20241017131000 -0300" stop="20241017142000 -0300" channel="Band Minas">
     <title lang="pt">Os Donos da Bola - Minas - ao vivo</title>
     <desc lang="pt"> - O mais animado programa de debate sobre o futebol. Craques do comentário esportivo discutem jogadas, times, jogos e polêmicas da rodada. Opinião versus paixão em um bate-bola provocador e divertido.</desc>
@@ -6936,6 +6969,11 @@
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
+  </programme>
+  <programme start="20241017203000 -0300" stop="20241017204000 -0300" channel="Band Minas">
+    <title lang="pt">Horário Político - 2º Turno - ao vivo</title>
+    <desc lang="pt"> - Horário destinado a propaganda partidária gratuita obrigatória.</desc>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20241017204000 -0300" stop="20241017213000 -0300" channel="Band Minas">
     <title lang="pt">Melhor da Noite - ao vivo</title>
@@ -7055,6 +7093,11 @@
     <desc lang="pt"> - O mais animado programa de debate sobre o futebol. Craques do comentário esportivo discutem jogadas, times, jogos e polêmicas da rodada. Opinião versus paixão em um bate-bola provocador e divertido.</desc>
     <category lang="en">live broadcast</category>
   </programme>
+  <programme start="20241018130000 -0300" stop="20241018131000 -0300" channel="Band Minas">
+    <title lang="pt">Horário Político - 2º Turno - ao vivo</title>
+    <desc lang="pt"> - Horário destinado a propaganda partidária gratuita obrigatória.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
   <programme start="20241018131000 -0300" stop="20241018142000 -0300" channel="Band Minas">
     <title lang="pt">Os Donos da Bola - Minas - ao vivo</title>
     <desc lang="pt"> - O mais animado programa de debate sobre o futebol. Craques do comentário esportivo discutem jogadas, times, jogos e polêmicas da rodada. Opinião versus paixão em um bate-bola provocador e divertido.</desc>
@@ -7100,6 +7143,11 @@
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
+  </programme>
+  <programme start="20241018203000 -0300" stop="20241018204000 -0300" channel="Band Minas">
+    <title lang="pt">Horário Político - 2º Turno - ao vivo</title>
+    <desc lang="pt"> - Horário destinado a propaganda partidária gratuita obrigatória.</desc>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20241018204000 -0300" stop="20241018213000 -0300" channel="Band Minas">
     <title lang="pt">Melhor da Noite - ao vivo</title>
@@ -7150,11 +7198,6 @@
   <programme start="20241019021500 -0300" stop="20241019030000 -0300" channel="Band Minas">
     <title lang="pt">Mais INFO</title>
     <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
-    <category lang="en">news/current affairs (general)</category>
-  </programme>
-  <programme start="20241019030000 -0300" stop="20241019040000 -0300" channel="Band Minas">
-    <title lang="pt">Jornal da Band - reapresentação</title>
-    <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
   <programme start="20241019040000 -0300" stop="20241019053000 -0300" channel="Band Minas">
@@ -7281,12 +7324,28 @@
     <title lang="pt">Mundo dos Negócios</title>
     <desc lang="pt"> - Programa que mostra o dia a dia de grandes e pequenas empresas de diversos estados do Brasil.</desc>
   </programme>
+  <programme start="20241019130000 -0300" stop="20241019131000 -0300" channel="Band Minas">
+    <title lang="pt">Horário Político - 2º Turno - ao vivo</title>
+    <desc lang="pt"> - Horário destinado a propaganda partidária gratuita obrigatória.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
   <programme start="20241019131000 -0300" stop="20241019134000 -0300" channel="Band Minas">
     <title lang="pt">Igreja Cristã Maranata</title>
     <desc lang="pt"> - A Igreja Cristã Maranata é uma comunidade evangélica, com sede localizada em Vila Velha, ES. Que crê e propaga a pratica dos ensinamentos das escrituras sagradas.</desc>
     <category lang="en">religion</category>
   </programme>
-  <programme start="20241019134000 -0300" stop="20241019160000 -0300" channel="Band Minas">
+  <programme start="20241019134000 -0300" stop="20241019143000 -0300" channel="Band Minas">
+    <title lang="pt">Band Esporte Clube - ao vivo</title>
+    <desc lang="pt"> - Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20241019143000 -0300" stop="20241019154500 -0300" channel="Band Minas">
+    <title lang="pt">Fórmula 1 2024 - Corrida Sprint</title>
+    <desc lang="pt"> - As emoções da modalidade mais popular do mundo do automobilismo na tela da Band.
+</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20241019154500 -0300" stop="20241019160000 -0300" channel="Band Minas">
     <title lang="pt">Band Esporte Clube - ao vivo</title>
     <desc lang="pt"> - Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
     <category lang="en">live broadcast</category>
@@ -7305,7 +7364,12 @@
     <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20241019204000 -0300" stop="20241019221000 -0300" channel="Band Minas">
+  <programme start="20241019203000 -0300" stop="20241019204000 -0300" channel="Band Minas">
+    <title lang="pt">Horário Político - 2º Turno - ao vivo</title>
+    <desc lang="pt"> - Horário destinado a propaganda partidária gratuita obrigatória.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20241019204000 -0300" stop="20241019220000 -0300" channel="Band Minas">
     <title lang="pt">Sabadão da Gente</title>
     <desc lang="pt"> - Um programa de humor, diversão, artistas e momentos emocionantes, na tela da Band.
 </desc>
@@ -7314,31 +7378,27 @@
       <value>[Auto Livre]</value>
     </rating>
   </programme>
-  <programme start="20241019221000 -0300" stop="20241019230000 -0300" channel="Band Minas">
-    <title lang="pt">The Blacklist</title>
-    <desc lang="pt"> - Raymond Reddington é um fugitivo que decide se entregar ao FBI e ajudar a prender criminosos internacionais em parceria com a agente Liz Keen.</desc>
-    <category lang="en">movie/drama (general)</category>
+  <programme start="20241019220000 -0300" stop="20241020003000 -0300" channel="Band Minas">
+    <title lang="pt">UFC Fight Night Las Vegas - ao vivo</title>
+    <desc lang="pt"> - Os mais emocionantes combates da maior e mais popular organização de MMA do mundo.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20241020003000 -0300" stop="20241020010000 -0300" channel="Band Minas">
+    <title lang="pt">Fórmula 1 2022 - melhores momentos</title>
+    <desc lang="pt"> - Melhores Momentos do treino classificatório do GP dos EUA.</desc>
+  </programme>
+  <programme start="20241020010000 -0300" stop="20241020030000 -0300" channel="Band Minas">
+    <title lang="pt">Sessão Especial</title>
+    <desc lang="pt"> - Espaço reservado para exibição extra de consagradas produções cinematográficas. </desc>
+    <category lang="en">film/cinema</category>
     <rating system="Brazil">
-      <value>[16]</value>
+      <value>[Livre]</value>
     </rating>
   </programme>
-  <programme start="20241019010500 -0300" stop="20241019020500 -0300" channel="Band Minas">
-    <title lang="pt">BWF</title>
-    <desc lang="pt"> - Um programa de entretenimento esportivo</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20241019020500 -0300" stop="20241019030500 -0300" channel="Band Minas">
-    <title lang="pt">Cine Privé</title>
-    <desc lang="pt"> - A sessão mostra um grande sucesso do gênero adulto e sexy, com enredo instigante, popular e estimulante.  
-</desc>
-    <category lang="en">adult movie/drama</category>
-    <rating system="Brazil">
-      <value>[18]</value>
-    </rating>
-  </programme>
-  <programme start="20241019230000 -0300" stop="20241020010500 -0300" channel="Band Minas">
-    <title lang="pt">SFT</title>
-    <desc lang="pt"> - Evento de MMA, com transmissão das melhores lutas.</desc>
+  <programme start="20241020030000 -0300" stop="20241020040000 -0300" channel="Band Minas">
+    <title lang="pt">Jornal da Band - reapresentação</title>
+    <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
+    <category lang="en">news/current affairs (general)</category>
   </programme>
   <programme start="20241020040000 -0300" stop="20241020053500 -0300" channel="Band Minas">
     <title lang="pt">Cinema na Madrugada</title>
@@ -7943,11 +8003,6 @@
     <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
-  <programme start="20241019030000 -0300" stop="20241019040000 -0300" channel="Band Paulista">
-    <title lang="pt">Jornal da Band - reapresentação</title>
-    <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
-    <category lang="en">news/current affairs (general)</category>
-  </programme>
   <programme start="20241019040000 -0300" stop="20241019053000 -0300" channel="Band Paulista">
     <title lang="pt">Estação Cinema </title>
     <desc lang="pt"> - Sessão noturna de filmes com espaço para todos os gêneros do cinema e grandes produções.
@@ -8055,7 +8110,18 @@
     <desc lang="pt"> - A Igreja Cristã Maranata é uma comunidade evangélica, com sede localizada em Vila Velha, ES. Que crê e propaga a pratica dos ensinamentos das escrituras sagradas.</desc>
     <category lang="en">religion</category>
   </programme>
-  <programme start="20241019134000 -0300" stop="20241019160000 -0300" channel="Band Paulista">
+  <programme start="20241019134000 -0300" stop="20241019143000 -0300" channel="Band Paulista">
+    <title lang="pt">Band Esporte Clube - ao vivo</title>
+    <desc lang="pt"> - Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20241019143000 -0300" stop="20241019154500 -0300" channel="Band Paulista">
+    <title lang="pt">Fórmula 1 2024 - Corrida Sprint</title>
+    <desc lang="pt"> - As emoções da modalidade mais popular do mundo do automobilismo na tela da Band.
+</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20241019154500 -0300" stop="20241019160000 -0300" channel="Band Paulista">
     <title lang="pt">Band Esporte Clube - ao vivo</title>
     <desc lang="pt"> - Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
     <category lang="en">live broadcast</category>
@@ -8065,7 +8131,7 @@
     <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20241019204000 -0300" stop="20241019221000 -0300" channel="Band Paulista">
+  <programme start="20241019204000 -0300" stop="20241019220000 -0300" channel="Band Paulista">
     <title lang="pt">Sabadão da Gente</title>
     <desc lang="pt"> - Um programa de humor, diversão, artistas e momentos emocionantes, na tela da Band.
 </desc>
@@ -8074,31 +8140,27 @@
       <value>[Auto Livre]</value>
     </rating>
   </programme>
-  <programme start="20241019221000 -0300" stop="20241019230000 -0300" channel="Band Paulista">
-    <title lang="pt">The Blacklist</title>
-    <desc lang="pt"> - Raymond Reddington é um fugitivo que decide se entregar ao FBI e ajudar a prender criminosos internacionais em parceria com a agente Liz Keen.</desc>
-    <category lang="en">movie/drama (general)</category>
+  <programme start="20241019220000 -0300" stop="20241020003000 -0300" channel="Band Paulista">
+    <title lang="pt">UFC Fight Night Las Vegas - ao vivo</title>
+    <desc lang="pt"> - Os mais emocionantes combates da maior e mais popular organização de MMA do mundo.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20241020003000 -0300" stop="20241020010000 -0300" channel="Band Paulista">
+    <title lang="pt">Fórmula 1 2022 - melhores momentos</title>
+    <desc lang="pt"> - Melhores Momentos do treino classificatório do GP dos EUA.</desc>
+  </programme>
+  <programme start="20241020010000 -0300" stop="20241020030000 -0300" channel="Band Paulista">
+    <title lang="pt">Sessão Especial</title>
+    <desc lang="pt"> - Espaço reservado para exibição extra de consagradas produções cinematográficas. </desc>
+    <category lang="en">film/cinema</category>
     <rating system="Brazil">
-      <value>[16]</value>
+      <value>[Livre]</value>
     </rating>
   </programme>
-  <programme start="20241019010500 -0300" stop="20241019020500 -0300" channel="Band Paulista">
-    <title lang="pt">BWF</title>
-    <desc lang="pt"> - Um programa de entretenimento esportivo</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20241019020500 -0300" stop="20241019030500 -0300" channel="Band Paulista">
-    <title lang="pt">Cine Privé</title>
-    <desc lang="pt"> - A sessão mostra um grande sucesso do gênero adulto e sexy, com enredo instigante, popular e estimulante.  
-</desc>
-    <category lang="en">adult movie/drama</category>
-    <rating system="Brazil">
-      <value>[18]</value>
-    </rating>
-  </programme>
-  <programme start="20241019230000 -0300" stop="20241020010500 -0300" channel="Band Paulista">
-    <title lang="pt">SFT</title>
-    <desc lang="pt"> - Evento de MMA, com transmissão das melhores lutas.</desc>
+  <programme start="20241020030000 -0300" stop="20241020040000 -0300" channel="Band Paulista">
+    <title lang="pt">Jornal da Band - reapresentação</title>
+    <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
+    <category lang="en">news/current affairs (general)</category>
   </programme>
   <programme start="20241020040000 -0300" stop="20241020053500 -0300" channel="Band Paulista">
     <title lang="pt">Cinema na Madrugada</title>
@@ -8685,11 +8747,6 @@
     <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
-  <programme start="20241019030000 -0300" stop="20241019040000 -0300" channel="Band Piauí">
-    <title lang="pt">Jornal da Band - reapresentação</title>
-    <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
-    <category lang="en">news/current affairs (general)</category>
-  </programme>
   <programme start="20241019040000 -0300" stop="20241019053000 -0300" channel="Band Piauí">
     <title lang="pt">Estação Cinema </title>
     <desc lang="pt"> - Sessão noturna de filmes com espaço para todos os gêneros do cinema e grandes produções.
@@ -8788,7 +8845,18 @@
     <desc lang="pt"> - A Igreja Cristã Maranata é uma comunidade evangélica, com sede localizada em Vila Velha, ES. Que crê e propaga a pratica dos ensinamentos das escrituras sagradas.</desc>
     <category lang="en">religion</category>
   </programme>
-  <programme start="20241019134000 -0300" stop="20241019160000 -0300" channel="Band Piauí">
+  <programme start="20241019134000 -0300" stop="20241019143000 -0300" channel="Band Piauí">
+    <title lang="pt">Band Esporte Clube - ao vivo</title>
+    <desc lang="pt"> - Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20241019143000 -0300" stop="20241019154500 -0300" channel="Band Piauí">
+    <title lang="pt">Fórmula 1 2024 - Corrida Sprint</title>
+    <desc lang="pt"> - As emoções da modalidade mais popular do mundo do automobilismo na tela da Band.
+</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20241019154500 -0300" stop="20241019160000 -0300" channel="Band Piauí">
     <title lang="pt">Band Esporte Clube - ao vivo</title>
     <desc lang="pt"> - Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
     <category lang="en">live broadcast</category>
@@ -8798,7 +8866,7 @@
     <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20241019204000 -0300" stop="20241019221000 -0300" channel="Band Piauí">
+  <programme start="20241019204000 -0300" stop="20241019220000 -0300" channel="Band Piauí">
     <title lang="pt">Sabadão da Gente</title>
     <desc lang="pt"> - Um programa de humor, diversão, artistas e momentos emocionantes, na tela da Band.
 </desc>
@@ -8807,31 +8875,27 @@
       <value>[Auto Livre]</value>
     </rating>
   </programme>
-  <programme start="20241019221000 -0300" stop="20241019230000 -0300" channel="Band Piauí">
-    <title lang="pt">The Blacklist</title>
-    <desc lang="pt"> - Raymond Reddington é um fugitivo que decide se entregar ao FBI e ajudar a prender criminosos internacionais em parceria com a agente Liz Keen.</desc>
-    <category lang="en">movie/drama (general)</category>
+  <programme start="20241019220000 -0300" stop="20241020003000 -0300" channel="Band Piauí">
+    <title lang="pt">UFC Fight Night Las Vegas - ao vivo</title>
+    <desc lang="pt"> - Os mais emocionantes combates da maior e mais popular organização de MMA do mundo.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20241020003000 -0300" stop="20241020010000 -0300" channel="Band Piauí">
+    <title lang="pt">Fórmula 1 2022 - melhores momentos</title>
+    <desc lang="pt"> - Melhores Momentos do treino classificatório do GP dos EUA.</desc>
+  </programme>
+  <programme start="20241020010000 -0300" stop="20241020030000 -0300" channel="Band Piauí">
+    <title lang="pt">Sessão Especial</title>
+    <desc lang="pt"> - Espaço reservado para exibição extra de consagradas produções cinematográficas. </desc>
+    <category lang="en">film/cinema</category>
     <rating system="Brazil">
-      <value>[16]</value>
+      <value>[Livre]</value>
     </rating>
   </programme>
-  <programme start="20241019010500 -0300" stop="20241019020500 -0300" channel="Band Piauí">
-    <title lang="pt">BWF</title>
-    <desc lang="pt"> - Um programa de entretenimento esportivo</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20241019020500 -0300" stop="20241019030500 -0300" channel="Band Piauí">
-    <title lang="pt">Cine Privé</title>
-    <desc lang="pt"> - A sessão mostra um grande sucesso do gênero adulto e sexy, com enredo instigante, popular e estimulante.  
-</desc>
-    <category lang="en">adult movie/drama</category>
-    <rating system="Brazil">
-      <value>[18]</value>
-    </rating>
-  </programme>
-  <programme start="20241019230000 -0300" stop="20241020010500 -0300" channel="Band Piauí">
-    <title lang="pt">SFT</title>
-    <desc lang="pt"> - Evento de MMA, com transmissão das melhores lutas.</desc>
+  <programme start="20241020030000 -0300" stop="20241020040000 -0300" channel="Band Piauí">
+    <title lang="pt">Jornal da Band - reapresentação</title>
+    <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
+    <category lang="en">news/current affairs (general)</category>
   </programme>
   <programme start="20241020040000 -0300" stop="20241020053500 -0300" channel="Band Piauí">
     <title lang="pt">Cinema na Madrugada</title>
@@ -9494,11 +9558,6 @@
     <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
-  <programme start="20241019030000 -0300" stop="20241019040000 -0300" channel="Band Paraná">
-    <title lang="pt">Jornal da Band - reapresentação</title>
-    <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
-    <category lang="en">news/current affairs (general)</category>
-  </programme>
   <programme start="20241019040000 -0300" stop="20241019053000 -0300" channel="Band Paraná">
     <title lang="pt">Estação Cinema </title>
     <desc lang="pt"> - Sessão noturna de filmes com espaço para todos os gêneros do cinema e grandes produções.
@@ -9585,7 +9644,18 @@
     <desc lang="pt"> - A Igreja Cristã Maranata é uma comunidade evangélica, com sede localizada em Vila Velha, ES. Que crê e propaga a pratica dos ensinamentos das escrituras sagradas.</desc>
     <category lang="en">religion</category>
   </programme>
-  <programme start="20241019134000 -0300" stop="20241019160000 -0300" channel="Band Paraná">
+  <programme start="20241019134000 -0300" stop="20241019143000 -0300" channel="Band Paraná">
+    <title lang="pt">Band Esporte Clube - ao vivo</title>
+    <desc lang="pt"> - Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20241019143000 -0300" stop="20241019154500 -0300" channel="Band Paraná">
+    <title lang="pt">Fórmula 1 2024 - Corrida Sprint</title>
+    <desc lang="pt"> - As emoções da modalidade mais popular do mundo do automobilismo na tela da Band.
+</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20241019154500 -0300" stop="20241019160000 -0300" channel="Band Paraná">
     <title lang="pt">Band Esporte Clube - ao vivo</title>
     <desc lang="pt"> - Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
     <category lang="en">live broadcast</category>
@@ -9605,7 +9675,7 @@
     <desc lang="pt"> - Horário destinado a propaganda partidária gratuita obrigatória.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20241019204000 -0300" stop="20241019221000 -0300" channel="Band Paraná">
+  <programme start="20241019204000 -0300" stop="20241019220000 -0300" channel="Band Paraná">
     <title lang="pt">Sabadão da Gente</title>
     <desc lang="pt"> - Um programa de humor, diversão, artistas e momentos emocionantes, na tela da Band.
 </desc>
@@ -9614,31 +9684,27 @@
       <value>[Auto Livre]</value>
     </rating>
   </programme>
-  <programme start="20241019221000 -0300" stop="20241019230000 -0300" channel="Band Paraná">
-    <title lang="pt">The Blacklist</title>
-    <desc lang="pt"> - Raymond Reddington é um fugitivo que decide se entregar ao FBI e ajudar a prender criminosos internacionais em parceria com a agente Liz Keen.</desc>
-    <category lang="en">movie/drama (general)</category>
+  <programme start="20241019220000 -0300" stop="20241020003000 -0300" channel="Band Paraná">
+    <title lang="pt">UFC Fight Night Las Vegas - ao vivo</title>
+    <desc lang="pt"> - Os mais emocionantes combates da maior e mais popular organização de MMA do mundo.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20241020003000 -0300" stop="20241020010000 -0300" channel="Band Paraná">
+    <title lang="pt">Fórmula 1 2022 - melhores momentos</title>
+    <desc lang="pt"> - Melhores Momentos do treino classificatório do GP dos EUA.</desc>
+  </programme>
+  <programme start="20241020010000 -0300" stop="20241020030000 -0300" channel="Band Paraná">
+    <title lang="pt">Sessão Especial</title>
+    <desc lang="pt"> - Espaço reservado para exibição extra de consagradas produções cinematográficas. </desc>
+    <category lang="en">film/cinema</category>
     <rating system="Brazil">
-      <value>[16]</value>
+      <value>[Livre]</value>
     </rating>
   </programme>
-  <programme start="20241019010500 -0300" stop="20241019020500 -0300" channel="Band Paraná">
-    <title lang="pt">BWF</title>
-    <desc lang="pt"> - Um programa de entretenimento esportivo</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20241019020500 -0300" stop="20241019030500 -0300" channel="Band Paraná">
-    <title lang="pt">Cine Privé</title>
-    <desc lang="pt"> - A sessão mostra um grande sucesso do gênero adulto e sexy, com enredo instigante, popular e estimulante.  
-</desc>
-    <category lang="en">adult movie/drama</category>
-    <rating system="Brazil">
-      <value>[18]</value>
-    </rating>
-  </programme>
-  <programme start="20241019230000 -0300" stop="20241020010500 -0300" channel="Band Paraná">
-    <title lang="pt">SFT</title>
-    <desc lang="pt"> - Evento de MMA, com transmissão das melhores lutas.</desc>
+  <programme start="20241020030000 -0300" stop="20241020040000 -0300" channel="Band Paraná">
+    <title lang="pt">Jornal da Band - reapresentação</title>
+    <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
+    <category lang="en">news/current affairs (general)</category>
   </programme>
   <programme start="20241020040000 -0300" stop="20241020053500 -0300" channel="Band Paraná">
     <title lang="pt">Cinema na Madrugada</title>
@@ -10234,11 +10300,6 @@
     <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
-  <programme start="20241019030000 -0300" stop="20241019040000 -0300" channel="Band Rio">
-    <title lang="pt">Jornal da Band - reapresentação</title>
-    <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
-    <category lang="en">news/current affairs (general)</category>
-  </programme>
   <programme start="20241019040000 -0300" stop="20241019053000 -0300" channel="Band Rio">
     <title lang="pt">Estação Cinema </title>
     <desc lang="pt"> - Sessão noturna de filmes com espaço para todos os gêneros do cinema e grandes produções.
@@ -10311,7 +10372,18 @@
     <desc lang="pt"> - A Igreja Cristã Maranata é uma comunidade evangélica, com sede localizada em Vila Velha, ES. Que crê e propaga a pratica dos ensinamentos das escrituras sagradas.</desc>
     <category lang="en">religion</category>
   </programme>
-  <programme start="20241019134000 -0300" stop="20241019160000 -0300" channel="Band Rio">
+  <programme start="20241019134000 -0300" stop="20241019143000 -0300" channel="Band Rio">
+    <title lang="pt">Band Esporte Clube - ao vivo</title>
+    <desc lang="pt"> - Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20241019143000 -0300" stop="20241019154500 -0300" channel="Band Rio">
+    <title lang="pt">Fórmula 1 2024 - Corrida Sprint</title>
+    <desc lang="pt"> - As emoções da modalidade mais popular do mundo do automobilismo na tela da Band.
+</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20241019154500 -0300" stop="20241019160000 -0300" channel="Band Rio">
     <title lang="pt">Band Esporte Clube - ao vivo</title>
     <desc lang="pt"> - Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
     <category lang="en">live broadcast</category>
@@ -10331,7 +10403,7 @@
     <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20241019204000 -0300" stop="20241019221000 -0300" channel="Band Rio">
+  <programme start="20241019204000 -0300" stop="20241019220000 -0300" channel="Band Rio">
     <title lang="pt">Sabadão da Gente</title>
     <desc lang="pt"> - Um programa de humor, diversão, artistas e momentos emocionantes, na tela da Band.
 </desc>
@@ -10340,31 +10412,27 @@
       <value>[Auto Livre]</value>
     </rating>
   </programme>
-  <programme start="20241019221000 -0300" stop="20241019230000 -0300" channel="Band Rio">
-    <title lang="pt">The Blacklist</title>
-    <desc lang="pt"> - Raymond Reddington é um fugitivo que decide se entregar ao FBI e ajudar a prender criminosos internacionais em parceria com a agente Liz Keen.</desc>
-    <category lang="en">movie/drama (general)</category>
+  <programme start="20241019220000 -0300" stop="20241020003000 -0300" channel="Band Rio">
+    <title lang="pt">UFC Fight Night Las Vegas - ao vivo</title>
+    <desc lang="pt"> - Os mais emocionantes combates da maior e mais popular organização de MMA do mundo.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20241020003000 -0300" stop="20241020010000 -0300" channel="Band Rio">
+    <title lang="pt">Fórmula 1 2022 - melhores momentos</title>
+    <desc lang="pt"> - Melhores Momentos do treino classificatório do GP dos EUA.</desc>
+  </programme>
+  <programme start="20241020010000 -0300" stop="20241020030000 -0300" channel="Band Rio">
+    <title lang="pt">Sessão Especial</title>
+    <desc lang="pt"> - Espaço reservado para exibição extra de consagradas produções cinematográficas. </desc>
+    <category lang="en">film/cinema</category>
     <rating system="Brazil">
-      <value>[16]</value>
+      <value>[Livre]</value>
     </rating>
   </programme>
-  <programme start="20241019010500 -0300" stop="20241019020500 -0300" channel="Band Rio">
-    <title lang="pt">BWF</title>
-    <desc lang="pt"> - Um programa de entretenimento esportivo</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20241019020500 -0300" stop="20241019030500 -0300" channel="Band Rio">
-    <title lang="pt">Cine Privé</title>
-    <desc lang="pt"> - A sessão mostra um grande sucesso do gênero adulto e sexy, com enredo instigante, popular e estimulante.  
-</desc>
-    <category lang="en">adult movie/drama</category>
-    <rating system="Brazil">
-      <value>[18]</value>
-    </rating>
-  </programme>
-  <programme start="20241019230000 -0300" stop="20241020010500 -0300" channel="Band Rio">
-    <title lang="pt">SFT</title>
-    <desc lang="pt"> - Evento de MMA, com transmissão das melhores lutas.</desc>
+  <programme start="20241020030000 -0300" stop="20241020040000 -0300" channel="Band Rio">
+    <title lang="pt">Jornal da Band - reapresentação</title>
+    <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
+    <category lang="en">news/current affairs (general)</category>
   </programme>
   <programme start="20241020040000 -0300" stop="20241020053500 -0300" channel="Band Rio">
     <title lang="pt">Cinema na Madrugada</title>
@@ -10529,6 +10597,11 @@
     <desc lang="pt"> - As principais notícias do estado e capital de uma forma dinâmica e interativa.</desc>
     <category lang="en">live broadcast</category>
   </programme>
+  <programme start="20241016130000 -0300" stop="20241016131000 -0300" channel="Band RN">
+    <title lang="pt">Horário Político - 2º Turno - ao vivo</title>
+    <desc lang="pt"> - Horário destinado a propaganda partidária gratuita obrigatória.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
   <programme start="20241016131000 -0300" stop="20241016133500 -0300" channel="Band RN">
     <title lang="pt">Jornalístico - ao vivo</title>
     <desc lang="pt"> - Faixa reservada para um programa jornalístico.</desc>
@@ -10579,6 +10652,11 @@
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
+  </programme>
+  <programme start="20241016203000 -0300" stop="20241016204000 -0300" channel="Band RN">
+    <title lang="pt">Horário Político - 2º Turno - ao vivo</title>
+    <desc lang="pt"> - Horário destinado a propaganda partidária gratuita obrigatória.</desc>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20241016204000 -0300" stop="20241016213000 -0300" channel="Band RN">
     <title lang="pt">Melhor da Noite - ao vivo</title>
@@ -10693,6 +10771,11 @@
     <desc lang="pt"> - As principais notícias do estado e capital de uma forma dinâmica e interativa.</desc>
     <category lang="en">live broadcast</category>
   </programme>
+  <programme start="20241017130000 -0300" stop="20241017131000 -0300" channel="Band RN">
+    <title lang="pt">Horário Político - 2º Turno - ao vivo</title>
+    <desc lang="pt"> - Horário destinado a propaganda partidária gratuita obrigatória.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
   <programme start="20241017131000 -0300" stop="20241017133500 -0300" channel="Band RN">
     <title lang="pt">Jornalístico - ao vivo</title>
     <desc lang="pt"> - Faixa reservada para um programa jornalístico.</desc>
@@ -10748,6 +10831,11 @@
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
+  </programme>
+  <programme start="20241017203000 -0300" stop="20241017204000 -0300" channel="Band RN">
+    <title lang="pt">Horário Político - 2º Turno - ao vivo</title>
+    <desc lang="pt"> - Horário destinado a propaganda partidária gratuita obrigatória.</desc>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20241017204000 -0300" stop="20241017213000 -0300" channel="Band RN">
     <title lang="pt">Melhor da Noite - ao vivo</title>
@@ -10867,6 +10955,11 @@
     <desc lang="pt"> - As principais notícias do estado e capital de uma forma dinâmica e interativa.</desc>
     <category lang="en">live broadcast</category>
   </programme>
+  <programme start="20241018130000 -0300" stop="20241018131000 -0300" channel="Band RN">
+    <title lang="pt">Horário Político - 2º Turno - ao vivo</title>
+    <desc lang="pt"> - Horário destinado a propaganda partidária gratuita obrigatória.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
   <programme start="20241018131000 -0300" stop="20241018133500 -0300" channel="Band RN">
     <title lang="pt">Jornalístico - ao vivo</title>
     <desc lang="pt"> - Faixa reservada para um programa jornalístico.</desc>
@@ -10918,6 +11011,11 @@
       <value>[12]</value>
     </rating>
   </programme>
+  <programme start="20241018203000 -0300" stop="20241018204000 -0300" channel="Band RN">
+    <title lang="pt">Horário Político - 2º Turno - ao vivo</title>
+    <desc lang="pt"> - Horário destinado a propaganda partidária gratuita obrigatória.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
   <programme start="20241018204000 -0300" stop="20241018213000 -0300" channel="Band RN">
     <title lang="pt">Melhor da Noite - ao vivo</title>
     <desc lang="pt"> - Programa de entretenimento que une informação e diversão em um só lugar.</desc>
@@ -10967,11 +11065,6 @@
   <programme start="20241019021500 -0300" stop="20241019030000 -0300" channel="Band RN">
     <title lang="pt">Mais INFO</title>
     <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
-    <category lang="en">news/current affairs (general)</category>
-  </programme>
-  <programme start="20241019030000 -0300" stop="20241019040000 -0300" channel="Band RN">
-    <title lang="pt">Jornal da Band - reapresentação</title>
-    <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
   <programme start="20241019040000 -0300" stop="20241019053000 -0300" channel="Band RN">
@@ -11061,12 +11154,28 @@
     <title lang="pt">Mundo dos Negócios</title>
     <desc lang="pt"> - Programa que mostra o dia a dia de grandes e pequenas empresas de diversos estados do Brasil.</desc>
   </programme>
+  <programme start="20241019130000 -0300" stop="20241019131000 -0300" channel="Band RN">
+    <title lang="pt">Horário Político - 2º Turno - ao vivo</title>
+    <desc lang="pt"> - Horário destinado a propaganda partidária gratuita obrigatória.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
   <programme start="20241019131000 -0300" stop="20241019134000 -0300" channel="Band RN">
     <title lang="pt">Igreja Cristã Maranata</title>
     <desc lang="pt"> - A Igreja Cristã Maranata é uma comunidade evangélica, com sede localizada em Vila Velha, ES. Que crê e propaga a pratica dos ensinamentos das escrituras sagradas.</desc>
     <category lang="en">religion</category>
   </programme>
-  <programme start="20241019134000 -0300" stop="20241019160000 -0300" channel="Band RN">
+  <programme start="20241019134000 -0300" stop="20241019143000 -0300" channel="Band RN">
+    <title lang="pt">Band Esporte Clube - ao vivo</title>
+    <desc lang="pt"> - Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20241019143000 -0300" stop="20241019154500 -0300" channel="Band RN">
+    <title lang="pt">Fórmula 1 2024 - Corrida Sprint</title>
+    <desc lang="pt"> - As emoções da modalidade mais popular do mundo do automobilismo na tela da Band.
+</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20241019154500 -0300" stop="20241019160000 -0300" channel="Band RN">
     <title lang="pt">Band Esporte Clube - ao vivo</title>
     <desc lang="pt"> - Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
     <category lang="en">live broadcast</category>
@@ -11076,7 +11185,12 @@
     <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20241019204000 -0300" stop="20241019221000 -0300" channel="Band RN">
+  <programme start="20241019203000 -0300" stop="20241019204000 -0300" channel="Band RN">
+    <title lang="pt">Horário Político - 2º Turno - ao vivo</title>
+    <desc lang="pt"> - Horário destinado a propaganda partidária gratuita obrigatória.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20241019204000 -0300" stop="20241019220000 -0300" channel="Band RN">
     <title lang="pt">Sabadão da Gente</title>
     <desc lang="pt"> - Um programa de humor, diversão, artistas e momentos emocionantes, na tela da Band.
 </desc>
@@ -11085,31 +11199,27 @@
       <value>[Auto Livre]</value>
     </rating>
   </programme>
-  <programme start="20241019221000 -0300" stop="20241019230000 -0300" channel="Band RN">
-    <title lang="pt">The Blacklist</title>
-    <desc lang="pt"> - Raymond Reddington é um fugitivo que decide se entregar ao FBI e ajudar a prender criminosos internacionais em parceria com a agente Liz Keen.</desc>
-    <category lang="en">movie/drama (general)</category>
+  <programme start="20241019220000 -0300" stop="20241020003000 -0300" channel="Band RN">
+    <title lang="pt">UFC Fight Night Las Vegas - ao vivo</title>
+    <desc lang="pt"> - Os mais emocionantes combates da maior e mais popular organização de MMA do mundo.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20241020003000 -0300" stop="20241020010000 -0300" channel="Band RN">
+    <title lang="pt">Fórmula 1 2022 - melhores momentos</title>
+    <desc lang="pt"> - Melhores Momentos do treino classificatório do GP dos EUA.</desc>
+  </programme>
+  <programme start="20241020010000 -0300" stop="20241020030000 -0300" channel="Band RN">
+    <title lang="pt">Sessão Especial</title>
+    <desc lang="pt"> - Espaço reservado para exibição extra de consagradas produções cinematográficas. </desc>
+    <category lang="en">film/cinema</category>
     <rating system="Brazil">
-      <value>[16]</value>
+      <value>[Livre]</value>
     </rating>
   </programme>
-  <programme start="20241019010500 -0300" stop="20241019020500 -0300" channel="Band RN">
-    <title lang="pt">BWF</title>
-    <desc lang="pt"> - Um programa de entretenimento esportivo</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20241019020500 -0300" stop="20241019030500 -0300" channel="Band RN">
-    <title lang="pt">Cine Privé</title>
-    <desc lang="pt"> - A sessão mostra um grande sucesso do gênero adulto e sexy, com enredo instigante, popular e estimulante.  
-</desc>
-    <category lang="en">adult movie/drama</category>
-    <rating system="Brazil">
-      <value>[18]</value>
-    </rating>
-  </programme>
-  <programme start="20241019230000 -0300" stop="20241020010500 -0300" channel="Band RN">
-    <title lang="pt">SFT</title>
-    <desc lang="pt"> - Evento de MMA, com transmissão das melhores lutas.</desc>
+  <programme start="20241020030000 -0300" stop="20241020040000 -0300" channel="Band RN">
+    <title lang="pt">Jornal da Band - reapresentação</title>
+    <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
+    <category lang="en">news/current affairs (general)</category>
   </programme>
   <programme start="20241020040000 -0300" stop="20241020053500 -0300" channel="Band RN">
     <title lang="pt">Cinema na Madrugada</title>
@@ -11702,11 +11812,6 @@
     <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
-  <programme start="20241019030000 -0300" stop="20241019040000 -0300" channel="Band RS">
-    <title lang="pt">Jornal da Band - reapresentação</title>
-    <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
-    <category lang="en">news/current affairs (general)</category>
-  </programme>
   <programme start="20241019040000 -0300" stop="20241019053000 -0300" channel="Band RS">
     <title lang="pt">Estação Cinema </title>
     <desc lang="pt"> - Sessão noturna de filmes com espaço para todos os gêneros do cinema e grandes produções.
@@ -11800,7 +11905,18 @@
     <desc lang="pt"> - A Igreja Cristã Maranata é uma comunidade evangélica, com sede localizada em Vila Velha, ES. Que crê e propaga a pratica dos ensinamentos das escrituras sagradas.</desc>
     <category lang="en">religion</category>
   </programme>
-  <programme start="20241019134000 -0300" stop="20241019160000 -0300" channel="Band RS">
+  <programme start="20241019134000 -0300" stop="20241019143000 -0300" channel="Band RS">
+    <title lang="pt">Band Esporte Clube - ao vivo</title>
+    <desc lang="pt"> - Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20241019143000 -0300" stop="20241019154500 -0300" channel="Band RS">
+    <title lang="pt">Fórmula 1 2024 - Corrida Sprint</title>
+    <desc lang="pt"> - As emoções da modalidade mais popular do mundo do automobilismo na tela da Band.
+</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20241019154500 -0300" stop="20241019160000 -0300" channel="Band RS">
     <title lang="pt">Band Esporte Clube - ao vivo</title>
     <desc lang="pt"> - Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
     <category lang="en">live broadcast</category>
@@ -11824,7 +11940,7 @@
     <desc lang="pt"> - Horário destinado a propaganda partidária gratuita obrigatória.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20241019204000 -0300" stop="20241019221000 -0300" channel="Band RS">
+  <programme start="20241019204000 -0300" stop="20241019220000 -0300" channel="Band RS">
     <title lang="pt">Sabadão da Gente</title>
     <desc lang="pt"> - Um programa de humor, diversão, artistas e momentos emocionantes, na tela da Band.
 </desc>
@@ -11833,31 +11949,27 @@
       <value>[Auto Livre]</value>
     </rating>
   </programme>
-  <programme start="20241019221000 -0300" stop="20241019230000 -0300" channel="Band RS">
-    <title lang="pt">The Blacklist</title>
-    <desc lang="pt"> - Raymond Reddington é um fugitivo que decide se entregar ao FBI e ajudar a prender criminosos internacionais em parceria com a agente Liz Keen.</desc>
-    <category lang="en">movie/drama (general)</category>
+  <programme start="20241019220000 -0300" stop="20241020003000 -0300" channel="Band RS">
+    <title lang="pt">UFC Fight Night Las Vegas - ao vivo</title>
+    <desc lang="pt"> - Os mais emocionantes combates da maior e mais popular organização de MMA do mundo.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20241020003000 -0300" stop="20241020010000 -0300" channel="Band RS">
+    <title lang="pt">Fórmula 1 2022 - melhores momentos</title>
+    <desc lang="pt"> - Melhores Momentos do treino classificatório do GP dos EUA.</desc>
+  </programme>
+  <programme start="20241020010000 -0300" stop="20241020030000 -0300" channel="Band RS">
+    <title lang="pt">Sessão Especial</title>
+    <desc lang="pt"> - Espaço reservado para exibição extra de consagradas produções cinematográficas. </desc>
+    <category lang="en">film/cinema</category>
     <rating system="Brazil">
-      <value>[16]</value>
+      <value>[Livre]</value>
     </rating>
   </programme>
-  <programme start="20241019010500 -0300" stop="20241019020500 -0300" channel="Band RS">
-    <title lang="pt">BWF</title>
-    <desc lang="pt"> - Um programa de entretenimento esportivo</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20241019020500 -0300" stop="20241019030500 -0300" channel="Band RS">
-    <title lang="pt">Cine Privé</title>
-    <desc lang="pt"> - A sessão mostra um grande sucesso do gênero adulto e sexy, com enredo instigante, popular e estimulante.  
-</desc>
-    <category lang="en">adult movie/drama</category>
-    <rating system="Brazil">
-      <value>[18]</value>
-    </rating>
-  </programme>
-  <programme start="20241019230000 -0300" stop="20241020010500 -0300" channel="Band RS">
-    <title lang="pt">SFT</title>
-    <desc lang="pt"> - Evento de MMA, com transmissão das melhores lutas.</desc>
+  <programme start="20241020030000 -0300" stop="20241020040000 -0300" channel="Band RS">
+    <title lang="pt">Jornal da Band - reapresentação</title>
+    <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
+    <category lang="en">news/current affairs (general)</category>
   </programme>
   <programme start="20241020040000 -0300" stop="20241020053500 -0300" channel="Band RS">
     <title lang="pt">Cinema na Madrugada</title>
@@ -12401,11 +12513,6 @@
     <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
-  <programme start="20241019030000 -0300" stop="20241019040000 -0300" channel="Band Tocantins">
-    <title lang="pt">Jornal da Band - reapresentação</title>
-    <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
-    <category lang="en">news/current affairs (general)</category>
-  </programme>
   <programme start="20241019040000 -0300" stop="20241019053000 -0300" channel="Band Tocantins">
     <title lang="pt">Estação Cinema </title>
     <desc lang="pt"> - Sessão noturna de filmes com espaço para todos os gêneros do cinema e grandes produções.
@@ -12482,7 +12589,18 @@
     <desc lang="pt"> - A Igreja Cristã Maranata é uma comunidade evangélica, com sede localizada em Vila Velha, ES. Que crê e propaga a pratica dos ensinamentos das escrituras sagradas.</desc>
     <category lang="en">religion</category>
   </programme>
-  <programme start="20241019134000 -0300" stop="20241019160000 -0300" channel="Band Tocantins">
+  <programme start="20241019134000 -0300" stop="20241019143000 -0300" channel="Band Tocantins">
+    <title lang="pt">Band Esporte Clube - ao vivo</title>
+    <desc lang="pt"> - Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20241019143000 -0300" stop="20241019154500 -0300" channel="Band Tocantins">
+    <title lang="pt">Fórmula 1 2024 - Corrida Sprint</title>
+    <desc lang="pt"> - As emoções da modalidade mais popular do mundo do automobilismo na tela da Band.
+</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20241019154500 -0300" stop="20241019160000 -0300" channel="Band Tocantins">
     <title lang="pt">Band Esporte Clube - ao vivo</title>
     <desc lang="pt"> - Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
     <category lang="en">live broadcast</category>
@@ -12502,7 +12620,7 @@
     <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20241019204000 -0300" stop="20241019221000 -0300" channel="Band Tocantins">
+  <programme start="20241019204000 -0300" stop="20241019220000 -0300" channel="Band Tocantins">
     <title lang="pt">Sabadão da Gente</title>
     <desc lang="pt"> - Um programa de humor, diversão, artistas e momentos emocionantes, na tela da Band.
 </desc>
@@ -12511,31 +12629,27 @@
       <value>[Auto Livre]</value>
     </rating>
   </programme>
-  <programme start="20241019221000 -0300" stop="20241019230000 -0300" channel="Band Tocantins">
-    <title lang="pt">The Blacklist</title>
-    <desc lang="pt"> - Raymond Reddington é um fugitivo que decide se entregar ao FBI e ajudar a prender criminosos internacionais em parceria com a agente Liz Keen.</desc>
-    <category lang="en">movie/drama (general)</category>
+  <programme start="20241019220000 -0300" stop="20241020003000 -0300" channel="Band Tocantins">
+    <title lang="pt">UFC Fight Night Las Vegas - ao vivo</title>
+    <desc lang="pt"> - Os mais emocionantes combates da maior e mais popular organização de MMA do mundo.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20241020003000 -0300" stop="20241020010000 -0300" channel="Band Tocantins">
+    <title lang="pt">Fórmula 1 2022 - melhores momentos</title>
+    <desc lang="pt"> - Melhores Momentos do treino classificatório do GP dos EUA.</desc>
+  </programme>
+  <programme start="20241020010000 -0300" stop="20241020030000 -0300" channel="Band Tocantins">
+    <title lang="pt">Sessão Especial</title>
+    <desc lang="pt"> - Espaço reservado para exibição extra de consagradas produções cinematográficas. </desc>
+    <category lang="en">film/cinema</category>
     <rating system="Brazil">
-      <value>[16]</value>
+      <value>[Livre]</value>
     </rating>
   </programme>
-  <programme start="20241019010500 -0300" stop="20241019020500 -0300" channel="Band Tocantins">
-    <title lang="pt">BWF</title>
-    <desc lang="pt"> - Um programa de entretenimento esportivo</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20241019020500 -0300" stop="20241019030500 -0300" channel="Band Tocantins">
-    <title lang="pt">Cine Privé</title>
-    <desc lang="pt"> - A sessão mostra um grande sucesso do gênero adulto e sexy, com enredo instigante, popular e estimulante.  
-</desc>
-    <category lang="en">adult movie/drama</category>
-    <rating system="Brazil">
-      <value>[18]</value>
-    </rating>
-  </programme>
-  <programme start="20241019230000 -0300" stop="20241020010500 -0300" channel="Band Tocantins">
-    <title lang="pt">SFT</title>
-    <desc lang="pt"> - Evento de MMA, com transmissão das melhores lutas.</desc>
+  <programme start="20241020030000 -0300" stop="20241020040000 -0300" channel="Band Tocantins">
+    <title lang="pt">Jornal da Band - reapresentação</title>
+    <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
+    <category lang="en">news/current affairs (general)</category>
   </programme>
   <programme start="20241020040000 -0300" stop="20241020053500 -0300" channel="Band Tocantins">
     <title lang="pt">Cinema na Madrugada</title>
@@ -12696,6 +12810,11 @@ O programa de debate sobre o mundo do futebol mais bem humorado da TV.</desc>
     <desc lang="pt"> - Informativo com linguagem coloquial e opinativa, com prioridade para os temas do cotidiano de cada cidadão. O foco é a segurança, a saúde, o trabalho, a mobilidade, o comportamento.</desc>
     <category lang="en">live broadcast</category>
   </programme>
+  <programme start="20241016130000 -0300" stop="20241016131000 -0300" channel="Band Triângulo">
+    <title lang="pt">Horário Político - 2º Turno - ao vivo</title>
+    <desc lang="pt"> - Horário destinado a propaganda partidária gratuita obrigatória.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
   <programme start="20241016131000 -0300" stop="20241016135000 -0300" channel="Band Triângulo">
     <title lang="pt">Minas Urgente - ao vivo</title>
     <desc lang="pt"> - Informativo com linguagem coloquial e opinativa, com prioridade para os temas do cotidiano de cada cidadão. O foco é a segurança, a saúde, o trabalho, a mobilidade, o comportamento.</desc>
@@ -12745,6 +12864,11 @@ O programa de debate sobre o mundo do futebol mais bem humorado da TV.</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
+  </programme>
+  <programme start="20241016203000 -0300" stop="20241016204000 -0300" channel="Band Triângulo">
+    <title lang="pt">Horário Político - 2º Turno - ao vivo</title>
+    <desc lang="pt"> - Horário destinado a propaganda partidária gratuita obrigatória.</desc>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20241016204000 -0300" stop="20241016213000 -0300" channel="Band Triângulo">
     <title lang="pt">Melhor da Noite - ao vivo</title>
@@ -12864,6 +12988,11 @@ O programa de debate sobre o mundo do futebol mais bem humorado da TV.</desc>
     <desc lang="pt"> - Informativo com linguagem coloquial e opinativa, com prioridade para os temas do cotidiano de cada cidadão. O foco é a segurança, a saúde, o trabalho, a mobilidade, o comportamento.</desc>
     <category lang="en">live broadcast</category>
   </programme>
+  <programme start="20241017130000 -0300" stop="20241017131000 -0300" channel="Band Triângulo">
+    <title lang="pt">Horário Político - 2º Turno - ao vivo</title>
+    <desc lang="pt"> - Horário destinado a propaganda partidária gratuita obrigatória.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
   <programme start="20241017131000 -0300" stop="20241017135000 -0300" channel="Band Triângulo">
     <title lang="pt">Minas Urgente - ao vivo</title>
     <desc lang="pt"> - Informativo com linguagem coloquial e opinativa, com prioridade para os temas do cotidiano de cada cidadão. O foco é a segurança, a saúde, o trabalho, a mobilidade, o comportamento.</desc>
@@ -12913,6 +13042,11 @@ O programa de debate sobre o mundo do futebol mais bem humorado da TV.</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
+  </programme>
+  <programme start="20241017203000 -0300" stop="20241017204000 -0300" channel="Band Triângulo">
+    <title lang="pt">Horário Político - 2º Turno - ao vivo</title>
+    <desc lang="pt"> - Horário destinado a propaganda partidária gratuita obrigatória.</desc>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20241017204000 -0300" stop="20241017213000 -0300" channel="Band Triângulo">
     <title lang="pt">Melhor da Noite - ao vivo</title>
@@ -13037,6 +13171,11 @@ O programa de debate sobre o mundo do futebol mais bem humorado da TV.</desc>
     <desc lang="pt"> - Informativo com linguagem coloquial e opinativa, com prioridade para os temas do cotidiano de cada cidadão. O foco é a segurança, a saúde, o trabalho, a mobilidade, o comportamento.</desc>
     <category lang="en">live broadcast</category>
   </programme>
+  <programme start="20241018130000 -0300" stop="20241018131000 -0300" channel="Band Triângulo">
+    <title lang="pt">Horário Político - 2º Turno - ao vivo</title>
+    <desc lang="pt"> - Horário destinado a propaganda partidária gratuita obrigatória.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
   <programme start="20241018131000 -0300" stop="20241018135000 -0300" channel="Band Triângulo">
     <title lang="pt">Minas Urgente - ao vivo</title>
     <desc lang="pt"> - Informativo com linguagem coloquial e opinativa, com prioridade para os temas do cotidiano de cada cidadão. O foco é a segurança, a saúde, o trabalho, a mobilidade, o comportamento.</desc>
@@ -13087,6 +13226,11 @@ O programa de debate sobre o mundo do futebol mais bem humorado da TV.</desc>
       <value>[12]</value>
     </rating>
   </programme>
+  <programme start="20241018203000 -0300" stop="20241018204000 -0300" channel="Band Triângulo">
+    <title lang="pt">Horário Político - 2º Turno - ao vivo</title>
+    <desc lang="pt"> - Horário destinado a propaganda partidária gratuita obrigatória.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
   <programme start="20241018204000 -0300" stop="20241018213000 -0300" channel="Band Triângulo">
     <title lang="pt">Melhor da Noite - ao vivo</title>
     <desc lang="pt"> - Programa de entretenimento que une informação e diversão em um só lugar.</desc>
@@ -13136,11 +13280,6 @@ O programa de debate sobre o mundo do futebol mais bem humorado da TV.</desc>
   <programme start="20241019021500 -0300" stop="20241019030000 -0300" channel="Band Triângulo">
     <title lang="pt">Mais INFO</title>
     <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
-    <category lang="en">news/current affairs (general)</category>
-  </programme>
-  <programme start="20241019030000 -0300" stop="20241019040000 -0300" channel="Band Triângulo">
-    <title lang="pt">Jornal da Band - reapresentação</title>
-    <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
   <programme start="20241019040000 -0300" stop="20241019053000 -0300" channel="Band Triângulo">
@@ -13223,12 +13362,28 @@ O programa de debate sobre o mundo do futebol mais bem humorado da TV.</desc>
     <title lang="pt">Mundo dos Negócios</title>
     <desc lang="pt"> - Programa que mostra o dia a dia de grandes e pequenas empresas de diversos estados do Brasil.</desc>
   </programme>
+  <programme start="20241019130000 -0300" stop="20241019131000 -0300" channel="Band Triângulo">
+    <title lang="pt">Horário Político - 2º Turno - ao vivo</title>
+    <desc lang="pt"> - Horário destinado a propaganda partidária gratuita obrigatória.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
   <programme start="20241019131000 -0300" stop="20241019134000 -0300" channel="Band Triângulo">
     <title lang="pt">Igreja Cristã Maranata</title>
     <desc lang="pt"> - A Igreja Cristã Maranata é uma comunidade evangélica, com sede localizada em Vila Velha, ES. Que crê e propaga a pratica dos ensinamentos das escrituras sagradas.</desc>
     <category lang="en">religion</category>
   </programme>
-  <programme start="20241019134000 -0300" stop="20241019160000 -0300" channel="Band Triângulo">
+  <programme start="20241019134000 -0300" stop="20241019143000 -0300" channel="Band Triângulo">
+    <title lang="pt">Band Esporte Clube - ao vivo</title>
+    <desc lang="pt"> - Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20241019143000 -0300" stop="20241019154500 -0300" channel="Band Triângulo">
+    <title lang="pt">Fórmula 1 2024 - Corrida Sprint</title>
+    <desc lang="pt"> - As emoções da modalidade mais popular do mundo do automobilismo na tela da Band.
+</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20241019154500 -0300" stop="20241019160000 -0300" channel="Band Triângulo">
     <title lang="pt">Band Esporte Clube - ao vivo</title>
     <desc lang="pt"> - Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
     <category lang="en">live broadcast</category>
@@ -13247,7 +13402,12 @@ O programa de debate sobre o mundo do futebol mais bem humorado da TV.</desc>
     <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20241019204000 -0300" stop="20241019221000 -0300" channel="Band Triângulo">
+  <programme start="20241019203000 -0300" stop="20241019204000 -0300" channel="Band Triângulo">
+    <title lang="pt">Horário Político - 2º Turno - ao vivo</title>
+    <desc lang="pt"> - Horário destinado a propaganda partidária gratuita obrigatória.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20241019204000 -0300" stop="20241019220000 -0300" channel="Band Triângulo">
     <title lang="pt">Sabadão da Gente</title>
     <desc lang="pt"> - Um programa de humor, diversão, artistas e momentos emocionantes, na tela da Band.
 </desc>
@@ -13256,31 +13416,27 @@ O programa de debate sobre o mundo do futebol mais bem humorado da TV.</desc>
       <value>[Auto Livre]</value>
     </rating>
   </programme>
-  <programme start="20241019221000 -0300" stop="20241019230000 -0300" channel="Band Triângulo">
-    <title lang="pt">The Blacklist</title>
-    <desc lang="pt"> - Raymond Reddington é um fugitivo que decide se entregar ao FBI e ajudar a prender criminosos internacionais em parceria com a agente Liz Keen.</desc>
-    <category lang="en">movie/drama (general)</category>
+  <programme start="20241019220000 -0300" stop="20241020003000 -0300" channel="Band Triângulo">
+    <title lang="pt">UFC Fight Night Las Vegas - ao vivo</title>
+    <desc lang="pt"> - Os mais emocionantes combates da maior e mais popular organização de MMA do mundo.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20241020003000 -0300" stop="20241020010000 -0300" channel="Band Triângulo">
+    <title lang="pt">Fórmula 1 2022 - melhores momentos</title>
+    <desc lang="pt"> - Melhores Momentos do treino classificatório do GP dos EUA.</desc>
+  </programme>
+  <programme start="20241020010000 -0300" stop="20241020030000 -0300" channel="Band Triângulo">
+    <title lang="pt">Sessão Especial</title>
+    <desc lang="pt"> - Espaço reservado para exibição extra de consagradas produções cinematográficas. </desc>
+    <category lang="en">film/cinema</category>
     <rating system="Brazil">
-      <value>[16]</value>
+      <value>[Livre]</value>
     </rating>
   </programme>
-  <programme start="20241019010500 -0300" stop="20241019020500 -0300" channel="Band Triângulo">
-    <title lang="pt">BWF</title>
-    <desc lang="pt"> - Um programa de entretenimento esportivo</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20241019020500 -0300" stop="20241019030500 -0300" channel="Band Triângulo">
-    <title lang="pt">Cine Privé</title>
-    <desc lang="pt"> - A sessão mostra um grande sucesso do gênero adulto e sexy, com enredo instigante, popular e estimulante.  
-</desc>
-    <category lang="en">adult movie/drama</category>
-    <rating system="Brazil">
-      <value>[18]</value>
-    </rating>
-  </programme>
-  <programme start="20241019230000 -0300" stop="20241020010500 -0300" channel="Band Triângulo">
-    <title lang="pt">SFT</title>
-    <desc lang="pt"> - Evento de MMA, com transmissão das melhores lutas.</desc>
+  <programme start="20241020030000 -0300" stop="20241020040000 -0300" channel="Band Triângulo">
+    <title lang="pt">Jornal da Band - reapresentação</title>
+    <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
+    <category lang="en">news/current affairs (general)</category>
   </programme>
   <programme start="20241020040000 -0300" stop="20241020053500 -0300" channel="Band Triângulo">
     <title lang="pt">Cinema na Madrugada</title>
@@ -13466,6 +13622,11 @@ O programa de debate sobre o mundo do futebol mais bem humorado da TV.</desc>
     <desc lang="pt"> - As principais notícias do dia na nossa região. Com independência e o compromisso de mostrar sempre a verdade dos fatos, mantendo a marca de credibilidade do Grupo Bandeirantes de Comunicação.</desc>
     <category lang="en">live broadcast</category>
   </programme>
+  <programme start="20241016130000 -0300" stop="20241016131000 -0300" channel="Band Vale">
+    <title lang="pt">Horário Político - 2º Turno - ao vivo</title>
+    <desc lang="pt"> - Horário destinado a propaganda partidária gratuita obrigatória.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
   <programme start="20241016131000 -0300" stop="20241016140000 -0300" channel="Band Vale">
     <title lang="pt">Falando Nisso</title>
     <desc lang="pt"> - Em pauta, culinária, saúde, família, lazer, notícia, moda e muito mais.</desc>
@@ -13515,6 +13676,11 @@ O programa de debate sobre o mundo do futebol mais bem humorado da TV.</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
+  </programme>
+  <programme start="20241016203000 -0300" stop="20241016204000 -0300" channel="Band Vale">
+    <title lang="pt">Horário Político - 2º Turno - ao vivo</title>
+    <desc lang="pt"> - Horário destinado a propaganda partidária gratuita obrigatória.</desc>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20241016204000 -0300" stop="20241016213000 -0300" channel="Band Vale">
     <title lang="pt">Melhor da Noite - ao vivo</title>
@@ -13629,6 +13795,11 @@ O programa de debate sobre o mundo do futebol mais bem humorado da TV.</desc>
     <desc lang="pt"> - As principais notícias do dia na nossa região. Com independência e o compromisso de mostrar sempre a verdade dos fatos, mantendo a marca de credibilidade do Grupo Bandeirantes de Comunicação.</desc>
     <category lang="en">live broadcast</category>
   </programme>
+  <programme start="20241017130000 -0300" stop="20241017131000 -0300" channel="Band Vale">
+    <title lang="pt">Horário Político - 2º Turno - ao vivo</title>
+    <desc lang="pt"> - Horário destinado a propaganda partidária gratuita obrigatória.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
   <programme start="20241017131000 -0300" stop="20241017140000 -0300" channel="Band Vale">
     <title lang="pt">Falando Nisso</title>
     <desc lang="pt"> - Em pauta, culinária, saúde, família, lazer, notícia, moda e muito mais.</desc>
@@ -13678,6 +13849,11 @@ O programa de debate sobre o mundo do futebol mais bem humorado da TV.</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
+  </programme>
+  <programme start="20241017203000 -0300" stop="20241017204000 -0300" channel="Band Vale">
+    <title lang="pt">Horário Político - 2º Turno - ao vivo</title>
+    <desc lang="pt"> - Horário destinado a propaganda partidária gratuita obrigatória.</desc>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20241017204000 -0300" stop="20241017213000 -0300" channel="Band Vale">
     <title lang="pt">Melhor da Noite - ao vivo</title>
@@ -13797,6 +13973,11 @@ O programa de debate sobre o mundo do futebol mais bem humorado da TV.</desc>
     <desc lang="pt"> - As principais notícias do dia na nossa região. Com independência e o compromisso de mostrar sempre a verdade dos fatos, mantendo a marca de credibilidade do Grupo Bandeirantes de Comunicação.</desc>
     <category lang="en">live broadcast</category>
   </programme>
+  <programme start="20241018130000 -0300" stop="20241018131000 -0300" channel="Band Vale">
+    <title lang="pt">Horário Político - 2º Turno - ao vivo</title>
+    <desc lang="pt"> - Horário destinado a propaganda partidária gratuita obrigatória.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
   <programme start="20241018131000 -0300" stop="20241018140000 -0300" channel="Band Vale">
     <title lang="pt">Falando Nisso</title>
     <desc lang="pt"> - Em pauta, culinária, saúde, família, lazer, notícia, moda e muito mais.</desc>
@@ -13847,6 +14028,11 @@ O programa de debate sobre o mundo do futebol mais bem humorado da TV.</desc>
       <value>[12]</value>
     </rating>
   </programme>
+  <programme start="20241018203000 -0300" stop="20241018204000 -0300" channel="Band Vale">
+    <title lang="pt">Horário Político - 2º Turno - ao vivo</title>
+    <desc lang="pt"> - Horário destinado a propaganda partidária gratuita obrigatória.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
   <programme start="20241018204000 -0300" stop="20241018213000 -0300" channel="Band Vale">
     <title lang="pt">Melhor da Noite - ao vivo</title>
     <desc lang="pt"> - Programa de entretenimento que une informação e diversão em um só lugar.</desc>
@@ -13896,11 +14082,6 @@ O programa de debate sobre o mundo do futebol mais bem humorado da TV.</desc>
   <programme start="20241019021500 -0300" stop="20241019030000 -0300" channel="Band Vale">
     <title lang="pt">Mais INFO</title>
     <desc lang="pt"> - Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.</desc>
-    <category lang="en">news/current affairs (general)</category>
-  </programme>
-  <programme start="20241019030000 -0300" stop="20241019040000 -0300" channel="Band Vale">
-    <title lang="pt">Jornal da Band - reapresentação</title>
-    <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
   <programme start="20241019040000 -0300" stop="20241019053000 -0300" channel="Band Vale">
@@ -14001,12 +14182,28 @@ O programa de debate sobre o mundo do futebol mais bem humorado da TV.</desc>
     <title lang="pt">Mundo dos Negócios</title>
     <desc lang="pt"> - Programa que mostra o dia a dia de grandes e pequenas empresas de diversos estados do Brasil.</desc>
   </programme>
+  <programme start="20241019130000 -0300" stop="20241019131000 -0300" channel="Band Vale">
+    <title lang="pt">Horário Político - 2º Turno - ao vivo</title>
+    <desc lang="pt"> - Horário destinado a propaganda partidária gratuita obrigatória.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
   <programme start="20241019131000 -0300" stop="20241019134000 -0300" channel="Band Vale">
     <title lang="pt">Igreja Cristã Maranata</title>
     <desc lang="pt"> - A Igreja Cristã Maranata é uma comunidade evangélica, com sede localizada em Vila Velha, ES. Que crê e propaga a pratica dos ensinamentos das escrituras sagradas.</desc>
     <category lang="en">religion</category>
   </programme>
-  <programme start="20241019134000 -0300" stop="20241019160000 -0300" channel="Band Vale">
+  <programme start="20241019134000 -0300" stop="20241019143000 -0300" channel="Band Vale">
+    <title lang="pt">Band Esporte Clube - ao vivo</title>
+    <desc lang="pt"> - Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20241019143000 -0300" stop="20241019154500 -0300" channel="Band Vale">
+    <title lang="pt">Fórmula 1 2024 - Corrida Sprint</title>
+    <desc lang="pt"> - As emoções da modalidade mais popular do mundo do automobilismo na tela da Band.
+</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20241019154500 -0300" stop="20241019160000 -0300" channel="Band Vale">
     <title lang="pt">Band Esporte Clube - ao vivo</title>
     <desc lang="pt"> - Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
     <category lang="en">live broadcast</category>
@@ -14016,7 +14213,12 @@ O programa de debate sobre o mundo do futebol mais bem humorado da TV.</desc>
     <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20241019204000 -0300" stop="20241019221000 -0300" channel="Band Vale">
+  <programme start="20241019203000 -0300" stop="20241019204000 -0300" channel="Band Vale">
+    <title lang="pt">Horário Político - 2º Turno - ao vivo</title>
+    <desc lang="pt"> - Horário destinado a propaganda partidária gratuita obrigatória.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20241019204000 -0300" stop="20241019220000 -0300" channel="Band Vale">
     <title lang="pt">Sabadão da Gente</title>
     <desc lang="pt"> - Um programa de humor, diversão, artistas e momentos emocionantes, na tela da Band.
 </desc>
@@ -14025,31 +14227,27 @@ O programa de debate sobre o mundo do futebol mais bem humorado da TV.</desc>
       <value>[Auto Livre]</value>
     </rating>
   </programme>
-  <programme start="20241019221000 -0300" stop="20241019230000 -0300" channel="Band Vale">
-    <title lang="pt">The Blacklist</title>
-    <desc lang="pt"> - Raymond Reddington é um fugitivo que decide se entregar ao FBI e ajudar a prender criminosos internacionais em parceria com a agente Liz Keen.</desc>
-    <category lang="en">movie/drama (general)</category>
+  <programme start="20241019220000 -0300" stop="20241020003000 -0300" channel="Band Vale">
+    <title lang="pt">UFC Fight Night Las Vegas - ao vivo</title>
+    <desc lang="pt"> - Os mais emocionantes combates da maior e mais popular organização de MMA do mundo.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20241020003000 -0300" stop="20241020010000 -0300" channel="Band Vale">
+    <title lang="pt">Fórmula 1 2022 - melhores momentos</title>
+    <desc lang="pt"> - Melhores Momentos do treino classificatório do GP dos EUA.</desc>
+  </programme>
+  <programme start="20241020010000 -0300" stop="20241020030000 -0300" channel="Band Vale">
+    <title lang="pt">Sessão Especial</title>
+    <desc lang="pt"> - Espaço reservado para exibição extra de consagradas produções cinematográficas. </desc>
+    <category lang="en">film/cinema</category>
     <rating system="Brazil">
-      <value>[16]</value>
+      <value>[Livre]</value>
     </rating>
   </programme>
-  <programme start="20241019010500 -0300" stop="20241019020500 -0300" channel="Band Vale">
-    <title lang="pt">BWF</title>
-    <desc lang="pt"> - Um programa de entretenimento esportivo</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20241019020500 -0300" stop="20241019030500 -0300" channel="Band Vale">
-    <title lang="pt">Cine Privé</title>
-    <desc lang="pt"> - A sessão mostra um grande sucesso do gênero adulto e sexy, com enredo instigante, popular e estimulante.  
-</desc>
-    <category lang="en">adult movie/drama</category>
-    <rating system="Brazil">
-      <value>[18]</value>
-    </rating>
-  </programme>
-  <programme start="20241019230000 -0300" stop="20241020010500 -0300" channel="Band Vale">
-    <title lang="pt">SFT</title>
-    <desc lang="pt"> - Evento de MMA, com transmissão das melhores lutas.</desc>
+  <programme start="20241020030000 -0300" stop="20241020040000 -0300" channel="Band Vale">
+    <title lang="pt">Jornal da Band - reapresentação</title>
+    <desc lang="pt"> - Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
+    <category lang="en">news/current affairs (general)</category>
   </programme>
   <programme start="20241020040000 -0300" stop="20241020053500 -0300" channel="Band Vale">
     <title lang="pt">Cinema na Madrugada</title>
