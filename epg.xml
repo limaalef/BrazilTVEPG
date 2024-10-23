@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2024-10-23 18:15:04" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2024-10-23 19:45:04" generator-info-url="http://limaalef.com">
   <channel id="Claro TV+ 4K">
     <display-name lang="pt">Claro TV+ 4K</display-name>
   </channel>
@@ -149,6 +149,9 @@
   </channel>
   <channel id="premiere-2">
     <display-name lang="pt">premiere-2</display-name>
+  </channel>
+  <channel id="premiere-3">
+    <display-name lang="pt">premiere-3</display-name>
   </channel>
   <channel id="combate">
     <display-name lang="pt">combate</display-name>
@@ -4884,15 +4887,30 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241024060000 -0300" stop="20241024063500 -0300" channel="TNT SERIES HD">
-    <title lang="pt">The Mentalist</title>
-    <desc lang="pt"> - A equipe do CBI investigará a morte de um gênio da matemática assassinado por um palhaço.</desc>
-    <episode-num system="xmltv_ns">1.20.</episode-num>
+  <programme start="20241024060000 -0300" stop="20241024061200 -0300" channel="TNT SERIES HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt"> - Entrevistas com personalidades de Hollywood sobre seus novos projetos.</desc>
+    <episode-num system="xmltv_ns">5.55.</episode-num>
     <rating system="Brazil">
-      <value>[14]</value>
+      <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241024063500 -0300" stop="20241024072600 -0300" channel="TNT SERIES HD">
+  <programme start="20241024061200 -0300" stop="20241024062300 -0300" channel="TNT SERIES HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt"> - Entrevistas com personalidades de Hollywood sobre seus novos projetos.</desc>
+    <episode-num system="xmltv_ns">5.56.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20241024062300 -0300" stop="20241024062400 -0300" channel="TNT SERIES HD">
+    <title lang="pt">TNT Buzz</title>
+    <desc lang="pt"> - TNT Buzz, o seu ponto de encontro sobre o melhor do mundo do entretenimento.  Aqui vamos opinar, falar bem, falar mal, e dar risada do mundo pop e resumir todo o barulho que o mundo do entretenimento faz.</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241024062400 -0300" stop="20241024071400 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Closer</title>
     <desc lang="pt"> - Logo após que Brenda sofre um pequeno acidente de carro e sai rapidamente da cena para ir a uma locação aonde ocorreu um múltiplo assassinato, Pope decide tirar dela os privilégios para dirigir.</desc>
     <episode-num system="xmltv_ns">1.10.</episode-num>
@@ -4900,7 +4918,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20241024072600 -0300" stop="20241024081300 -0300" channel="TNT SERIES HD">
+  <programme start="20241024071400 -0300" stop="20241024080000 -0300" channel="TNT SERIES HD">
     <title lang="pt">Major Crimes</title>
     <desc lang="pt"> - Após um ataque relacionado ao Estado Islâmico contra um militar, o FBI pede ajuda da Capitão Raydor para encontrar um terrorista.</desc>
     <episode-num system="xmltv_ns">4.2.</episode-num>
@@ -4908,7 +4926,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241024081300 -0300" stop="20241024085900 -0300" channel="TNT SERIES HD">
+  <programme start="20241024080000 -0300" stop="20241024084700 -0300" channel="TNT SERIES HD">
     <title lang="pt">Major Crimes</title>
     <desc lang="pt"> - Quando Flynn procura comprar uma nova casa e pede um conselho de Provenza e Buzz, uma inesperada reviravolta leva a uma nova investigação para a Divisão de Crimes Complexos.</desc>
     <episode-num system="xmltv_ns">4.3.</episode-num>
@@ -4916,7 +4934,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241024085900 -0300" stop="20241024094700 -0300" channel="TNT SERIES HD">
+  <programme start="20241024084700 -0300" stop="20241024093500 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Desesperado</sub-title>
     <desc lang="pt"> - Um jovem testemunha o abuso sexual brutal e o assassinato de sua mãe.</desc>
@@ -4925,7 +4943,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20241024094700 -0300" stop="20241024103200 -0300" channel="TNT SERIES HD">
+  <programme start="20241024093500 -0300" stop="20241024102200 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <desc lang="pt"> - Um homem acusado de estuprar várias mulheres decide ser ele mesmo seu advogado de defesa, supreendendo a promotoria. Participação especial: Fred Savage.</desc>
     <episode-num system="xmltv_ns">3.21.</episode-num>
@@ -4933,7 +4951,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20241024103200 -0300" stop="20241024112200 -0300" channel="TNT SERIES HD">
+  <programme start="20241024102200 -0300" stop="20241024111100 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <desc lang="pt"> - Ao perceber que Vera está desaparecido e chegou ao fundo do poço, a equipe torce para que o caso de um incêndio culposo em 2006, com o qual ele estava obcecado há anos, possa fornecer informações sobre seu paradeiro.</desc>
     <episode-num system="xmltv_ns">6.16.</episode-num>
@@ -4941,7 +4959,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20241024112200 -0300" stop="20241024120800 -0300" channel="TNT SERIES HD">
+  <programme start="20241024111100 -0300" stop="20241024115800 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <desc lang="pt"> - Primeira parte do episódio duplo. Exames de balística mostram conexão entre um caso de assassinato recente de Rush a um serial killer que parecia estar inativo há 27 anos.</desc>
     <episode-num system="xmltv_ns">6.17.</episode-num>
@@ -4949,7 +4967,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20241024120800 -0300" stop="20241024125900 -0300" channel="TNT SERIES HD">
+  <programme start="20241024115800 -0300" stop="20241024124900 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Closer</title>
     <desc lang="pt"> - Logo após que Brenda sofre um pequeno acidente de carro e sai rapidamente da cena para ir a uma locação aonde ocorreu um múltiplo assassinato, Pope decide tirar dela os privilégios para dirigir.</desc>
     <episode-num system="xmltv_ns">1.10.</episode-num>
@@ -4957,7 +4975,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20241024125900 -0300" stop="20241024135100 -0300" channel="TNT SERIES HD">
+  <programme start="20241024124900 -0300" stop="20241024134000 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Closer</title>
     <desc lang="pt"> - Brenda investiga a morte de um adolescente que foi testemunha de um homem condenado por assassinato e que não era realmente o culpado. A ex-esposa de Pope expõe a relação passada com Brenda.</desc>
     <episode-num system="xmltv_ns">1.11.</episode-num>
@@ -4965,7 +4983,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20241024135100 -0300" stop="20241024143600 -0300" channel="TNT SERIES HD">
+  <programme start="20241024134000 -0300" stop="20241024142800 -0300" channel="TNT SERIES HD">
     <title lang="pt">Major Crimes</title>
     <desc lang="pt"> - Após um ataque relacionado ao Estado Islâmico contra um militar, o FBI pede ajuda da Capitão Raydor para encontrar um terrorista.</desc>
     <episode-num system="xmltv_ns">4.2.</episode-num>
@@ -4973,7 +4991,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241024143600 -0300" stop="20241024152500 -0300" channel="TNT SERIES HD">
+  <programme start="20241024142800 -0300" stop="20241024151500 -0300" channel="TNT SERIES HD">
     <title lang="pt">Major Crimes</title>
     <desc lang="pt"> - Quando Flynn procura comprar uma nova casa e pede um conselho de Provenza e Buzz, uma inesperada reviravolta leva a uma nova investigação para a Divisão de Crimes Complexos.</desc>
     <episode-num system="xmltv_ns">4.3.</episode-num>
@@ -4981,7 +4999,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241024152500 -0300" stop="20241024161400 -0300" channel="TNT SERIES HD">
+  <programme start="20241024151500 -0300" stop="20241024160500 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <desc lang="pt"> - Em 2002, duas crianças são baleadas em frente a duas diferentes escolas, no mesmo dia, e precisamente as 8:03 AM.</desc>
     <episode-num system="xmltv_ns">3.13.</episode-num>
@@ -4989,7 +5007,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20241024161400 -0300" stop="20241024170400 -0300" channel="TNT SERIES HD">
+  <programme start="20241024160500 -0300" stop="20241024165500 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Sangue No Caminho</sub-title>
     <desc lang="pt"> - Quando rastros de explosivos são achados em uma casa, o time reabre um caso de 1981 onde um casal morreu na mesma casa e o caso foi dado como acidental.</desc>
@@ -4998,7 +5016,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20241024170400 -0300" stop="20241024175300 -0300" channel="TNT SERIES HD">
+  <programme start="20241024165500 -0300" stop="20241024174400 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt"> - Quando a equipe investiga a morte do filantropo Hector Brava, Patrick se junta novamente à paranormal Kristina Frye.</desc>
     <episode-num system="xmltv_ns">1.21.</episode-num>
@@ -5006,7 +5024,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20241024175300 -0300" stop="20241024183900 -0300" channel="TNT SERIES HD">
+  <programme start="20241024174400 -0300" stop="20241024183400 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt"> - Quando o CBI conduz uma investigação de assassinato cometido por alguém que copia Red John, Jane convence Hightower a não deixar Kristina Fryer ajudar no caso.</desc>
     <episode-num system="xmltv_ns">1.22.</episode-num>
@@ -5014,7 +5032,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20241024183900 -0300" stop="20241024192800 -0300" channel="TNT SERIES HD">
+  <programme start="20241024183400 -0300" stop="20241024192300 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Desesperado</sub-title>
     <desc lang="pt"> - Um jovem testemunha o abuso sexual brutal e o assassinato de sua mãe.</desc>
@@ -5023,7 +5041,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20241024192800 -0300" stop="20241024201200 -0300" channel="TNT SERIES HD">
+  <programme start="20241024192300 -0300" stop="20241024201000 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <desc lang="pt"> - Um homem acusado de estuprar várias mulheres decide ser ele mesmo seu advogado de defesa, supreendendo a promotoria. Participação especial: Fred Savage.</desc>
     <episode-num system="xmltv_ns">3.21.</episode-num>
@@ -5031,7 +5049,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20241024201200 -0300" stop="20241024215000 -0300" channel="TNT SERIES HD">
+  <programme start="20241024201000 -0300" stop="20241024210000 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <desc lang="pt"> - Uma jovem mãe que é uma imigrante chinesa desaparece e quando os detetives tentam encontrar ela, eles descobrem uma rede de prostituição mortífera de imigrantes ilegais.</desc>
     <episode-num system="xmltv_ns">5.2.</episode-num>
@@ -5039,7 +5057,15 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20241024215000 -0300" stop="20241024223600 -0300" channel="TNT SERIES HD">
+  <programme start="20241024210000 -0300" stop="20241024220900 -0300" channel="TNT SERIES HD">
+    <title lang="pt">Pinguim</title>
+    <desc lang="pt"> - Após a morte de Carmine Falcone, Oz tenta se legitimar no submundo do crime de Gotham.</desc>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+    <rating system="Brazil">
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20241024220900 -0300" stop="20241024230100 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <desc lang="pt"> - Ao perceber que Vera está desaparecido e chegou ao fundo do poço, a equipe torce para que o caso de um incêndio culposo em 2006, com o qual ele estava obcecado há anos, possa fornecer informações sobre seu paradeiro.</desc>
     <episode-num system="xmltv_ns">6.16.</episode-num>
@@ -5047,7 +5073,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20241024223600 -0300" stop="20241024232500 -0300" channel="TNT SERIES HD">
+  <programme start="20241024230100 -0300" stop="20241024235000 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <desc lang="pt"> - Primeira parte do episódio duplo. Exames de balística mostram conexão entre um caso de assassinato recente de Rush a um serial killer que parecia estar inativo há 27 anos.</desc>
     <episode-num system="xmltv_ns">6.17.</episode-num>
@@ -5055,7 +5081,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20241024232500 -0300" stop="20241025001100 -0300" channel="TNT SERIES HD">
+  <programme start="20241024235000 -0300" stop="20241025003900 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person Of Interest</title>
     <desc lang="pt"> - Reese posa como agente do Serviço Secreto para se aproximar de seu novo número: uma congressista norte-americana que pode interferir nos planos de Decima de ativar uma segunda Máquina.</desc>
     <episode-num system="xmltv_ns">2.19.</episode-num>
@@ -8423,7 +8449,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241024232500 -0300" stop="20241025001100 -0300" channel="TNT SERIES HD">
+  <programme start="20241024235000 -0300" stop="20241025003900 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person Of Interest</title>
     <desc lang="pt"> - Reese posa como agente do Serviço Secreto para se aproximar de seu novo número: uma congressista norte-americana que pode interferir nos planos de Decima de ativar uma segunda Máquina.</desc>
     <episode-num system="xmltv_ns">2.19.</episode-num>
@@ -19605,11 +19631,6 @@
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
-  <programme start="" stop="" channel="1765">
-    <title lang="pt">Iluminuras</title>
-    <desc lang="pt"> - </desc>
-    <category lang="en">variety show</category>
-  </programme>
   <programme start="" stop="" channel="1779">
     <title lang="pt">Tela Brasil</title>
     <desc lang="pt"> - </desc>
@@ -19800,11 +19821,6 @@
     <desc lang="pt"> - </desc>
     <category lang="en">movie/drama (general)</category>
   </programme>
-  <programme start="" stop="" channel="1779">
-    <title lang="pt">Tela Brasil: A Menina de 60</title>
-    <desc lang="pt"> - </desc>
-    <category lang="en">documentary</category>
-  </programme>
   <programme start="" stop="" channel="2302">
     <title lang="pt">Me conta Brasil</title>
     <desc lang="pt"> - </desc>
@@ -19962,11 +19978,6 @@
   </programme>
   <programme start="" stop="" channel="2302">
     <title lang="pt">Me conta Brasil</title>
-    <desc lang="pt"> - </desc>
-    <category lang="en">variety show</category>
-  </programme>
-  <programme start="" stop="" channel="2302">
-    <title lang="pt">Nossos Biomas</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
@@ -20282,37 +20293,37 @@
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20241023145013 -0300" stop="20241023170933 -0300" channel="sportv">
+  <programme start="20241023145013 -0300" stop="20241023170908 -0300" channel="sportv">
     <title lang="pt">Brasileirão Sub-17: Santos x Fluminense - ao vivo</title>
     <sub-title lang="pt">Semifinal - Jogo de Volta</sub-title>
     <desc lang="pt">Acompanhe as emoções do Campeonato Brasileiro de Futebol Sub-17! Venha testemunhar as estrelas que será o futuro do futebol. Aqui no sportv.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20241023170808 -0300" stop="20241023193822 -0300" channel="sportv">
+  <programme start="20241023170913 -0300" stop="20241023193225 -0300" channel="sportv">
     <title lang="pt">Copa do Brasil Sub-20: Flamengo x Goiás - ao vivo</title>
     <sub-title lang="pt">Oitavas de Final - Jogo de Volta</sub-title>
     <desc lang="pt">Confira mais um jogão da Copa do Brasil de Futebol Sub-20
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20241023193832 -0300" stop="20241023213051 -0300" channel="sportv">
+  <programme start="20241023193229 -0300" stop="20241023212448 -0300" channel="sportv">
     <title lang="pt">Tá Na Área - ao vivo</title>
     <desc lang="pt"> - Aproveite o finalzinho da tarde para relaxar e de maneira divertida fique por dentro de todos os assunto em alta do esporte com Camila Carelli e Thiago Benevenutte.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20241023213054 -0300" stop="20241023223301 -0300" channel="sportv">
+  <programme start="20241023212450 -0300" stop="20241023222657 -0300" channel="sportv">
     <title lang="pt">VT - Brasileirão: Fluminense x Athletico-PR</title>
     <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20241023223312 -0300" stop="20241023232959 -0300" channel="sportv">
+  <programme start="20241023222700 -0300" stop="20241023232527 -0300" channel="sportv">
     <title lang="pt">Giro da Rodada: Série A</title>
     <sub-title lang="pt">30ª Rodada</sub-title>
     <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol aqui o sportv!</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20241023233000 -0300" stop="20241024005959 -0300" channel="sportv">
+  <programme start="20241023232532 -0300" stop="20241024005111 -0300" channel="sportv">
     <title lang="pt">Troca de Passes - ao vivo</title>
     <desc lang="pt"> - Felipe Diniz troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada. Veja os melhores momentos, tire as dúvidas daquele lance polêmico  acompanhe a repercussão com jogadores e treinadores no calor do jogo. Aqui ninguém fica em cima do muro. 
 </desc>
@@ -20420,13 +20431,13 @@
     <category lang="en">team sports</category>
     <previously-shown />
   </programme>
-  <programme start="20241023181011 -0300" stop="20241023201450 -0300" channel="sportv-2">
+  <programme start="20241023181011 -0300" stop="20241023203538 -0300" channel="sportv-2">
     <title lang="pt">Superliga Masculina De Vôlei: Sesi-Bauru x Neurologia Ativa - ao vivo</title>
     <desc lang="pt">O maior campeonato do vôlei brasileiro tá de volta! É a Superliga, e é super do seu jeito. As emoções de uma das ligas mais disputada do vôlei mundial, você assiste só aqui no sportv.
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20241023201452 -0300" stop="20241023204736 -0300" channel="sportv-2">
+  <programme start="20241023203541 -0300" stop="20241023210825 -0300" channel="sportv-2">
     <title lang="pt">Sem Bloqueio</title>
     <desc lang="pt"> - Ano olímpico. Vamos a Turquia, onde Zé Roberto treina 3 das nossas atletas. Macris, com hérnia, luta contra o tempo.  No Fenerbahçe, Ana Cristina segue em recuperação. No Rio, inicia a VNL. O palco é o Maracanãzinho.</desc>
     <category lang="en">sports (general)</category>
@@ -20435,21 +20446,15 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241023204738 -0300" stop="20241023225302 -0300" channel="sportv-2">
+  <programme start="20241023210826 -0300" stop="20241023231350 -0300" channel="sportv-2">
     <title lang="pt">Superliga Masculina De Vôlei: São José x Minas - ao vivo</title>
     <desc lang="pt">O maior campeonato do vôlei brasileiro tá de volta! É a Superliga, e é super do seu jeito. As emoções de uma das ligas mais disputada do vôlei mundial, você assiste só aqui no sportv.
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20241023225304 -0300" stop="20241023235402 -0300" channel="sportv-2">
+  <programme start="20241023231352 -0300" stop="20241024001450 -0300" channel="sportv-2">
     <title lang="pt">Hello LA</title>
     <desc lang="pt"> - Acompanhe como está indo os Jogos de Los Angeles em 2028. toda semana, o programa traz entrevistas, atualidades, termômetro de competições e informações do mundo Olímpico.</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20241023235405 -0300" stop="20241024010158 -0300" channel="sportv-2">
-    <title lang="pt">Superliga Masculina De Vôlei: Guarulhos x Blumenau</title>
-    <desc lang="pt">O maior campeonato do vôlei brasileiro tá de volta! É a Superliga, e é super do seu jeito. As emoções de uma das ligas mais disputada do vôlei mundial, você assiste só aqui no sportv.
-</desc>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20241022234254 -0300" stop="20241023011245 -0300" channel="sportv-3">
@@ -20523,30 +20528,35 @@
     <desc lang="pt">PFL é a liga esportiva mais inovadora e de crescimento mais rápido. A PFL é a única com o formato de temporada esportiva em que lutadores individuais competem na Temporada Regular, Playoffs e Campeonato pelo prêmio de 1 milhão de dólares. Grandes nomes de atletas brasileiros como: Larissa Pacheco, Natan Schulte, Renan Ferreira, Raush Manfio e muitos outros.</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20241023113248 -0300" stop="20241023153107 -0300" channel="sportv-3">
+  <programme start="20241023113248 -0300" stop="20241023140355 -0300" channel="sportv-3">
     <title lang="pt">Faixa Combate: Boxe [Top Rank] - Ryan Vs Mayer</title>
     <desc lang="pt">Top Rank, é uma das maiores promotora de lutas de boxe do mundo. Fundada em 1973, e por quase meio século, promove as lutas mais importantes de algumas lendas do boxe, como Muhammad Ali, Sugar Ray Leonard, Oscar de La Hoya, Floyd Mayweather, Tyson Fury e Manny Pacquiao.
 A top rank conta com a participação de grandes nobres da nobre arte da atualidade, entre eles os brasileiros e medalhistas olímpicos Robson Conceição e Esquiva Falcão.
 </desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20241023153108 -0300" stop="20241023165001 -0300" channel="sportv-3">
+  <programme start="20241023140358 -0300" stop="20241023165000 -0300" channel="sportv-3">
     <title lang="pt">Faixa Combate: FMS 5: Popó x El Chino</title>
     <desc lang="pt">A organização possui destaque no cenário mundial das lutas ao promover duelo de boxe entre influenciadores, com grandes shows de música no evento. Grandes nomes já passaram no evento como o influenciador digital Whindersson Nunes e o tetracampeão mundial de boxe Acelino “Popó” Freitas.</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20241023165003 -0300" stop="20241023185417 -0300" channel="sportv-3">
+  <programme start="20241023165003 -0300" stop="20241023185923 -0300" channel="sportv-3">
     <title lang="pt">Copa do Mundo Feminina Sub-17 FIFA: Polônia x Brasil - ao vivo</title>
     <desc lang="pt">Assista a copa do mundo sub -17 o futuro do futebol, todos os detalhes dos jogos aqui no sportv.
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20241023185420 -0300" stop="20241023211954 -0300" channel="sportv-3">
+  <programme start="20241023190333 -0300" stop="20241023212907 -0300" channel="sportv-3">
     <title lang="pt">Brasileirão Série B: Paysandu x Coritiba - ao vivo</title>
     <desc lang="pt">Confira mais um jogão do Brasileirão Masculino Série B! Tem coisa pra caramba!</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20241023211956 -0300" stop="20241024000510 -0300" channel="sportv-3">
+  <programme start="20241023212910 -0300" stop="20241024001424 -0300" channel="sportv-3">
+    <title lang="pt">Faixa Combate: FMS 5: Popó x El Chino</title>
+    <desc lang="pt">A organização possui destaque no cenário mundial das lutas ao promover duelo de boxe entre influenciadores, com grandes shows de música no evento. Grandes nomes já passaram no evento como o influenciador digital Whindersson Nunes e o tetracampeão mundial de boxe Acelino “Popó” Freitas.</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20241023212910 -0300" stop="20241024001424 -0300" channel="sportv-3">
     <title lang="pt">Faixa Combate: FMS 5: Popó x El Chino</title>
     <desc lang="pt">A organização possui destaque no cenário mundial das lutas ao promover duelo de boxe entre influenciadores, com grandes shows de música no evento. Grandes nomes já passaram no evento como o influenciador digital Whindersson Nunes e o tetracampeão mundial de boxe Acelino “Popó” Freitas.</desc>
     <category lang="en">sports (general)</category>
@@ -20899,7 +20909,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241023170614 -0300" stop="20241023175322 -0300" channel="multishow">
+  <programme start="20241023170614 -0300" stop="20241023175321 -0300" channel="multishow">
     <title lang="pt">Vai que Cola</title>
     <sub-title lang="pt">Juninho Play Volta Outra Vez</sub-title>
     <desc lang="pt"> - Juninho Play está de volta e agora quer transformar o ponto da pensão em uma academia de cross training. Só que, para isso, ele vai suar para conseguir a grana dos investidores!</desc>
@@ -20947,7 +20957,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241023181430 -0300" stop="20241023182145 -0300" channel="multishow">
+  <programme start="20241023181430 -0300" stop="20241023182144 -0300" channel="multishow">
     <title lang="pt">TVZ</title>
     <sub-title lang="pt">Ana Castela - Solteiro Forçado</sub-title>
     <desc lang="pt"> - ANA CASTELA - SOLTEIRO FORÇADO (AGROPLAY)</desc>
@@ -21036,7 +21046,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241023220421 -0300" stop="20241023224559 -0300" channel="multishow">
+  <programme start="20241023220421 -0300" stop="20241023224540 -0300" channel="multishow">
     <title lang="pt">Vai que Cola</title>
     <sub-title lang="pt">Quem Vai Ficar Com Jéssi?</sub-title>
     <desc lang="pt"> - Jéssica não se lembra do aniversário de namoro com Lindomar. Ao descobrir, tenta preparar uma surpresa, mas o boy está frio e distante. Será que falta apimentar a relação?</desc>
@@ -21044,7 +21054,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241023224600 -0300" stop="20241023233459 -0300" channel="multishow">
+  <programme start="20241023224542 -0300" stop="20241023233844 -0300" channel="multishow">
     <title lang="pt">Lady Night - Com Tatá Werneck</title>
     <sub-title lang="pt">Leandro Lima</sub-title>
     <desc lang="pt"> - No Lady Night de hoje, Tatá Werneck recebe Leandro Lima para uma entrevista divertida e cheia de improvisos. Entre risos e jogos, o convidado se revela em um papo imperdível!</desc>
@@ -21052,7 +21062,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20241023233500 -0300" stop="20241024002459 -0300" channel="multishow">
+  <programme start="20241023233847 -0300" stop="20241024002845 -0300" channel="multishow">
     <title lang="pt">Sorte Ou Golpe</title>
     <desc lang="pt"> - Sophia permanece dividida no triângulo amoroso com Casey e Drew. Um jogo explosivo provoca intriga entre John e Rudi. Ao fim do episódio, uma eliminação com consequências chocantes</desc>
     <episode-num system="xmltv_ns">.7.</episode-num>
@@ -21324,7 +21334,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241023223950 -0300" stop="20241023234459 -0300" channel="gnt">
+  <programme start="20241023223950 -0300" stop="20241023234533 -0300" channel="gnt">
     <title lang="pt">Saia Justa</title>
     <sub-title lang="pt">Aô, Sofrência/ Vaidade Precoce/ Mentirinhas &amp; Mentironas</sub-title>
     <desc lang="pt"> - Com Deborah Secco, falamos sobre sofrência nos relacionamentos. Quando a vaidade precoce pode ser um problema e mentira, das pequenas e das grandes, você já contou ou já foi pega?</desc>
@@ -21332,7 +21342,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20241023234500 -0300" stop="20241024002359 -0300" channel="gnt">
+  <programme start="20241023234537 -0300" stop="20241024002104 -0300" channel="gnt">
     <title lang="pt">Conversa Com Bial</title>
     <desc lang="pt"> - Com experiência de décadas de reportagem e o espírito curioso pela história do outro, Pedro Bial apresenta um amplo espaço para escutar, opinar e multiplicar opiniões.</desc>
     <rating system="Brazil">
@@ -21545,7 +21555,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20241023172047 -0300" stop="20241023180344 -0300" channel="viva">
+  <programme start="20241023172047 -0300" stop="20241023180345 -0300" channel="viva">
     <title lang="pt">Pé Na Cova</title>
     <sub-title lang="pt">A Beleza Está Nos Olhos de Quem Vê</sub-title>
     <desc lang="pt"> - Os Pereira, excêntrica família do subúrbio carioca, ganha seu sustento com a morte dos outros. Donos da Funerária Unidos do Irajá, conhecida como F.U.I, eles lidam com as mazelas da vida com humor.</desc>
@@ -21561,7 +21571,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241023183445 -0300" stop="20241023190441 -0300" channel="viva">
+  <programme start="20241023183445 -0300" stop="20241023190442 -0300" channel="viva">
     <title lang="pt">Escolinha do Professor Raimundo</title>
     <desc lang="pt"> - Chico Anysio comanda uma turma da pesada que apronta altas confusões na Escolinha do Professor Raimundo. Em matéria de humor, eles são nota dez.</desc>
     <episode-num system="xmltv_ns">.105.</episode-num>
@@ -21617,14 +21627,14 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241023225833 -0300" stop="20241023234208 -0300" channel="viva">
+  <programme start="20241023225833 -0300" stop="20241023235642 -0300" channel="viva">
     <title lang="pt">Viver A Vida</title>
     <desc lang="pt"> - Marcos pensa em Dora. Paixão visita Luciana. Helena chega em Búzios. Dora confirma a gravidez. Sandrinha planeja voltar ao Rio. Tereza se preocupa com o futuro de Luciana.</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241023235700 -0300" stop="20241024004159 -0300" channel="viva">
+  <programme start="20241023235647 -0300" stop="20241024004445 -0300" channel="viva">
     <title lang="pt">Cobras &amp; Lagartos</title>
     <sub-title lang="pt">Cobras E Lagartos</sub-title>
     <desc lang="pt"> - Estevão ameaça Leona. Téo joga pó de mico nas roupas de Ellen. Eva aceita abrigar Serafim e prepara armadilha. Bel e Estevão flagram Leona e Duda aos beijos.</desc>
@@ -21764,7 +21774,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20241023161531 -0300" stop="20241023174404 -0300" channel="canal-brasil">
+  <programme start="20241023161531 -0300" stop="20241023174449 -0300" channel="canal-brasil">
     <title lang="pt">Madalena</title>
     <desc lang="pt"> - Quando o corpo de Madalena, uma mulher trans, é encontrado em uma plantação de soja, três jovens têm suas vidas conectadas pelo espírito da moça.</desc>
     <rating system="Brazil">
@@ -22146,7 +22156,7 @@ o majestoso El Capitan e outras montanhas desafiadoras da região.</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241023220316 -0300" stop="20241023225959 -0300" channel="canal-off">
+  <programme start="20241023220316 -0300" stop="20241023230059 -0300" channel="canal-off">
     <title lang="pt">The Water Guardians</title>
     <desc lang="pt"> - Essenciais para a vida na Terra os oceanos estão ameaçados e precisam ser protegidos contra poluição, pesca predatória, manipulação de petróleo.</desc>
     <episode-num system="xmltv_ns">.0.</episode-num>
@@ -22154,7 +22164,7 @@ o majestoso El Capitan e outras montanhas desafiadoras da região.</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241023230000 -0300" stop="20241023234459 -0300" channel="canal-off">
+  <programme start="20241023230101 -0300" stop="20241023234605 -0300" channel="canal-off">
     <title lang="pt">Voices Of Earth</title>
     <sub-title lang="pt">Moçambique</sub-title>
     <desc lang="pt"> - O povo Toda protegeu as colmeias selvagens da abelha Apis Cerana durante séculos. Do outro lado do oceano, o povo Yao de Moçambique segue o voo da grande ave-guia em busca de mel.</desc>
@@ -22162,7 +22172,7 @@ o majestoso El Capitan e outras montanhas desafiadoras da região.</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241023234500 -0300" stop="20241023235959 -0300" channel="canal-off">
+  <programme start="20241023234608 -0300" stop="20241024000213 -0300" channel="canal-off">
     <title lang="pt">Curtas Do Off</title>
     <sub-title lang="pt">La Familia Muniz</sub-title>
     <desc lang="pt"> - O surfista Alejo Muniz nos convida a conhecer a família Muniz, desenhando toda a história dos seus pais que vieram da Argentina, apaixonados pelo surfe e foram parar em Bombinhas em Santa Catarina.</desc>
@@ -22286,7 +22296,7 @@ Conta a vida de Bob Dylan, desde suas primeiras aparições até sua tumultuada 
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241023172403 -0300" stop="20241023175603 -0300" channel="bis">
+  <programme start="20241023172403 -0300" stop="20241023175601 -0300" channel="bis">
     <title lang="pt">Melhores Momentos Tomorrowland.</title>
     <sub-title lang="pt">B Jones</sub-title>
     <desc lang="pt"> - O Tomorrowland Brasil está de volta e o Multishow e o Globoplay transmitem o melhor do festival nos dias 11, 12 e 13 de outubro, diretamente de Itu, São Paulo</desc>
@@ -22518,7 +22528,7 @@ Conta a vida de Bob Dylan, desde suas primeiras aparições até sua tumultuada 
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241023220208 -0300" stop="20241023235359 -0300" channel="bis">
+  <programme start="20241023220208 -0300" stop="20241023235357 -0300" channel="bis">
     <title lang="pt">The Rolling Stones - Havana Moon</title>
     <sub-title lang="pt">Palco Principal</sub-title>
     <desc lang="pt"> - Show histórico dos Rolling Stones em Havana em março de 2016, o primeiro de uma banda de rock britânica a céu aberto em Cuba, com setlist que incluiu os maiores sucessos de uma carreira de mais de cinquenta anos. Dirigido pelo ganhador do Grammy Paul Dugdale.</desc>
@@ -22945,7 +22955,7 @@ Conta a vida de Bob Dylan, desde suas primeiras aparições até sua tumultuada 
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241023233034 -0300" stop="20241023234941 -0300" channel="modo-viagem">
+  <programme start="20241023233034 -0300" stop="20241023235926 -0300" channel="modo-viagem">
     <title lang="pt">Sem Bagagem</title>
     <sub-title lang="pt">Etiópia - Conheça os Hamares</sub-title>
     <desc lang="pt"> - Sem Bagagem passa um dia com a tribo Hamares, na Etiópia, e documenta seu estilo de vida tradicional.</desc>
@@ -23528,7 +23538,7 @@ Conta a vida de Bob Dylan, desde suas primeiras aparições até sua tumultuada 
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20241023163019 -0300" stop="20241023173134 -0300" channel="premiere">
+  <programme start="20241023163019 -0300" stop="20241023173131 -0300" channel="premiere">
     <title lang="pt">VT - Copa do Brasil: Corinthians x Flamengo</title>
     <sub-title lang="pt">Semifinal - Jogo de Volta</sub-title>
     <desc lang="pt">A temporada 2024 da Copa do Brasil veio ai e já tá entregando tudo! E no sportv você acompanha a emoção da aqui, os jogaços e as grandes zebras e a grande expectativa pra saber quem vai ser o grande campeão do Brasil!</desc>
@@ -23541,18 +23551,23 @@ Conta a vida de Bob Dylan, desde suas primeiras aparições até sua tumultuada 
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20241023184500 -0300" stop="20241023215253 -0300" channel="premiere">
+  <programme start="20241023184500 -0300" stop="20241023215352 -0300" channel="premiere">
     <title lang="pt">Brasileirão Série B: Ponte Preta x Brusque - ao vivo</title>
     <desc lang="pt">Confira mais um jogão do Brasileirão Masculino Série B! Tem coisa pra caramba!</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20241023215256 -0300" stop="20241024001000 -0300" channel="premiere">
+  <programme start="20241023215356 -0300" stop="20241024001100 -0300" channel="premiere">
     <title lang="pt">Brasileirão Série B: Operário-PR x América-MG - ao vivo</title>
     <desc lang="pt">Confira mais um jogão do Brasileirão Masculino Série B! Tem coisa pra caramba!</desc>
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20241023190000 -0300" stop="20241023212959 -0300" channel="premiere-2">
     <title lang="pt">Brasileirão Série B: Paysandu x Coritiba - ao vivo</title>
+    <desc lang="pt">Confira mais um jogão do Brasileirão Masculino Série B! Tem coisa pra caramba!</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20241023194500 -0300" stop="20241023215959 -0300" channel="premiere-3">
+    <title lang="pt">Brasileirão Série B: Botafogo-SP x Ituano - ao vivo</title>
     <desc lang="pt">Confira mais um jogão do Brasileirão Masculino Série B! Tem coisa pra caramba!</desc>
     <category lang="en">live broadcast</category>
   </programme>
@@ -23632,13 +23647,13 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
     <desc lang="pt">Top Nocautes Brasileiros No Bellator</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20241023200301 -0300" stop="20241023225959 -0300" channel="combate">
+  <programme start="20241023200301 -0300" stop="20241023230013 -0300" channel="combate">
     <title lang="pt">VT - Glory 96</title>
     <desc lang="pt"> - GLORY é líder global em Kickboxing no mundo, é lar dos mais talentosos lutadores mundiais da modalidade.</desc>
     <category lang="en">sports (general)</category>
     <previously-shown />
   </programme>
-  <programme start="20241023230000 -0300" stop="20241024013459 -0300" channel="combate">
+  <programme start="20241023230016 -0300" stop="20241024013459 -0300" channel="combate">
     <title lang="pt">VT - Ksw 99</title>
     <desc lang="pt"> - É a principal organização de artes marciais mistas da Polônia e uma das ligas líderes na Europa.</desc>
     <category lang="en">sports (general)</category>
@@ -23871,20 +23886,20 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
     <desc lang="pt"> - A Central das Eleições traz todos os fatos que movimentaram a política, com informação, bastidores e o melhor time da análise.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20241023233233 -0300" stop="20241024005959 -0300" channel="sportv">
+  <programme start="20241023232532 -0300" stop="20241024005336 -0300" channel="sportv">
     <title lang="pt">Troca de Passes - ao vivo</title>
     <desc lang="pt"> - Felipe Diniz troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada. Veja os melhores momentos, tire as dúvidas daquele lance polêmico  acompanhe a repercussão com jogadores e treinadores no calor do jogo. Aqui ninguém fica em cima do muro. 
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20241024010000 -0300" stop="20241024015959 -0300" channel="sportv">
+  <programme start="20241024005339 -0300" stop="20241024015427 -0300" channel="sportv">
     <title lang="pt">VT - Copa do Brasil: Corinthians x Flamengo</title>
     <sub-title lang="pt">Semifinal - Jogo de Volta</sub-title>
     <desc lang="pt">A temporada 2024 da Copa do Brasil veio ai e já tá entregando tudo! E no sportv você acompanha a emoção da aqui, os jogaços e as grandes zebras e a grande expectativa pra saber quem vai ser o grande campeão do Brasil!</desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20241024020000 -0300" stop="20241024025959 -0300" channel="sportv">
+  <programme start="20241024015429 -0300" stop="20241024025142 -0300" channel="sportv">
     <title lang="pt">VT - Brasileirão: Juventude x Palmeiras</title>
     <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário! Tá no Brasileirão, tá no sportv.</desc>
     <category lang="en">football/soccer</category>
@@ -24009,13 +24024,18 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20241023235405 -0300" stop="20241024010158 -0300" channel="sportv-2">
+  <programme start="20241023231352 -0300" stop="20241024001450 -0300" channel="sportv-2">
+    <title lang="pt">Hello LA</title>
+    <desc lang="pt"> - Acompanhe como está indo os Jogos de Los Angeles em 2028. toda semana, o programa traz entrevistas, atualidades, termômetro de competições e informações do mundo Olímpico.</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20241024001453 -0300" stop="20241024023506 -0300" channel="sportv-2">
     <title lang="pt">Superliga Masculina De Vôlei: Guarulhos x Blumenau</title>
     <desc lang="pt">O maior campeonato do vôlei brasileiro tá de volta! É a Superliga, e é super do seu jeito. As emoções de uma das ligas mais disputada do vôlei mundial, você assiste só aqui no sportv.
 </desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20241024023000 -0300" stop="20241024042959 -0300" channel="sportv-2">
+  <programme start="20241024023510 -0300" stop="20241024042959 -0300" channel="sportv-2">
     <title lang="pt">VT - Superliga Feminina: Praia Clube x Brusque</title>
     <desc lang="pt">O sportv é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa, tá no sportv! 
 </desc>
@@ -24101,12 +24121,12 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
     <desc lang="pt"> - Acompanhe como está indo os Jogos de Los Angeles em 2028. toda semana, o programa traz entrevistas, atualidades, termômetro de competições e informações do mundo Olímpico.</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20241023211956 -0300" stop="20241024000510 -0300" channel="sportv-3">
+  <programme start="20241023214847 -0300" stop="20241024003401 -0300" channel="sportv-3">
     <title lang="pt">Faixa Combate: FMS 5: Popó x El Chino</title>
     <desc lang="pt">A organização possui destaque no cenário mundial das lutas ao promover duelo de boxe entre influenciadores, com grandes shows de música no evento. Grandes nomes já passaram no evento como o influenciador digital Whindersson Nunes e o tetracampeão mundial de boxe Acelino “Popó” Freitas.</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20241024000513 -0300" stop="20241024033106 -0300" channel="sportv-3">
+  <programme start="20241024003404 -0300" stop="20241024040002 -0300" channel="sportv-3">
     <title lang="pt">Jungle Fight 131 World League: Jungle Fight 131</title>
     <desc lang="pt">É o maior campeonato de MMA da América latina, reunindo mais de 600 atletas em sete categorias de peso em lutas realizadas Brasil a fora. 
 O Jungle já revelou grandes campeões como: Rogério Minotouro, José Aldo, Fabrício Werdum, entre muitos outros.
@@ -24114,7 +24134,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
 </desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20241024033000 -0300" stop="20241024035959 -0300" channel="sportv-3">
+  <programme start="20241024040005 -0300" stop="20241024043005 -0300" channel="sportv-3">
     <title lang="pt">Mulheres Na Luta –</title>
     <desc lang="pt"> - A segunda temporada da Série já consagrada na grade de programação do canal Combate, “Mulheres na Luta” está de volta. A obra seriada documental seguirá mostrando o dia a dia das lutadoras quando não estão pisando no octógono. A relação com a família, amigos, a rotina de treinos, os momentos de descontração e o tempo que passam na estrada, além dos camps.</desc>
     <category lang="en">sports (general)</category>
@@ -24123,7 +24143,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20241024040000 -0300" stop="20241024042959 -0300" channel="sportv-3">
+  <programme start="20241024043007 -0300" stop="20241024050110 -0300" channel="sportv-3">
     <title lang="pt">Mulheres Na Luta –</title>
     <desc lang="pt"> - A segunda temporada da Série já consagrada na grade de programação do canal Combate, “Mulheres na Luta” está de volta. A obra seriada documental seguirá mostrando o dia a dia das lutadoras quando não estão pisando no octógono. A relação com a família, amigos, a rotina de treinos, os momentos de descontração e o tempo que passam na estrada, além dos camps.</desc>
     <category lang="en">sports (general)</category>
@@ -24132,7 +24152,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20241024043000 -0300" stop="20241024045959 -0300" channel="sportv-3">
+  <programme start="20241024050112 -0300" stop="20241024053225 -0300" channel="sportv-3">
     <title lang="pt">Mulheres Na Luta –</title>
     <desc lang="pt"> - A segunda temporada da Série já consagrada na grade de programação do canal Combate, “Mulheres na Luta” está de volta. A obra seriada documental seguirá mostrando o dia a dia das lutadoras quando não estão pisando no octógono. A relação com a família, amigos, a rotina de treinos, os momentos de descontração e o tempo que passam na estrada, além dos camps.</desc>
     <category lang="en">sports (general)</category>
@@ -24141,7 +24161,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20241024050000 -0300" stop="20241024072459 -0300" channel="sportv-3">
+  <programme start="20241024053228 -0300" stop="20241024072459 -0300" channel="sportv-3">
     <title lang="pt">Faixa Combate: Boxe [Top Rank] - Ryan Vs Mayer</title>
     <desc lang="pt">Top Rank, é uma das maiores promotora de lutas de boxe do mundo. Fundada em 1973, e por quase meio século, promove as lutas mais importantes de algumas lendas do boxe, como Muhammad Ali, Sugar Ray Leonard, Oscar de La Hoya, Floyd Mayweather, Tyson Fury e Manny Pacquiao.
 A top rank conta com a participação de grandes nobres da nobre arte da atualidade, entre eles os brasileiros e medalhistas olímpicos Robson Conceição e Esquiva Falcão.
@@ -24648,14 +24668,14 @@ evitar que Doutor Satamini descubra seu segredo.</desc>
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20241023234500 -0300" stop="20241024002359 -0300" channel="gnt">
+  <programme start="20241023234537 -0300" stop="20241024002104 -0300" channel="gnt">
     <title lang="pt">Conversa Com Bial</title>
     <desc lang="pt"> - Com experiência de décadas de reportagem e o espírito curioso pela história do outro, Pedro Bial apresenta um amplo espaço para escutar, opinar e multiplicar opiniões.</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241024002500 -0300" stop="20241024011459 -0300" channel="gnt">
+  <programme start="20241024002106 -0300" stop="20241024011125 -0300" channel="gnt">
     <title lang="pt">Mãe</title>
     <desc lang="pt"> - Zeynep é uma jovem professora substituta que, ao saber que uma de suas alunas de apenas sete anos, Melek, sofre de maus tratos por parte de sua família, toma a decisão de cria-la e começar uma nova vida com a menina, tornando-se sua mãe substituta.</desc>
     <episode-num system="xmltv_ns">.12.</episode-num>
@@ -24663,7 +24683,7 @@ evitar que Doutor Satamini descubra seu segredo.</desc>
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20241024011500 -0300" stop="20241024021759 -0300" channel="gnt">
+  <programme start="20241024011128 -0300" stop="20241024014021 -0300" channel="gnt">
     <title lang="pt">Que História É Essa, Porchat?</title>
     <sub-title lang="pt">Rodrigo Simas, Sonia Bridi e Estevam Nabote</sub-title>
     <desc lang="pt"> - Rodrigo Simas, Sônia Bridi e Estevam Nabote contam suas histórias para Porchat. Na plateia, a luta pela vida de um lagarto e a busca pela vitória em um concurso de igreja que passa por um cemitério
@@ -24897,7 +24917,7 @@ evitar que Doutor Satamini descubra seu segredo.</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241023235700 -0300" stop="20241024004159 -0300" channel="viva">
+  <programme start="20241023235647 -0300" stop="20241024004445 -0300" channel="viva">
     <title lang="pt">Cobras &amp; Lagartos</title>
     <sub-title lang="pt">Cobras E Lagartos</sub-title>
     <desc lang="pt"> - Estevão ameaça Leona. Téo joga pó de mico nas roupas de Ellen. Eva aceita abrigar Serafim e prepara armadilha. Bel e Estevão flagram Leona e Duda aos beijos.</desc>
@@ -24905,7 +24925,7 @@ evitar que Doutor Satamini descubra seu segredo.</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241024004500 -0300" stop="20241024012959 -0300" channel="viva">
+  <programme start="20241024004449 -0300" stop="20241024012004 -0300" channel="viva">
     <title lang="pt">Corpo A Corpo</title>
     <desc lang="pt"> - Orlando se declara para Sônia. Eloá encoraja Osmar a encontrar um novo sócio. Rafael pede Ângela em casamento. Virgínia conta para Lúcia sobre a situação financeira de Cláudio</desc>
     <rating system="Brazil">
@@ -25181,7 +25201,7 @@ evitar que Doutor Satamini descubra seu segredo.</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241023233000 -0300" stop="20241024011759 -0300" channel="canal-brasil">
+  <programme start="20241023233204 -0300" stop="20241024011959 -0300" channel="canal-brasil">
     <title lang="pt">Sessão Especial Trilogia Da Terra</title>
     <sub-title lang="pt">Terra Em Transe</sub-title>
     <desc lang="pt"> - País fictício da América Latina, Eldorado é palco de uma convulsão interna desencadeada pela luta em busca do poder. No centro dos acontecimentos, está o cínico jornalista Paulo Martins.</desc>
@@ -25326,7 +25346,15 @@ evitar que Doutor Satamini descubra seu segredo.</desc>
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20241024000000 -0300" stop="20241024013059 -0300" channel="canal-off">
+  <programme start="20241023234608 -0300" stop="20241024000213 -0300" channel="canal-off">
+    <title lang="pt">Curtas Do Off</title>
+    <sub-title lang="pt">La Familia Muniz</sub-title>
+    <desc lang="pt"> - O surfista Alejo Muniz nos convida a conhecer a família Muniz, desenhando toda a história dos seus pais que vieram da Argentina, apaixonados pelo surfe e foram parar em Bombinhas em Santa Catarina.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20241024000214 -0300" stop="20241024013059 -0300" channel="canal-off">
     <title lang="pt">Off Docs</title>
     <sub-title lang="pt">We Are Blood</sub-title>
     <desc lang="pt"> - Uma viagem pelo mundo com alguns dos melhores skatistas da atualidade liderados por Paul Rodriguez, uma celebridade no mundo das quatro rodinhas. Um show de imagens inusitadas e incríveis. 
@@ -26930,25 +26958,25 @@ Conta a vida de Bob Dylan, desde suas primeiras aparições até sua tumultuada 
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20241023215256 -0300" stop="20241024001000 -0300" channel="premiere">
+  <programme start="20241023215356 -0300" stop="20241024001100 -0300" channel="premiere">
     <title lang="pt">Brasileirão Série B: Operário-PR x América-MG - ao vivo</title>
     <desc lang="pt">Confira mais um jogão do Brasileirão Masculino Série B! Tem coisa pra caramba!</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20241024001002 -0300" stop="20241024010708 -0300" channel="premiere">
+  <programme start="20241024001102 -0300" stop="20241024010808 -0300" channel="premiere">
     <title lang="pt">VT - Copa do Brasil: Vasco x Atlético-MG</title>
     <sub-title lang="pt">Semifinal - Jogo de Volta</sub-title>
     <desc lang="pt">A temporada 2024 da Copa do Brasil veio ai e já tá entregando tudo! E no sportv você acompanha a emoção da aqui, os jogaços e as grandes zebras e a grande expectativa pra saber quem vai ser o grande campeão do Brasil!</desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20241024010711 -0300" stop="20241024012959 -0300" channel="premiere">
+  <programme start="20241024010811 -0300" stop="20241024020839 -0300" channel="premiere">
     <title lang="pt">VT - Brasileirão: Juventude x Palmeiras</title>
     <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário! Tá no Brasileirão, tá no sportv.</desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20241024013000 -0300" stop="20241024022959 -0300" channel="premiere">
+  <programme start="20241024020841 -0300" stop="20241024022959 -0300" channel="premiere">
     <title lang="pt">VT - Brasileirão: Vitória x Bragantino</title>
     <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário! Tá no Brasileirão, tá no sportv.</desc>
     <category lang="en">football/soccer</category>
@@ -27082,24 +27110,24 @@ Conta a vida de Bob Dylan, desde suas primeiras aparições até sua tumultuada 
     <desc lang="pt">Confira mais um jogão do Brasileirão Masculino Série B! Tem coisa pra caramba!</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20241023230016 -0300" stop="20241024013630 -0300" channel="combate">
+  <programme start="20241023230016 -0300" stop="20241024013459 -0300" channel="combate">
     <title lang="pt">VT - Ksw 99</title>
     <desc lang="pt"> - É a principal organização de artes marciais mistas da Polônia e uma das ligas líderes na Europa.</desc>
     <category lang="en">sports (general)</category>
     <previously-shown />
   </programme>
-  <programme start="20241024013633 -0300" stop="20241024020227 -0300" channel="combate">
+  <programme start="20241024013500 -0300" stop="20241024015959 -0300" channel="combate">
     <title lang="pt">Galeria Combate: Baú Do Combate: Allycia Hellen</title>
     <desc lang="pt">Baú Do Combate: Allycia Hellen</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20241024020230 -0300" stop="20241024044459 -0300" channel="combate">
+  <programme start="20241024020000 -0300" stop="20241024044459 -0300" channel="combate">
     <title lang="pt">VT - Fms 5: Popó x El Chino</title>
     <desc lang="pt">A organização possui destaque no cenário mundial das lutas ao promover duelo de boxe entre influenciadores, com grandes shows de música no evento. Grandes nomes já passaram no evento como o influenciador digital Whindersson Nunes e o tetracampeão mundial de boxe Acelino “Popó” Freitas.</desc>
     <category lang="en">sports (general)</category>
     <previously-shown />
   </programme>
-  <programme start="20241024044501 -0300" stop="20241024073459 -0300" channel="combate">
+  <programme start="20241024044500 -0300" stop="20241024073459 -0300" channel="combate">
     <title lang="pt">VT - One Friday Fights 83</title>
     <desc lang="pt"> - Terceira maior franquia de MMA mundial e a principal da Ásia, presente em mais de 170 países, o One é a liga esportiva de diferentes modalidades além do MMA como: Grappling, Muay Thai, Kickboxing. Nomes de atletas brasileiros: Fabrício Andrade, Marcus Buchecha, Allycia Hellen Rodrigues, André Galvão, e muitos outros.</desc>
     <category lang="en">sports (general)</category>
@@ -33854,6 +33882,11 @@ Club.</desc>
     <category lang="en">sports (general)</category>
     <date>10/10/2012</date>
   </programme>
+  <programme start="20241026183000 -0300" stop="20241026212959 -0300" channel="premiere-3">
+    <title lang="pt">Charla No Premiere: Brasileirão - Atlético-MG x Internacional - ao vivo</title>
+    <desc lang="pt">O Premiere traz a transmissão mais humorada da internet brasileira, Bruno Cantarelli e Beto Junior assumem o controle de mais um jogão.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
   <programme start="20241025235500 -0300" stop="20241026025459 -0300" channel="combate">
     <title lang="pt">VT - Pfl Super Fights Championship</title>
     <desc lang="pt"> - PFL é a liga esportiva mais inovadora e de crescimento mais rápido. A PFL é a única com o formato de temporada esportiva em que lutadores individuais competem na Temporada Regular, Playoffs e Campeonato pelo prêmio de 1 milhão de dólares. Grandes nomes de atletas brasileiros como: Larissa Pacheco, Natan Schulte, Renan Ferreira, Raush Manfio e muitos outros.</desc>
@@ -37871,18 +37904,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
     <desc lang="pt"> - Acompanhe as principais notícias do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
-  <programme start="20241023175449 -0300" stop="20241023181113 -0300" channel="Silvio Santos">
-    <title lang="pt">Show do Milhão</title>
-    <sub-title lang="pt">realizado em 28/11/1999</sub-title>
-    <desc lang="pt">Silvio Santos convida participantes para testarem seus conhecimentos valendo um milhão de reais.</desc>
-    <category lang="en">variety show</category>
-    <date>28/11/1999</date>
-    <episode-num system="xmltv_ns">0.21.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20241023181228 -0300" stop="20241023214948 -0300" channel="Silvio Santos">
+  <programme start="20241023191620 -0300" stop="20241023214948 -0300" channel="Silvio Santos">
     <title lang="pt">Programa Silvio Santos</title>
     <sub-title lang="pt">realizado em 17/08/2008</sub-title>
     <desc lang="pt">Um clássico da TV brasileira! Aviõezinhos, calouros, artistas e, claro, o patrão Silvio Santos!</desc>
@@ -38884,7 +38906,29 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[A10]</value>
     </rating>
   </programme>
-  <programme start="20241023180011 -0300" stop="20241023200608 -0300" channel="Saudade">
+  <programme start="20241027180754 -0300" stop="20241027185407 -0300" channel="Silvio Santos">
+    <title lang="pt">Nada Além da Verdade</title>
+    <sub-title lang="pt">Proograma de</sub-title>
+    <desc lang="pt">realizado em 02/03/2008 - Você enfrentaria um detector de mentiras comandado por Silvio Santos?</desc>
+    <category lang="en">show/game show (general)</category>
+    <date>02/03/2008</date>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <rating system="Brazil">
+      <value>[A10]</value>
+    </rating>
+  </programme>
+  <programme start="20241027185522 -0300" stop="20241027193842 -0300" channel="Silvio Santos">
+    <title lang="pt">Nada Além da Verdade</title>
+    <sub-title lang="pt">realizado em 12/08/2008</sub-title>
+    <desc lang="pt">Você enfrentaria um detector de mentiras comandado por Silvio Santos?</desc>
+    <category lang="en">show/game show (general)</category>
+    <date>12/08/2008</date>
+    <episode-num system="xmltv_ns">0.25.</episode-num>
+    <rating system="Brazil">
+      <value>[A10]</value>
+    </rating>
+  </programme>
+  <programme start="20241023191548 -0300" stop="20241023200608 -0300" channel="Saudade">
     <title lang="pt">Fantasia</title>
     <sub-title lang="pt">realizado em 02/05/1999</sub-title>
     <desc lang="pt">O programa interativo dos anos 90 que derrubou o sistema de telefonia da maior cidade do Brasil.</desc>
@@ -39166,16 +39210,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241023175639 -0300" stop="20241023184349 -0300" channel="Novelas">
-    <title lang="pt">Esmeralda</title>
-    <desc lang="pt"> - Duas crianças trocadas no parto e uma vida para corrigir o erro dessa troca.</desc>
-    <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">6.130.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20241023185028 -0300" stop="20241023193819 -0300" channel="Novelas">
+  <programme start="20241023192934 -0300" stop="20241023193819 -0300" channel="Novelas">
     <title lang="pt">Esmeralda</title>
     <desc lang="pt"> - Duas crianças trocadas no parto e uma vida para corrigir o erro dessa troca.</desc>
     <category lang="en">movie/drama (general)</category>
@@ -39697,7 +39732,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241026020019 -0300" stop="20241026024452 -0300" channel="Novelas">
+  <programme start="20241026020625 -0300" stop="20241026025057 -0300" channel="Novelas">
     <title lang="pt">Esmeralda</title>
     <desc lang="pt"> - Duas crianças trocadas no parto e uma vida para corrigir o erro dessa troca.</desc>
     <category lang="en">movie/drama (general)</category>
@@ -39706,7 +39741,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241026024907 -0300" stop="20241026033547 -0300" channel="Novelas">
+  <programme start="20241026025513 -0300" stop="20241026034152 -0300" channel="Novelas">
     <title lang="pt">Esmeralda</title>
     <desc lang="pt"> - Duas crianças trocadas no parto e uma vida para corrigir o erro dessa troca.</desc>
     <category lang="en">movie/drama (general)</category>
@@ -39715,7 +39750,13 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241026033602 -0300" stop="20241026043200 -0300" channel="Novelas">
+  <programme start="20241026034418 -0300" stop="20241026035409 -0300" channel="Novelas">
+    <title lang="pt">O Que Assistir?</title>
+    <sub-title lang="pt">Filmes do catálogo</sub-title>
+    <desc lang="pt"> - Confira alguns filmes que separamos para você!</desc>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20241026035808 -0300" stop="20241026045406 -0300" channel="Novelas">
     <title lang="pt">Rebelde</title>
     <desc lang="pt"> - No Colégio Elite Way jovens vivem no limite. Muita música e muito romance. Você não pode perder!</desc>
     <category lang="en">movie/drama (general)</category>
@@ -39724,7 +39765,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20241026043615 -0300" stop="20241026053259 -0300" channel="Novelas">
+  <programme start="20241026045821 -0300" stop="20241026055505 -0300" channel="Novelas">
     <title lang="pt">Rebelde</title>
     <desc lang="pt"> - No Colégio Elite Way jovens vivem no limite. Muita música e muito romance. Você não pode perder!</desc>
     <category lang="en">movie/drama (general)</category>
@@ -39733,7 +39774,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20241026053714 -0300" stop="20241026063346 -0300" channel="Novelas">
+  <programme start="20241026055920 -0300" stop="20241026065552 -0300" channel="Novelas">
     <title lang="pt">Rebelde</title>
     <desc lang="pt"> - No Colégio Elite Way jovens vivem no limite. Muita música e muito romance. Você não pode perder!</desc>
     <category lang="en">movie/drama (general)</category>
@@ -39742,7 +39783,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20241026063731 -0300" stop="20241026073410 -0300" channel="Novelas">
+  <programme start="20241026065937 -0300" stop="20241026075616 -0300" channel="Novelas">
     <title lang="pt">Rebelde</title>
     <desc lang="pt"> - No Colégio Elite Way jovens vivem no limite. Muita música e muito romance. Você não pode perder!</desc>
     <category lang="en">movie/drama (general)</category>
@@ -39751,30 +39792,243 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20241023180054 -0300" stop="20241023181430 -0300" channel="Informação">
-    <title lang="pt">Giro Informação</title>
-    <sub-title lang="pt">Programa 21</sub-title>
-    <desc lang="pt"> - Informação, turismo, curiosidades e muito mais. O Giro Informação te deixa por dentro de assuntos que vão fazer diferença no seu dia a dia.</desc>
-    <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">0.20.</episode-num>
+  <programme start="20241026080037 -0300" stop="20241026085638 -0300" channel="Novelas">
+    <title lang="pt">Pequena Travessa</title>
+    <desc lang="pt"> - A batalha de Júlia vai nos mostrar a luta contra o preconceito e a força de uma pequena travessa.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">3.68.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
   </programme>
-  <programme start="20241023181440 -0300" stop="20241023192435 -0300" channel="Informação">
-    <title lang="pt">Fofocalizando</title>
+  <programme start="20241026090342 -0300" stop="20241026095859 -0300" channel="Novelas">
+    <title lang="pt">Maria Esperança</title>
+    <desc lang="pt"> - Quem tem esperança no nome não desiste da fé. Maria tem fé. E tem amor.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">3.68.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241026100520 -0300" stop="20241026104952 -0300" channel="Novelas">
+    <title lang="pt">Esmeralda</title>
+    <desc lang="pt"> - Duas crianças trocadas no parto e uma vida para corrigir o erro dessa troca.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">6.136.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241026105407 -0300" stop="20241026114047 -0300" channel="Novelas">
+    <title lang="pt">Esmeralda</title>
+    <desc lang="pt"> - Duas crianças trocadas no parto e uma vida para corrigir o erro dessa troca.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">6.137.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241026114313 -0300" stop="20241026115304 -0300" channel="Novelas">
+    <title lang="pt">O Que Assistir?</title>
+    <sub-title lang="pt">Filmes do catálogo</sub-title>
+    <desc lang="pt"> - Confira alguns filmes que separamos para você!</desc>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20241026115703 -0300" stop="20241026125301 -0300" channel="Novelas">
+    <title lang="pt">Rebelde</title>
+    <desc lang="pt"> - No Colégio Elite Way jovens vivem no limite. Muita música e muito romance. Você não pode perder!</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">1.272.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20241026125716 -0300" stop="20241026135400 -0300" channel="Novelas">
+    <title lang="pt">Rebelde</title>
+    <desc lang="pt"> - No Colégio Elite Way jovens vivem no limite. Muita música e muito romance. Você não pode perder!</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">1.273.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20241026135815 -0300" stop="20241026145517 -0300" channel="Novelas">
+    <title lang="pt">Rebelde</title>
+    <desc lang="pt"> - No Colégio Elite Way jovens vivem no limite. Muita música e muito romance. Você não pode perder!</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">1.274.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20241026145902 -0300" stop="20241026155541 -0300" channel="Novelas">
+    <title lang="pt">Rebelde</title>
+    <desc lang="pt"> - No Colégio Elite Way jovens vivem no limite. Muita música e muito romance. Você não pode perder!</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">1.275.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20241026160002 -0300" stop="20241026165603 -0300" channel="Novelas">
+    <title lang="pt">Pequena Travessa</title>
+    <desc lang="pt"> - A batalha de Júlia vai nos mostrar a luta contra o preconceito e a força de uma pequena travessa.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">3.68.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20241026170307 -0300" stop="20241026175929 -0300" channel="Novelas">
+    <title lang="pt">Maria Esperança</title>
+    <desc lang="pt"> - Quem tem esperança no nome não desiste da fé. Maria tem fé. E tem amor.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">3.68.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241026180550 -0300" stop="20241026185022 -0300" channel="Novelas">
+    <title lang="pt">Esmeralda</title>
+    <desc lang="pt"> - Duas crianças trocadas no parto e uma vida para corrigir o erro dessa troca.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">6.136.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241026185458 -0300" stop="20241026194137 -0300" channel="Novelas">
+    <title lang="pt">Esmeralda</title>
+    <desc lang="pt"> - Duas crianças trocadas no parto e uma vida para corrigir o erro dessa troca.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">6.137.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241026194403 -0300" stop="20241026195354 -0300" channel="Novelas">
+    <title lang="pt">O Que Assistir?</title>
+    <sub-title lang="pt">Filmes do catálogo</sub-title>
+    <desc lang="pt"> - Confira alguns filmes que separamos para você!</desc>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20241026195753 -0300" stop="20241026205351 -0300" channel="Novelas">
+    <title lang="pt">Rebelde</title>
+    <desc lang="pt"> - No Colégio Elite Way jovens vivem no limite. Muita música e muito romance. Você não pode perder!</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">1.272.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20241026205806 -0300" stop="20241026215450 -0300" channel="Novelas">
+    <title lang="pt">Rebelde</title>
+    <desc lang="pt"> - No Colégio Elite Way jovens vivem no limite. Muita música e muito romance. Você não pode perder!</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">1.273.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20241026215905 -0300" stop="20241026225607 -0300" channel="Novelas">
+    <title lang="pt">Rebelde</title>
+    <desc lang="pt"> - No Colégio Elite Way jovens vivem no limite. Muita música e muito romance. Você não pode perder!</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">1.274.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20241026225952 -0300" stop="20241026235631 -0300" channel="Novelas">
+    <title lang="pt">Rebelde</title>
+    <desc lang="pt"> - No Colégio Elite Way jovens vivem no limite. Muita música e muito romance. Você não pode perder!</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">1.275.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20241027000052 -0300" stop="20241027005334 -0300" channel="Novelas">
+    <title lang="pt">Pequena Travessa</title>
+    <desc lang="pt"> - A batalha de Júlia vai nos mostrar a luta contra o preconceito e a força de uma pequena travessa.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">3.69.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20241027005349 -0300" stop="20241027014741 -0300" channel="Novelas">
+    <title lang="pt">Maria Esperança</title>
+    <desc lang="pt"> - Quem tem esperança no nome não desiste da fé. Maria tem fé. E tem amor.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">3.69.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241027014756 -0300" stop="20241027021826 -0300" channel="Novelas">
+    <title lang="pt">Esmeralda</title>
+    <desc lang="pt"> - Duas crianças trocadas no parto e uma vida para corrigir o erro dessa troca.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">6.138.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241027022241 -0300" stop="20241027031107 -0300" channel="Novelas">
+    <title lang="pt">Esmeralda</title>
+    <desc lang="pt"> - Duas crianças trocadas no parto e uma vida para corrigir o erro dessa troca.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">6.139.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241027031122 -0300" stop="20241027040756 -0300" channel="Novelas">
+    <title lang="pt">Rebelde</title>
+    <desc lang="pt"> - No Colégio Elite Way jovens vivem no limite. Muita música e muito romance. Você não pode perder!</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">1.276.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20241027041211 -0300" stop="20241027050903 -0300" channel="Novelas">
+    <title lang="pt">Rebelde</title>
+    <desc lang="pt"> - No Colégio Elite Way jovens vivem no limite. Muita música e muito romance. Você não pode perder!</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">1.277.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20241027051318 -0300" stop="20241027060951 -0300" channel="Novelas">
+    <title lang="pt">Rebelde</title>
+    <desc lang="pt"> - No Colégio Elite Way jovens vivem no limite. Muita música e muito romance. Você não pode perder!</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">1.278.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20241027061406 -0300" stop="20241027070837 -0300" channel="Novelas">
+    <title lang="pt">Rebelde</title>
+    <desc lang="pt"> - No Colégio Elite Way jovens vivem no limite. Muita música e muito romance. Você não pode perder!</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">1.279.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20241023192435 -0300" stop="20241023211028 -0300" channel="Informação">
+    <title lang="pt">Tá Na Hora</title>
     <sub-title lang="pt">realizado em 23/10/2024</sub-title>
-    <desc lang="pt"> Fique por dentro das principais notícias do mundo das celebridades em primeira mão.</desc>
+    <desc lang="pt">Marcão do Povo e Márcia Dantas comandam o "Tá na Hora", levando informação e prestação de serviço durante a sua volta para casa.</desc>
     <category lang="en">news/current affairs (general)</category>
     <date>23/10/2024</date>
     <episode-num system="xmltv_ns">0.2309.</episode-num>
   </programme>
-  <programme start="20241023192435 -0300" stop="20241023214112 -0300" channel="Informação">
-    <title lang="pt">Tá Na Hora</title>
-    <sub-title lang="pt">realizado em 17/10/2024</sub-title>
-    <desc lang="pt">Marcão do Povo e Márcia Dantas comandam o "Tá na Hora", levando informação e prestação de serviço durante a sua volta para casa.</desc>
-    <category lang="en">news/current affairs (general)</category>
-    <date>17/10/2024</date>
-    <episode-num system="xmltv_ns">0.1709.</episode-num>
-  </programme>
-  <programme start="20241023214122 -0300" stop="20241023223847 -0300" channel="Informação">
+  <programme start="20241023211038 -0300" stop="20241023220803 -0300" channel="Informação">
     <title lang="pt">SBT Brasil</title>
     <sub-title lang="pt">realizado em 17/10/2024</sub-title>
     <desc lang="pt">Cesar Filho leva ao telespectador as notícias mais importantes do dia, ao vivo, com liberdade editor</desc>
@@ -39782,7 +40036,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
     <date>17/10/2024</date>
     <episode-num system="xmltv_ns">0.1709.</episode-num>
   </programme>
-  <programme start="20241023223907 -0300" stop="20241023230851 -0300" channel="Informação">
+  <programme start="20241023220823 -0300" stop="20241023223807 -0300" channel="Informação">
     <title lang="pt">Divina Christina</title>
     <desc lang="pt"> - A moleca da família, de personalidade marcante, resiliente e exímia amazona, essa é Christina Rocha.</desc>
     <category lang="en">documentary</category>
@@ -39791,14 +40045,14 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241023230901 -0300" stop="20241023233803 -0300" channel="Informação">
+  <programme start="20241023223817 -0300" stop="20241023230719 -0300" channel="Informação">
     <title lang="pt">Giro Informação</title>
     <sub-title lang="pt">Programa 21</sub-title>
     <desc lang="pt"> - Informação, turismo, curiosidades e muito mais. O Giro Informação te deixa por dentro de assuntos que vão fazer diferença no seu dia a dia.</desc>
     <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">0.20.</episode-num>
   </programme>
-  <programme start="20241023233813 -0300" stop="20241024011402 -0300" channel="Informação">
+  <programme start="20241023230729 -0300" stop="20241024004318 -0300" channel="Informação">
     <title lang="pt">Primeiro Impacto</title>
     <sub-title lang="pt">realizado em 23/10/2024</sub-title>
     <desc lang="pt">Trânsito, política, saúde, esporte, mercado de trabalho, educação e os assuntos que são destaque no Brasil e no mundo.</desc>
@@ -39806,7 +40060,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
     <date>23/10/2024</date>
     <episode-num system="xmltv_ns">0.2309.</episode-num>
   </programme>
-  <programme start="20241024011902 -0300" stop="20241024032039 -0300" channel="Informação">
+  <programme start="20241024004818 -0300" stop="20241024024955 -0300" channel="Informação">
     <title lang="pt">Primeiro Impacto</title>
     <sub-title lang="pt">realizado em 23/10/2024</sub-title>
     <desc lang="pt">Trânsito, política, saúde, esporte, mercado de trabalho, educação e os assuntos que são destaque no Brasil e no mundo.</desc>
@@ -39814,14 +40068,14 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
     <date>23/10/2024</date>
     <episode-num system="xmltv_ns">0.2309.</episode-num>
   </programme>
-  <programme start="20241024032049 -0300" stop="20241024034950 -0300" channel="Informação">
+  <programme start="20241024025005 -0300" stop="20241024031907 -0300" channel="Informação">
     <title lang="pt">Giro Informação</title>
     <sub-title lang="pt">Programa 21</sub-title>
     <desc lang="pt"> - Informação, turismo, curiosidades e muito mais. O Giro Informação te deixa por dentro de assuntos que vão fazer diferença no seu dia a dia.</desc>
     <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">0.20.</episode-num>
   </programme>
-  <programme start="20241024035000 -0300" stop="20241024053542 -0300" channel="Informação">
+  <programme start="20241024031917 -0300" stop="20241024050458 -0300" channel="Informação">
     <title lang="pt">Tá Na Hora</title>
     <sub-title lang="pt">realizado em 22/10/2024</sub-title>
     <desc lang="pt">Marcão do Povo e Márcia Dantas comandam o "Tá na Hora", levando informação e prestação de serviço durante a sua volta para casa.</desc>
@@ -39829,7 +40083,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
     <date>22/10/2024</date>
     <episode-num system="xmltv_ns">0.2209.</episode-num>
   </programme>
-  <programme start="20241024053602 -0300" stop="20241024060616 -0300" channel="Informação">
+  <programme start="20241024050518 -0300" stop="20241024053532 -0300" channel="Informação">
     <title lang="pt">Divina Christina</title>
     <desc lang="pt"> - A moleca da família, de personalidade marcante, resiliente e exímia amazona, essa é Christina Rocha.</desc>
     <category lang="en">documentary</category>
@@ -39838,7 +40092,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241024060636 -0300" stop="20241024063620 -0300" channel="Informação">
+  <programme start="20241024053552 -0300" stop="20241024060537 -0300" channel="Informação">
     <title lang="pt">Divina Christina</title>
     <desc lang="pt"> - A moleca da família, de personalidade marcante, resiliente e exímia amazona, essa é Christina Rocha.</desc>
     <category lang="en">documentary</category>
@@ -39847,7 +40101,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241024063630 -0300" stop="20241024073534 -0300" channel="Informação">
+  <programme start="20241024060547 -0300" stop="20241024070451 -0300" channel="Informação">
     <title lang="pt">SBT Brasil</title>
     <sub-title lang="pt">realizado em 22/10/2024</sub-title>
     <desc lang="pt">Cesar Filho leva ao telespectador as notícias mais importantes do dia, ao vivo, com liberdade editor</desc>
@@ -39855,7 +40109,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
     <date>22/10/2024</date>
     <episode-num system="xmltv_ns">0.2209.</episode-num>
   </programme>
-  <programme start="20241024073544 -0300" stop="20241024085046 -0300" channel="Informação">
+  <programme start="20241024070501 -0300" stop="20241024082003 -0300" channel="Informação">
     <title lang="pt">Fofocalizando</title>
     <sub-title lang="pt">realizado em 21/10/2024</sub-title>
     <desc lang="pt"> Fique por dentro das principais notícias do mundo das celebridades em primeira mão.</desc>
@@ -39863,21 +40117,21 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
     <date>21/10/2024</date>
     <episode-num system="xmltv_ns">0.2109.</episode-num>
   </programme>
-  <programme start="20241024085056 -0300" stop="20241024092013 -0300" channel="Informação">
+  <programme start="20241024082013 -0300" stop="20241024084929 -0300" channel="Informação">
     <title lang="pt">Giro Informação</title>
     <sub-title lang="pt">Programa 21</sub-title>
     <desc lang="pt"> - Informação, turismo, curiosidades e muito mais. O Giro Informação te deixa por dentro de assuntos que vão fazer diferença no seu dia a dia.</desc>
     <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">0.20.</episode-num>
   </programme>
-  <programme start="20241024092023 -0300" stop="20241024095028 -0300" channel="Informação">
+  <programme start="20241024084939 -0300" stop="20241024091945 -0300" channel="Informação">
     <title lang="pt">Giro Informação</title>
     <sub-title lang="pt">Programa 22</sub-title>
     <desc lang="pt"> - Informação, turismo, curiosidades e muito mais. O Giro Informação te deixa por dentro de assuntos que vão fazer diferença no seu dia a dia.</desc>
     <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">0.21.</episode-num>
   </programme>
-  <programme start="20241024095038 -0300" stop="20241024112627 -0300" channel="Informação">
+  <programme start="20241024091955 -0300" stop="20241024105544 -0300" channel="Informação">
     <title lang="pt">Primeiro Impacto</title>
     <sub-title lang="pt">realizado em 23/10/2024</sub-title>
     <desc lang="pt">Trânsito, política, saúde, esporte, mercado de trabalho, educação e os assuntos que são destaque no Brasil e no mundo.</desc>
@@ -39885,7 +40139,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
     <date>23/10/2024</date>
     <episode-num system="xmltv_ns">0.2309.</episode-num>
   </programme>
-  <programme start="20241024113127 -0300" stop="20241024133304 -0300" channel="Informação">
+  <programme start="20241024110044 -0300" stop="20241024130220 -0300" channel="Informação">
     <title lang="pt">Primeiro Impacto</title>
     <sub-title lang="pt">realizado em 23/10/2024</sub-title>
     <desc lang="pt">Trânsito, política, saúde, esporte, mercado de trabalho, educação e os assuntos que são destaque no Brasil e no mundo.</desc>
@@ -39893,7 +40147,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
     <date>23/10/2024</date>
     <episode-num system="xmltv_ns">0.2309.</episode-num>
   </programme>
-  <programme start="20241024133304 -0300" stop="20241024154532 -0300" channel="Informação">
+  <programme start="20241024130220 -0300" stop="20241024151448 -0300" channel="Informação">
     <title lang="pt">Chega Mais</title>
     <sub-title lang="pt">realizado em 23/10/2024</sub-title>
     <desc lang="pt">Regina Volpato, Michelle Barros e Paulo Mathias trazem muita informação, prestação de serviço, culinária, diversão e entretenimento no "Chega Mais".</desc>
@@ -39904,7 +40158,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241024154532 -0300" stop="20241024173207 -0300" channel="Informação">
+  <programme start="20241024151448 -0300" stop="20241024170124 -0300" channel="Informação">
     <title lang="pt">Chega Mais Notícias</title>
     <sub-title lang="pt">realizado em 23/10/2024</sub-title>
     <desc lang="pt">Fique bem informado no "Chega Mais Notícias", com as notícias mais importantes do dia.</desc>
@@ -39912,14 +40166,14 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
     <date>23/10/2024</date>
     <episode-num system="xmltv_ns">0.38.</episode-num>
   </programme>
-  <programme start="20241024173217 -0300" stop="20241024180223 -0300" channel="Informação">
+  <programme start="20241024170134 -0300" stop="20241024173139 -0300" channel="Informação">
     <title lang="pt">Giro Informação</title>
     <sub-title lang="pt">Programa 22</sub-title>
     <desc lang="pt"> - Informação, turismo, curiosidades e muito mais. O Giro Informação te deixa por dentro de assuntos que vão fazer diferença no seu dia a dia.</desc>
     <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">0.21.</episode-num>
   </programme>
-  <programme start="20241024180233 -0300" stop="20241024191228 -0300" channel="Informação">
+  <programme start="20241024173149 -0300" stop="20241024184144 -0300" channel="Informação">
     <title lang="pt">Fofocalizando</title>
     <sub-title lang="pt">realizado em 23/10/2024</sub-title>
     <desc lang="pt"> Fique por dentro das principais notícias do mundo das celebridades em primeira mão.</desc>
@@ -39927,7 +40181,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
     <date>23/10/2024</date>
     <episode-num system="xmltv_ns">0.2309.</episode-num>
   </programme>
-  <programme start="20241024191228 -0300" stop="20241024212904 -0300" channel="Informação">
+  <programme start="20241024184144 -0300" stop="20241024205820 -0300" channel="Informação">
     <title lang="pt">Tá Na Hora</title>
     <sub-title lang="pt">realizado em 17/10/2024</sub-title>
     <desc lang="pt">Marcão do Povo e Márcia Dantas comandam o "Tá na Hora", levando informação e prestação de serviço durante a sua volta para casa.</desc>
@@ -39935,7 +40189,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
     <date>17/10/2024</date>
     <episode-num system="xmltv_ns">0.1709.</episode-num>
   </programme>
-  <programme start="20241024212914 -0300" stop="20241024222639 -0300" channel="Informação">
+  <programme start="20241024205830 -0300" stop="20241024215555 -0300" channel="Informação">
     <title lang="pt">SBT Brasil</title>
     <sub-title lang="pt">realizado em 17/10/2024</sub-title>
     <desc lang="pt">Cesar Filho leva ao telespectador as notícias mais importantes do dia, ao vivo, com liberdade editor</desc>
@@ -39943,7 +40197,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
     <date>17/10/2024</date>
     <episode-num system="xmltv_ns">0.1709.</episode-num>
   </programme>
-  <programme start="20241024222659 -0300" stop="20241024230750 -0300" channel="Informação">
+  <programme start="20241024215615 -0300" stop="20241024223706 -0300" channel="Informação">
     <title lang="pt">Divina Christina</title>
     <desc lang="pt"> - A moleca da família, de personalidade marcante, resiliente e exímia amazona, essa é Christina Rocha.</desc>
     <category lang="en">documentary</category>
@@ -39952,31 +40206,12 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241024230800 -0300" stop="20241024233805 -0300" channel="Informação">
+  <programme start="20241024223716 -0300" stop="20241024230721 -0300" channel="Informação">
     <title lang="pt">Giro Informação</title>
     <sub-title lang="pt">Programa 22</sub-title>
     <desc lang="pt"> - Informação, turismo, curiosidades e muito mais. O Giro Informação te deixa por dentro de assuntos que vão fazer diferença no seu dia a dia.</desc>
     <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">0.21.</episode-num>
-  </programme>
-  <programme start="20241023180044 -0300" stop="20241023182114 -0300" channel="Séries">
-    <title lang="pt">Call The Midwife</title>
-    <desc lang="pt"> - Jenny é uma jovem parteira que atende casos difíceis em uma das áreas mais pobres de Londres.</desc>
-    <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20241023182139 -0300" stop="20241023191023 -0300" channel="Séries">
-    <title lang="pt">Mary Kills People</title>
-    <sub-title lang="pt">4. Têm Árvores Na Suiça</sub-title>
-    <desc lang="pt"> - Dra. Mary, médica de dia e anjo da morte à noite, enfrenta dilemas éticos.</desc>
-    <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">2.3.</episode-num>
-    <rating system="Brazil">
-      <value>[A16]</value>
-    </rating>
   </programme>
   <programme start="20241023192256 -0300" stop="20241023201512 -0300" channel="Séries">
     <title lang="pt">Saving Hope</title>
@@ -40279,7 +40514,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[A14]</value>
     </rating>
   </programme>
-  <programme start="20241025010325 -0300" stop="20241025020941 -0300" channel="Séries">
+  <programme start="20241025010355 -0300" stop="20241025021041 -0300" channel="Séries">
     <title lang="pt">Call The Midwife</title>
     <desc lang="pt"> - Jenny é uma jovem parteira que atende casos difíceis em uma das áreas mais pobres de Londres.</desc>
     <category lang="en">movie/drama (general)</category>
@@ -40288,7 +40523,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241025021006 -0300" stop="20241025030540 -0300" channel="Séries">
+  <programme start="20241025021106 -0300" stop="20241025030710 -0300" channel="Séries">
     <title lang="pt">Mary Kills People</title>
     <sub-title lang="pt">6. Uma Santa</sub-title>
     <desc lang="pt"> - Dra. Mary, médica de dia e anjo da morte à noite, enfrenta dilemas éticos.</desc>
@@ -40298,7 +40533,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[A16]</value>
     </rating>
   </programme>
-  <programme start="20241025030605 -0300" stop="20241025040415 -0300" channel="Séries">
+  <programme start="20241025030735 -0300" stop="20241025040615 -0300" channel="Séries">
     <title lang="pt">Saving Hope</title>
     <sub-title lang="pt">1. Simpatia pelo Diabo</sub-title>
     <desc lang="pt"> - A médica Alex Reid luta para manter vivo o noivo Charlie, que entrou em coma após um acidente.</desc>
@@ -40308,7 +40543,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[A14]</value>
     </rating>
   </programme>
-  <programme start="20241025040440 -0300" stop="20241025050235 -0300" channel="Séries">
+  <programme start="20241025040641 -0300" stop="20241025050505 -0300" channel="Séries">
     <title lang="pt">Rookie Blue</title>
     <sub-title lang="pt">11. Decção</sub-title>
     <desc lang="pt"> - Recém-formados da academia de polícia, Ally e seus colegas precisam se adaptar aos desafios do cargo</desc>
@@ -40318,7 +40553,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[A16]</value>
     </rating>
   </programme>
-  <programme start="20241025050300 -0300" stop="20241025060154 -0300" channel="Séries">
+  <programme start="20241025050530 -0300" stop="20241025060454 -0300" channel="Séries">
     <title lang="pt">Private Eyes</title>
     <sub-title lang="pt">5. Os Seis</sub-title>
     <desc lang="pt"> - Um ex-jogador de hóquei e uma detetive particular se tornam uma inesperada dupla de investigadores.</desc>
@@ -40328,7 +40563,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[A14]</value>
     </rating>
   </programme>
-  <programme start="20241025060219 -0300" stop="20241025065958 -0300" channel="Séries">
+  <programme start="20241025060519 -0300" stop="20241025070328 -0300" channel="Séries">
     <title lang="pt">Haven</title>
     <sub-title lang="pt">12. Quando o galho quebra</sub-title>
     <desc lang="pt"> - A agente do FBI, Audrey Parker, chega à misteriosa cidade de Haven para resolver seus mistérios.</desc>
@@ -40338,7 +40573,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[A14]</value>
     </rating>
   </programme>
-  <programme start="20241025070023 -0300" stop="20241025075633 -0300" channel="Séries">
+  <programme start="20241025070353 -0300" stop="20241025080049 -0300" channel="Séries">
     <title lang="pt">Doctor Who</title>
     <sub-title lang="pt">10. Floresta dos mortos</sub-title>
     <desc lang="pt"> - Acompanhe as jornadas pelo espaço-tempo do Doutor, um alienígena da linhagem dos senhores do tempo.</desc>
@@ -40348,18 +40583,185 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241023180427 -0300" stop="20241023185832 -0300" channel="Pop">
-    <title lang="pt">Famosos da Internet</title>
-    <sub-title lang="pt">realizado em 24/03/2013</sub-title>
-    <desc lang="pt">As chamadas “Celebridades da Internet” se apresentam no palco do programa da Eliana.</desc>
-    <category lang="en">variety show</category>
-    <date>24/03/2013</date>
-    <episode-num system="xmltv_ns">2.3.</episode-num>
+  <programme start="20241025080114 -0300" stop="20241025083128 -0300" channel="Séries">
+    <title lang="pt">Younger</title>
+    <sub-title lang="pt">11. É Um Amor Verdadeiro</sub-title>
+    <desc lang="pt"> - Aos 40 anos, Liza finge ser mais nova para conseguir um emprego depois de anos longe do mercado.</desc>
+    <category lang="en">comedy</category>
+    <episode-num system="xmltv_ns">3.10.</episode-num>
     <rating system="Brazil">
-      <value>[10]</value>
+      <value>[A14]</value>
     </rating>
   </programme>
-  <programme start="20241023190315 -0300" stop="20241023200804 -0300" channel="Pop">
+  <programme start="20241025083133 -0300" stop="20241025085634 -0300" channel="Séries">
+    <title lang="pt">Younger</title>
+    <sub-title lang="pt">12. Adeus Irlandês</sub-title>
+    <desc lang="pt"> - Aos 40 anos, Liza finge ser mais nova para conseguir um emprego depois de anos longe do mercado.</desc>
+    <category lang="en">comedy</category>
+    <episode-num system="xmltv_ns">3.11.</episode-num>
+    <rating system="Brazil">
+      <value>[A14]</value>
+    </rating>
+  </programme>
+  <programme start="20241025090330 -0300" stop="20241025101016 -0300" channel="Séries">
+    <title lang="pt">Call The Midwife</title>
+    <desc lang="pt"> - Jenny é uma jovem parteira que atende casos difíceis em uma das áreas mais pobres de Londres.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025101041 -0300" stop="20241025110645 -0300" channel="Séries">
+    <title lang="pt">Mary Kills People</title>
+    <sub-title lang="pt">6. Uma Santa</sub-title>
+    <desc lang="pt"> - Dra. Mary, médica de dia e anjo da morte à noite, enfrenta dilemas éticos.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">2.5.</episode-num>
+    <rating system="Brazil">
+      <value>[A16]</value>
+    </rating>
+  </programme>
+  <programme start="20241025110710 -0300" stop="20241025120550 -0300" channel="Séries">
+    <title lang="pt">Saving Hope</title>
+    <sub-title lang="pt">1. Simpatia pelo Diabo</sub-title>
+    <desc lang="pt"> - A médica Alex Reid luta para manter vivo o noivo Charlie, que entrou em coma após um acidente.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">3.0.</episode-num>
+    <rating system="Brazil">
+      <value>[A14]</value>
+    </rating>
+  </programme>
+  <programme start="20241025120615 -0300" stop="20241025130440 -0300" channel="Séries">
+    <title lang="pt">Rookie Blue</title>
+    <sub-title lang="pt">11. Decção</sub-title>
+    <desc lang="pt"> - Recém-formados da academia de polícia, Ally e seus colegas precisam se adaptar aos desafios do cargo</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">2.-1.</episode-num>
+    <rating system="Brazil">
+      <value>[A16]</value>
+    </rating>
+  </programme>
+  <programme start="20241025130505 -0300" stop="20241025140429 -0300" channel="Séries">
+    <title lang="pt">Private Eyes</title>
+    <sub-title lang="pt">5. Os Seis</sub-title>
+    <desc lang="pt"> - Um ex-jogador de hóquei e uma detetive particular se tornam uma inesperada dupla de investigadores.</desc>
+    <category lang="en">comedy</category>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <rating system="Brazil">
+      <value>[A14]</value>
+    </rating>
+  </programme>
+  <programme start="20241025140454 -0300" stop="20241025150303 -0300" channel="Séries">
+    <title lang="pt">Haven</title>
+    <sub-title lang="pt">12. Quando o galho quebra</sub-title>
+    <desc lang="pt"> - A agente do FBI, Audrey Parker, chega à misteriosa cidade de Haven para resolver seus mistérios.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">3.11.</episode-num>
+    <rating system="Brazil">
+      <value>[A14]</value>
+    </rating>
+  </programme>
+  <programme start="20241025150328 -0300" stop="20241025160024 -0300" channel="Séries">
+    <title lang="pt">Doctor Who</title>
+    <sub-title lang="pt">10. Floresta dos mortos</sub-title>
+    <desc lang="pt"> - Acompanhe as jornadas pelo espaço-tempo do Doutor, um alienígena da linhagem dos senhores do tempo.</desc>
+    <category lang="en">detective/thriller</category>
+    <episode-num system="xmltv_ns">3.9.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025160049 -0300" stop="20241025163103 -0300" channel="Séries">
+    <title lang="pt">Younger</title>
+    <sub-title lang="pt">11. É Um Amor Verdadeiro</sub-title>
+    <desc lang="pt"> - Aos 40 anos, Liza finge ser mais nova para conseguir um emprego depois de anos longe do mercado.</desc>
+    <category lang="en">comedy</category>
+    <episode-num system="xmltv_ns">3.10.</episode-num>
+    <rating system="Brazil">
+      <value>[A14]</value>
+    </rating>
+  </programme>
+  <programme start="20241025163108 -0300" stop="20241025165609 -0300" channel="Séries">
+    <title lang="pt">Younger</title>
+    <sub-title lang="pt">12. Adeus Irlandês</sub-title>
+    <desc lang="pt"> - Aos 40 anos, Liza finge ser mais nova para conseguir um emprego depois de anos longe do mercado.</desc>
+    <category lang="en">comedy</category>
+    <episode-num system="xmltv_ns">3.11.</episode-num>
+    <rating system="Brazil">
+      <value>[A14]</value>
+    </rating>
+  </programme>
+  <programme start="20241025170305 -0300" stop="20241025180950 -0300" channel="Séries">
+    <title lang="pt">Call The Midwife</title>
+    <desc lang="pt"> - Jenny é uma jovem parteira que atende casos difíceis em uma das áreas mais pobres de Londres.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025181015 -0300" stop="20241025190620 -0300" channel="Séries">
+    <title lang="pt">Mary Kills People</title>
+    <sub-title lang="pt">6. Uma Santa</sub-title>
+    <desc lang="pt"> - Dra. Mary, médica de dia e anjo da morte à noite, enfrenta dilemas éticos.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">2.5.</episode-num>
+    <rating system="Brazil">
+      <value>[A16]</value>
+    </rating>
+  </programme>
+  <programme start="20241025190645 -0300" stop="20241025200525 -0300" channel="Séries">
+    <title lang="pt">Saving Hope</title>
+    <sub-title lang="pt">1. Simpatia pelo Diabo</sub-title>
+    <desc lang="pt"> - A médica Alex Reid luta para manter vivo o noivo Charlie, que entrou em coma após um acidente.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">3.0.</episode-num>
+    <rating system="Brazil">
+      <value>[A14]</value>
+    </rating>
+  </programme>
+  <programme start="20241025200550 -0300" stop="20241025210415 -0300" channel="Séries">
+    <title lang="pt">Rookie Blue</title>
+    <sub-title lang="pt">11. Decção</sub-title>
+    <desc lang="pt"> - Recém-formados da academia de polícia, Ally e seus colegas precisam se adaptar aos desafios do cargo</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">2.-1.</episode-num>
+    <rating system="Brazil">
+      <value>[A16]</value>
+    </rating>
+  </programme>
+  <programme start="20241025210440 -0300" stop="20241025220404 -0300" channel="Séries">
+    <title lang="pt">Private Eyes</title>
+    <sub-title lang="pt">5. Os Seis</sub-title>
+    <desc lang="pt"> - Um ex-jogador de hóquei e uma detetive particular se tornam uma inesperada dupla de investigadores.</desc>
+    <category lang="en">comedy</category>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <rating system="Brazil">
+      <value>[A14]</value>
+    </rating>
+  </programme>
+  <programme start="20241025220429 -0300" stop="20241025230238 -0300" channel="Séries">
+    <title lang="pt">Haven</title>
+    <sub-title lang="pt">12. Quando o galho quebra</sub-title>
+    <desc lang="pt"> - A agente do FBI, Audrey Parker, chega à misteriosa cidade de Haven para resolver seus mistérios.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">3.11.</episode-num>
+    <rating system="Brazil">
+      <value>[A14]</value>
+    </rating>
+  </programme>
+  <programme start="20241025230303 -0300" stop="20241025235959 -0300" channel="Séries">
+    <title lang="pt">Doctor Who</title>
+    <sub-title lang="pt">10. Floresta dos mortos</sub-title>
+    <desc lang="pt"> - Acompanhe as jornadas pelo espaço-tempo do Doutor, um alienígena da linhagem dos senhores do tempo.</desc>
+    <category lang="en">detective/thriller</category>
+    <episode-num system="xmltv_ns">3.9.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241023192952 -0300" stop="20241023200804 -0300" channel="Pop">
     <title lang="pt">Casos de Família</title>
     <sub-title lang="pt">realizado em 06/12/2018</sub-title>
     <desc lang="pt">O programa Casos de Família é baseado em conflitos que acontecem na vida de qualquer pessoa.</desc>
@@ -40403,17 +40805,181 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20241023175938 -0300" stop="20241023182705 -0300" channel="TV Zyn">
-    <title lang="pt">Patrulha Salvadora</title>
-    <desc lang="pt"> - As crianças mais amadas de Carrossel agora são super heróis que lutam contra o crime!</desc>
-    <category lang="en">comedy</category>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
+  <programme start="20241024000652 -0300" stop="20241024015844 -0300" channel="Pop">
+    <title lang="pt">Famosos da Internet</title>
+    <sub-title lang="pt">realizado em 08/05/2022</sub-title>
+    <desc lang="pt">As chamadas “Celebridades da Internet” se apresentam no palco do programa da Eliana.</desc>
+    <category lang="en">variety show</category>
+    <date>08/05/2022</date>
+    <episode-num system="xmltv_ns">10..</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
   </programme>
-  <programme start="20241023182723 -0300" stop="20241023191956 -0300" channel="TV Zyn">
-    <title lang="pt">Patrulha Salvadora</title>
-    <desc lang="pt"> - As crianças mais amadas de Carrossel agora são super heróis que lutam contra o crime!</desc>
-    <category lang="en">comedy</category>
+  <programme start="20241024020327 -0300" stop="20241024031211 -0300" channel="Pop">
+    <title lang="pt">Casos de Família</title>
+    <sub-title lang="pt">realizado em 16/05/2019</sub-title>
+    <desc lang="pt">O programa Casos de Família é baseado em conflitos que acontecem na vida de qualquer pessoa.</desc>
+    <category lang="en">variety show</category>
+    <date>16/05/2019</date>
+    <episode-num system="xmltv_ns">5..</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241024031654 -0300" stop="20241024043719 -0300" channel="Pop">
+    <title lang="pt">Rola ou Enrola</title>
+    <sub-title lang="pt">realizado em 05/08/2012</sub-title>
+    <desc lang="pt">No quadro "Rola ou Enrola" cinco solteiras estão em busca de um grande amor e tentam a sorte!</desc>
+    <category lang="en">variety show</category>
+    <date>05/08/2012</date>
+    <episode-num system="xmltv_ns">1.6.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20241024044202 -0300" stop="20241024060748 -0300" channel="Pop">
+    <title lang="pt">Xaveco</title>
+    <sub-title lang="pt">realizado em 28/04/2019</sub-title>
+    <desc lang="pt">O Xaveco é um game com perguntas e respostas, provas divertidas e muita paquera!</desc>
+    <category lang="en">variety show</category>
+    <date>28/04/2019</date>
     <episode-num system="xmltv_ns">0.7.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20241024061231 -0300" stop="20241024075955 -0300" channel="Pop">
+    <title lang="pt">Famosos da Internet</title>
+    <sub-title lang="pt">realizado em 08/05/2022</sub-title>
+    <desc lang="pt">As chamadas “Celebridades da Internet” se apresentam no palco do programa da Eliana.</desc>
+    <category lang="en">variety show</category>
+    <date>08/05/2022</date>
+    <episode-num system="xmltv_ns">10..</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20241024080438 -0300" stop="20241024090838 -0300" channel="Pop">
+    <title lang="pt">Casos de Família</title>
+    <sub-title lang="pt">realizado em 16/05/2019</sub-title>
+    <desc lang="pt">O programa Casos de Família é baseado em conflitos que acontecem na vida de qualquer pessoa.</desc>
+    <category lang="en">variety show</category>
+    <date>16/05/2019</date>
+    <episode-num system="xmltv_ns">5..</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241024091322 -0300" stop="20241024103347 -0300" channel="Pop">
+    <title lang="pt">Rola ou Enrola</title>
+    <sub-title lang="pt">realizado em 05/08/2012</sub-title>
+    <desc lang="pt">No quadro "Rola ou Enrola" cinco solteiras estão em busca de um grande amor e tentam a sorte!</desc>
+    <category lang="en">variety show</category>
+    <date>05/08/2012</date>
+    <episode-num system="xmltv_ns">1.6.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20241024103830 -0300" stop="20241024120416 -0300" channel="Pop">
+    <title lang="pt">Xaveco</title>
+    <sub-title lang="pt">realizado em 28/04/2019</sub-title>
+    <desc lang="pt">O Xaveco é um game com perguntas e respostas, provas divertidas e muita paquera!</desc>
+    <category lang="en">variety show</category>
+    <date>28/04/2019</date>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20241024120859 -0300" stop="20241024135623 -0300" channel="Pop">
+    <title lang="pt">Famosos da Internet</title>
+    <sub-title lang="pt">realizado em 08/05/2022</sub-title>
+    <desc lang="pt">As chamadas “Celebridades da Internet” se apresentam no palco do programa da Eliana.</desc>
+    <category lang="en">variety show</category>
+    <date>08/05/2022</date>
+    <episode-num system="xmltv_ns">10..</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20241024140106 -0300" stop="20241024150506 -0300" channel="Pop">
+    <title lang="pt">Casos de Família</title>
+    <sub-title lang="pt">realizado em 16/05/2019</sub-title>
+    <desc lang="pt">O programa Casos de Família é baseado em conflitos que acontecem na vida de qualquer pessoa.</desc>
+    <category lang="en">variety show</category>
+    <date>16/05/2019</date>
+    <episode-num system="xmltv_ns">5..</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241024150949 -0300" stop="20241024163015 -0300" channel="Pop">
+    <title lang="pt">Rola ou Enrola</title>
+    <sub-title lang="pt">realizado em 05/08/2012</sub-title>
+    <desc lang="pt">No quadro "Rola ou Enrola" cinco solteiras estão em busca de um grande amor e tentam a sorte!</desc>
+    <category lang="en">variety show</category>
+    <date>05/08/2012</date>
+    <episode-num system="xmltv_ns">1.6.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20241024163458 -0300" stop="20241024180044 -0300" channel="Pop">
+    <title lang="pt">Xaveco</title>
+    <sub-title lang="pt">realizado em 28/04/2019</sub-title>
+    <desc lang="pt">O Xaveco é um game com perguntas e respostas, provas divertidas e muita paquera!</desc>
+    <category lang="en">variety show</category>
+    <date>28/04/2019</date>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20241024180527 -0300" stop="20241024195251 -0300" channel="Pop">
+    <title lang="pt">Famosos da Internet</title>
+    <sub-title lang="pt">realizado em 08/05/2022</sub-title>
+    <desc lang="pt">As chamadas “Celebridades da Internet” se apresentam no palco do programa da Eliana.</desc>
+    <category lang="en">variety show</category>
+    <date>08/05/2022</date>
+    <episode-num system="xmltv_ns">10..</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20241024195734 -0300" stop="20241024210134 -0300" channel="Pop">
+    <title lang="pt">Casos de Família</title>
+    <sub-title lang="pt">realizado em 16/05/2019</sub-title>
+    <desc lang="pt">O programa Casos de Família é baseado em conflitos que acontecem na vida de qualquer pessoa.</desc>
+    <category lang="en">variety show</category>
+    <date>16/05/2019</date>
+    <episode-num system="xmltv_ns">5..</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241024210617 -0300" stop="20241024222642 -0300" channel="Pop">
+    <title lang="pt">Rola ou Enrola</title>
+    <sub-title lang="pt">realizado em 05/08/2012</sub-title>
+    <desc lang="pt">No quadro "Rola ou Enrola" cinco solteiras estão em busca de um grande amor e tentam a sorte!</desc>
+    <category lang="en">variety show</category>
+    <date>05/08/2012</date>
+    <episode-num system="xmltv_ns">1.6.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20241024223125 -0300" stop="20241024235712 -0300" channel="Pop">
+    <title lang="pt">Xaveco</title>
+    <sub-title lang="pt">realizado em 28/04/2019</sub-title>
+    <desc lang="pt">O Xaveco é um game com perguntas e respostas, provas divertidas e muita paquera!</desc>
+    <category lang="en">variety show</category>
+    <date>28/04/2019</date>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
   </programme>
   <programme start="20241023192059 -0300" stop="20241023204613 -0300" channel="TV Zyn">
     <title lang="pt">Programa da Maisa</title>
@@ -41533,7 +42099,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
     <category lang="en">movie/drama (general)</category>
     <episode-num system="xmltv_ns">0.3.</episode-num>
   </programme>
-  <programme start="20241027175352 -0300" stop="20241027180934 -0300" channel="TV Zyn">
+  <programme start="20241027175352 -0300" stop="20241027184456 -0300" channel="TV Zyn">
     <title lang="pt">Carrossel</title>
     <desc lang="pt"> - Uma turminha animada que deixa o mundo mais divertido e musical. Embarca nesse Carrossel com eles.</desc>
     <category lang="en">adventure/western/war</category>
@@ -41542,38 +42108,16 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[Violência, Drogas Lícitas, Linguagem Imprópria]</value>
     </rating>
   </programme>
-  <programme start="20241023175707 -0300" stop="20241023180303 -0300" channel="Humor">
-    <title lang="pt">Câmeras Escondidas</title>
-    <sub-title lang="pt">Bazuca de Meleca</sub-title>
-    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
-    <category lang="en">comedy</category>
+  <programme start="20241027184939 -0300" stop="20241027194022 -0300" channel="TV Zyn">
+    <title lang="pt">Carrossel</title>
+    <desc lang="pt"> - Uma turminha animada que deixa o mundo mais divertido e musical. Embarca nesse Carrossel com eles.</desc>
+    <category lang="en">adventure/western/war</category>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
     <rating system="Brazil">
-      <value>[A12]</value>
+      <value>[Violência, Drogas Lícitas, Linguagem Imprópria]</value>
     </rating>
   </programme>
-  <programme start="20241023180835 -0300" stop="20241023183600 -0300" channel="Humor">
-    <title lang="pt">A Escolinha do Golias</title>
-    <sub-title lang="pt">realizado em 28/11/1990</sub-title>
-    <desc lang="pt">Pacífico deixará o professor Caliostro maluco com suas brincadeiras e artes dentro da sala de aula.</desc>
-    <category lang="en">comedy</category>
-    <date>28/11/1990</date>
-    <episode-num system="xmltv_ns">0.10.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20241023184122 -0300" stop="20241023190832 -0300" channel="Humor">
-    <title lang="pt">A Escolinha do Golias</title>
-    <sub-title lang="pt">realizado em 07/03/1991</sub-title>
-    <desc lang="pt">Pacífico deixará o professor Caliostro maluco com suas brincadeiras e artes dentro da sala de aula.</desc>
-    <category lang="en">comedy</category>
-    <date>07/03/1991</date>
-    <episode-num system="xmltv_ns">0.11.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20241023190842 -0300" stop="20241023201829 -0300" channel="Humor">
+  <programme start="20241023193001 -0300" stop="20241023201829 -0300" channel="Humor">
     <title lang="pt">Ô... Coitado</title>
     <sub-title lang="pt">20. Ô Esplêndida</sub-title>
     <desc lang="pt"> - Um empregada doméstica que vive tentando limpar a barra do patrão e sempre arranja confusão!</desc>
@@ -42260,94 +42804,1024 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[A12]</value>
     </rating>
   </programme>
-  <programme start="20241023175500 -0300" stop="20241023180145 -0300" channel="Criança">
-    <title lang="pt">Oi, Duggee</title>
-    <sub-title lang="pt">49. Duggee e o distintivo da surpresa</sub-title>
-    <desc lang="pt"> - Duggee é um cachorrão que atua como o líder de um clubinho chamado "Os Esquilos".</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.47.</episode-num>
+  <programme start="20241025001013 -0300" stop="20241025001609 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Bazuca de Meleca</sub-title>
+    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
     <rating system="Brazil">
-      <value>[AL]</value>
+      <value>[A12]</value>
     </rating>
   </programme>
-  <programme start="20241023180347 -0300" stop="20241023181050 -0300" channel="Criança">
-    <title lang="pt">Oi, Duggee</title>
-    <sub-title lang="pt">50. Duggee e o distintivo do ursinho</sub-title>
-    <desc lang="pt"> - Duggee é um cachorrão que atua como o líder de um clubinho chamado "Os Esquilos".</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.48.</episode-num>
+  <programme start="20241025002926 -0300" stop="20241025003442 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Mictório Interativo 2</sub-title>
+    <desc lang="pt">realizado em 14/07/2019 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>14/07/2019</date>
+    <episode-num system="xmltv_ns">2018.19194.</episode-num>
     <rating system="Brazil">
-      <value>[AL]</value>
+      <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241023181324 -0300" stop="20241023182336 -0300" channel="Criança">
-    <title lang="pt">Jojô e a Vovó</title>
-    <sub-title lang="pt">1. Hora de mandar um desenho pelos correios</sub-title>
-    <desc lang="pt"> - Acompanhe o dia a dia e as aventuras de Jojô e sua amada Vovó!</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
+  <programme start="20241025003442 -0300" stop="20241025004109 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Morto Pega Táxi</sub-title>
+    <desc lang="pt">realizado em 26/06/2022 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>26/06/2022</date>
+    <episode-num system="xmltv_ns">1.22176.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241023182513 -0300" stop="20241023183616 -0300" channel="Criança">
-    <title lang="pt">Jojô e a Vovó</title>
-    <sub-title lang="pt">2. Hora de pegar o ônibus</sub-title>
-    <desc lang="pt"> - Acompanhe o dia a dia e as aventuras de Jojô e sua amada Vovó!</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
+  <programme start="20241025004109 -0300" stop="20241025004711 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">O Eletrocutado</sub-title>
+    <desc lang="pt">realizado em 03/04/2022 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>03/04/2022</date>
+    <episode-num system="xmltv_ns">1.22092.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241023183748 -0300" stop="20241023184920 -0300" channel="Criança">
-    <title lang="pt">Peixonauta</title>
-    <sub-title lang="pt">30. O caso das sementes estranhas</sub-title>
-    <desc lang="pt"> - Peixonauta é um agente secreto da Organização Secreta para Total Recuperação Ambiental (OSTRA).</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.29.</episode-num>
+  <programme start="20241025005233 -0300" stop="20241025010108 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">O Exorcista do Papa</sub-title>
+    <desc lang="pt">realizado em 09/04/2023 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>09/04/2023</date>
+    <episode-num system="xmltv_ns">1.23098.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241023185107 -0300" stop="20241023190336 -0300" channel="Criança">
-    <title lang="pt">Peixonauta</title>
-    <sub-title lang="pt">31. O caso das gargalhadas</sub-title>
-    <desc lang="pt"> - Peixonauta é um agente secreto da Organização Secreta para Total Recuperação Ambiental (OSTRA).</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.30.</episode-num>
+  <programme start="20241025010108 -0300" stop="20241025010657 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Braço de Gesso</sub-title>
+    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[A12]</value>
     </rating>
   </programme>
-  <programme start="20241023190536 -0300" stop="20241023191215 -0300" channel="Criança">
-    <title lang="pt">Shaun, o Carneiro</title>
-    <sub-title lang="pt">39. Contatos imediatos do Shaun</sub-title>
-    <desc lang="pt"> - Prepare-se para muita diversão e confusão com as aventuras de Shaun, o Carneiro!</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.38.</episode-num>
+  <programme start="20241025010657 -0300" stop="20241025011331 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Palhaço no Elevador</sub-title>
+    <desc lang="pt">realizado em 21/03/2021 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>21/03/2021</date>
+    <episode-num system="xmltv_ns">1.21079.</episode-num>
     <rating system="Brazil">
-      <value>[AL]</value>
+      <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241023191408 -0300" stop="20241023192048 -0300" channel="Criança">
-    <title lang="pt">Shaun, o Carneiro</title>
-    <sub-title lang="pt">40. Abracadabra</sub-title>
-    <desc lang="pt"> - Prepare-se para muita diversão e confusão com as aventuras de Shaun, o Carneiro!</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.39.</episode-num>
+  <programme start="20241025011908 -0300" stop="20241025012522 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Shampoo Cai Cabelo</sub-title>
+    <desc lang="pt">realizado em 29/09/2019 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>29/09/2019</date>
+    <episode-num system="xmltv_ns">2018.19271.</episode-num>
     <rating system="Brazil">
-      <value>[AL]</value>
+      <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241023192240 -0300" stop="20241023192940 -0300" channel="Criança">
-    <title lang="pt">Shaun, o Carneiro</title>
-    <sub-title lang="pt">1. Encrenca em dobro</sub-title>
-    <desc lang="pt"> - Prepare-se para muita diversão e confusão com as aventuras de Shaun, o Carneiro!</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">1.0.</episode-num>
+  <programme start="20241025012940 -0300" stop="20241025013730 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Anabelle 3</sub-title>
+    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
     <rating system="Brazil">
-      <value>[AL]</value>
+      <value>[A12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025013740 -0300" stop="20241025024950 -0300" channel="Humor">
+    <title lang="pt">Programa Câmeras Escondidas</title>
+    <sub-title lang="pt">Pegadinhas na Pandemia</sub-title>
+    <desc lang="pt">realizado em 10/10/2021 - Você pediu, torceu e o SBT atendeu! Agora as Câmeras Escondidas passam a ter um programa próprio, exibido no digital do SBT.</desc>
+    <category lang="en">comedy</category>
+    <date>10/10/2021</date>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <rating system="Brazil">
+      <value>[A10]</value>
+    </rating>
+  </programme>
+  <programme start="20241025025000 -0300" stop="20241025025525 -0300" channel="Humor">
+    <title lang="pt">Zumbis na TV</title>
+    <sub-title lang="pt">realizado em 05/06/2022</sub-title>
+    <date>05/06/2022</date>
+    <episode-num system="xmltv_ns">2021.22155.</episode-num>
+  </programme>
+  <programme start="20241025025525 -0300" stop="20241025030325 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Doente no Hospital</sub-title>
+    <desc lang="pt">realizado em 03/07/2022 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>03/07/2022</date>
+    <episode-num system="xmltv_ns">1.22183.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025030325 -0300" stop="20241025031023 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Ivo Pedreiro</sub-title>
+    <desc lang="pt">realizado em 28/07/2019 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>28/07/2019</date>
+    <episode-num system="xmltv_ns">2.19208.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025031600 -0300" stop="20241025032257 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Levar Caixão no Ônibus</sub-title>
+    <desc lang="pt">realizado em 29/05/2022 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>29/05/2022</date>
+    <episode-num system="xmltv_ns">2.22148.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025033544 -0300" stop="20241025034105 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Cego no Elevador</sub-title>
+    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <rating system="Brazil">
+      <value>[A12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025034105 -0300" stop="20241025034630 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Abelha Cai da Árvore</sub-title>
+    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <rating system="Brazil">
+      <value>[A12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025034630 -0300" stop="20241025035433 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Almoço Inflacionado</sub-title>
+    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <rating system="Brazil">
+      <value>[A12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025041033 -0300" stop="20241025041629 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Bazuca de Meleca</sub-title>
+    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <rating system="Brazil">
+      <value>[A12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025042947 -0300" stop="20241025043502 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Mictório Interativo 2</sub-title>
+    <desc lang="pt">realizado em 14/07/2019 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>14/07/2019</date>
+    <episode-num system="xmltv_ns">2018.19194.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025043502 -0300" stop="20241025044129 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Morto Pega Táxi</sub-title>
+    <desc lang="pt">realizado em 26/06/2022 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>26/06/2022</date>
+    <episode-num system="xmltv_ns">1.22176.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025044129 -0300" stop="20241025044731 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">O Eletrocutado</sub-title>
+    <desc lang="pt">realizado em 03/04/2022 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>03/04/2022</date>
+    <episode-num system="xmltv_ns">1.22092.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025045253 -0300" stop="20241025050128 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">O Exorcista do Papa</sub-title>
+    <desc lang="pt">realizado em 09/04/2023 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>09/04/2023</date>
+    <episode-num system="xmltv_ns">1.23098.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025050128 -0300" stop="20241025050717 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Braço de Gesso</sub-title>
+    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <rating system="Brazil">
+      <value>[A12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025050717 -0300" stop="20241025051351 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Palhaço no Elevador</sub-title>
+    <desc lang="pt">realizado em 21/03/2021 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>21/03/2021</date>
+    <episode-num system="xmltv_ns">1.21079.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025051928 -0300" stop="20241025052543 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Shampoo Cai Cabelo</sub-title>
+    <desc lang="pt">realizado em 29/09/2019 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>29/09/2019</date>
+    <episode-num system="xmltv_ns">2018.19271.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025053000 -0300" stop="20241025053750 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Anabelle 3</sub-title>
+    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <rating system="Brazil">
+      <value>[A12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025053800 -0300" stop="20241025065011 -0300" channel="Humor">
+    <title lang="pt">Programa Câmeras Escondidas</title>
+    <sub-title lang="pt">Pegadinhas na Pandemia</sub-title>
+    <desc lang="pt">realizado em 10/10/2021 - Você pediu, torceu e o SBT atendeu! Agora as Câmeras Escondidas passam a ter um programa próprio, exibido no digital do SBT.</desc>
+    <category lang="en">comedy</category>
+    <date>10/10/2021</date>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <rating system="Brazil">
+      <value>[A10]</value>
+    </rating>
+  </programme>
+  <programme start="20241025065021 -0300" stop="20241025065546 -0300" channel="Humor">
+    <title lang="pt">Zumbis na TV</title>
+    <sub-title lang="pt">realizado em 05/06/2022</sub-title>
+    <date>05/06/2022</date>
+    <episode-num system="xmltv_ns">2021.22155.</episode-num>
+  </programme>
+  <programme start="20241025065546 -0300" stop="20241025070346 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Doente no Hospital</sub-title>
+    <desc lang="pt">realizado em 03/07/2022 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>03/07/2022</date>
+    <episode-num system="xmltv_ns">1.22183.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025070346 -0300" stop="20241025071043 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Ivo Pedreiro</sub-title>
+    <desc lang="pt">realizado em 28/07/2019 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>28/07/2019</date>
+    <episode-num system="xmltv_ns">2.19208.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025071620 -0300" stop="20241025072317 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Levar Caixão no Ônibus</sub-title>
+    <desc lang="pt">realizado em 29/05/2022 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>29/05/2022</date>
+    <episode-num system="xmltv_ns">2.22148.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025073604 -0300" stop="20241025074126 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Cego no Elevador</sub-title>
+    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <rating system="Brazil">
+      <value>[A12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025074126 -0300" stop="20241025074651 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Abelha Cai da Árvore</sub-title>
+    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <rating system="Brazil">
+      <value>[A12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025074651 -0300" stop="20241025075453 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Almoço Inflacionado</sub-title>
+    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <rating system="Brazil">
+      <value>[A12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025081054 -0300" stop="20241025081650 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Bazuca de Meleca</sub-title>
+    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <rating system="Brazil">
+      <value>[A12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025083007 -0300" stop="20241025083522 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Mictório Interativo 2</sub-title>
+    <desc lang="pt">realizado em 14/07/2019 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>14/07/2019</date>
+    <episode-num system="xmltv_ns">2018.19194.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025083522 -0300" stop="20241025084149 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Morto Pega Táxi</sub-title>
+    <desc lang="pt">realizado em 26/06/2022 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>26/06/2022</date>
+    <episode-num system="xmltv_ns">1.22176.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025084149 -0300" stop="20241025084752 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">O Eletrocutado</sub-title>
+    <desc lang="pt">realizado em 03/04/2022 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>03/04/2022</date>
+    <episode-num system="xmltv_ns">1.22092.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025085314 -0300" stop="20241025090149 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">O Exorcista do Papa</sub-title>
+    <desc lang="pt">realizado em 09/04/2023 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>09/04/2023</date>
+    <episode-num system="xmltv_ns">1.23098.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025090149 -0300" stop="20241025090738 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Braço de Gesso</sub-title>
+    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <rating system="Brazil">
+      <value>[A12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025090738 -0300" stop="20241025091412 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Palhaço no Elevador</sub-title>
+    <desc lang="pt">realizado em 21/03/2021 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>21/03/2021</date>
+    <episode-num system="xmltv_ns">1.21079.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025091949 -0300" stop="20241025092603 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Shampoo Cai Cabelo</sub-title>
+    <desc lang="pt">realizado em 29/09/2019 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>29/09/2019</date>
+    <episode-num system="xmltv_ns">2018.19271.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025093020 -0300" stop="20241025093811 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Anabelle 3</sub-title>
+    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <rating system="Brazil">
+      <value>[A12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025093821 -0300" stop="20241025105031 -0300" channel="Humor">
+    <title lang="pt">Programa Câmeras Escondidas</title>
+    <sub-title lang="pt">Pegadinhas na Pandemia</sub-title>
+    <desc lang="pt">realizado em 10/10/2021 - Você pediu, torceu e o SBT atendeu! Agora as Câmeras Escondidas passam a ter um programa próprio, exibido no digital do SBT.</desc>
+    <category lang="en">comedy</category>
+    <date>10/10/2021</date>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <rating system="Brazil">
+      <value>[A10]</value>
+    </rating>
+  </programme>
+  <programme start="20241025105041 -0300" stop="20241025105606 -0300" channel="Humor">
+    <title lang="pt">Zumbis na TV</title>
+    <sub-title lang="pt">realizado em 05/06/2022</sub-title>
+    <date>05/06/2022</date>
+    <episode-num system="xmltv_ns">2021.22155.</episode-num>
+  </programme>
+  <programme start="20241025105606 -0300" stop="20241025110406 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Doente no Hospital</sub-title>
+    <desc lang="pt">realizado em 03/07/2022 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>03/07/2022</date>
+    <episode-num system="xmltv_ns">1.22183.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025110406 -0300" stop="20241025111104 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Ivo Pedreiro</sub-title>
+    <desc lang="pt">realizado em 28/07/2019 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>28/07/2019</date>
+    <episode-num system="xmltv_ns">2.19208.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025111641 -0300" stop="20241025112338 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Levar Caixão no Ônibus</sub-title>
+    <desc lang="pt">realizado em 29/05/2022 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>29/05/2022</date>
+    <episode-num system="xmltv_ns">2.22148.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025113624 -0300" stop="20241025114146 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Cego no Elevador</sub-title>
+    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <rating system="Brazil">
+      <value>[A12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025114146 -0300" stop="20241025114711 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Abelha Cai da Árvore</sub-title>
+    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <rating system="Brazil">
+      <value>[A12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025114711 -0300" stop="20241025115514 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Almoço Inflacionado</sub-title>
+    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <rating system="Brazil">
+      <value>[A12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025121114 -0300" stop="20241025121710 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Bazuca de Meleca</sub-title>
+    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <rating system="Brazil">
+      <value>[A12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025123027 -0300" stop="20241025123543 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Mictório Interativo 2</sub-title>
+    <desc lang="pt">realizado em 14/07/2019 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>14/07/2019</date>
+    <episode-num system="xmltv_ns">2018.19194.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025123543 -0300" stop="20241025124210 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Morto Pega Táxi</sub-title>
+    <desc lang="pt">realizado em 26/06/2022 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>26/06/2022</date>
+    <episode-num system="xmltv_ns">1.22176.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025124210 -0300" stop="20241025124812 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">O Eletrocutado</sub-title>
+    <desc lang="pt">realizado em 03/04/2022 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>03/04/2022</date>
+    <episode-num system="xmltv_ns">1.22092.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025125334 -0300" stop="20241025130209 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">O Exorcista do Papa</sub-title>
+    <desc lang="pt">realizado em 09/04/2023 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>09/04/2023</date>
+    <episode-num system="xmltv_ns">1.23098.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025130209 -0300" stop="20241025130758 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Braço de Gesso</sub-title>
+    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <rating system="Brazil">
+      <value>[A12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025130758 -0300" stop="20241025131432 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Palhaço no Elevador</sub-title>
+    <desc lang="pt">realizado em 21/03/2021 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>21/03/2021</date>
+    <episode-num system="xmltv_ns">1.21079.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025132009 -0300" stop="20241025132623 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Shampoo Cai Cabelo</sub-title>
+    <desc lang="pt">realizado em 29/09/2019 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>29/09/2019</date>
+    <episode-num system="xmltv_ns">2018.19271.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025133041 -0300" stop="20241025133831 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Anabelle 3</sub-title>
+    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <rating system="Brazil">
+      <value>[A12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025133841 -0300" stop="20241025145051 -0300" channel="Humor">
+    <title lang="pt">Programa Câmeras Escondidas</title>
+    <sub-title lang="pt">Pegadinhas na Pandemia</sub-title>
+    <desc lang="pt">realizado em 10/10/2021 - Você pediu, torceu e o SBT atendeu! Agora as Câmeras Escondidas passam a ter um programa próprio, exibido no digital do SBT.</desc>
+    <category lang="en">comedy</category>
+    <date>10/10/2021</date>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <rating system="Brazil">
+      <value>[A10]</value>
+    </rating>
+  </programme>
+  <programme start="20241025145101 -0300" stop="20241025145626 -0300" channel="Humor">
+    <title lang="pt">Zumbis na TV</title>
+    <sub-title lang="pt">realizado em 05/06/2022</sub-title>
+    <date>05/06/2022</date>
+    <episode-num system="xmltv_ns">2021.22155.</episode-num>
+  </programme>
+  <programme start="20241025145626 -0300" stop="20241025150426 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Doente no Hospital</sub-title>
+    <desc lang="pt">realizado em 03/07/2022 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>03/07/2022</date>
+    <episode-num system="xmltv_ns">1.22183.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025150426 -0300" stop="20241025151124 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Ivo Pedreiro</sub-title>
+    <desc lang="pt">realizado em 28/07/2019 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>28/07/2019</date>
+    <episode-num system="xmltv_ns">2.19208.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025151701 -0300" stop="20241025152358 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Levar Caixão no Ônibus</sub-title>
+    <desc lang="pt">realizado em 29/05/2022 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>29/05/2022</date>
+    <episode-num system="xmltv_ns">2.22148.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025153645 -0300" stop="20241025154207 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Cego no Elevador</sub-title>
+    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <rating system="Brazil">
+      <value>[A12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025154207 -0300" stop="20241025154731 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Abelha Cai da Árvore</sub-title>
+    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <rating system="Brazil">
+      <value>[A12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025154731 -0300" stop="20241025155534 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Almoço Inflacionado</sub-title>
+    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <rating system="Brazil">
+      <value>[A12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025161135 -0300" stop="20241025161730 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Bazuca de Meleca</sub-title>
+    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <rating system="Brazil">
+      <value>[A12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025163048 -0300" stop="20241025163603 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Mictório Interativo 2</sub-title>
+    <desc lang="pt">realizado em 14/07/2019 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>14/07/2019</date>
+    <episode-num system="xmltv_ns">2018.19194.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025163603 -0300" stop="20241025164230 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Morto Pega Táxi</sub-title>
+    <desc lang="pt">realizado em 26/06/2022 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>26/06/2022</date>
+    <episode-num system="xmltv_ns">1.22176.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025164230 -0300" stop="20241025164832 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">O Eletrocutado</sub-title>
+    <desc lang="pt">realizado em 03/04/2022 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>03/04/2022</date>
+    <episode-num system="xmltv_ns">1.22092.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025165355 -0300" stop="20241025170230 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">O Exorcista do Papa</sub-title>
+    <desc lang="pt">realizado em 09/04/2023 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>09/04/2023</date>
+    <episode-num system="xmltv_ns">1.23098.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025170230 -0300" stop="20241025170818 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Braço de Gesso</sub-title>
+    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <rating system="Brazil">
+      <value>[A12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025170818 -0300" stop="20241025171452 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Palhaço no Elevador</sub-title>
+    <desc lang="pt">realizado em 21/03/2021 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>21/03/2021</date>
+    <episode-num system="xmltv_ns">1.21079.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025172030 -0300" stop="20241025172644 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Shampoo Cai Cabelo</sub-title>
+    <desc lang="pt">realizado em 29/09/2019 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>29/09/2019</date>
+    <episode-num system="xmltv_ns">2018.19271.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025173101 -0300" stop="20241025173852 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Anabelle 3</sub-title>
+    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <rating system="Brazil">
+      <value>[A12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025173902 -0300" stop="20241025185112 -0300" channel="Humor">
+    <title lang="pt">Programa Câmeras Escondidas</title>
+    <sub-title lang="pt">Pegadinhas na Pandemia</sub-title>
+    <desc lang="pt">realizado em 10/10/2021 - Você pediu, torceu e o SBT atendeu! Agora as Câmeras Escondidas passam a ter um programa próprio, exibido no digital do SBT.</desc>
+    <category lang="en">comedy</category>
+    <date>10/10/2021</date>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <rating system="Brazil">
+      <value>[A10]</value>
+    </rating>
+  </programme>
+  <programme start="20241025185122 -0300" stop="20241025185647 -0300" channel="Humor">
+    <title lang="pt">Zumbis na TV</title>
+    <sub-title lang="pt">realizado em 05/06/2022</sub-title>
+    <date>05/06/2022</date>
+    <episode-num system="xmltv_ns">2021.22155.</episode-num>
+  </programme>
+  <programme start="20241025185647 -0300" stop="20241025190447 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Doente no Hospital</sub-title>
+    <desc lang="pt">realizado em 03/07/2022 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>03/07/2022</date>
+    <episode-num system="xmltv_ns">1.22183.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025190447 -0300" stop="20241025191144 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Ivo Pedreiro</sub-title>
+    <desc lang="pt">realizado em 28/07/2019 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>28/07/2019</date>
+    <episode-num system="xmltv_ns">2.19208.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025191722 -0300" stop="20241025192418 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Levar Caixão no Ônibus</sub-title>
+    <desc lang="pt">realizado em 29/05/2022 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>29/05/2022</date>
+    <episode-num system="xmltv_ns">2.22148.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025193705 -0300" stop="20241025194227 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Cego no Elevador</sub-title>
+    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <rating system="Brazil">
+      <value>[A12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025194227 -0300" stop="20241025194752 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Abelha Cai da Árvore</sub-title>
+    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <rating system="Brazil">
+      <value>[A12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025194752 -0300" stop="20241025195554 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Almoço Inflacionado</sub-title>
+    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <rating system="Brazil">
+      <value>[A12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025201155 -0300" stop="20241025201751 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Bazuca de Meleca</sub-title>
+    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <rating system="Brazil">
+      <value>[A12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025203108 -0300" stop="20241025203623 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Mictório Interativo 2</sub-title>
+    <desc lang="pt">realizado em 14/07/2019 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>14/07/2019</date>
+    <episode-num system="xmltv_ns">2018.19194.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025203623 -0300" stop="20241025204251 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Morto Pega Táxi</sub-title>
+    <desc lang="pt">realizado em 26/06/2022 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>26/06/2022</date>
+    <episode-num system="xmltv_ns">1.22176.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025204251 -0300" stop="20241025204853 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">O Eletrocutado</sub-title>
+    <desc lang="pt">realizado em 03/04/2022 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>03/04/2022</date>
+    <episode-num system="xmltv_ns">1.22092.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025205415 -0300" stop="20241025210250 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">O Exorcista do Papa</sub-title>
+    <desc lang="pt">realizado em 09/04/2023 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>09/04/2023</date>
+    <episode-num system="xmltv_ns">1.23098.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025210250 -0300" stop="20241025210839 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Braço de Gesso</sub-title>
+    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <rating system="Brazil">
+      <value>[A12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025210839 -0300" stop="20241025211513 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Palhaço no Elevador</sub-title>
+    <desc lang="pt">realizado em 21/03/2021 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>21/03/2021</date>
+    <episode-num system="xmltv_ns">1.21079.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025212050 -0300" stop="20241025212704 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Shampoo Cai Cabelo</sub-title>
+    <desc lang="pt">realizado em 29/09/2019 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>29/09/2019</date>
+    <episode-num system="xmltv_ns">2018.19271.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025213121 -0300" stop="20241025213912 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Anabelle 3</sub-title>
+    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <rating system="Brazil">
+      <value>[A12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025213922 -0300" stop="20241025225132 -0300" channel="Humor">
+    <title lang="pt">Programa Câmeras Escondidas</title>
+    <sub-title lang="pt">Pegadinhas na Pandemia</sub-title>
+    <desc lang="pt">realizado em 10/10/2021 - Você pediu, torceu e o SBT atendeu! Agora as Câmeras Escondidas passam a ter um programa próprio, exibido no digital do SBT.</desc>
+    <category lang="en">comedy</category>
+    <date>10/10/2021</date>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <rating system="Brazil">
+      <value>[A10]</value>
+    </rating>
+  </programme>
+  <programme start="20241025225142 -0300" stop="20241025225707 -0300" channel="Humor">
+    <title lang="pt">Zumbis na TV</title>
+    <sub-title lang="pt">realizado em 05/06/2022</sub-title>
+    <date>05/06/2022</date>
+    <episode-num system="xmltv_ns">2021.22155.</episode-num>
+  </programme>
+  <programme start="20241025225707 -0300" stop="20241025230507 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Doente no Hospital</sub-title>
+    <desc lang="pt">realizado em 03/07/2022 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>03/07/2022</date>
+    <episode-num system="xmltv_ns">1.22183.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025230507 -0300" stop="20241025231205 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Ivo Pedreiro</sub-title>
+    <desc lang="pt">realizado em 28/07/2019 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>28/07/2019</date>
+    <episode-num system="xmltv_ns">2.19208.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025231742 -0300" stop="20241025232439 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Levar Caixão no Ônibus</sub-title>
+    <desc lang="pt">realizado em 29/05/2022 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>29/05/2022</date>
+    <episode-num system="xmltv_ns">2.22148.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025233725 -0300" stop="20241025234247 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Cego no Elevador</sub-title>
+    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <rating system="Brazil">
+      <value>[A12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025234247 -0300" stop="20241025234812 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Abelha Cai da Árvore</sub-title>
+    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <rating system="Brazil">
+      <value>[A12]</value>
+    </rating>
+  </programme>
+  <programme start="20241025234812 -0300" stop="20241025235615 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Almoço Inflacionado</sub-title>
+    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <rating system="Brazil">
+      <value>[A12]</value>
     </rating>
   </programme>
   <programme start="20241023193112 -0300" stop="20241023194052 -0300" channel="Criança">
@@ -44991,16 +46465,87 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[AL]</value>
     </rating>
   </programme>
-  <programme start="20241023174133 -0300" stop="20241023180140 -0300" channel="Cinema">
-    <title lang="pt">Três Ladrões e um Bebê</title>
-    <desc lang="pt"> - Três ladrões cuidam de um bebê valioso e enfrentam problemas.</desc>
-    <category lang="en">detective/thriller</category>
-    <episode-num system="xmltv_ns">.0.</episode-num>
+  <programme start="20241027180748 -0300" stop="20241027181453 -0300" channel="Criança">
+    <title lang="pt">Oi, Duggee</title>
+    <sub-title lang="pt">11. Duggee e o distintivo da olaria</sub-title>
+    <desc lang="pt"> - Duggee é um cachorrão que atua como o líder de um clubinho chamado "Os Esquilos".</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">1.10.</episode-num>
     <rating system="Brazil">
-      <value>[10]</value>
+      <value>[AL]</value>
     </rating>
   </programme>
-  <programme start="20241023180205 -0300" stop="20241023194218 -0300" channel="Cinema">
+  <programme start="20241027181726 -0300" stop="20241027182739 -0300" channel="Criança">
+    <title lang="pt">Jojô e a Vovó</title>
+    <sub-title lang="pt">9. É hora de cuidar de uma flor</sub-title>
+    <desc lang="pt"> - Acompanhe o dia a dia e as aventuras de Jojô e sua amada Vovó!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20241027182916 -0300" stop="20241027184027 -0300" channel="Criança">
+    <title lang="pt">Jojô e a Vovó</title>
+    <sub-title lang="pt">10. É hora de ver fotos antigas</sub-title>
+    <desc lang="pt"> - Acompanhe o dia a dia e as aventuras de Jojô e sua amada Vovó!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20241027184159 -0300" stop="20241027185331 -0300" channel="Criança">
+    <title lang="pt">Peixonauta</title>
+    <sub-title lang="pt">38. O caso dos gravetos desaparecidos</sub-title>
+    <desc lang="pt"> - Peixonauta é um agente secreto da Organização Secreta para Total Recuperação Ambiental (OSTRA).</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.37.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20241027185518 -0300" stop="20241027190748 -0300" channel="Criança">
+    <title lang="pt">Peixonauta</title>
+    <sub-title lang="pt">39. O caso do sumiço dos grilos</sub-title>
+    <desc lang="pt"> - Peixonauta é um agente secreto da Organização Secreta para Total Recuperação Ambiental (OSTRA).</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.38.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20241027190947 -0300" stop="20241027191627 -0300" channel="Criança">
+    <title lang="pt">Shaun, o Carneiro</title>
+    <sub-title lang="pt">10. Trancado</sub-title>
+    <desc lang="pt"> - Prepare-se para muita diversão e confusão com as aventuras de Shaun, o Carneiro!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">1.9.</episode-num>
+    <rating system="Brazil">
+      <value>[AL]</value>
+    </rating>
+  </programme>
+  <programme start="20241027191819 -0300" stop="20241027192459 -0300" channel="Criança">
+    <title lang="pt">Shaun, o Carneiro</title>
+    <sub-title lang="pt">11. O leopardo trapaceiro</sub-title>
+    <desc lang="pt"> - Prepare-se para muita diversão e confusão com as aventuras de Shaun, o Carneiro!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">1.10.</episode-num>
+    <rating system="Brazil">
+      <value>[AL]</value>
+    </rating>
+  </programme>
+  <programme start="20241027192651 -0300" stop="20241027193351 -0300" channel="Criança">
+    <title lang="pt">Shaun, o Carneiro</title>
+    <sub-title lang="pt">12. Os óculos</sub-title>
+    <desc lang="pt"> - Prepare-se para muita diversão e confusão com as aventuras de Shaun, o Carneiro!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">1.11.</episode-num>
+    <rating system="Brazil">
+      <value>[AL]</value>
+    </rating>
+  </programme>
+  <programme start="20241023192554 -0300" stop="20241023194218 -0300" channel="Cinema">
     <title lang="pt">Em Busca dos Seus Sonhos</title>
     <desc lang="pt"> - Rita se muda para a capital com o sonho de cursar teatro. Como será seus desafios longe do litoral?</desc>
     <category lang="en">comedy</category>
@@ -45146,15 +46691,6 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
     <sub-title lang="pt">Filmes do catálogo</sub-title>
     <desc lang="pt"> - Confira alguns filmes que separamos para você!</desc>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20241023180205 -0300" stop="20241023194218 -0300" channel="Cinema">
-    <title lang="pt">Em Busca dos Seus Sonhos</title>
-    <desc lang="pt"> - Rita se muda para a capital com o sonho de cursar teatro. Como serÃ¡ seus desafios longe do litoral?</desc>
-    <category lang="en">comedy</category>
-    <episode-num system="xmltv_ns">.0.</episode-num>
-    <rating system="Brazil">
-      <value>[16]</value>
-    </rating>
   </programme>
   <programme start="20241023194238 -0300" stop="20241023214436 -0300" channel="Cinema">
     <title lang="pt">Preciso Ser Pai</title>
