@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2024-12-05 16:45:06" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2024-12-05 18:15:05" generator-info-url="http://limaalef.com">
   <channel id="Claro TV+ 4K">
     <display-name lang="pt">Claro TV+ 4K</display-name>
   </channel>
@@ -89,6 +89,9 @@
   </channel>
   <channel id="CLARO TV HD">
     <display-name lang="pt">CLARO TV HD</display-name>
+  </channel>
+  <channel id="CCXP na Claro TV+">
+    <display-name lang="pt">CCXP na Claro TV+</display-name>
   </channel>
   <channel id="1682">
     <display-name lang="pt">1682</display-name>
@@ -477,17 +480,17 @@
     <desc lang="pt"> - O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20241205143000 -0300" stop="20241205150000 -0300" channel="ESPN 2">
+  <programme start="20241205143000 -0300" stop="20241205145500 -0300" channel="ESPN 2">
     <title lang="pt">Show da Rodada do LaLiga</title>
     <desc lang="pt"> - Fique por dentro de tudo o que aconteceu na última rodada da Liga das Estrelas, o Campeonato Espanhol de futebol. Todos os gols e os principais lances da liga que reúne os melhores jogadores do mundo.</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20241205150000 -0300" stop="20241205171000 -0300" channel="ESPN 2">
-    <title lang="pt">VT - River Plate x San Lorenzo</title>
-    <desc lang="pt"> - Paixão nas arquibancadas e disputas emocionantes dentro de campo. A Liga Profissional de Futebol da Argentina reúne as equipes da primeira divisão do país em um combo perfeito para os mais fanáticos torcedores.</desc>
-    <category lang="en">sports (general)</category>
+  <programme start="20241205145500 -0300" stop="20241205170000 -0300" channel="ESPN 2">
+    <title lang="pt">Cacereño x Atlético de Madrid - Ao Vivo</title>
+    <desc lang="pt"> - A Copa do Rei é o principal torneio mata-mata da Espanha. Todos os anos, 116 clubes das quatro principais divisões do futebol espanhol saem em busca da taça.</desc>
+    <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20241205171000 -0300" stop="20241205191500 -0300" channel="ESPN 2">
+  <programme start="20241205170000 -0300" stop="20241205191500 -0300" channel="ESPN 2">
     <title lang="pt">Moreirense x Sporting - Ao Vivo</title>
     <desc lang="pt"> - É a divisão de elite do futebol português e um dos maiores campeonatos da Europa. Acompanhe 18 clubes na luta pelo título e pelas vagas nas competições do continente.</desc>
     <category lang="en">live broadcast</category>
@@ -498,7 +501,7 @@
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20241205194500 -0300" stop="20241205204500 -0300" channel="ESPN 2">
-    <title lang="pt">VT - NFL</title>
+    <title lang="pt">VT - NFL: Pittsburgh Steelers x Cincinnati Bengals</title>
     <desc lang="pt"> - Touchdowns, viradas espetaculares, jogadas que entram para a história e os melhores atletas em campo. A NFL reúne a elite do futebol americano.</desc>
     <category lang="en">sports (general)</category>
   </programme>
@@ -7674,6 +7677,45 @@
       <value>[L]</value>
     </rating>
   </programme>
+  <programme start="20241207000000 -0300" stop="20241207060000 -0300" channel="CCXP na Claro TV+">
+    <title lang="pt">Dicas do Que Assistir? Aqui Tem!</title>
+    <desc lang="pt"> - Sinopse não disponível.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20241207060000 -0300" stop="20241207120000 -0300" channel="CCXP na Claro TV+">
+    <title lang="pt">Programe-se com as Dicas do Like</title>
+    <desc lang="pt"> - Sinopse não disponível.</desc>
+    <episode-num system="xmltv_ns">5.341.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20241207120000 -0300" stop="20241207180000 -0300" channel="CCXP na Claro TV+">
+    <title lang="pt">Trailers, Entrevistas e Festivais</title>
+    <desc lang="pt"> - Sinopse não disponível.</desc>
+    <episode-num system="xmltv_ns">11.341.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20241207180000 -0300" stop="20241207220000 -0300" channel="CCXP na Claro TV+">
+    <title lang="pt">Fique Por Dentro dos Filmes e Programas de TV</title>
+    <desc lang="pt"> - Sinopse não disponível.</desc>
+    <episode-num system="xmltv_ns">17.341.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20241207220000 -0300" stop="20241208000000 -0300" channel="CCXP na Claro TV+">
+    <title lang="pt">Todas as Novidades da Sua TV Por Assinatura</title>
+    <desc lang="pt"> - Sinopse não disponível.</desc>
+    <episode-num system="xmltv_ns">21.341.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
   <programme start="20241207000000 -0300" stop="20241207020000 -0300" channel="Claro TV+ 4K">
     <title lang="pt">Transmissão sportv 4K</title>
     <desc lang="pt"> - Sinopse Não Disponível.</desc>
@@ -11268,6 +11310,45 @@
       <value>[L]</value>
     </rating>
   </programme>
+  <programme start="20241208000000 -0300" stop="20241208060000 -0300" channel="CCXP na Claro TV+">
+    <title lang="pt">Dicas do Que Assistir? Aqui Tem!</title>
+    <desc lang="pt"> - Sinopse não disponível.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20241208060000 -0300" stop="20241208120000 -0300" channel="CCXP na Claro TV+">
+    <title lang="pt">Programe-se com as Dicas do Like</title>
+    <desc lang="pt"> - Sinopse não disponível.</desc>
+    <episode-num system="xmltv_ns">5.342.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20241208120000 -0300" stop="20241208180000 -0300" channel="CCXP na Claro TV+">
+    <title lang="pt">Trailers, Entrevistas e Festivais</title>
+    <desc lang="pt"> - Sinopse não disponível.</desc>
+    <episode-num system="xmltv_ns">11.342.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20241208180000 -0300" stop="20241208220000 -0300" channel="CCXP na Claro TV+">
+    <title lang="pt">Fique Por Dentro dos Filmes e Programas de TV</title>
+    <desc lang="pt"> - Sinopse não disponível.</desc>
+    <episode-num system="xmltv_ns">17.342.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20241208220000 -0300" stop="20241209000000 -0300" channel="CCXP na Claro TV+">
+    <title lang="pt">Todas as Novidades da Sua TV Por Assinatura</title>
+    <desc lang="pt"> - Sinopse não disponível.</desc>
+    <episode-num system="xmltv_ns">21.342.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
   <programme start="20241208000000 -0300" stop="20241208020000 -0300" channel="Claro TV+ 4K">
     <title lang="pt">Transmissão sportv 4K</title>
     <desc lang="pt"> - Sinopse Não Disponível.</desc>
@@ -14656,6 +14737,45 @@
   <programme start="20241208220000 -0300" stop="20241209000000 -0300" channel="CLARO TV HD">
     <title lang="pt">#SeLigaNaClaro e confira as estreias do NOW</title>
     <desc lang="pt"> - O NOW traz os mais recentes lançamentos do cinema e mais de 50 mil títulos, entre filmes, series, desenhos, shows e muito mais, para assistir na hora que você quiser e onde você estiver. Aperte 1 para acessar.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20241209000000 -0300" stop="20241209060000 -0300" channel="CCXP na Claro TV+">
+    <title lang="pt">Dicas do Que Assistir? Aqui Tem!</title>
+    <desc lang="pt"> - Sinopse não disponível.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20241209060000 -0300" stop="20241209120000 -0300" channel="CCXP na Claro TV+">
+    <title lang="pt">Trailers, Entrevistas e Festivais</title>
+    <desc lang="pt"> - Sinopse não disponível.</desc>
+    <episode-num system="xmltv_ns">5.343.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20241209120000 -0300" stop="20241209180000 -0300" channel="CCXP na Claro TV+">
+    <title lang="pt">Programe-se com as Dicas do Like</title>
+    <desc lang="pt"> - Sinopse não disponível.</desc>
+    <episode-num system="xmltv_ns">11.343.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20241209180000 -0300" stop="20241209220000 -0300" channel="CCXP na Claro TV+">
+    <title lang="pt">Fique Por Dentro dos Filmes e Programas de TV</title>
+    <desc lang="pt"> - Sinopse não disponível.</desc>
+    <episode-num system="xmltv_ns">17.343.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20241209220000 -0300" stop="20241210000000 -0300" channel="CCXP na Claro TV+">
+    <title lang="pt">Todas as Novidades da Sua TV Por Assinatura</title>
+    <desc lang="pt"> - Sinopse não disponível.</desc>
+    <episode-num system="xmltv_ns">21.343.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -18306,6 +18426,11 @@
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
+  <programme start="" stop="" channel="1682">
+    <title lang="pt">Reapresentação de Comissão</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
   <programme start="" stop="" channel="1765">
     <title lang="pt">Brasil em Constituição</title>
     <desc lang="pt"> - </desc>
@@ -18461,6 +18586,11 @@
     <desc lang="pt"> - </desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
+  <programme start="" stop="" channel="1765">
+    <title lang="pt">Brasil em Constituição</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">movie/drama (general)</category>
+  </programme>
   <programme start="" stop="" channel="1779">
     <title lang="pt">Senadoc: Senado, A História Que Transformou O Brasil - Tentaram Derrubar, Mas a Casa Não Ca</title>
     <desc lang="pt"> - </desc>
@@ -18581,6 +18711,11 @@
     <title lang="pt">Comissão</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
+  </programme>
+  <programme start="" stop="" channel="1779">
+    <title lang="pt">Senadoc: Arqueologia do Poeta</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
   </programme>
   <programme start="" stop="" channel="2302">
     <title lang="pt">Mulheres pela Independência</title>
@@ -18704,6 +18839,11 @@
   </programme>
   <programme start="" stop="" channel="2302">
     <title lang="pt">Atos do Executivo</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="" stop="" channel="2302">
+    <title lang="pt">Mulheres pela Independência</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
@@ -19507,11 +19647,6 @@
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
-  <programme start="" stop="" channel="1765">
-    <title lang="pt">Iluminuras</title>
-    <desc lang="pt"> - </desc>
-    <category lang="en">variety show</category>
-  </programme>
   <programme start="" stop="" channel="1779">
     <title lang="pt">Senadoc: Fico Te Devendo Uma Carta Sobre O Brasil</title>
     <desc lang="pt"> - </desc>
@@ -19697,11 +19832,6 @@
     <desc lang="pt"> - </desc>
     <category lang="en">movie/drama (general)</category>
   </programme>
-  <programme start="" stop="" channel="1779">
-    <title lang="pt">Tela Brasil</title>
-    <desc lang="pt"> - </desc>
-    <category lang="en">documentary</category>
-  </programme>
   <programme start="" stop="" channel="2302">
     <title lang="pt">Mulheres pela Independência</title>
     <desc lang="pt"> - </desc>
@@ -19859,11 +19989,6 @@
   </programme>
   <programme start="" stop="" channel="2302">
     <title lang="pt">Fala MDS</title>
-    <desc lang="pt"> - </desc>
-    <category lang="en">variety show</category>
-  </programme>
-  <programme start="" stop="" channel="2302">
-    <title lang="pt">Me conta Brasil</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
@@ -20167,11 +20292,6 @@
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
-  <programme start="" stop="" channel="1765">
-    <title lang="pt">Iluminuras</title>
-    <desc lang="pt"> - </desc>
-    <category lang="en">variety show</category>
-  </programme>
   <programme start="" stop="" channel="1779">
     <title lang="pt">Tela Brasil</title>
     <desc lang="pt"> - </desc>
@@ -20334,11 +20454,6 @@
     <desc lang="pt"> - </desc>
     <category lang="en">movie/drama (general)</category>
   </programme>
-  <programme start="" stop="" channel="1779">
-    <title lang="pt">Tela Brasil: Guerras do Brasil.doc - As Guerras de Palmares</title>
-    <desc lang="pt"> - </desc>
-    <category lang="en">documentary</category>
-  </programme>
   <programme start="" stop="" channel="2302">
     <title lang="pt">Me conta Brasil</title>
     <desc lang="pt"> - </desc>
@@ -20491,11 +20606,6 @@
   </programme>
   <programme start="" stop="" channel="2302">
     <title lang="pt">Me conta Brasil</title>
-    <desc lang="pt"> - </desc>
-    <category lang="en">variety show</category>
-  </programme>
-  <programme start="" stop="" channel="2302">
-    <title lang="pt">Nossos Biomas</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
@@ -21292,35 +21402,33 @@
     <desc lang="pt"> - Confira o que está acontecendo nos esportes de maneira breve e bem humorada, esteja ligado nos memes, trends, e tudo sobre o sobre o esporte.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20241205130057 -0300" stop="20241205155141 -0300" channel="sportv">
+  <programme start="20241205130057 -0300" stop="20241205164720 -0300" channel="sportv">
     <title lang="pt">Seleção sportv - ao vivo</title>
     <desc lang="pt"> - Os principais comentaristas da Globo e do sportv formam uma seleção de craques, recebidos por André Rizek para debater os assuntos que são notícia no mundo do futebol. 
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20241205155215 -0300" stop="20241205163037 -0300" channel="sportv">
-    <title lang="pt">Globo Esporte - Inédito</title>
-    <desc lang="pt"> - Um pouquinho de cada Globo Esporte espalhado pelo Brasil. As principais histórias, notícias, num mosaico leve e informativo. 
-</desc>
-    <category lang="en">sports (general)</category>
-    <new />
+  <programme start="20241205164724 -0300" stop="20241205170844 -0300" channel="sportv">
+    <title lang="pt">Tá Na Área - Tá na Área - ao vivo</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20241205163040 -0300" stop="20241205183159 -0300" channel="sportv">
+  <programme start="20241205170846 -0300" stop="20241205191005 -0300" channel="sportv">
     <title lang="pt">Tá Na Área - ao vivo</title>
     <desc lang="pt"> - Aproveite o finalzinho da tarde para relaxar e de maneira divertida fique por dentro de todos os assunto em alta do esporte com Camila Carelli e Thiago Benevenutte.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20241205183212 -0300" stop="20241205192559 -0300" channel="sportv">
+  <programme start="20241205191008 -0300" stop="20241205200355 -0300" channel="sportv">
     <title lang="pt">Aquecimento sportv: Brasileirão - Fluminense x Cuiabá - ao vivo</title>
     <desc lang="pt">Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes, aqui no sportv!</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20241205192609 -0300" stop="20241205213223 -0300" channel="sportv">
+  <programme start="20241205200356 -0300" stop="20241205221010 -0300" channel="sportv">
     <title lang="pt">Brasileirão: Fluminense x Cuiabá - ao vivo</title>
     <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário! Tá no Brasileirão, tá no sportv.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20241205213237 -0300" stop="20241205225206 -0300" channel="sportv">
+  <programme start="20241205221014 -0300" stop="20241205232959 -0300" channel="sportv">
     <title lang="pt">Troca de Passes - ao vivo</title>
     <desc lang="pt"> - Felipe Diniz troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada. Veja os melhores momentos, tire as dúvidas daquele lance polêmico  acompanhe a repercussão com jogadores e treinadores no calor do jogo. Aqui ninguém fica em cima do muro. 
 </desc>
@@ -21390,21 +21498,21 @@
     <desc lang="pt"> - </desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20241205121927 -0300" stop="20241205145010 -0300" channel="sportv-2">
+  <programme start="20241205121927 -0300" stop="20241205145006 -0300" channel="sportv-2">
     <title lang="pt">VT - Superliga Feminina: Praia Clube x Osasco</title>
     <desc lang="pt">O sportv é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa, tá no sportv! 
 </desc>
     <category lang="en">team sports</category>
     <previously-shown />
   </programme>
-  <programme start="20241205145011 -0300" stop="20241205162810 -0300" channel="sportv-2">
+  <programme start="20241205145011 -0300" stop="20241205162413 -0300" channel="sportv-2">
     <title lang="pt">CONMEBOL Libertadores Futebol de Areia: Vasco x Ferrocarril (Arg) - ao vivo</title>
     <sub-title lang="pt">Quartas de Final</sub-title>
     <desc lang="pt">As maiores estrelas do Futebol de Areia se encontram aqui no sportv. Confira agora mais um jogão da Copa Libertadores de Futebol de Areia.
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20241205162811 -0300" stop="20241205171834 -0300" channel="sportv-2">
+  <programme start="20241205162415 -0300" stop="20241205171508 -0300" channel="sportv-2">
     <title lang="pt">As Bicampeães</title>
     <desc lang="pt"> - A série documental AS BICAMPEÃS, acompanha a história da Seleção de vôlei feminino de 2004 a 2012, quando o time brasileiro conquistou duas medalhas de ouro olímpicas inéditas. A série revela desafios, bastidores, processos e emoções dessa trajetória que reverteu a fama de amarelonas da seleção e alçou o time a uma hegemonia histórica.</desc>
     <category lang="en">sports (general)</category>
@@ -21413,29 +21521,26 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241205171836 -0300" stop="20241205181056 -0300" channel="sportv-2">
-    <title lang="pt">As Bicampeães</title>
-    <desc lang="pt"> - A série documental AS BICAMPEÃS, acompanha a história da Seleção de vôlei feminino de 2004 a 2012, quando o time brasileiro conquistou duas medalhas de ouro olímpicas inéditas. A série revela desafios, bastidores, processos e emoções dessa trajetória que reverteu a fama de amarelonas da seleção e alçou o time a uma hegemonia histórica.</desc>
+  <programme start="20241205171510 -0300" stop="20241205174257 -0300" channel="sportv-2">
+    <title lang="pt">1/1 FOME DE MEDALHA - VÔLEI DE PRAIA 0</title>
+    <desc lang="pt"> - </desc>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">.1.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+    <episode-num system="xmltv_ns">.0.</episode-num>
   </programme>
-  <programme start="20241205181057 -0300" stop="20241205204231 -0300" channel="sportv-2">
+  <programme start="20241205174258 -0300" stop="20241205201502 -0300" channel="sportv-2">
     <title lang="pt">VT - Superliga Feminina: Praia Clube x Osasco</title>
     <desc lang="pt">O sportv é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa, tá no sportv! 
 </desc>
     <category lang="en">team sports</category>
     <previously-shown />
   </programme>
-  <programme start="20241205204236 -0300" stop="20241205224755 -0300" channel="sportv-2">
+  <programme start="20241205201507 -0300" stop="20241205222026 -0300" channel="sportv-2">
     <title lang="pt">NBB: Caxias x Franca - ao vivo</title>
     <desc lang="pt">O melhor do basquete nacional tá de volta! É a NBB e você acompanha aqui no sportv
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20241205224757 -0300" stop="20241206002959 -0300" channel="sportv-2">
+  <programme start="20241205222028 -0300" stop="20241206005147 -0300" channel="sportv-2">
     <title lang="pt">VT - Superliga Feminina: Praia Clube x Osasco</title>
     <desc lang="pt">O sportv é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa, tá no sportv! 
 </desc>
@@ -21490,7 +21595,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20241205164958 -0300" stop="20241205172138 -0300" channel="sportv-3">
+  <programme start="20241205164958 -0300" stop="20241205172238 -0300" channel="sportv-3">
     <title lang="pt">Mulheres Na Luta –</title>
     <desc lang="pt"> - A segunda temporada da Série já consagrada na grade de programação do canal Combate, “Mulheres na Luta” está de volta. A obra seriada documental seguirá mostrando o dia a dia das lutadoras quando não estão pisando no octógono. A relação com a família, amigos, a rotina de treinos, os momentos de descontração e o tempo que passam na estrada, além dos camps.</desc>
     <category lang="en">sports (general)</category>
@@ -21499,7 +21604,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20241205172140 -0300" stop="20241205175259 -0300" channel="sportv-3">
+  <programme start="20241205172240 -0300" stop="20241205175459 -0300" channel="sportv-3">
     <title lang="pt">Mulheres Na Luta –</title>
     <desc lang="pt"> - A segunda temporada da Série já consagrada na grade de programação do canal Combate, “Mulheres na Luta” está de volta. A obra seriada documental seguirá mostrando o dia a dia das lutadoras quando não estão pisando no octógono. A relação com a família, amigos, a rotina de treinos, os momentos de descontração e o tempo que passam na estrada, além dos camps.</desc>
     <category lang="en">sports (general)</category>
@@ -21508,12 +21613,18 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20241205175301 -0300" stop="20241205204626 -0300" channel="sportv-3">
+  <programme start="20241205175501 -0300" stop="20241205204556 -0300" channel="sportv-3">
     <title lang="pt">One 169</title>
     <desc lang="pt"> - Terceira maior franquia de MMA mundial e a principal da Ásia, presente em mais de 170 países, o One é a liga esportiva de diferentes modalidades além do MMA como: Grappling, Muay Thai, Kickboxing. Nomes de atletas brasileiros: Fabrício Andrade, Marcus Buchecha, Allycia Hellen Rodrigues, André Galvão, e muitos outros.</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20241205204630 -0300" stop="20241205212213 -0300" channel="sportv-3">
+  <programme start="20241205204600 -0300" stop="20241205210104 -0300" channel="sportv-3">
+    <title lang="pt">1/1 HERÓIS DO FUTURO - EVERTON CÂMARA - BOXE 1</title>
+    <sub-title lang="pt">realizado em 08/07/2024</sub-title>
+    <category lang="en">sports (general)</category>
+    <date>08/07/2024</date>
+  </programme>
+  <programme start="20241205210105 -0300" stop="20241205213648 -0300" channel="sportv-3">
     <title lang="pt">Papo Cruzado - Wanderley Silva</title>
     <desc lang="pt"> - “Papo Cruzado” é um programa de entrevistas em estúdio, no formato
 talk-show, onde um elenco fixo de 3 entrevistadores recebe, a cada episódio, um
@@ -21539,7 +21650,7 @@ de artes marciais</desc>
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20241205212214 -0300" stop="20241205215455 -0300" channel="sportv-3">
+  <programme start="20241205213650 -0300" stop="20241205220931 -0300" channel="sportv-3">
     <title lang="pt">Papo Cruzado - Demian Maia</title>
     <desc lang="pt"> - “Papo Cruzado” é um programa de entrevistas em estúdio, no formato
 talk-show, onde um elenco fixo de 3 entrevistadores recebe, a cada episódio, um
@@ -21566,7 +21677,7 @@ de artes marciais</desc>
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20241205215457 -0300" stop="20241205222352 -0300" channel="sportv-3">
+  <programme start="20241205220933 -0300" stop="20241205223903 -0300" channel="sportv-3">
     <title lang="pt">Papo Cruzado Amanda Ribas</title>
     <desc lang="pt"> - “Papo Cruzado” é um programa de entrevistas em estúdio, no formato
 talk-show, onde um elenco fixo de 3 entrevistadores recebe, a cada episódio, um
@@ -21593,7 +21704,7 @@ de artes marciais</desc>
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20241205223000 -0300" stop="20241206012459 -0300" channel="sportv-3">
+  <programme start="20241205223905 -0300" stop="20241206012459 -0300" channel="sportv-3">
     <title lang="pt">Faixa Combate: PFL Super Fights Championship</title>
     <desc lang="pt">PFL é a liga esportiva mais inovadora e de crescimento mais rápido. A PFL é a única com o formato de temporada esportiva em que lutadores individuais competem na Temporada Regular, Playoffs e Campeonato pelo prêmio de 1 milhão de dólares. Grandes nomes de atletas brasileiros como: Larissa Pacheco, Natan Schulte, Renan Ferreira, Raush Manfio e muitos outros.</desc>
     <category lang="en">sports (general)</category>
@@ -21940,7 +22051,7 @@ de artes marciais</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241205171332 -0300" stop="20241205175754 -0300" channel="multishow">
+  <programme start="20241205171332 -0300" stop="20241205180014 -0300" channel="multishow">
     <title lang="pt">Vai que Cola</title>
     <sub-title lang="pt">Esse Ano Sobe</sub-title>
     <desc lang="pt"> - Terezinha está focada em levar a Unidos do Cerol de volta à Sapucaí, e fará das tripas coração para realizar esse sonho. Com tanta energia e empolgação, será que esse ano, sobe?</desc>
@@ -21948,7 +22059,7 @@ de artes marciais</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241205175757 -0300" stop="20241205185756 -0300" channel="multishow">
+  <programme start="20241205180017 -0300" stop="20241205190016 -0300" channel="multishow">
     <title lang="pt">TVZ Ao Vivo com Preta Gil - ao vivo</title>
     <sub-title lang="pt">Pedro Sampaio (ao vivo)</sub-title>
     <desc lang="pt"> - Tvz Com Preta Gil - Pedro Sampaio (ao vivo)
@@ -21958,7 +22069,7 @@ de artes marciais</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241205185758 -0300" stop="20241205194956 -0300" channel="multishow">
+  <programme start="20241205190018 -0300" stop="20241205195216 -0300" channel="multishow">
     <title lang="pt">Melhores Momentos - Prêmio Multishow</title>
     <sub-title lang="pt">Prêmio Multishow 2024 - Musicais - Parte 1</sub-title>
     <desc lang="pt"> - Confira as performances musicais exclusiva do Prêmio Multishow 2024.</desc>
@@ -21966,15 +22077,12 @@ de artes marciais</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241205195002 -0300" stop="20241205200228 -0300" channel="multishow">
-    <title lang="pt">Humor Multishow</title>
-    <sub-title lang="pt">Doida de Amor</sub-title>
-    <desc lang="pt"> - Para ir a um evento da cidade, Jéssica fica responsável por fazer mil coxinhas. O problema é que Dona Jô só tem olhos para Sid e, desta vez, não poderá ajudar a filha.</desc>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
+  <programme start="20241205195222 -0300" stop="20241205200347 -0300" channel="multishow">
+    <title lang="pt">1/1 VAI QUE COLA ? (MSW)</title>
+    <desc lang="pt"> - </desc>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
   </programme>
-  <programme start="20241205200230 -0300" stop="20241205201154 -0300" channel="multishow">
+  <programme start="20241205200349 -0300" stop="20241205201313 -0300" channel="multishow">
     <title lang="pt">Humor Multishow</title>
     <sub-title lang="pt">Garota Funicular</sub-title>
     <desc lang="pt"> - Um concurso irá escolher a “Garota Funicular”, que fará uma campanha para atrair mais turistas para a comunidade. Graça e seus filhos se agitam para participar.</desc>
@@ -21982,7 +22090,7 @@ de artes marciais</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241205201156 -0300" stop="20241205205924 -0300" channel="multishow">
+  <programme start="20241205201314 -0300" stop="20241205210107 -0300" channel="multishow">
     <title lang="pt">Vai Que Cola - Dia Do Contrário</title>
     <desc lang="pt"> - Dona Jô está devendo o IPTU da pensão, e se não pagar a dívida poderá perder a casa. Enquanto isso, Terezinha é a musa do desafio da Mulataça, A Cerveja Que Arregaça – uma disputa pra ver quem bebe a cerveja Mulataça mais rápido. Ferdinando lê numa revista de astrologia que o Méier está prestes a presenciar um fenômeno astral: a passagem de um cometa poderá fazer com que todos na pensão se transformem em seus opostos de personalidade. Com isso, Valdomiro passa a amar o Méier; Dona Jô se transforma numa picareta que odeia o Méier; Terezinha se transforma numa musa fitness e deixa Pasquale aflito ao desistir do desafio; Ferdinando vira um zelador exemplar; e Jéssica toma gosto pelo estudo. Enquanto isso, Brito, Lacraia e Éricsson visitam a pensão num estado desastroso.</desc>
     <episode-num system="xmltv_ns">3..</episode-num>
@@ -21990,7 +22098,7 @@ de artes marciais</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241205205926 -0300" stop="20241205215427 -0300" channel="multishow">
+  <programme start="20241205210110 -0300" stop="20241205215611 -0300" channel="multishow">
     <title lang="pt">Vai Que Cola - Maicol, O Retorno</title>
     <desc lang="pt"> - Máicol reaparece na pensão, diz que veio só pra acertar a venda de sua casa com Éricsson e voltará para Bahia. Gabi do Lins planeja separar Máicol de Jéssica. Máicol descobre que Jéssica teve um caso com Éricsson e ele desiste de vender seu imóvel. Jéssica pega no flagra Gabi quase beijando Máicol e os dois brigam novamente. Máicol tenta agilizar pra ir embora do Méier o quanto antes, mas por não conseguir vender seu imóvel ele vai continuar por um tempo e acaba fazendo as pazes com Jéssica.</desc>
     <episode-num system="xmltv_ns">3..</episode-num>
@@ -21998,7 +22106,7 @@ de artes marciais</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241205215430 -0300" stop="20241205223115 -0300" channel="multishow">
+  <programme start="20241205215608 -0300" stop="20241205223650 -0300" channel="multishow">
     <title lang="pt">Vai que Cola</title>
     <sub-title lang="pt">Bagunceiros</sub-title>
     <desc lang="pt"> - Dona Jô não pode nem ir a um congresso de psicologia, que a pensão já vira do avesso. Um perfil mostrando o caos viraliza. Agora, mais importante que arrumar, é desmascarar o X-9!</desc>
@@ -22006,7 +22114,7 @@ de artes marciais</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241205223600 -0300" stop="20241205230159 -0300" channel="multishow">
+  <programme start="20241205223653 -0300" stop="20241205230233 -0300" channel="multishow">
     <title lang="pt">Cilada</title>
     <sub-title lang="pt">Família</sub-title>
     <desc lang="pt"> - Quando a gente casa, casa também com a família. E aí a cilada é dupla!</desc>
@@ -22014,7 +22122,7 @@ de artes marciais</desc>
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20241205230200 -0300" stop="20241205235459 -0300" channel="multishow">
+  <programme start="20241205230236 -0300" stop="20241205235459 -0300" channel="multishow">
     <title lang="pt">Lady Night - Com Tatá Werneck</title>
     <sub-title lang="pt">Leandro Lima</sub-title>
     <desc lang="pt"> - No Lady Night de hoje, Tatá Werneck recebe Leandro Lima para uma entrevista divertida e cheia de improvisos. Entre risos e jogos, o convidado se revela em um papo imperdível!</desc>
@@ -22247,7 +22355,7 @@ de artes marciais</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241205204027 -0300" stop="20241205214459 -0300" channel="gnt">
+  <programme start="20241205204027 -0300" stop="20241205214516 -0300" channel="gnt">
     <title lang="pt">Que Seja Doce</title>
     <sub-title lang="pt">Fungi com doçura</sub-title>
     <desc lang="pt"> - Os confeiteiros se inspiram nos fungos para preparar clássicas trufas de chocolate e criar cupcakes com decoração de cogumelos.</desc>
@@ -22255,7 +22363,7 @@ de artes marciais</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241205214500 -0300" stop="20241205223059 -0300" channel="gnt">
+  <programme start="20241205214520 -0300" stop="20241205223330 -0300" channel="gnt">
     <title lang="pt">Cozinha Prática Com Rita Lobo</title>
     <sub-title lang="pt">Salada De Lentilha Com Cenoura Assada</sub-title>
     <desc lang="pt"> - Rita Lobo prepara uma salada de lentilha com cenoura assada, servida com copa lombo grelhado ou bolinho de arroz integral, na versão vegetariana. E torrada de mel pra sobremesa.</desc>
@@ -22263,7 +22371,7 @@ de artes marciais</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241205223100 -0300" stop="20241205234859 -0300" channel="gnt">
+  <programme start="20241205223334 -0300" stop="20241205234859 -0300" channel="gnt">
     <title lang="pt">The Taste Brasil</title>
     <sub-title lang="pt">Raízes Ancestrais</sub-title>
     <desc lang="pt"> - A chef convidada é pesquisadora e ex-participante do The Taste Brasil. Aline Guedes traz, junto da atriz Sheron Menezzes desafios especiais para a semifinal.</desc>
@@ -22451,14 +22559,14 @@ de artes marciais</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241205162232 -0300" stop="20241205165319 -0300" channel="viva">
+  <programme start="20241205162232 -0300" stop="20241205165320 -0300" channel="viva">
     <title lang="pt">Malhação: Casa Cheia</title>
     <desc lang="pt"> - As relações familiares conduzem a trama na nova temporada de 'Malhação'.</desc>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20241205165322 -0300" stop="20241205172242 -0300" channel="viva">
+  <programme start="20241205165322 -0300" stop="20241205172243 -0300" channel="viva">
     <title lang="pt">Malhação: Casa Cheia</title>
     <desc lang="pt"> - As relações familiares conduzem a trama na nova temporada de 'Malhação'.</desc>
     <rating system="Brazil">
@@ -22513,7 +22621,7 @@ de artes marciais</desc>
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20241205214926 -0300" stop="20241205222959 -0300" channel="viva">
+  <programme start="20241205214926 -0300" stop="20241205222646 -0300" channel="viva">
     <title lang="pt">A Grande Família</title>
     <sub-title lang="pt">Consciência Limpa É Melhor Que Dinheiro No Bolso</sub-title>
     <desc lang="pt"> - Nenê contrata Rose e avisa a família que está de férias da casa. Lineu deixa um dinheiro em casa e Agostinho pega escondido. O problema é que todos acreditam que foi Rose.</desc>
@@ -22521,7 +22629,7 @@ de artes marciais</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241205223000 -0300" stop="20241205231459 -0300" channel="viva">
+  <programme start="20241205222651 -0300" stop="20241205225927 -0300" channel="viva">
     <title lang="pt">A Grande Família</title>
     <sub-title lang="pt">E Tudo Acabou Em Linguiça</sub-title>
     <desc lang="pt"> - Lineu recebe a visita de Sales em casa e descobre que será o novo chefe da repartição, mas não imagina que o cargo está atrelado a favores de corrupção que Sales quer dele.</desc>
@@ -22529,7 +22637,7 @@ de artes marciais</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241205230000 -0300" stop="20241205234459 -0300" channel="viva">
+  <programme start="20241205225930 -0300" stop="20241205231053 -0300" channel="viva">
     <title lang="pt">Viver A Vida</title>
     <desc lang="pt"> - Bruno faz um desabafo com Sílvia. Noêmia aconselha Tereza. Dora sente ciúmes de Maradona. Marcos ameaça Dora e lhe oferece dinheiro. Renata quase beija Felipe.</desc>
     <rating system="Brazil">
@@ -22662,7 +22770,7 @@ de artes marciais</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241205143204 -0300" stop="20241205161642 -0300" channel="canal-brasil">
+  <programme start="20241205143204 -0300" stop="20241205161643 -0300" channel="canal-brasil">
     <title lang="pt">Môa, Raiz Afro Mãe</title>
     <desc lang="pt"> - O documentário acompanha a vida e trajetória do músico e capoeirista Môa do Katendê. Símbolo de resistência cultural, Môa foi assassinado em 2018 devido a uma discussão relacionada à disputa eleitoral.</desc>
     <rating system="Brazil">
@@ -22690,14 +22798,14 @@ de artes marciais</desc>
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20241205210125 -0300" stop="20241205223459 -0300" channel="canal-brasil">
+  <programme start="20241205210125 -0300" stop="20241205223722 -0300" channel="canal-brasil">
     <title lang="pt">Não Vamos Sucumbir</title>
     <desc lang="pt"> - A preparação para o carnaval 2020, passando por 2021, quando os desfiles foram suspensos pela pandemia, chegando à retomada em 2022, o documentário faz um histórico do surgimento das escolas de samba até os dias de hoje.</desc>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241205223500 -0300" stop="20241205233059 -0300" channel="canal-brasil">
+  <programme start="20241205223726 -0300" stop="20241205233313 -0300" channel="canal-brasil">
     <title lang="pt">Maratona João Sem Deus - A Queda De Abadiânia</title>
     <sub-title lang="pt">Cecília</sub-title>
     <desc lang="pt"> - A vida de duas irmãs muda completamente quando elas cruzam o caminho de João de Deus. Dezessete anos depois, na semana que antecede a queda e a prisão do “médium”, elas se reencontram.</desc>
@@ -22705,7 +22813,7 @@ de artes marciais</desc>
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20241205233100 -0300" stop="20241206001559 -0300" channel="canal-brasil">
+  <programme start="20241205233314 -0300" stop="20241206001559 -0300" channel="canal-brasil">
     <title lang="pt">Maratona João Sem Deus - A Queda De Abadiânia</title>
     <sub-title lang="pt">Ariane</sub-title>
     <desc lang="pt"> - Após as denúncias contra João de Deus ganharem repercussão, Ariane tem lembranças perturbadoras e pede a ajuda da tia. Carmem fica abalada, mas não quer acreditar nos relatos de Cecília.</desc>
@@ -23028,7 +23136,7 @@ de artes marciais</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241205210112 -0300" stop="20241205212959 -0300" channel="canal-off">
+  <programme start="20241205210112 -0300" stop="20241205213031 -0300" channel="canal-off">
     <title lang="pt">É Tudo Delas</title>
     <sub-title lang="pt">Coisa De Menina</sub-title>
     <desc lang="pt"> - Neste episódio, falamos sobre o skate feminino com Yndiara Asp, atleta olímpica, e especialistas, discutindo sua trajetória, preconceitos e a evolução do esporte.</desc>
@@ -23036,7 +23144,7 @@ de artes marciais</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241205213000 -0300" stop="20241205215959 -0300" channel="canal-off">
+  <programme start="20241205213034 -0300" stop="20241205220031 -0300" channel="canal-off">
     <title lang="pt">Domke's Show</title>
     <sub-title lang="pt">Tubos e pescaria com amigos</sub-title>
     <desc lang="pt"> - Depois de passar dias em Nias, Brad Domke e Dylan Palmer, foram convidados pelo surfista brasileiro de ondas grandes Felipe “Gordo" a embarcarem em sua barca pelas ilhas Mentawaii.</desc>
@@ -23044,7 +23152,7 @@ de artes marciais</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241205220000 -0300" stop="20241205225159 -0300" channel="canal-off">
+  <programme start="20241205220034 -0300" stop="20241205225159 -0300" channel="canal-off">
     <title lang="pt">Expedition Kayak</title>
     <desc lang="pt"> - Dessa vez eles vão ao extremo norte da província, na fronteira com o Alasca, para enfrentar a maior expedição de suas carreiras no rio Tsaytis, que requer uma complexa logística.</desc>
     <episode-num system="xmltv_ns">.12.</episode-num>
@@ -23313,14 +23421,14 @@ de artes marciais</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241205200016 -0300" stop="20241205203112 -0300" channel="bis">
+  <programme start="20241205200016 -0300" stop="20241205203113 -0300" channel="bis">
     <title lang="pt">Experimente: Mateus Fazeno Rock</title>
     <desc lang="pt"> - Guilherme Guedes apresenta artistas e bandas que estão despontando no cenário musical brasileiro com entrevistas e performances musicais. Neste episódio conheça: Mateus Fazeno Rock</desc>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241205203114 -0300" stop="20241205210101 -0300" channel="bis">
+  <programme start="20241205203115 -0300" stop="20241205210102 -0300" channel="bis">
     <title lang="pt">Vamos Tocar</title>
     <sub-title lang="pt">Lobão</sub-title>
     <desc lang="pt"> - Leo Gandelman recebe artistas nacionais em seu estúdio para tocarem grandes sucessos. Entre uma música e outra, Leo bate um papo com o convidado. Nesse episódio: Lobão.</desc>
@@ -23328,7 +23436,7 @@ de artes marciais</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241205210104 -0300" stop="20241205213012 -0300" channel="bis">
+  <programme start="20241205210105 -0300" stop="20241205213013 -0300" channel="bis">
     <title lang="pt">Som Sertanejo</title>
     <sub-title lang="pt">Feminejo</sub-title>
     <desc lang="pt"> - A música sertaneja através do olhar feminino. Aquela que trai, a que supera, a que bebe pra esquecer. A mulher como protagonista da sua vida.</desc>
@@ -23352,7 +23460,7 @@ de artes marciais</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241205213532 -0300" stop="20241205213747 -0300" channel="bis">
+  <programme start="20241205213533 -0300" stop="20241205213748 -0300" channel="bis">
     <title lang="pt">Raça - 144</title>
     <sub-title lang="pt">Setlist</sub-title>
     <desc lang="pt"> - RAÇA - 144 (BALACLAVA RECORDS)</desc>
@@ -23360,7 +23468,7 @@ de artes marciais</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241205213749 -0300" stop="20241205214142 -0300" channel="bis">
+  <programme start="20241205213750 -0300" stop="20241205214143 -0300" channel="bis">
     <title lang="pt">Renato Medeiros - James</title>
     <sub-title lang="pt">Setlist</sub-title>
     <desc lang="pt"> - RENATO MEDEIROS - JAMES (INDEPENDENTE)</desc>
@@ -23368,7 +23476,7 @@ de artes marciais</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241205214143 -0300" stop="20241205214411 -0300" channel="bis">
+  <programme start="20241205214144 -0300" stop="20241205214412 -0300" channel="bis">
     <title lang="pt">Jonavo - Faz Parte do Meu Show</title>
     <sub-title lang="pt">Setlist</sub-title>
     <desc lang="pt"> - Jonavo - Faz Parte do Meu Show (Independente)</desc>
@@ -23383,14 +23491,14 @@ de artes marciais</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241205214902 -0300" stop="20241205215217 -0300" channel="bis">
+  <programme start="20241205214903 -0300" stop="20241205215218 -0300" channel="bis">
     <title lang="pt">Setlist</title>
     <desc lang="pt"> - MINERO - A MÁGICA DO TEMPO (INDEPENDENTE)</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241205215219 -0300" stop="20241205215547 -0300" channel="bis">
+  <programme start="20241205215220 -0300" stop="20241205215548 -0300" channel="bis">
     <title lang="pt">Luna França - Como</title>
     <sub-title lang="pt">Setlist</sub-title>
     <desc lang="pt"> - Luna França - Como (Boia Fria Produções)</desc>
@@ -23398,7 +23506,7 @@ de artes marciais</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241205215548 -0300" stop="20241205220003 -0300" channel="bis">
+  <programme start="20241205215549 -0300" stop="20241205220004 -0300" channel="bis">
     <title lang="pt">Capital Inicial Part. Mariana Volker - Pensando Em Você</title>
     <sub-title lang="pt">Setlist</sub-title>
     <desc lang="pt"> - CAPITAL INICIAL PART. MARIANA VOLKER - PENSANDO EM VOCÊ (INDEPENDENTE)</desc>
@@ -23406,7 +23514,7 @@ de artes marciais</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241205220005 -0300" stop="20241205232759 -0300" channel="bis">
+  <programme start="20241205220006 -0300" stop="20241205232759 -0300" channel="bis">
     <title lang="pt">Vitor Kley: A Bolha Ao Vivo Em São Paulo</title>
     <sub-title lang="pt">Palco Principal</sub-title>
     <desc lang="pt"> - Exibição do primeiro DVD da carreira do artista Vitor Kley em sua turnê "A Bolha", diretamente de São Paulo.</desc>
@@ -23722,7 +23830,7 @@ de artes marciais</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241205170058 -0300" stop="20241205173122 -0300" channel="modo-viagem">
+  <programme start="20241205170058 -0300" stop="20241205173123 -0300" channel="modo-viagem">
     <title lang="pt">Hotéis Incríveis</title>
     <sub-title lang="pt">Para Relaxar</sub-title>
     <desc lang="pt"> - Há momentos em que a alma pede por um ritmo de vida menos acelerado e por um horizonte que vá além dos blocos de concreto da cidade. Os três Hotéis Incríveis do episódio de hoje oferecem escapes perfeitos! E com diferentes propostas, todos oferecem um ambiente que favorece o relaxamento e o reequilíbrio entre corpo, mente e alma. Na pitoresca região de Spreewald, na Alemanha, o luxo no Bleiche Resort &amp; Spa é poder passar o dia de roupão, sem nenhuma regra rígida de etiqueta, aproveitando os 11 hectares dedicados ao relaxamento. Já a proposta do Rituaali, localizado em Penedo, é ir além da experiência no próprio hotel e promover uma mudança de hábitos. E o charmoso Luz Houses oferece espaços silenciosos e aconchegantes para reflexão e reconexão com si mesmo, a apenas 5 minutos a pé do Santuário de Fátima, em Portugal.</desc>
@@ -23730,7 +23838,7 @@ de artes marciais</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241205173126 -0300" stop="20241205180151 -0300" channel="modo-viagem">
+  <programme start="20241205173126 -0300" stop="20241205180154 -0300" channel="modo-viagem">
     <title lang="pt">Hotéis Incríveis</title>
     <sub-title lang="pt">Arquitetura Singular</sub-title>
     <desc lang="pt"> - Os Hotéis Incríveis de Arquitetura Singular possuem prédios imponentes, que se destacam na paisagem. Cada projeto homenageia a região da qual faz parte, tanto nos materiais utilizados quanto na decoração. O Marqués de Riscal, localizado no pequeno povoado de Elciego, foi projetado pelo renomado arquiteto Frank Gehry e inspirado nas cores da garrafa de vinho produzida na vinícola de mesmo nome, no norte da Espanha. No Chile, o Tierra Atacama surge como um oásis em um improvável e árido cenário, se integrando às cores do Deserto de Atacama. E nos Alpes Suíços, o Chetzeron aproveita matéria prima da própria região para criar o projeto de um hotel que se funde às montanhas.</desc>
@@ -23797,7 +23905,7 @@ oferece uma vista maravilhosa e o café especial da região do Caparaó.
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241205213350 -0300" stop="20241205215135 -0300" channel="modo-viagem">
+  <programme start="20241205213350 -0300" stop="20241205220247 -0300" channel="modo-viagem">
     <title lang="pt">Brasil Visto De Cima</title>
     <sub-title lang="pt">Norte Do Pantanal</sub-title>
     <desc lang="pt"> - O programa visita a metade norte da região, que ocupa boa parte do Mato Grosso, e o passeio segue até Cuiabá, uma capital cuja arquitetura conta três séculos de história.</desc>
@@ -23805,7 +23913,7 @@ oferece uma vista maravilhosa e o café especial da região do Caparaó.
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241205220300 -0300" stop="20241205223259 -0300" channel="modo-viagem">
+  <programme start="20241205220250 -0300" stop="20241205223246 -0300" channel="modo-viagem">
     <title lang="pt">Paisagens Aéreas</title>
     <sub-title lang="pt">Itália - Parte 3</sub-title>
     <desc lang="pt"> - A Itália é um país que viveu grandes mudanças ao longo de dois mil anos. Suas cidades têm grande importância e atraem muitas pessoas que vêm se maravilhar com sua beleza.</desc>
@@ -23813,7 +23921,7 @@ oferece uma vista maravilhosa e o café especial da região do Caparaó.
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241205223300 -0300" stop="20241205230259 -0300" channel="modo-viagem">
+  <programme start="20241205223249 -0300" stop="20241205230252 -0300" channel="modo-viagem">
     <title lang="pt">Paisagens Aéreas</title>
     <sub-title lang="pt">Itália - Parte 4</sub-title>
     <desc lang="pt"> - A Itália é um país que viveu grandes mudanças ao longo de dois mil anos. Suas cidades têm grande importância e atraem muitas pessoas que vêm se maravilhar com sua beleza.</desc>
@@ -23821,7 +23929,7 @@ oferece uma vista maravilhosa e o café especial da região do Caparaó.
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241205230300 -0300" stop="20241205233259 -0300" channel="modo-viagem">
+  <programme start="20241205230254 -0300" stop="20241205233301 -0300" channel="modo-viagem">
     <title lang="pt">Paisagens Aéreas</title>
     <sub-title lang="pt">Montana - Parte 1</sub-title>
     <desc lang="pt"> - Conheça Montana, com uma cultura baseada em sua geografia, tendo paisagens variadas e inspiradoras, que impulsionaram sua rica história e sua economia, até os dias atuais.</desc>
@@ -23829,7 +23937,7 @@ oferece uma vista maravilhosa e o café especial da região do Caparaó.
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241205233300 -0300" stop="20241205235859 -0300" channel="modo-viagem">
+  <programme start="20241205233303 -0300" stop="20241205235859 -0300" channel="modo-viagem">
     <title lang="pt">Sem Bagagem</title>
     <sub-title lang="pt">África do Sul - Mandela</sub-title>
     <desc lang="pt"> - Sem bagagem visita a África do sum para contar a história de Nelson Mandela e a desigualdade que ainda existe no país, mesmo 30 anos após o fim do Apartheid.</desc>
@@ -24465,7 +24573,7 @@ oferece uma vista maravilhosa e o café especial da região do Caparaó.
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20241205230520 -0300" stop="20241205235959 -0300" channel="premiere">
+  <programme start="20241205230520 -0300" stop="20241206000527 -0300" channel="premiere">
     <title lang="pt">VT - Brasileirão: Cruzeiro x Palmeiras</title>
     <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário! Tá no Brasileirão, tá no sportv.</desc>
     <category lang="en">football/soccer</category>
@@ -24801,14 +24909,14 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
     <category lang="en">news/current affairs (general)</category>
     <previously-shown />
   </programme>
-  <programme start="20241205233000 -0300" stop="20241206001459 -0300" channel="sportv">
+  <programme start="20241205234432 -0300" stop="20241206003257 -0300" channel="sportv">
     <title lang="pt">Craque Da Voz - Inédito</title>
     <desc lang="pt"> - O reality Craque da Voz vai revelar e premiar um novo talento da narração.</desc>
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">.4.</episode-num>
     <new />
   </programme>
-  <programme start="20241206001500 -0300" stop="20241206011459 -0300" channel="sportv">
+  <programme start="20241206003300 -0300" stop="20241206011459 -0300" channel="sportv">
     <title lang="pt">Giro da Rodada: Série A - Inédito</title>
     <sub-title lang="pt">37ª Rodada</sub-title>
     <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol aqui o sportv!</desc>
@@ -24921,21 +25029,21 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20241205224757 -0300" stop="20241206002959 -0300" channel="sportv-2">
+  <programme start="20241205222028 -0300" stop="20241206005147 -0300" channel="sportv-2">
     <title lang="pt">VT - Superliga Feminina: Praia Clube x Osasco</title>
     <desc lang="pt">O sportv é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa, tá no sportv! 
 </desc>
     <category lang="en">team sports</category>
     <previously-shown />
   </programme>
-  <programme start="20241206003000 -0300" stop="20241206022959 -0300" channel="sportv-2">
+  <programme start="20241206005151 -0300" stop="20241206024352 -0300" channel="sportv-2">
     <title lang="pt">VT - Superliga Feminina: Brasília x Pinheiros</title>
     <desc lang="pt">O sportv é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa, tá no sportv! 
 </desc>
     <category lang="en">team sports</category>
     <previously-shown />
   </programme>
-  <programme start="20241206023000 -0300" stop="20241206042959 -0300" channel="sportv-2">
+  <programme start="20241206024355 -0300" stop="20241206042959 -0300" channel="sportv-2">
     <title lang="pt">VT - Superliga Feminina: Minas x Sesi-Bauru</title>
     <desc lang="pt">O maior campeonato do vôlei brasileiro tá de volta! É a Superliga, e é super do seu jeito. As emoções de uma das ligas mais disputada do vôlei mundial, você assiste só aqui no sportv.
 </desc>
@@ -25039,7 +25147,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
     <category lang="en">sports (general)</category>
     <new />
   </programme>
-  <programme start="20241205223000 -0300" stop="20241206012459 -0300" channel="sportv-3">
+  <programme start="20241205223905 -0300" stop="20241206012459 -0300" channel="sportv-3">
     <title lang="pt">Faixa Combate: PFL Super Fights Championship</title>
     <desc lang="pt">PFL é a liga esportiva mais inovadora e de crescimento mais rápido. A PFL é a única com o formato de temporada esportiva em que lutadores individuais competem na Temporada Regular, Playoffs e Campeonato pelo prêmio de 1 milhão de dólares. Grandes nomes de atletas brasileiros como: Larissa Pacheco, Natan Schulte, Renan Ferreira, Raush Manfio e muitos outros.</desc>
     <category lang="en">sports (general)</category>
@@ -25164,8 +25272,8 @@ de artes marciais</desc>
     </rating>
   </programme>
   <programme start="20241206093000 -0300" stop="20241206132959 -0300" channel="sportv-3">
-    <title lang="pt">One Friday Fights: One Fight Night 90 - ao vivo</title>
-    <desc lang="pt">Terceira maior franquia de MMA mundial e a principal da Ásia, presente em mais de 170 países, o One é a liga esportiva de diferentes modalidades além do MMA como: Grappling, Muay Thai, Kickboxing. Nomes de atletas brasileiros: Fabrício Andrade, Marcus Buchecha, Allycia Hellen Rodrigues, André Galvão, e muitos outros.</desc>
+    <title lang="pt">One Friday Fights 90 - ao vivo</title>
+    <desc lang="pt"> - Terceira maior franquia de MMA mundial e a principal da Ásia, presente em mais de 170 países, o One é a liga esportiva de diferentes modalidades além do MMA como: Grappling, Muay Thai, Kickboxing. Nomes de atletas brasileiros: Fabrício Andrade, Marcus Buchecha, Allycia Hellen Rodrigues, André Galvão, e muitos outros.</desc>
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20241206133000 -0300" stop="20241206135959 -0300" channel="sportv-3">
@@ -25231,8 +25339,8 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
     <new />
   </programme>
   <programme start="20241206200000 -0300" stop="20241206222959 -0300" channel="sportv-3">
-    <title lang="pt">VT - One Friday Fights: One Fight Night 90</title>
-    <desc lang="pt">Terceira maior franquia de MMA mundial e a principal da Ásia, presente em mais de 170 países, o One é a liga esportiva de diferentes modalidades além do MMA como: Grappling, Muay Thai, Kickboxing. Nomes de atletas brasileiros: Fabrício Andrade, Marcus Buchecha, Allycia Hellen Rodrigues, André Galvão, e muitos outros.</desc>
+    <title lang="pt">VT - One Friday Fights 90</title>
+    <desc lang="pt"> - Terceira maior franquia de MMA mundial e a principal da Ásia, presente em mais de 170 países, o One é a liga esportiva de diferentes modalidades além do MMA como: Grappling, Muay Thai, Kickboxing. Nomes de atletas brasileiros: Fabrício Andrade, Marcus Buchecha, Allycia Hellen Rodrigues, André Galvão, e muitos outros.</desc>
     <category lang="en">sports (general)</category>
     <previously-shown />
   </programme>
@@ -26128,7 +26236,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241205233100 -0300" stop="20241206001559 -0300" channel="canal-brasil">
+  <programme start="20241205233314 -0300" stop="20241206001559 -0300" channel="canal-brasil">
     <title lang="pt">Maratona João Sem Deus - A Queda De Abadiânia</title>
     <sub-title lang="pt">Ariane</sub-title>
     <desc lang="pt"> - Após as denúncias contra João de Deus ganharem repercussão, Ariane tem lembranças perturbadoras e pede a ajuda da tia. Carmem fica abalada, mas não quer acreditar nos relatos de Cecília.</desc>
@@ -26208,17 +26316,10 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241206133000 -0300" stop="20241206134959 -0300" channel="canal-brasil">
-    <title lang="pt">Cinejornal_06/12/2024</title>
+  <programme start="20241206133000 -0300" stop="20241206135759 -0300" channel="canal-brasil">
+    <title lang="pt">Cinejornal</title>
+    <sub-title lang="pt">LABRFF_04/12/2024</sub-title>
     <desc lang="pt"> - O Cinejornal é um programa diário, apresentado por Simone Zuccolotto, no qual é pautado o melhor do cinema brasileiro.</desc>
-  </programme>
-  <programme start="20241206135330 -0300" stop="20241206135629 -0300" channel="canal-brasil">
-    <title lang="pt">Arte Na Capa</title>
-    <sub-title lang="pt">O Descobrimento Do Brasil</sub-title>
-    <desc lang="pt"> - Série mostra as histórias por trás de emblemáticas capas de discos brasileiros.</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
   </programme>
   <programme start="20241206140000 -0300" stop="20241206141859 -0300" channel="canal-brasil">
     <title lang="pt">Curta Na Tela</title>
@@ -27179,8 +27280,11 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
   </programme>
   <programme start="20241206092400 -0300" stop="20241206095259 -0300" channel="modo-viagem">
     <title lang="pt">Hotéis Incríveis</title>
-    <sub-title lang="pt">Mahré Hotel, Caminho das Nuvens Brasil e Hamares Boutique Hotel</sub-title>
-    <desc lang="pt"> - Iniciamos a temporada em Alagoas, no Mahré Hotel. Depois conhecemos o Caminho das Nuvens Brasil, em Santa Catarina. Finalizamos na Hamares Boutique Hotel de Fernando de Noronha.</desc>
+    <sub-title lang="pt">Villa Bom Jardim, Pousada do Mirante e Sheraton Grand Rio</sub-title>
+    <desc lang="pt"> - Iniciamos em Paraty, no Villa Bom Jardim. Depois seguimos até Fernando de Noronha, na Pousada do Mirante. E finalizamos a jornada no Rio de Janeiro, no Sheraton Grand Rio.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20241206095300 -0300" stop="20241206104759 -0300" channel="modo-viagem">
     <title lang="pt">As Maravilhas Do Mundo</title>
@@ -27265,8 +27369,11 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
   </programme>
   <programme start="20241206153000 -0300" stop="20241206155859 -0300" channel="modo-viagem">
     <title lang="pt">Hotéis Incríveis</title>
-    <sub-title lang="pt">Mahré Hotel, Caminho das Nuvens Brasil e Hamares Boutique Hotel</sub-title>
-    <desc lang="pt"> - Iniciamos a temporada em Alagoas, no Mahré Hotel. Depois conhecemos o Caminho das Nuvens Brasil, em Santa Catarina. Finalizamos na Hamares Boutique Hotel de Fernando de Noronha.</desc>
+    <sub-title lang="pt">Casa Acayu, Casa Grande Hotel e Monan Boutique Hotel</sub-title>
+    <desc lang="pt"> - Iniciamos em São Miguel dos Milagres para conhecer o Casa Acayu. Depois vamos até Guarujá, no Casa Grande Hotel. E finalizamos em Porto de Pedras, no Monan Boutique Hotel.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20241206155900 -0300" stop="20241206162859 -0300" channel="modo-viagem">
     <title lang="pt">Um Brinde Ao Vinho</title>
@@ -27338,6 +27445,9 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
     <title lang="pt">Hotéis Incríveis</title>
     <sub-title lang="pt">Mahré Hotel, Caminho das Nuvens Brasil e Hamares Boutique Hotel</sub-title>
     <desc lang="pt"> - Iniciamos a temporada em Alagoas, no Mahré Hotel. Depois conhecemos o Caminho das Nuvens Brasil, em Santa Catarina. Finalizamos na Hamares Boutique Hotel de Fernando de Noronha.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20241206203000 -0300" stop="20241206205959 -0300" channel="modo-viagem">
     <title lang="pt">A Vida É Uma Passagem</title>
@@ -27887,7 +27997,13 @@ Karnak, pelo Templo de Luxor, pelo Vale dos Reis e ainda termina voando pelos ar
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20241206000000 -0300" stop="20241206005959 -0300" channel="premiere">
+  <programme start="20241205230520 -0300" stop="20241206000527 -0300" channel="premiere">
+    <title lang="pt">VT - Brasileirão: Cruzeiro x Palmeiras</title>
+    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário! Tá no Brasileirão, tá no sportv.</desc>
+    <category lang="en">football/soccer</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241206000530 -0300" stop="20241206005959 -0300" channel="premiere">
     <title lang="pt">VT - Brasileirão: Fluminense x Cuiabá</title>
     <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário! Tá no Brasileirão, tá no sportv.</desc>
     <category lang="en">football/soccer</category>
@@ -28069,8 +28185,8 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
     <episode-num system="xmltv_ns">.25.</episode-num>
   </programme>
   <programme start="20241206093000 -0300" stop="20241206132959 -0300" channel="combate">
-    <title lang="pt">One Friday Fights: One Fight Night 90 - ao vivo</title>
-    <desc lang="pt">Terceira maior franquia de MMA mundial e a principal da Ásia, presente em mais de 170 países, o One é a liga esportiva de diferentes modalidades além do MMA como: Grappling, Muay Thai, Kickboxing. Nomes de atletas brasileiros: Fabrício Andrade, Marcus Buchecha, Allycia Hellen Rodrigues, André Galvão, e muitos outros.</desc>
+    <title lang="pt">One Friday Fights 90 - ao vivo</title>
+    <desc lang="pt"> - Terceira maior franquia de MMA mundial e a principal da Ásia, presente em mais de 170 países, o One é a liga esportiva de diferentes modalidades além do MMA como: Grappling, Muay Thai, Kickboxing. Nomes de atletas brasileiros: Fabrício Andrade, Marcus Buchecha, Allycia Hellen Rodrigues, André Galvão, e muitos outros.</desc>
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20241206133000 -0300" stop="20241206135959 -0300" channel="combate">
@@ -39042,36 +39158,7 @@ de artes marciais</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241205152110 -0300" stop="20241205154811 -0300" channel="Novelas">
-    <title lang="pt">A Desalmada </title>
-    <desc lang="pt"> - Em meio a uma trama de amor e desilusão, Fernanda terá que escolher entre a vingança e a redenção.</desc>
-    <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20241205154821 -0300" stop="20241205155812 -0300" channel="Novelas">
-    <title lang="pt">O Que Assistir?</title>
-    <sub-title lang="pt">Filmes do catálogo</sub-title>
-    <desc lang="pt"> - Confira alguns filmes que separamos para você!</desc>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20241205155837 -0300" stop="20241205164531 -0300" channel="Novelas">
-    <title lang="pt">Pequena Travessa</title>
-    <sub-title lang="pt">Capitulo 104</sub-title>
-    <desc lang="pt"> - A batalha de Júlia vai nos mostrar a luta contra o preconceito e a força de uma pequena travessa.</desc>
-    <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">5.103.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20241205164832 -0300" stop="20241205165823 -0300" channel="Novelas">
-    <title lang="pt">Programação Novelas</title>
-    <desc lang="pt"> - </desc>
-  </programme>
-  <programme start="20241205170211 -0300" stop="20241205174306 -0300" channel="Novelas">
+  <programme start="20241205171321 -0300" stop="20241205174306 -0300" channel="Novelas">
     <title lang="pt">Pequena Travessa</title>
     <sub-title lang="pt">Capitulo 105</sub-title>
     <desc lang="pt"> - A batalha de Júlia vai nos mostrar a luta contra o preconceito e a força de uma pequena travessa.</desc>
@@ -39409,40 +39496,104 @@ de artes marciais</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241205151215 -0300" stop="20241205152451 -0300" channel="Silvio Santos">
-    <title lang="pt">Em Nome do Amor</title>
-    <sub-title lang="pt">realizado em 16/10/1994</sub-title>
-    <desc lang="pt">A cada história uma nova emoção. Tudo é lindo com Silvio Santos no Em Nome do Amor! </desc>
-    <category lang="en">variety show</category>
-    <date>16/10/1994</date>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
+  <programme start="20241206233719 -0300" stop="20241207001655 -0300" channel="Novelas">
+    <title lang="pt">Pequena Travessa</title>
+    <desc lang="pt"> - A batalha de Júlia vai nos mostrar a luta contra o preconceito e a força de uma pequena travessa.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">4.97.</episode-num>
     <rating system="Brazil">
-      <value>[AL]</value>
+      <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20241205152823 -0300" stop="20241205160625 -0300" channel="Silvio Santos">
-    <title lang="pt">Em Nome do Amor</title>
-    <sub-title lang="pt">realizado em 23/10/1994</sub-title>
-    <desc lang="pt">A cada história uma nova emoção. Tudo é lindo com Silvio Santos no Em Nome do Amor! </desc>
-    <category lang="en">variety show</category>
-    <date>23/10/1994</date>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
+  <programme start="20241207001710 -0300" stop="20241207004601 -0300" channel="Novelas">
+    <title lang="pt">Pequena Travessa</title>
+    <desc lang="pt"> - A batalha de Júlia vai nos mostrar a luta contra o preconceito e a força de uma pequena travessa.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">4.98.</episode-num>
     <rating system="Brazil">
-      <value>[AL]</value>
+      <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20241205160628 -0300" stop="20241205165619 -0300" channel="Silvio Santos">
-    <title lang="pt">Show do Milhão</title>
-    <sub-title lang="pt">realizado em 17/03/2000</sub-title>
-    <desc lang="pt">Silvio Santos convida participantes para testarem seus conhecimentos valendo um milhão de reais.</desc>
-    <category lang="en">variety show</category>
-    <date>17/03/2000</date>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
+  <programme start="20241207005428 -0300" stop="20241207013223 -0300" channel="Novelas">
+    <title lang="pt">Pequena Travessa</title>
+    <desc lang="pt"> - A batalha de Júlia vai nos mostrar a luta contra o preconceito e a força de uma pequena travessa.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">4.99.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20241205165626 -0300" stop="20241205175239 -0300" channel="Silvio Santos">
+  <programme start="20241207020227 -0300" stop="20241207024038 -0300" channel="Novelas">
+    <title lang="pt">Pequena Travessa</title>
+    <sub-title lang="pt">Capitulo 101</sub-title>
+    <desc lang="pt"> - A batalha de Júlia vai nos mostrar a luta contra o preconceito e a força de uma pequena travessa.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">5.100.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20241207024048 -0300" stop="20241207031832 -0300" channel="Novelas">
+    <title lang="pt">Pequena Travessa</title>
+    <sub-title lang="pt">Capitulo 102</sub-title>
+    <desc lang="pt"> - A batalha de Júlia vai nos mostrar a luta contra o preconceito e a força de uma pequena travessa.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">5.101.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20241207031842 -0300" stop="20241207035808 -0300" channel="Novelas">
+    <title lang="pt">Pequena Travessa</title>
+    <sub-title lang="pt">Capitulo 103</sub-title>
+    <desc lang="pt"> - A batalha de Júlia vai nos mostrar a luta contra o preconceito e a força de uma pequena travessa.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">5.102.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20241207035833 -0300" stop="20241207043920 -0300" channel="Novelas">
+    <title lang="pt">Pequena Travessa</title>
+    <sub-title lang="pt">Capitulo 104</sub-title>
+    <desc lang="pt"> - A batalha de Júlia vai nos mostrar a luta contra o preconceito e a força de uma pequena travessa.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">5.103.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20241207043935 -0300" stop="20241207051715 -0300" channel="Novelas">
+    <title lang="pt">Pequena Travessa</title>
+    <sub-title lang="pt">Capitulo 105</sub-title>
+    <desc lang="pt"> - A batalha de Júlia vai nos mostrar a luta contra o preconceito e a força de uma pequena travessa.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">5.104.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20241207051715 -0300" stop="20241207055808 -0300" channel="Novelas">
+    <title lang="pt">Pequena Travessa</title>
+    <sub-title lang="pt">Capitulo 106</sub-title>
+    <desc lang="pt"> - A batalha de Júlia vai nos mostrar a luta contra o preconceito e a força de uma pequena travessa.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">5.105.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20241207060023 -0300" stop="20241207063842 -0300" channel="Novelas">
+    <title lang="pt">Pequena Travessa</title>
+    <sub-title lang="pt">Capitulo 107</sub-title>
+    <desc lang="pt"> - A batalha de Júlia vai nos mostrar a luta contra o preconceito e a força de uma pequena travessa.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">5.106.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20241205171006 -0300" stop="20241205175239 -0300" channel="Silvio Santos">
     <title lang="pt">Show do Milhão</title>
     <sub-title lang="pt">realizado em 18/03/2000</sub-title>
     <desc lang="pt">Silvio Santos convida participantes para testarem seus conhecimentos valendo um milhão de reais.</desc>
@@ -40064,18 +40215,93 @@ de artes marciais</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241205151250 -0300" stop="20241205165708 -0300" channel="Saudade">
-    <title lang="pt">Hebe</title>
-    <sub-title lang="pt">realizado em 06/02/1990</sub-title>
-    <desc lang="pt">A grande dama da TV na sua melhor forma! Hebe no auge da fama e afiada como nunca!</desc>
+  <programme start="20241209060205 -0300" stop="20241209092725 -0300" channel="Silvio Santos">
+    <title lang="pt">Programa Silvio Santos</title>
+    <sub-title lang="pt">realizado em 17/08/2008</sub-title>
+    <desc lang="pt">Um clássico da TV brasileira! Aviõezinhos, calouros, artistas e, claro, o patrão Silvio Santos!</desc>
+    <category lang="en">variety show</category>
+    <date>17/08/2008</date>
+    <episode-num system="xmltv_ns">0.15.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241209092730 -0300" stop="20241209101506 -0300" channel="Silvio Santos">
+    <title lang="pt">Nada Além da Verdade</title>
+    <sub-title lang="pt">realizado em 10/02/2008</sub-title>
+    <desc lang="pt">Você enfrentaria um detector de mentiras comandado por Silvio Santos?</desc>
     <category lang="en">show/game show (general)</category>
-    <date>06/02/1990</date>
-    <episode-num system="xmltv_ns">4.1.</episode-num>
+    <date>10/02/2008</date>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <rating system="Brazil">
+      <value>[A10]</value>
+    </rating>
+  </programme>
+  <programme start="20241209101511 -0300" stop="20241209110546 -0300" channel="Silvio Santos">
+    <title lang="pt">Namoro na TV</title>
+    <sub-title lang="pt">realizado em 15/06/1986</sub-title>
+    <desc lang="pt">Quer saber como era paquerar quando não existiam aplicativos de namoro? Silvio Santos te mostra!</desc>
+    <date>15/06/1986</date>
+    <episode-num system="xmltv_ns">1.6.</episode-num>
+    <rating system="Brazil">
+      <value>[AL]</value>
+    </rating>
+  </programme>
+  <programme start="20241209110551 -0300" stop="20241209120208 -0300" channel="Silvio Santos">
+    <title lang="pt">Show do Milhão</title>
+    <sub-title lang="pt">realizado em 20/03/2000</sub-title>
+    <desc lang="pt">Silvio Santos convida participantes para testarem seus conhecimentos valendo um milhão de reais.</desc>
+    <category lang="en">variety show</category>
+    <date>20/03/2000</date>
+    <episode-num system="xmltv_ns">1.8.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241205170322 -0300" stop="20241205175351 -0300" channel="Saudade">
+  <programme start="20241209120218 -0300" stop="20241209152738 -0300" channel="Silvio Santos">
+    <title lang="pt">Programa Silvio Santos</title>
+    <sub-title lang="pt">realizado em 17/08/2008</sub-title>
+    <desc lang="pt">Um clássico da TV brasileira! Aviõezinhos, calouros, artistas e, claro, o patrão Silvio Santos!</desc>
+    <category lang="en">variety show</category>
+    <date>17/08/2008</date>
+    <episode-num system="xmltv_ns">0.15.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241209152743 -0300" stop="20241209161519 -0300" channel="Silvio Santos">
+    <title lang="pt">Nada Além da Verdade</title>
+    <sub-title lang="pt">realizado em 10/02/2008</sub-title>
+    <desc lang="pt">Você enfrentaria um detector de mentiras comandado por Silvio Santos?</desc>
+    <category lang="en">show/game show (general)</category>
+    <date>10/02/2008</date>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <rating system="Brazil">
+      <value>[A10]</value>
+    </rating>
+  </programme>
+  <programme start="20241209161524 -0300" stop="20241209170600 -0300" channel="Silvio Santos">
+    <title lang="pt">Namoro na TV</title>
+    <sub-title lang="pt">realizado em 15/06/1986</sub-title>
+    <desc lang="pt">Quer saber como era paquerar quando não existiam aplicativos de namoro? Silvio Santos te mostra!</desc>
+    <date>15/06/1986</date>
+    <episode-num system="xmltv_ns">1.6.</episode-num>
+    <rating system="Brazil">
+      <value>[AL]</value>
+    </rating>
+  </programme>
+  <programme start="20241209170605 -0300" stop="20241209173439 -0300" channel="Silvio Santos">
+    <title lang="pt">Show do Milhão</title>
+    <sub-title lang="pt">realizado em 20/03/2000</sub-title>
+    <desc lang="pt">Silvio Santos convida participantes para testarem seus conhecimentos valendo um milhão de reais.</desc>
+    <category lang="en">variety show</category>
+    <date>20/03/2000</date>
+    <episode-num system="xmltv_ns">1.8.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20241205171415 -0300" stop="20241205175351 -0300" channel="Saudade">
     <title lang="pt">Hebe por Elas</title>
     <sub-title lang="pt">realizado em 07/09/1992</sub-title>
     <category lang="en">show/game show (general)</category>
@@ -40473,14 +40699,14 @@ de artes marciais</desc>
     <date>05/12/2024</date>
     <episode-num system="xmltv_ns">0.511.</episode-num>
   </programme>
-  <programme start="20241205172143 -0300" stop="20241205174559 -0300" channel="Informação">
+  <programme start="20241205172150 -0300" stop="20241205174606 -0300" channel="Informação">
     <title lang="pt">Giro Informação</title>
     <sub-title lang="pt">Programa 20</sub-title>
     <desc lang="pt"> - Informação, turismo, curiosidades e muito mais. O Giro Informação te deixa por dentro de assuntos que vão fazer diferença no seu dia a dia.</desc>
     <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">0.19.</episode-num>
   </programme>
-  <programme start="20241205174609 -0300" stop="20241205190101 -0300" channel="Informação">
+  <programme start="20241205174623 -0300" stop="20241205190115 -0300" channel="Informação">
     <title lang="pt">Fofocalizando</title>
     <sub-title lang="pt">realizado em 04/12/2024</sub-title>
     <desc lang="pt"> Fique por dentro das principais notícias do mundo das celebridades em primei</desc>
@@ -40488,7 +40714,7 @@ de artes marciais</desc>
     <date>04/12/2024</date>
     <episode-num system="xmltv_ns">0.411.</episode-num>
   </programme>
-  <programme start="20241205190111 -0300" stop="20241205211419 -0300" channel="Informação">
+  <programme start="20241205190125 -0300" stop="20241205211434 -0300" channel="Informação">
     <title lang="pt">Tá Na Hora</title>
     <sub-title lang="pt">realizado em 04/12/2024</sub-title>
     <desc lang="pt">Marcão do Povo comanda o "Tá na Hora", levando informação e prestação de serviço durante a sua volta para casa.</desc>
@@ -40496,7 +40722,7 @@ de artes marciais</desc>
     <date>04/12/2024</date>
     <episode-num system="xmltv_ns">0.411.</episode-num>
   </programme>
-  <programme start="20241205211429 -0300" stop="20241205221438 -0300" channel="Informação">
+  <programme start="20241205211451 -0300" stop="20241205221459 -0300" channel="Informação">
     <title lang="pt">SBT Brasil</title>
     <sub-title lang="pt">realizado em 04/12/2024</sub-title>
     <desc lang="pt">Cesar Filho leva ao telespectador as notícias mais importantes do dia, ao vivo, com liberdade editor</desc>
@@ -40504,7 +40730,7 @@ de artes marciais</desc>
     <date>04/12/2024</date>
     <episode-num system="xmltv_ns">0.411.</episode-num>
   </programme>
-  <programme start="20241205221458 -0300" stop="20241205224443 -0300" channel="Informação">
+  <programme start="20241205221526 -0300" stop="20241205224511 -0300" channel="Informação">
     <title lang="pt">Divina Christina</title>
     <desc lang="pt"> - A moleca da família, de personalidade marcante, resiliente e exímia amazona, essa é Christina Rocha.</desc>
     <category lang="en">documentary</category>
@@ -40513,7 +40739,7 @@ de artes marciais</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241205224453 -0300" stop="20241205235917 -0300" channel="Informação">
+  <programme start="20241205224528 -0300" stop="20241205235952 -0300" channel="Informação">
     <title lang="pt">De Frente com Gabi</title>
     <desc lang="pt"> - Uma das maiores entrevistadoras do país frente a frente com grandes personalidades do mundo. </desc>
     <category lang="en">variety show</category>
@@ -40522,27 +40748,166 @@ de artes marciais</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241205152607 -0300" stop="20241205160006 -0300" channel="Séries">
-    <title lang="pt">Doctor Who</title>
-    <sub-title lang="pt">14. O retorno do Doutor Mysterio</sub-title>
-    <desc lang="pt"> - Acompanhe as jornadas pelo espaço-tempo do Doutor, um alienígena da linhagem dos senhores do tempo.</desc>
-    <category lang="en">detective/thriller</category>
-    <episode-num system="xmltv_ns">8.13.</episode-num>
+  <programme start="20241206000002 -0300" stop="20241206012310 -0300" channel="Informação">
+    <title lang="pt">Primeiro Impacto</title>
+    <sub-title lang="pt">realizado em 05/12/2024</sub-title>
+    <desc lang="pt">Trânsito, política, saúde, esporte, mercado de trabalho, educação e os assuntos que são destaque no Brasil e no mundo.</desc>
+    <category lang="en">news/current affairs (general)</category>
+    <date>05/12/2024</date>
+    <episode-num system="xmltv_ns">0.511.</episode-num>
+  </programme>
+  <programme start="20241206012841 -0300" stop="20241206025921 -0300" channel="Informação">
+    <title lang="pt">Primeiro Impacto</title>
+    <sub-title lang="pt">realizado em 05/12/2024</sub-title>
+    <desc lang="pt">Trânsito, política, saúde, esporte, mercado de trabalho, educação e os assuntos que são destaque no Brasil e no mundo.</desc>
+    <category lang="en">news/current affairs (general)</category>
+    <date>05/12/2024</date>
+    <episode-num system="xmltv_ns">0.511.</episode-num>
+  </programme>
+  <programme start="20241206025921 -0300" stop="20241206045619 -0300" channel="Informação">
+    <title lang="pt">Chega Mais</title>
+    <sub-title lang="pt">realizado em 05/12/2024</sub-title>
+    <desc lang="pt">Regina Volpato, Michelle Barros e Paulo Mathias trazem muita informação, prestação de serviço, culinária, diversão e entretenimento no "Chega Mais".</desc>
+    <category lang="en">news/current affairs (general)</category>
+    <date>05/12/2024</date>
+    <episode-num system="xmltv_ns">0.511.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241205160016 -0300" stop="20241205165701 -0300" channel="Séries">
-    <title lang="pt">Saving Hope</title>
-    <sub-title lang="pt">12. Pense Grande ou Vá Embora</sub-title>
-    <desc lang="pt"> - A médica Alex Reid luta para manter vivo o noivo Charlie, que entrou em coma após um acidente.</desc>
-    <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">0.11.</episode-num>
+  <programme start="20241206045629 -0300" stop="20241206072757 -0300" channel="Informação">
+    <title lang="pt">Chega Mais Notícias</title>
+    <sub-title lang="pt">realizado em 05/12/2024</sub-title>
+    <desc lang="pt">Fique bem informado no "Chega Mais Notícias", com as notícias mais importantes do dia.</desc>
+    <category lang="en">news/current affairs (general)</category>
+    <date>05/12/2024</date>
+    <episode-num system="xmltv_ns">0.511.</episode-num>
+  </programme>
+  <programme start="20241206072807 -0300" stop="20241206073506 -0300" channel="Informação">
+    <title lang="pt">Cazalbé, o Herdeiro da Graça</title>
+    <sub-title lang="pt">Making Off - Coleção SBT</sub-title>
+    <desc lang="pt"> - A história de um gênio do humor brasileiro, história de infância, conflitos, sucessos e desafios.</desc>
+    <category lang="en">documentary</category>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
     <rating system="Brazil">
-      <value>[A14]</value>
+      <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241205165711 -0300" stop="20241205172234 -0300" channel="Séries">
+  <programme start="20241206073526 -0300" stop="20241206080511 -0300" channel="Informação">
+    <title lang="pt">Divina Christina</title>
+    <desc lang="pt"> - A moleca da família, de personalidade marcante, resiliente e exímia amazona, essa é Christina Rocha.</desc>
+    <category lang="en">documentary</category>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20241206080521 -0300" stop="20241206092014 -0300" channel="Informação">
+    <title lang="pt">Fofocalizando</title>
+    <sub-title lang="pt">realizado em 04/12/2024</sub-title>
+    <desc lang="pt"> Fique por dentro das principais notícias do mundo das celebridades em primei</desc>
+    <category lang="en">news/current affairs (general)</category>
+    <date>04/12/2024</date>
+    <episode-num system="xmltv_ns">0.411.</episode-num>
+  </programme>
+  <programme start="20241206092024 -0300" stop="20241206093015 -0300" channel="Informação">
+    <title lang="pt">O Que Assistir?</title>
+    <sub-title lang="pt">Filmes do catálogo</sub-title>
+    <desc lang="pt"> - Confira alguns filmes que separamos para você!</desc>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20241206093025 -0300" stop="20241206095721 -0300" channel="Informação">
+    <title lang="pt">Giro Informação</title>
+    <sub-title lang="pt">Programa 21</sub-title>
+    <desc lang="pt"> - Informação, turismo, curiosidades e muito mais. O Giro Informação te deixa por dentro de assuntos que vão fazer diferença no seu dia a dia.</desc>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">0.20.</episode-num>
+  </programme>
+  <programme start="20241206095731 -0300" stop="20241206112039 -0300" channel="Informação">
+    <title lang="pt">Primeiro Impacto</title>
+    <sub-title lang="pt">realizado em 05/12/2024</sub-title>
+    <desc lang="pt">Trânsito, política, saúde, esporte, mercado de trabalho, educação e os assuntos que são destaque no Brasil e no mundo.</desc>
+    <category lang="en">news/current affairs (general)</category>
+    <date>05/12/2024</date>
+    <episode-num system="xmltv_ns">0.511.</episode-num>
+  </programme>
+  <programme start="20241206112610 -0300" stop="20241206125650 -0300" channel="Informação">
+    <title lang="pt">Primeiro Impacto</title>
+    <sub-title lang="pt">realizado em 05/12/2024</sub-title>
+    <desc lang="pt">Trânsito, política, saúde, esporte, mercado de trabalho, educação e os assuntos que são destaque no Brasil e no mundo.</desc>
+    <category lang="en">news/current affairs (general)</category>
+    <date>05/12/2024</date>
+    <episode-num system="xmltv_ns">0.511.</episode-num>
+  </programme>
+  <programme start="20241206125650 -0300" stop="20241206145349 -0300" channel="Informação">
+    <title lang="pt">Chega Mais</title>
+    <sub-title lang="pt">realizado em 05/12/2024</sub-title>
+    <desc lang="pt">Regina Volpato, Michelle Barros e Paulo Mathias trazem muita informação, prestação de serviço, culinária, diversão e entretenimento no "Chega Mais".</desc>
+    <category lang="en">news/current affairs (general)</category>
+    <date>05/12/2024</date>
+    <episode-num system="xmltv_ns">0.511.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241206145359 -0300" stop="20241206172526 -0300" channel="Informação">
+    <title lang="pt">Chega Mais Notícias</title>
+    <sub-title lang="pt">realizado em 05/12/2024</sub-title>
+    <desc lang="pt">Fique bem informado no "Chega Mais Notícias", com as notícias mais importantes do dia.</desc>
+    <category lang="en">news/current affairs (general)</category>
+    <date>05/12/2024</date>
+    <episode-num system="xmltv_ns">0.511.</episode-num>
+  </programme>
+  <programme start="20241206172536 -0300" stop="20241206175233 -0300" channel="Informação">
+    <title lang="pt">Giro Informação</title>
+    <sub-title lang="pt">Programa 21</sub-title>
+    <desc lang="pt"> - Informação, turismo, curiosidades e muito mais. O Giro Informação te deixa por dentro de assuntos que vão fazer diferença no seu dia a dia.</desc>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">0.20.</episode-num>
+  </programme>
+  <programme start="20241206175250 -0300" stop="20241206190742 -0300" channel="Informação">
+    <title lang="pt">Fofocalizando</title>
+    <sub-title lang="pt">realizado em 04/12/2024</sub-title>
+    <desc lang="pt"> Fique por dentro das principais notícias do mundo das celebridades em primei</desc>
+    <category lang="en">news/current affairs (general)</category>
+    <date>04/12/2024</date>
+    <episode-num system="xmltv_ns">0.411.</episode-num>
+  </programme>
+  <programme start="20241206190752 -0300" stop="20241206212100 -0300" channel="Informação">
+    <title lang="pt">Tá Na Hora</title>
+    <sub-title lang="pt">realizado em 04/12/2024</sub-title>
+    <desc lang="pt">Marcão do Povo comanda o "Tá na Hora", levando informação e prestação de serviço durante a sua volta para casa.</desc>
+    <category lang="en">news/current affairs (general)</category>
+    <date>04/12/2024</date>
+    <episode-num system="xmltv_ns">0.411.</episode-num>
+  </programme>
+  <programme start="20241206212117 -0300" stop="20241206222126 -0300" channel="Informação">
+    <title lang="pt">SBT Brasil</title>
+    <sub-title lang="pt">realizado em 04/12/2024</sub-title>
+    <desc lang="pt">Cesar Filho leva ao telespectador as notícias mais importantes do dia, ao vivo, com liberdade editor</desc>
+    <category lang="en">news/current affairs (general)</category>
+    <date>04/12/2024</date>
+    <episode-num system="xmltv_ns">0.411.</episode-num>
+  </programme>
+  <programme start="20241206222153 -0300" stop="20241206230244 -0300" channel="Informação">
+    <title lang="pt">Divina Christina</title>
+    <desc lang="pt"> - A moleca da família, de personalidade marcante, resiliente e exímia amazona, essa é Christina Rocha.</desc>
+    <category lang="en">documentary</category>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20241206230301 -0300" stop="20241207000756 -0300" channel="Informação">
+    <title lang="pt">De Frente com Gabi</title>
+    <desc lang="pt"> - Uma das maiores entrevistadoras do país frente a frente com grandes personalidades do mundo. </desc>
+    <category lang="en">variety show</category>
+    <episode-num system="xmltv_ns">0.20.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20241205171658 -0300" stop="20241205172234 -0300" channel="Séries">
     <title lang="pt">Younger</title>
     <sub-title lang="pt">1. Tatuagem em Você</sub-title>
     <desc lang="pt"> - Aos 40 anos, Liza finge ser mais nova para conseguir um emprego depois de anos longe do mercado.</desc>
@@ -40916,18 +41281,7 @@ de artes marciais</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241205151757 -0300" stop="20241205160734 -0300" channel="Pop">
-    <title lang="pt">Xaveco</title>
-    <sub-title lang="pt">realizado em 02/06/2019</sub-title>
-    <desc lang="pt">O Xaveco é um game com perguntas e respostas, provas divertidas e muita paquera!</desc>
-    <category lang="en">variety show</category>
-    <date>02/06/2019</date>
-    <episode-num system="xmltv_ns">0.12.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20241205160744 -0300" stop="20241205172911 -0300" channel="Pop">
+  <programme start="20241205170056 -0300" stop="20241205172911 -0300" channel="Pop">
     <title lang="pt">Rola ou Enrola</title>
     <sub-title lang="pt">realizado em 19/02/2012</sub-title>
     <desc lang="pt">No quadro "Rola ou Enrola" cinco solteiras estão em busca de um grande amor e tentam a sorte!</desc>
@@ -40982,32 +41336,7 @@ de artes marciais</desc>
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20241205151749 -0300" stop="20241205154333 -0300" channel="TV Zyn">
-    <title lang="pt">A Hora do Arrepio</title>
-    <sub-title lang="pt">6. Uma criatura estava se mexendo</sub-title>
-    <desc lang="pt"> - A cada episódio, uma história e um susto diferentes. Prontos para A Hora do Arrepio?</desc>
-    <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <rating system="Brazil">
-      <value>[Medo]</value>
-    </rating>
-  </programme>
-  <programme start="20241205154805 -0300" stop="20241205155756 -0300" channel="TV Zyn">
-    <title lang="pt">O Que Assistir?</title>
-    <sub-title lang="pt">Filmes do catálogo</sub-title>
-    <desc lang="pt"> - Confira alguns filmes que separamos para você!</desc>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20241205155821 -0300" stop="20241205165420 -0300" channel="TV Zyn">
-    <title lang="pt">Cúmplices de Um Resgate</title>
-    <desc lang="pt"> - Gêmeas que foram separadas ao nascer e se reencontram na adolescência. E se tornam cúmplices na vida.</desc>
-    <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">5.118.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20241205165537 -0300" stop="20241205174714 -0300" channel="TV Zyn">
+  <programme start="20241205171026 -0300" stop="20241205174714 -0300" channel="TV Zyn">
     <title lang="pt">Carrossel</title>
     <desc lang="pt"> - Uma turminha animada que deixa o mundo mais divertido e musical. Embarca nesse Carrossel com eles.</desc>
     <category lang="en">adventure/western/war</category>
@@ -41128,7 +41457,7 @@ de artes marciais</desc>
     <desc lang="pt"> - Confira alguns filmes que separamos para você!</desc>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20241206020036 -0300" stop="20241206025459 -0300" channel="TV Zyn">
+  <programme start="20241206015650 -0300" stop="20241206025113 -0300" channel="TV Zyn">
     <title lang="pt">Patrulha Salvadora</title>
     <sub-title lang="pt">1. O Caso do Soldado do Egito</sub-title>
     <desc lang="pt"> - As crianças mais amadas de Carrossel agora são super heróis que lutam contra o crime!</desc>
@@ -41138,7 +41467,7 @@ de artes marciais</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241206025531 -0300" stop="20241206041547 -0300" channel="TV Zyn">
+  <programme start="20241206025145 -0300" stop="20241206041202 -0300" channel="TV Zyn">
     <title lang="pt">Programa da Maisa</title>
     <sub-title lang="pt">Programa de</sub-title>
     <desc lang="pt">realizado em 22/06/2019 - No talk show, Maisa Silva e Oscar Filho recebem convidados para uma conversa bem &amp;apos;à vontade&amp;apos;.</desc>
@@ -41146,13 +41475,13 @@ de artes marciais</desc>
     <date>22/06/2019</date>
     <episode-num system="xmltv_ns">0.14.</episode-num>
   </programme>
-  <programme start="20241206041634 -0300" stop="20241206042625 -0300" channel="TV Zyn">
+  <programme start="20241206041249 -0300" stop="20241206042240 -0300" channel="TV Zyn">
     <title lang="pt">O Que Assistir?</title>
     <sub-title lang="pt">Filmes do catálogo</sub-title>
     <desc lang="pt"> - Confira alguns filmes que separamos para você!</desc>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20241206042650 -0300" stop="20241206045559 -0300" channel="TV Zyn">
+  <programme start="20241206042305 -0300" stop="20241206045214 -0300" channel="TV Zyn">
     <title lang="pt">Dance Academy</title>
     <sub-title lang="pt">15. Minha vida em pointe</sub-title>
     <desc lang="pt"> - Tara Webster, uma adolescente de 15 anos, que desde pequena sonha em ser uma grande dançarina!</desc>
@@ -41162,26 +41491,26 @@ de artes marciais</desc>
       <value>[Violência]</value>
     </rating>
   </programme>
-  <programme start="20241206050047 -0300" stop="20241206052952 -0300" channel="TV Zyn">
+  <programme start="20241206045701 -0300" stop="20241206052606 -0300" channel="TV Zyn">
     <title lang="pt">Athena</title>
     <desc lang="pt"> - Depois de jogar fora a carreira de top model, Nyela vai à faculdade tentar se tornar uma estilista.</desc>
     <category lang="en">movie/drama (general)</category>
     <episode-num system="xmltv_ns">0.13.</episode-num>
   </programme>
-  <programme start="20241206053109 -0300" stop="20241206055920 -0300" channel="TV Zyn">
+  <programme start="20241206052723 -0300" stop="20241206055534 -0300" channel="TV Zyn">
     <title lang="pt">H2O Meninas Sereias</title>
     <sub-title lang="pt">14. Deixem-me em paz</sub-title>
     <desc lang="pt"> - As adolescentes Cléo, Nanda e Drica protegem um segredo: elas se transformam em sereias!</desc>
     <category lang="en">entertainment programmes for 6 to 14</category>
     <episode-num system="xmltv_ns">1.13.</episode-num>
   </programme>
-  <programme start="20241206060022 -0300" stop="20241206062517 -0300" channel="TV Zyn">
+  <programme start="20241206055636 -0300" stop="20241206062131 -0300" channel="TV Zyn">
     <title lang="pt">Spooksville</title>
     <desc lang="pt"> - Spooksville é uma cidade sobrenatural e Adam descobre que é a chave para libertar a cidade do mal!</desc>
     <category lang="en">detective/thriller</category>
     <episode-num system="xmltv_ns">0.17.</episode-num>
   </programme>
-  <programme start="20241206062619 -0300" stop="20241206065442 -0300" channel="TV Zyn">
+  <programme start="20241206062233 -0300" stop="20241206065056 -0300" channel="TV Zyn">
     <title lang="pt">Wolfblood</title>
     <desc lang="pt"> - Se já não é fácil ser adolescente, imagine ter que esconder que é meio lobo, um wolfblood!</desc>
     <category lang="en">movie/drama (general)</category>
@@ -41190,7 +41519,7 @@ de artes marciais</desc>
       <value>[Medo, Violência]</value>
     </rating>
   </programme>
-  <programme start="20241206065615 -0300" stop="20241206072155 -0300" channel="TV Zyn">
+  <programme start="20241206065229 -0300" stop="20241206071809 -0300" channel="TV Zyn">
     <title lang="pt">A Hora do Arrepio</title>
     <sub-title lang="pt">7. O olhar fantasmagórico</sub-title>
     <desc lang="pt"> - A cada episódio, uma história e um susto diferentes. Prontos para A Hora do Arrepio?</desc>
@@ -41200,7 +41529,7 @@ de artes marciais</desc>
       <value>[Medo]</value>
     </rating>
   </programme>
-  <programme start="20241206072547 -0300" stop="20241206075131 -0300" channel="TV Zyn">
+  <programme start="20241206072201 -0300" stop="20241206074745 -0300" channel="TV Zyn">
     <title lang="pt">A Hora do Arrepio</title>
     <sub-title lang="pt">8. As paredes</sub-title>
     <desc lang="pt"> - A cada episódio, uma história e um susto diferentes. Prontos para A Hora do Arrepio?</desc>
@@ -41210,13 +41539,13 @@ de artes marciais</desc>
       <value>[Medo]</value>
     </rating>
   </programme>
-  <programme start="20241206075208 -0300" stop="20241206080158 -0300" channel="TV Zyn">
+  <programme start="20241206074822 -0300" stop="20241206075813 -0300" channel="TV Zyn">
     <title lang="pt">O Que Assistir?</title>
     <sub-title lang="pt">Filmes do catálogo</sub-title>
     <desc lang="pt"> - Confira alguns filmes que separamos para você!</desc>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20241206080223 -0300" stop="20241206085616 -0300" channel="TV Zyn">
+  <programme start="20241206075838 -0300" stop="20241206085230 -0300" channel="TV Zyn">
     <title lang="pt">Cúmplices de Um Resgate</title>
     <desc lang="pt"> - Gêmeas que foram separadas ao nascer e se reencontram na adolescência. E se tornam cúmplices na vida.</desc>
     <category lang="en">movie/drama (general)</category>
@@ -41225,7 +41554,7 @@ de artes marciais</desc>
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20241206085733 -0300" stop="20241206094606 -0300" channel="TV Zyn">
+  <programme start="20241206085347 -0300" stop="20241206094220 -0300" channel="TV Zyn">
     <title lang="pt">Carrossel</title>
     <desc lang="pt"> - Uma turminha animada que deixa o mundo mais divertido e musical. Embarca nesse Carrossel com eles.</desc>
     <category lang="en">adventure/western/war</category>
@@ -41234,13 +41563,13 @@ de artes marciais</desc>
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20241206094653 -0300" stop="20241206095644 -0300" channel="TV Zyn">
+  <programme start="20241206094307 -0300" stop="20241206095258 -0300" channel="TV Zyn">
     <title lang="pt">O Que Assistir?</title>
     <sub-title lang="pt">Filmes do catálogo</sub-title>
     <desc lang="pt"> - Confira alguns filmes que separamos para você!</desc>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20241206100054 -0300" stop="20241206105517 -0300" channel="TV Zyn">
+  <programme start="20241206095709 -0300" stop="20241206105132 -0300" channel="TV Zyn">
     <title lang="pt">Patrulha Salvadora</title>
     <sub-title lang="pt">1. O Caso do Soldado do Egito</sub-title>
     <desc lang="pt"> - As crianças mais amadas de Carrossel agora são super heróis que lutam contra o crime!</desc>
@@ -41250,7 +41579,7 @@ de artes marciais</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241206105549 -0300" stop="20241206121605 -0300" channel="TV Zyn">
+  <programme start="20241206105204 -0300" stop="20241206121220 -0300" channel="TV Zyn">
     <title lang="pt">Programa da Maisa</title>
     <sub-title lang="pt">Programa de</sub-title>
     <desc lang="pt">realizado em 22/06/2019 - No talk show, Maisa Silva e Oscar Filho recebem convidados para uma conversa bem &amp;apos;à vontade&amp;apos;.</desc>
@@ -41258,13 +41587,13 @@ de artes marciais</desc>
     <date>22/06/2019</date>
     <episode-num system="xmltv_ns">0.14.</episode-num>
   </programme>
-  <programme start="20241206121652 -0300" stop="20241206122643 -0300" channel="TV Zyn">
+  <programme start="20241206121307 -0300" stop="20241206122258 -0300" channel="TV Zyn">
     <title lang="pt">O Que Assistir?</title>
     <sub-title lang="pt">Filmes do catálogo</sub-title>
     <desc lang="pt"> - Confira alguns filmes que separamos para você!</desc>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20241206122708 -0300" stop="20241206125617 -0300" channel="TV Zyn">
+  <programme start="20241206122323 -0300" stop="20241206125232 -0300" channel="TV Zyn">
     <title lang="pt">Dance Academy</title>
     <sub-title lang="pt">15. Minha vida em pointe</sub-title>
     <desc lang="pt"> - Tara Webster, uma adolescente de 15 anos, que desde pequena sonha em ser uma grande dançarina!</desc>
@@ -41274,26 +41603,26 @@ de artes marciais</desc>
       <value>[Violência]</value>
     </rating>
   </programme>
-  <programme start="20241206130105 -0300" stop="20241206133010 -0300" channel="TV Zyn">
+  <programme start="20241206125719 -0300" stop="20241206132624 -0300" channel="TV Zyn">
     <title lang="pt">Athena</title>
     <desc lang="pt"> - Depois de jogar fora a carreira de top model, Nyela vai à faculdade tentar se tornar uma estilista.</desc>
     <category lang="en">movie/drama (general)</category>
     <episode-num system="xmltv_ns">0.13.</episode-num>
   </programme>
-  <programme start="20241206133127 -0300" stop="20241206135938 -0300" channel="TV Zyn">
+  <programme start="20241206132741 -0300" stop="20241206135552 -0300" channel="TV Zyn">
     <title lang="pt">H2O Meninas Sereias</title>
     <sub-title lang="pt">14. Deixem-me em paz</sub-title>
     <desc lang="pt"> - As adolescentes Cléo, Nanda e Drica protegem um segredo: elas se transformam em sereias!</desc>
     <category lang="en">entertainment programmes for 6 to 14</category>
     <episode-num system="xmltv_ns">1.13.</episode-num>
   </programme>
-  <programme start="20241206140040 -0300" stop="20241206142535 -0300" channel="TV Zyn">
+  <programme start="20241206135654 -0300" stop="20241206142149 -0300" channel="TV Zyn">
     <title lang="pt">Spooksville</title>
     <desc lang="pt"> - Spooksville é uma cidade sobrenatural e Adam descobre que é a chave para libertar a cidade do mal!</desc>
     <category lang="en">detective/thriller</category>
     <episode-num system="xmltv_ns">0.17.</episode-num>
   </programme>
-  <programme start="20241206142637 -0300" stop="20241206145500 -0300" channel="TV Zyn">
+  <programme start="20241206142251 -0300" stop="20241206145114 -0300" channel="TV Zyn">
     <title lang="pt">Wolfblood</title>
     <desc lang="pt"> - Se já não é fácil ser adolescente, imagine ter que esconder que é meio lobo, um wolfblood!</desc>
     <category lang="en">movie/drama (general)</category>
@@ -41302,7 +41631,7 @@ de artes marciais</desc>
       <value>[Medo, Violência]</value>
     </rating>
   </programme>
-  <programme start="20241206145633 -0300" stop="20241206152213 -0300" channel="TV Zyn">
+  <programme start="20241206145247 -0300" stop="20241206151827 -0300" channel="TV Zyn">
     <title lang="pt">A Hora do Arrepio</title>
     <sub-title lang="pt">7. O olhar fantasmagórico</sub-title>
     <desc lang="pt"> - A cada episódio, uma história e um susto diferentes. Prontos para A Hora do Arrepio?</desc>
@@ -41312,7 +41641,7 @@ de artes marciais</desc>
       <value>[Medo]</value>
     </rating>
   </programme>
-  <programme start="20241206152605 -0300" stop="20241206155149 -0300" channel="TV Zyn">
+  <programme start="20241206152220 -0300" stop="20241206154803 -0300" channel="TV Zyn">
     <title lang="pt">A Hora do Arrepio</title>
     <sub-title lang="pt">8. As paredes</sub-title>
     <desc lang="pt"> - A cada episódio, uma história e um susto diferentes. Prontos para A Hora do Arrepio?</desc>
@@ -41322,13 +41651,13 @@ de artes marciais</desc>
       <value>[Medo]</value>
     </rating>
   </programme>
-  <programme start="20241206155226 -0300" stop="20241206160217 -0300" channel="TV Zyn">
+  <programme start="20241206154840 -0300" stop="20241206155831 -0300" channel="TV Zyn">
     <title lang="pt">O Que Assistir?</title>
     <sub-title lang="pt">Filmes do catálogo</sub-title>
     <desc lang="pt"> - Confira alguns filmes que separamos para você!</desc>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20241206160242 -0300" stop="20241206165634 -0300" channel="TV Zyn">
+  <programme start="20241206155856 -0300" stop="20241206165248 -0300" channel="TV Zyn">
     <title lang="pt">Cúmplices de Um Resgate</title>
     <desc lang="pt"> - Gêmeas que foram separadas ao nascer e se reencontram na adolescência. E se tornam cúmplices na vida.</desc>
     <category lang="en">movie/drama (general)</category>
@@ -41337,7 +41666,7 @@ de artes marciais</desc>
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20241206165751 -0300" stop="20241206174624 -0300" channel="TV Zyn">
+  <programme start="20241206165405 -0300" stop="20241206174238 -0300" channel="TV Zyn">
     <title lang="pt">Carrossel</title>
     <desc lang="pt"> - Uma turminha animada que deixa o mundo mais divertido e musical. Embarca nesse Carrossel com eles.</desc>
     <category lang="en">adventure/western/war</category>
@@ -41346,13 +41675,13 @@ de artes marciais</desc>
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20241206174711 -0300" stop="20241206175702 -0300" channel="TV Zyn">
+  <programme start="20241206174325 -0300" stop="20241206175316 -0300" channel="TV Zyn">
     <title lang="pt">O Que Assistir?</title>
     <sub-title lang="pt">Filmes do catálogo</sub-title>
     <desc lang="pt"> - Confira alguns filmes que separamos para você!</desc>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20241206180112 -0300" stop="20241206185535 -0300" channel="TV Zyn">
+  <programme start="20241206175727 -0300" stop="20241206185150 -0300" channel="TV Zyn">
     <title lang="pt">Patrulha Salvadora</title>
     <sub-title lang="pt">1. O Caso do Soldado do Egito</sub-title>
     <desc lang="pt"> - As crianças mais amadas de Carrossel agora são super heróis que lutam contra o crime!</desc>
@@ -41362,7 +41691,7 @@ de artes marciais</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241206185607 -0300" stop="20241206201624 -0300" channel="TV Zyn">
+  <programme start="20241206185222 -0300" stop="20241206201238 -0300" channel="TV Zyn">
     <title lang="pt">Programa da Maisa</title>
     <sub-title lang="pt">Programa de</sub-title>
     <desc lang="pt">realizado em 22/06/2019 - No talk show, Maisa Silva e Oscar Filho recebem convidados para uma conversa bem &amp;apos;à vontade&amp;apos;.</desc>
@@ -41370,13 +41699,13 @@ de artes marciais</desc>
     <date>22/06/2019</date>
     <episode-num system="xmltv_ns">0.14.</episode-num>
   </programme>
-  <programme start="20241206201711 -0300" stop="20241206202701 -0300" channel="TV Zyn">
+  <programme start="20241206201325 -0300" stop="20241206202316 -0300" channel="TV Zyn">
     <title lang="pt">O Que Assistir?</title>
     <sub-title lang="pt">Filmes do catálogo</sub-title>
     <desc lang="pt"> - Confira alguns filmes que separamos para você!</desc>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20241206202726 -0300" stop="20241206205635 -0300" channel="TV Zyn">
+  <programme start="20241206202341 -0300" stop="20241206205250 -0300" channel="TV Zyn">
     <title lang="pt">Dance Academy</title>
     <sub-title lang="pt">15. Minha vida em pointe</sub-title>
     <desc lang="pt"> - Tara Webster, uma adolescente de 15 anos, que desde pequena sonha em ser uma grande dançarina!</desc>
@@ -41386,26 +41715,26 @@ de artes marciais</desc>
       <value>[Violência]</value>
     </rating>
   </programme>
-  <programme start="20241206210123 -0300" stop="20241206213028 -0300" channel="TV Zyn">
+  <programme start="20241206205737 -0300" stop="20241206212642 -0300" channel="TV Zyn">
     <title lang="pt">Athena</title>
     <desc lang="pt"> - Depois de jogar fora a carreira de top model, Nyela vai à faculdade tentar se tornar uma estilista.</desc>
     <category lang="en">movie/drama (general)</category>
     <episode-num system="xmltv_ns">0.13.</episode-num>
   </programme>
-  <programme start="20241206213145 -0300" stop="20241206215956 -0300" channel="TV Zyn">
+  <programme start="20241206212759 -0300" stop="20241206215610 -0300" channel="TV Zyn">
     <title lang="pt">H2O Meninas Sereias</title>
     <sub-title lang="pt">14. Deixem-me em paz</sub-title>
     <desc lang="pt"> - As adolescentes Cléo, Nanda e Drica protegem um segredo: elas se transformam em sereias!</desc>
     <category lang="en">entertainment programmes for 6 to 14</category>
     <episode-num system="xmltv_ns">1.13.</episode-num>
   </programme>
-  <programme start="20241206220058 -0300" stop="20241206222553 -0300" channel="TV Zyn">
+  <programme start="20241206215712 -0300" stop="20241206222207 -0300" channel="TV Zyn">
     <title lang="pt">Spooksville</title>
     <desc lang="pt"> - Spooksville é uma cidade sobrenatural e Adam descobre que é a chave para libertar a cidade do mal!</desc>
     <category lang="en">detective/thriller</category>
     <episode-num system="xmltv_ns">0.17.</episode-num>
   </programme>
-  <programme start="20241206222655 -0300" stop="20241206225518 -0300" channel="TV Zyn">
+  <programme start="20241206222309 -0300" stop="20241206225132 -0300" channel="TV Zyn">
     <title lang="pt">Wolfblood</title>
     <desc lang="pt"> - Se já não é fácil ser adolescente, imagine ter que esconder que é meio lobo, um wolfblood!</desc>
     <category lang="en">movie/drama (general)</category>
@@ -41414,7 +41743,7 @@ de artes marciais</desc>
       <value>[Medo, Violência]</value>
     </rating>
   </programme>
-  <programme start="20241206225651 -0300" stop="20241206232231 -0300" channel="TV Zyn">
+  <programme start="20241206225305 -0300" stop="20241206231845 -0300" channel="TV Zyn">
     <title lang="pt">A Hora do Arrepio</title>
     <sub-title lang="pt">7. O olhar fantasmagórico</sub-title>
     <desc lang="pt"> - A cada episódio, uma história e um susto diferentes. Prontos para A Hora do Arrepio?</desc>
@@ -41424,7 +41753,7 @@ de artes marciais</desc>
       <value>[Medo]</value>
     </rating>
   </programme>
-  <programme start="20241206232623 -0300" stop="20241206235207 -0300" channel="TV Zyn">
+  <programme start="20241206232238 -0300" stop="20241206234821 -0300" channel="TV Zyn">
     <title lang="pt">A Hora do Arrepio</title>
     <sub-title lang="pt">8. As paredes</sub-title>
     <desc lang="pt"> - A cada episódio, uma história e um susto diferentes. Prontos para A Hora do Arrepio?</desc>
@@ -41434,13 +41763,13 @@ de artes marciais</desc>
       <value>[Medo]</value>
     </rating>
   </programme>
-  <programme start="20241206235244 -0300" stop="20241207000235 -0300" channel="TV Zyn">
+  <programme start="20241206234858 -0300" stop="20241206235849 -0300" channel="TV Zyn">
     <title lang="pt">O Que Assistir?</title>
     <sub-title lang="pt">Filmes do catálogo</sub-title>
     <desc lang="pt"> - Confira alguns filmes que separamos para você!</desc>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20241207002045 -0300" stop="20241207004508 -0300" channel="TV Zyn">
+  <programme start="20241207001659 -0300" stop="20241207004122 -0300" channel="TV Zyn">
     <title lang="pt">A Hora do Arrepio</title>
     <desc lang="pt"> - Histórias de arrepiar para crianças e jovens que não tem medo de se assustar!</desc>
     <category lang="en">movie/drama (general)</category>
@@ -41449,7 +41778,7 @@ de artes marciais</desc>
       <value>[Medo]</value>
     </rating>
   </programme>
-  <programme start="20241207004800 -0300" stop="20241207011253 -0300" channel="TV Zyn">
+  <programme start="20241207004415 -0300" stop="20241207010908 -0300" channel="TV Zyn">
     <title lang="pt">A Hora do Arrepio</title>
     <desc lang="pt"> - Histórias de arrepiar para crianças e jovens que não tem medo de se assustar!</desc>
     <category lang="en">movie/drama (general)</category>
@@ -41458,7 +41787,7 @@ de artes marciais</desc>
       <value>[Medo]</value>
     </rating>
   </programme>
-  <programme start="20241207011605 -0300" stop="20241207014059 -0300" channel="TV Zyn">
+  <programme start="20241207011220 -0300" stop="20241207013713 -0300" channel="TV Zyn">
     <title lang="pt">A Hora do Arrepio</title>
     <sub-title lang="pt">1. Realmente você - parte 1</sub-title>
     <desc lang="pt"> - A cada episódio, uma história e um susto diferentes. Prontos para A Hora do Arrepio?</desc>
@@ -41468,7 +41797,7 @@ de artes marciais</desc>
       <value>[Medo]</value>
     </rating>
   </programme>
-  <programme start="20241207014402 -0300" stop="20241207020931 -0300" channel="TV Zyn">
+  <programme start="20241207014017 -0300" stop="20241207020545 -0300" channel="TV Zyn">
     <title lang="pt">A Hora do Arrepio</title>
     <sub-title lang="pt">2. Realmente você - parte 2</sub-title>
     <desc lang="pt"> - A cada episódio, uma história e um susto diferentes. Prontos para A Hora do Arrepio?</desc>
@@ -41478,7 +41807,7 @@ de artes marciais</desc>
       <value>[Medo]</value>
     </rating>
   </programme>
-  <programme start="20241207021324 -0300" stop="20241207023823 -0300" channel="TV Zyn">
+  <programme start="20241207020939 -0300" stop="20241207023437 -0300" channel="TV Zyn">
     <title lang="pt">A Hora do Arrepio</title>
     <sub-title lang="pt">3. O corpo morto</sub-title>
     <desc lang="pt"> - A cada episódio, uma história e um susto diferentes. Prontos para A Hora do Arrepio?</desc>
@@ -41488,13 +41817,13 @@ de artes marciais</desc>
       <value>[Medo]</value>
     </rating>
   </programme>
-  <programme start="20241207023900 -0300" stop="20241207024851 -0300" channel="TV Zyn">
+  <programme start="20241207023514 -0300" stop="20241207024505 -0300" channel="TV Zyn">
     <title lang="pt">O Que Assistir?</title>
     <sub-title lang="pt">Filmes do catálogo</sub-title>
     <desc lang="pt"> - Confira alguns filmes que separamos para você!</desc>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20241207024901 -0300" stop="20241207031646 -0300" channel="TV Zyn">
+  <programme start="20241207024515 -0300" stop="20241207031301 -0300" channel="TV Zyn">
     <title lang="pt">Dance Academy</title>
     <sub-title lang="pt">10. Através do espelho</sub-title>
     <desc lang="pt"> - Tara Webster, uma adolescente de 15 anos, que desde pequena sonha em ser uma grande dançarina!</desc>
@@ -41504,7 +41833,7 @@ de artes marciais</desc>
       <value>[Violência]</value>
     </rating>
   </programme>
-  <programme start="20241207032009 -0300" stop="20241207034756 -0300" channel="TV Zyn">
+  <programme start="20241207031623 -0300" stop="20241207034410 -0300" channel="TV Zyn">
     <title lang="pt">Dance Academy</title>
     <sub-title lang="pt">11. O dia perfeito</sub-title>
     <desc lang="pt"> - Tara Webster, uma adolescente de 15 anos, que desde pequena sonha em ser uma grande dançarina!</desc>
@@ -41514,7 +41843,7 @@ de artes marciais</desc>
       <value>[Violência]</value>
     </rating>
   </programme>
-  <programme start="20241207035059 -0300" stop="20241207041807 -0300" channel="TV Zyn">
+  <programme start="20241207034714 -0300" stop="20241207041422 -0300" channel="TV Zyn">
     <title lang="pt">Dance Academy</title>
     <sub-title lang="pt">12. Pressão</sub-title>
     <desc lang="pt"> - Tara Webster, uma adolescente de 15 anos, que desde pequena sonha em ser uma grande dançarina!</desc>
@@ -41524,7 +41853,7 @@ de artes marciais</desc>
       <value>[Violência]</value>
     </rating>
   </programme>
-  <programme start="20241207042116 -0300" stop="20241207044854 -0300" channel="TV Zyn">
+  <programme start="20241207041730 -0300" stop="20241207044508 -0300" channel="TV Zyn">
     <title lang="pt">Dance Academy</title>
     <sub-title lang="pt">13. Família</sub-title>
     <desc lang="pt"> - Tara Webster, uma adolescente de 15 anos, que desde pequena sonha em ser uma grande dançarina!</desc>
@@ -41534,7 +41863,7 @@ de artes marciais</desc>
       <value>[Violência]</value>
     </rating>
   </programme>
-  <programme start="20241207045201 -0300" stop="20241207051918 -0300" channel="TV Zyn">
+  <programme start="20241207044816 -0300" stop="20241207051532 -0300" channel="TV Zyn">
     <title lang="pt">Dance Academy</title>
     <sub-title lang="pt">14. A hora da virada</sub-title>
     <desc lang="pt"> - Tara Webster, uma adolescente de 15 anos, que desde pequena sonha em ser uma grande dançarina!</desc>
@@ -41544,7 +41873,7 @@ de artes marciais</desc>
       <value>[Violência]</value>
     </rating>
   </programme>
-  <programme start="20241207052220 -0300" stop="20241207054951 -0300" channel="TV Zyn">
+  <programme start="20241207051835 -0300" stop="20241207054605 -0300" channel="TV Zyn">
     <title lang="pt">Dance Academy</title>
     <sub-title lang="pt">15. Minha vida em pointe</sub-title>
     <desc lang="pt"> - Tara Webster, uma adolescente de 15 anos, que desde pequena sonha em ser uma grande dançarina!</desc>
@@ -41554,11 +41883,11 @@ de artes marciais</desc>
       <value>[Violência]</value>
     </rating>
   </programme>
-  <programme start="20241207055028 -0300" stop="20241207060019 -0300" channel="TV Zyn">
+  <programme start="20241207054642 -0300" stop="20241207055633 -0300" channel="TV Zyn">
     <title lang="pt">Programação TV Zyn</title>
     <desc lang="pt"> - </desc>
   </programme>
-  <programme start="20241207060029 -0300" stop="20241207071226 -0300" channel="TV Zyn">
+  <programme start="20241207055643 -0300" stop="20241207070840 -0300" channel="TV Zyn">
     <title lang="pt">Programa da Maisa</title>
     <sub-title lang="pt">Programa de</sub-title>
     <desc lang="pt">realizado em 18/05/2019 - No talk show, Maisa Silva e Oscar Filho recebem convidados para uma conversa bem &amp;apos;à vontade&amp;apos;.</desc>
@@ -41566,7 +41895,7 @@ de artes marciais</desc>
     <date>18/05/2019</date>
     <episode-num system="xmltv_ns">0.9.</episode-num>
   </programme>
-  <programme start="20241207071533 -0300" stop="20241207084015 -0300" channel="TV Zyn">
+  <programme start="20241207071148 -0300" stop="20241207083630 -0300" channel="TV Zyn">
     <title lang="pt">Programa da Maisa</title>
     <sub-title lang="pt">Programa de</sub-title>
     <desc lang="pt">realizado em 25/05/2019 - No talk show, Maisa Silva e Oscar Filho recebem convidados para uma conversa bem &amp;apos;à vontade&amp;apos;.</desc>
@@ -41574,7 +41903,7 @@ de artes marciais</desc>
     <date>25/05/2019</date>
     <episode-num system="xmltv_ns">0.10.</episode-num>
   </programme>
-  <programme start="20241207084409 -0300" stop="20241207095332 -0300" channel="TV Zyn">
+  <programme start="20241207084023 -0300" stop="20241207094947 -0300" channel="TV Zyn">
     <title lang="pt">Programa da Maisa</title>
     <sub-title lang="pt">Programa de</sub-title>
     <desc lang="pt">realizado em 01/06/2019 - No talk show, Maisa Silva e Oscar Filho recebem convidados para uma conversa bem &amp;apos;à vontade&amp;apos;.</desc>
@@ -41582,13 +41911,13 @@ de artes marciais</desc>
     <date>01/06/2019</date>
     <episode-num system="xmltv_ns">0.11.</episode-num>
   </programme>
-  <programme start="20241207095755 -0300" stop="20241207100746 -0300" channel="TV Zyn">
+  <programme start="20241207095409 -0300" stop="20241207100400 -0300" channel="TV Zyn">
     <title lang="pt">O Que Assistir?</title>
     <sub-title lang="pt">Filmes do catálogo</sub-title>
     <desc lang="pt"> - Confira alguns filmes que separamos para você!</desc>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20241207100756 -0300" stop="20241207110230 -0300" channel="TV Zyn">
+  <programme start="20241207100410 -0300" stop="20241207105844 -0300" channel="TV Zyn">
     <title lang="pt">Cúmplices de Um Resgate</title>
     <desc lang="pt"> - Gêmeas que foram separadas ao nascer e se reencontram na adolescência. E se tornam cúmplices na vida.</desc>
     <category lang="en">movie/drama (general)</category>
@@ -41597,7 +41926,7 @@ de artes marciais</desc>
       <value>[Drogas Lícitas, Violência]</value>
     </rating>
   </programme>
-  <programme start="20241207110547 -0300" stop="20241207115427 -0300" channel="TV Zyn">
+  <programme start="20241207110201 -0300" stop="20241207115042 -0300" channel="TV Zyn">
     <title lang="pt">Cúmplices de Um Resgate</title>
     <desc lang="pt"> - Gêmeas que foram separadas ao nascer e se reencontram na adolescência. E se tornam cúmplices na vida.</desc>
     <category lang="en">movie/drama (general)</category>
@@ -41606,7 +41935,7 @@ de artes marciais</desc>
       <value>[Drogas Lícitas, Violência]</value>
     </rating>
   </programme>
-  <programme start="20241207115745 -0300" stop="20241207125044 -0300" channel="TV Zyn">
+  <programme start="20241207115359 -0300" stop="20241207124658 -0300" channel="TV Zyn">
     <title lang="pt">Cúmplices de Um Resgate</title>
     <desc lang="pt"> - Gêmeas que foram separadas ao nascer e se reencontram na adolescência. E se tornam cúmplices na vida.</desc>
     <category lang="en">movie/drama (general)</category>
@@ -41615,7 +41944,7 @@ de artes marciais</desc>
       <value>[Drogas Lícitas, Violência]</value>
     </rating>
   </programme>
-  <programme start="20241207125341 -0300" stop="20241207134906 -0300" channel="TV Zyn">
+  <programme start="20241207124955 -0300" stop="20241207134521 -0300" channel="TV Zyn">
     <title lang="pt">Cúmplices de Um Resgate</title>
     <desc lang="pt"> - Gêmeas que foram separadas ao nascer e se reencontram na adolescência. E se tornam cúmplices na vida.</desc>
     <category lang="en">movie/drama (general)</category>
@@ -41624,13 +41953,13 @@ de artes marciais</desc>
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20241207134948 -0300" stop="20241207135939 -0300" channel="TV Zyn">
+  <programme start="20241207134603 -0300" stop="20241207135553 -0300" channel="TV Zyn">
     <title lang="pt">O Que Assistir?</title>
     <sub-title lang="pt">Filmes do catálogo</sub-title>
     <desc lang="pt"> - Confira alguns filmes que separamos para você!</desc>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20241207140004 -0300" stop="20241207152843 -0300" channel="TV Zyn">
+  <programme start="20241207135618 -0300" stop="20241207152457 -0300" channel="TV Zyn">
     <title lang="pt">De Volta Para Casa</title>
     <desc lang="pt"> - Com saudade da cidade, Crumb e seu cão fogem da nova casa. Eles só não esperavam parar em uma mina.</desc>
     <category lang="en">adventure/western/war</category>
@@ -41639,61 +41968,61 @@ de artes marciais</desc>
       <value>[Violência]</value>
     </rating>
   </programme>
-  <programme start="20241207152920 -0300" stop="20241207153910 -0300" channel="TV Zyn">
+  <programme start="20241207152534 -0300" stop="20241207153525 -0300" channel="TV Zyn">
     <title lang="pt">O Que Assistir?</title>
     <sub-title lang="pt">Filmes do catálogo</sub-title>
     <desc lang="pt"> - Confira alguns filmes que separamos para você!</desc>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20241207153935 -0300" stop="20241207160816 -0300" channel="TV Zyn">
+  <programme start="20241207153550 -0300" stop="20241207160430 -0300" channel="TV Zyn">
     <title lang="pt">H2O Meninas Sereias</title>
     <sub-title lang="pt">9. Competição</sub-title>
     <desc lang="pt"> - As adolescentes Cléo, Nanda e Drica protegem um segredo: elas se transformam em sereias!</desc>
     <category lang="en">entertainment programmes for 6 to 14</category>
     <episode-num system="xmltv_ns">1.8.</episode-num>
   </programme>
-  <programme start="20241207161138 -0300" stop="20241207163913 -0300" channel="TV Zyn">
+  <programme start="20241207160753 -0300" stop="20241207163527 -0300" channel="TV Zyn">
     <title lang="pt">H2O Meninas Sereias</title>
     <sub-title lang="pt">10. Incompreensível</sub-title>
     <desc lang="pt"> - As adolescentes Cléo, Nanda e Drica protegem um segredo: elas se transformam em sereias!</desc>
     <category lang="en">entertainment programmes for 6 to 14</category>
     <episode-num system="xmltv_ns">1.9.</episode-num>
   </programme>
-  <programme start="20241207164235 -0300" stop="20241207171001 -0300" channel="TV Zyn">
+  <programme start="20241207163849 -0300" stop="20241207170616 -0300" channel="TV Zyn">
     <title lang="pt">H2O Meninas Sereias</title>
     <sub-title lang="pt">11. Carga de trabalhos</sub-title>
     <desc lang="pt"> - As adolescentes Cléo, Nanda e Drica protegem um segredo: elas se transformam em sereias!</desc>
     <category lang="en">entertainment programmes for 6 to 14</category>
     <episode-num system="xmltv_ns">1.10.</episode-num>
   </programme>
-  <programme start="20241207171349 -0300" stop="20241207174202 -0300" channel="TV Zyn">
+  <programme start="20241207171004 -0300" stop="20241207173816 -0300" channel="TV Zyn">
     <title lang="pt">H2O Meninas Sereias</title>
     <sub-title lang="pt">12. Doença de peixe</sub-title>
     <desc lang="pt"> - As adolescentes Cléo, Nanda e Drica protegem um segredo: elas se transformam em sereias!</desc>
     <category lang="en">entertainment programmes for 6 to 14</category>
     <episode-num system="xmltv_ns">1.11.</episode-num>
   </programme>
-  <programme start="20241207174526 -0300" stop="20241207181337 -0300" channel="TV Zyn">
+  <programme start="20241207174140 -0300" stop="20241207180951 -0300" channel="TV Zyn">
     <title lang="pt">H2O Meninas Sereias</title>
     <sub-title lang="pt">13. Feitiço da lua</sub-title>
     <desc lang="pt"> - As adolescentes Cléo, Nanda e Drica protegem um segredo: elas se transformam em sereias!</desc>
     <category lang="en">entertainment programmes for 6 to 14</category>
     <episode-num system="xmltv_ns">1.12.</episode-num>
   </programme>
-  <programme start="20241207181714 -0300" stop="20241207184556 -0300" channel="TV Zyn">
+  <programme start="20241207181329 -0300" stop="20241207184211 -0300" channel="TV Zyn">
     <title lang="pt">H2O Meninas Sereias</title>
     <sub-title lang="pt">14. Deixem-me em paz</sub-title>
     <desc lang="pt"> - As adolescentes Cléo, Nanda e Drica protegem um segredo: elas se transformam em sereias!</desc>
     <category lang="en">entertainment programmes for 6 to 14</category>
     <episode-num system="xmltv_ns">1.13.</episode-num>
   </programme>
-  <programme start="20241207184913 -0300" stop="20241207185904 -0300" channel="TV Zyn">
+  <programme start="20241207184528 -0300" stop="20241207185519 -0300" channel="TV Zyn">
     <title lang="pt">O Que Assistir?</title>
     <sub-title lang="pt">Filmes do catálogo</sub-title>
     <desc lang="pt"> - Confira alguns filmes que separamos para você!</desc>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20241207185929 -0300" stop="20241207192501 -0300" channel="TV Zyn">
+  <programme start="20241207185544 -0300" stop="20241207192115 -0300" channel="TV Zyn">
     <title lang="pt">A Pracinha</title>
     <desc lang="pt"> - A Pracinha é um lugar feito para a família se divertir. Vem você também. A Pracinha é Nossa.</desc>
     <category lang="en">comedy</category>
@@ -41702,67 +42031,67 @@ de artes marciais</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241207192603 -0300" stop="20241207195408 -0300" channel="TV Zyn">
+  <programme start="20241207192217 -0300" stop="20241207195022 -0300" channel="TV Zyn">
     <title lang="pt">Lagging </title>
     <desc lang="pt"> - Para conquistar o mundo dos jogos online, esses amigos terão que sobreviver às missões da vida real!</desc>
     <category lang="en">entertainment programmes for 6 to 14</category>
     <episode-num system="xmltv_ns">1.0.</episode-num>
   </programme>
-  <programme start="20241207195500 -0300" stop="20241207202221 -0300" channel="TV Zyn">
+  <programme start="20241207195114 -0300" stop="20241207201835 -0300" channel="TV Zyn">
     <title lang="pt">As Feras Futebol Clube</title>
     <desc lang="pt"> - Para jogar no Feras Futebol Clube precisa seguir uma regra clara: seja selvagem!</desc>
     <category lang="en">cartoons/puppets</category>
     <episode-num system="xmltv_ns">0.10.</episode-num>
   </programme>
-  <programme start="20241207202424 -0300" stop="20241207205626 -0300" channel="TV Zyn">
+  <programme start="20241207202038 -0300" stop="20241207205240 -0300" channel="TV Zyn">
     <title lang="pt">Jamie Johnson </title>
     <desc lang="pt"> - Ser um grande jogador de futebol é o sonho de muitos, mas ter o talento para realizar é para poucos!</desc>
     <category lang="en">movie/drama (general)</category>
     <episode-num system="xmltv_ns">0.10.</episode-num>
   </programme>
-  <programme start="20241207205814 -0300" stop="20241207212406 -0300" channel="TV Zyn">
+  <programme start="20241207205428 -0300" stop="20241207212020 -0300" channel="TV Zyn">
     <title lang="pt">Beyblade X</title>
     <desc lang="pt"> - Robin Kazami quer se tornar jogador profissional de Beyblade e chegar no topo da Torre X.</desc>
     <category lang="en">cartoons/puppets</category>
     <episode-num system="xmltv_ns">0.1.</episode-num>
   </programme>
-  <programme start="20241207212431 -0300" stop="20241207214951 -0300" channel="TV Zyn">
+  <programme start="20241207212045 -0300" stop="20241207214606 -0300" channel="TV Zyn">
     <title lang="pt">Spooksville</title>
     <desc lang="pt"> - Spooksville é uma cidade sobrenatural e Adam descobre que é a chave para libertar a cidade do mal!</desc>
     <category lang="en">detective/thriller</category>
     <episode-num system="xmltv_ns">0.12.</episode-num>
   </programme>
-  <programme start="20241207215259 -0300" stop="20241207221758 -0300" channel="TV Zyn">
+  <programme start="20241207214913 -0300" stop="20241207221412 -0300" channel="TV Zyn">
     <title lang="pt">Spooksville</title>
     <desc lang="pt"> - Spooksville é uma cidade sobrenatural e Adam descobre que é a chave para libertar a cidade do mal!</desc>
     <category lang="en">detective/thriller</category>
     <episode-num system="xmltv_ns">0.13.</episode-num>
   </programme>
-  <programme start="20241207222146 -0300" stop="20241207224620 -0300" channel="TV Zyn">
+  <programme start="20241207221800 -0300" stop="20241207224235 -0300" channel="TV Zyn">
     <title lang="pt">Spooksville</title>
     <desc lang="pt"> - Spooksville é uma cidade sobrenatural e Adam descobre que é a chave para libertar a cidade do mal!</desc>
     <category lang="en">detective/thriller</category>
     <episode-num system="xmltv_ns">0.14.</episode-num>
   </programme>
-  <programme start="20241207225028 -0300" stop="20241207231610 -0300" channel="TV Zyn">
+  <programme start="20241207224643 -0300" stop="20241207231224 -0300" channel="TV Zyn">
     <title lang="pt">Spooksville</title>
     <desc lang="pt"> - Spooksville é uma cidade sobrenatural e Adam descobre que é a chave para libertar a cidade do mal!</desc>
     <category lang="en">detective/thriller</category>
     <episode-num system="xmltv_ns">0.15.</episode-num>
   </programme>
-  <programme start="20241207231912 -0300" stop="20241207234356 -0300" channel="TV Zyn">
+  <programme start="20241207231527 -0300" stop="20241207234011 -0300" channel="TV Zyn">
     <title lang="pt">Spooksville</title>
     <desc lang="pt"> - Spooksville é uma cidade sobrenatural e Adam descobre que é a chave para libertar a cidade do mal!</desc>
     <category lang="en">detective/thriller</category>
     <episode-num system="xmltv_ns">0.16.</episode-num>
   </programme>
-  <programme start="20241207234406 -0300" stop="20241207235357 -0300" channel="TV Zyn">
+  <programme start="20241207234021 -0300" stop="20241207235012 -0300" channel="TV Zyn">
     <title lang="pt">O Que Assistir?</title>
     <sub-title lang="pt">Filmes do catálogo</sub-title>
     <desc lang="pt"> - Confira alguns filmes que separamos para você!</desc>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20241207235803 -0300" stop="20241208002332 -0300" channel="TV Zyn">
+  <programme start="20241207235417 -0300" stop="20241208001946 -0300" channel="TV Zyn">
     <title lang="pt">A Hora do Arrepio</title>
     <sub-title lang="pt">4. Pousada pesadelo</sub-title>
     <desc lang="pt"> - A cada episódio, uma história e um susto diferentes. Prontos para A Hora do Arrepio?</desc>
@@ -41772,7 +42101,7 @@ de artes marciais</desc>
       <value>[Medo]</value>
     </rating>
   </programme>
-  <programme start="20241208002624 -0300" stop="20241208005036 -0300" channel="TV Zyn">
+  <programme start="20241208002238 -0300" stop="20241208004651 -0300" channel="TV Zyn">
     <title lang="pt">A Hora do Arrepio</title>
     <sub-title lang="pt">5. O vestido vermelho</sub-title>
     <desc lang="pt"> - A cada episódio, uma história e um susto diferentes. Prontos para A Hora do Arrepio?</desc>
@@ -41782,7 +42111,7 @@ de artes marciais</desc>
       <value>[Medo]</value>
     </rating>
   </programme>
-  <programme start="20241208005349 -0300" stop="20241208011913 -0300" channel="TV Zyn">
+  <programme start="20241208005003 -0300" stop="20241208011527 -0300" channel="TV Zyn">
     <title lang="pt">A Hora do Arrepio</title>
     <sub-title lang="pt">6. Uma criatura estava se mexendo</sub-title>
     <desc lang="pt"> - A cada episódio, uma história e um susto diferentes. Prontos para A Hora do Arrepio?</desc>
@@ -41792,7 +42121,7 @@ de artes marciais</desc>
       <value>[Medo]</value>
     </rating>
   </programme>
-  <programme start="20241208012216 -0300" stop="20241208014745 -0300" channel="TV Zyn">
+  <programme start="20241208011831 -0300" stop="20241208014359 -0300" channel="TV Zyn">
     <title lang="pt">A Hora do Arrepio</title>
     <sub-title lang="pt">7. O olhar fantasmagórico</sub-title>
     <desc lang="pt"> - A cada episódio, uma história e um susto diferentes. Prontos para A Hora do Arrepio?</desc>
@@ -41802,7 +42131,7 @@ de artes marciais</desc>
       <value>[Medo]</value>
     </rating>
   </programme>
-  <programme start="20241208015047 -0300" stop="20241208021616 -0300" channel="TV Zyn">
+  <programme start="20241208014701 -0300" stop="20241208021230 -0300" channel="TV Zyn">
     <title lang="pt">A Hora do Arrepio</title>
     <sub-title lang="pt">8. As paredes</sub-title>
     <desc lang="pt"> - A cada episódio, uma história e um susto diferentes. Prontos para A Hora do Arrepio?</desc>
@@ -41812,7 +42141,7 @@ de artes marciais</desc>
       <value>[Medo]</value>
     </rating>
   </programme>
-  <programme start="20241208021718 -0300" stop="20241208024448 -0300" channel="TV Zyn">
+  <programme start="20241208021332 -0300" stop="20241208024103 -0300" channel="TV Zyn">
     <title lang="pt">Dance Academy</title>
     <sub-title lang="pt">10. Através do espelho</sub-title>
     <desc lang="pt"> - Tara Webster, uma adolescente de 15 anos, que desde pequena sonha em ser uma grande dançarina!</desc>
@@ -41822,7 +42151,7 @@ de artes marciais</desc>
       <value>[Violência]</value>
     </rating>
   </programme>
-  <programme start="20241208024751 -0300" stop="20241208031529 -0300" channel="TV Zyn">
+  <programme start="20241208024405 -0300" stop="20241208031143 -0300" channel="TV Zyn">
     <title lang="pt">Dance Academy</title>
     <sub-title lang="pt">11. O dia perfeito</sub-title>
     <desc lang="pt"> - Tara Webster, uma adolescente de 15 anos, que desde pequena sonha em ser uma grande dançarina!</desc>
@@ -41832,7 +42161,7 @@ de artes marciais</desc>
       <value>[Violência]</value>
     </rating>
   </programme>
-  <programme start="20241208031936 -0300" stop="20241208034649 -0300" channel="TV Zyn">
+  <programme start="20241208031551 -0300" stop="20241208034304 -0300" channel="TV Zyn">
     <title lang="pt">Dance Academy</title>
     <sub-title lang="pt">12. Pressão</sub-title>
     <desc lang="pt"> - Tara Webster, uma adolescente de 15 anos, que desde pequena sonha em ser uma grande dançarina!</desc>
@@ -41842,7 +42171,7 @@ de artes marciais</desc>
       <value>[Violência]</value>
     </rating>
   </programme>
-  <programme start="20241208034951 -0300" stop="20241208041725 -0300" channel="TV Zyn">
+  <programme start="20241208034606 -0300" stop="20241208041339 -0300" channel="TV Zyn">
     <title lang="pt">Dance Academy</title>
     <sub-title lang="pt">13. Família</sub-title>
     <desc lang="pt"> - Tara Webster, uma adolescente de 15 anos, que desde pequena sonha em ser uma grande dançarina!</desc>
@@ -41852,7 +42181,7 @@ de artes marciais</desc>
       <value>[Violência]</value>
     </rating>
   </programme>
-  <programme start="20241208042012 -0300" stop="20241208044739 -0300" channel="TV Zyn">
+  <programme start="20241208041626 -0300" stop="20241208044353 -0300" channel="TV Zyn">
     <title lang="pt">Dance Academy</title>
     <sub-title lang="pt">14. A hora da virada</sub-title>
     <desc lang="pt"> - Tara Webster, uma adolescente de 15 anos, que desde pequena sonha em ser uma grande dançarina!</desc>
@@ -41862,7 +42191,7 @@ de artes marciais</desc>
       <value>[Violência]</value>
     </rating>
   </programme>
-  <programme start="20241208045051 -0300" stop="20241208051830 -0300" channel="TV Zyn">
+  <programme start="20241208044706 -0300" stop="20241208051445 -0300" channel="TV Zyn">
     <title lang="pt">Dance Academy</title>
     <sub-title lang="pt">15. Minha vida em pointe</sub-title>
     <desc lang="pt"> - Tara Webster, uma adolescente de 15 anos, que desde pequena sonha em ser uma grande dançarina!</desc>
@@ -41872,7 +42201,7 @@ de artes marciais</desc>
       <value>[Violência]</value>
     </rating>
   </programme>
-  <programme start="20241208051932 -0300" stop="20241208063226 -0300" channel="TV Zyn">
+  <programme start="20241208051547 -0300" stop="20241208062840 -0300" channel="TV Zyn">
     <title lang="pt">Programa da Maisa</title>
     <sub-title lang="pt">Programa de</sub-title>
     <desc lang="pt">realizado em 18/05/2019 - No talk show, Maisa Silva e Oscar Filho recebem convidados para uma conversa bem &amp;apos;à vontade&amp;apos;.</desc>
@@ -41880,7 +42209,7 @@ de artes marciais</desc>
     <date>18/05/2019</date>
     <episode-num system="xmltv_ns">0.9.</episode-num>
   </programme>
-  <programme start="20241208063538 -0300" stop="20241208080016 -0300" channel="TV Zyn">
+  <programme start="20241208063153 -0300" stop="20241208075630 -0300" channel="TV Zyn">
     <title lang="pt">Programa da Maisa</title>
     <sub-title lang="pt">Programa de</sub-title>
     <desc lang="pt">realizado em 25/05/2019 - No talk show, Maisa Silva e Oscar Filho recebem convidados para uma conversa bem &amp;apos;à vontade&amp;apos;.</desc>
@@ -41888,7 +42217,7 @@ de artes marciais</desc>
     <date>25/05/2019</date>
     <episode-num system="xmltv_ns">0.10.</episode-num>
   </programme>
-  <programme start="20241208080318 -0300" stop="20241208091155 -0300" channel="TV Zyn">
+  <programme start="20241208075932 -0300" stop="20241208090809 -0300" channel="TV Zyn">
     <title lang="pt">Programa da Maisa</title>
     <sub-title lang="pt">Programa de</sub-title>
     <desc lang="pt">realizado em 01/06/2019 - No talk show, Maisa Silva e Oscar Filho recebem convidados para uma conversa bem &amp;apos;à vontade&amp;apos;.</desc>
@@ -41896,7 +42225,7 @@ de artes marciais</desc>
     <date>01/06/2019</date>
     <episode-num system="xmltv_ns">0.11.</episode-num>
   </programme>
-  <programme start="20241208091342 -0300" stop="20241208101404 -0300" channel="TV Zyn">
+  <programme start="20241208090956 -0300" stop="20241208101018 -0300" channel="TV Zyn">
     <title lang="pt">Programa da Maisa</title>
     <sub-title lang="pt">Programa de</sub-title>
     <desc lang="pt">realizado em 08/06/2019 - No talk show, Maisa Silva e Oscar Filho recebem convidados para uma conversa bem &amp;apos;à vontade&amp;apos;.</desc>
@@ -41904,7 +42233,7 @@ de artes marciais</desc>
     <date>08/06/2019</date>
     <episode-num system="xmltv_ns">0.12.</episode-num>
   </programme>
-  <programme start="20241208101421 -0300" stop="20241208111020 -0300" channel="TV Zyn">
+  <programme start="20241208101035 -0300" stop="20241208110635 -0300" channel="TV Zyn">
     <title lang="pt">Cúmplices de Um Resgate</title>
     <desc lang="pt"> - Gêmeas que foram separadas ao nascer e se reencontram na adolescência. E se tornam cúmplices na vida.</desc>
     <category lang="en">movie/drama (general)</category>
@@ -41913,7 +42242,7 @@ de artes marciais</desc>
       <value>[Drogas Lícitas, Violência]</value>
     </rating>
   </programme>
-  <programme start="20241208111242 -0300" stop="20241208120248 -0300" channel="TV Zyn">
+  <programme start="20241208110857 -0300" stop="20241208115902 -0300" channel="TV Zyn">
     <title lang="pt">Cúmplices de Um Resgate</title>
     <desc lang="pt"> - Gêmeas que foram separadas ao nascer e se reencontram na adolescência. E se tornam cúmplices na vida.</desc>
     <category lang="en">movie/drama (general)</category>
@@ -41922,7 +42251,7 @@ de artes marciais</desc>
       <value>[Drogas Lícitas, Violência]</value>
     </rating>
   </programme>
-  <programme start="20241208120455 -0300" stop="20241208125839 -0300" channel="TV Zyn">
+  <programme start="20241208120109 -0300" stop="20241208125453 -0300" channel="TV Zyn">
     <title lang="pt">Cúmplices de Um Resgate</title>
     <desc lang="pt"> - Gêmeas que foram separadas ao nascer e se reencontram na adolescência. E se tornam cúmplices na vida.</desc>
     <category lang="en">movie/drama (general)</category>
@@ -41931,7 +42260,7 @@ de artes marciais</desc>
       <value>[Drogas Lícitas, Violência]</value>
     </rating>
   </programme>
-  <programme start="20241208130146 -0300" stop="20241208135610 -0300" channel="TV Zyn">
+  <programme start="20241208125801 -0300" stop="20241208135225 -0300" channel="TV Zyn">
     <title lang="pt">Cúmplices de Um Resgate</title>
     <desc lang="pt"> - Gêmeas que foram separadas ao nascer e se reencontram na adolescência. E se tornam cúmplices na vida.</desc>
     <category lang="en">movie/drama (general)</category>
@@ -41940,49 +42269,49 @@ de artes marciais</desc>
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20241208140021 -0300" stop="20241208154434 -0300" channel="TV Zyn">
+  <programme start="20241208135635 -0300" stop="20241208154048 -0300" channel="TV Zyn">
     <title lang="pt">Uma História de Amizade</title>
     <desc lang="pt"> - Champion, um cavalo que pode falar, vai transformar a vida de sua dona, a jovem Mônica.</desc>
     <category lang="en">movie/drama (general)</category>
     <episode-num system="xmltv_ns">.0.</episode-num>
   </programme>
-  <programme start="20241208154544 -0300" stop="20241208155534 -0300" channel="TV Zyn">
+  <programme start="20241208154158 -0300" stop="20241208155149 -0300" channel="TV Zyn">
     <title lang="pt">O Que Assistir?</title>
     <sub-title lang="pt">Filmes do catálogo</sub-title>
     <desc lang="pt"> - Confira alguns filmes que separamos para você!</desc>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20241208155559 -0300" stop="20241208162827 -0300" channel="TV Zyn">
+  <programme start="20241208155214 -0300" stop="20241208162441 -0300" channel="TV Zyn">
     <title lang="pt">A Pracinha</title>
     <desc lang="pt"> - A Pracinha é um lugar feito para a família se divertir. Vem você também. A Pracinha é Nossa.</desc>
     <category lang="en">comedy</category>
     <episode-num system="xmltv_ns">0.9.</episode-num>
   </programme>
-  <programme start="20241208162914 -0300" stop="20241208163905 -0300" channel="TV Zyn">
+  <programme start="20241208162528 -0300" stop="20241208163519 -0300" channel="TV Zyn">
     <title lang="pt">O Que Assistir?</title>
     <sub-title lang="pt">Filmes do catálogo</sub-title>
     <desc lang="pt"> - Confira alguns filmes que separamos para você!</desc>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20241208163930 -0300" stop="20241208170641 -0300" channel="TV Zyn">
+  <programme start="20241208163544 -0300" stop="20241208170255 -0300" channel="TV Zyn">
     <title lang="pt">Lagging </title>
     <desc lang="pt"> - Para conquistar o mundo dos jogos online, esses amigos terão que sobreviver às missões da vida real!</desc>
     <category lang="en">entertainment programmes for 6 to 14</category>
     <episode-num system="xmltv_ns">1.9.</episode-num>
   </programme>
-  <programme start="20241208170728 -0300" stop="20241208173436 -0300" channel="TV Zyn">
+  <programme start="20241208170342 -0300" stop="20241208173050 -0300" channel="TV Zyn">
     <title lang="pt">As Feras Futebol Clube</title>
     <desc lang="pt"> - Para jogar no Feras Futebol Clube precisa seguir uma regra clara: seja selvagem!</desc>
     <category lang="en">cartoons/puppets</category>
     <episode-num system="xmltv_ns">0.9.</episode-num>
   </programme>
-  <programme start="20241208173518 -0300" stop="20241208180639 -0300" channel="TV Zyn">
+  <programme start="20241208173132 -0300" stop="20241208180253 -0300" channel="TV Zyn">
     <title lang="pt">Jamie Johnson </title>
     <desc lang="pt"> - Ser um grande jogador de futebol é o sonho de muitos, mas ter o talento para realizar é para poucos!</desc>
     <category lang="en">movie/drama (general)</category>
     <episode-num system="xmltv_ns">0.9.</episode-num>
   </programme>
-  <programme start="20241208180741 -0300" stop="20241208185239 -0300" channel="TV Zyn">
+  <programme start="20241208180355 -0300" stop="20241208184854 -0300" channel="TV Zyn">
     <title lang="pt">Carrossel</title>
     <desc lang="pt"> - Uma turminha animada que deixa o mundo mais divertido e musical. Embarca nesse Carrossel com eles.</desc>
     <category lang="en">adventure/western/war</category>
@@ -41991,7 +42320,7 @@ de artes marciais</desc>
       <value>[Violência, Drogas Lícitas, Linguagem Imprópria]</value>
     </rating>
   </programme>
-  <programme start="20241208185547 -0300" stop="20241208194438 -0300" channel="TV Zyn">
+  <programme start="20241208185201 -0300" stop="20241208194052 -0300" channel="TV Zyn">
     <title lang="pt">Carrossel</title>
     <desc lang="pt"> - Uma turminha animada que deixa o mundo mais divertido e musical. Embarca nesse Carrossel com eles.</desc>
     <category lang="en">adventure/western/war</category>
@@ -42000,13 +42329,13 @@ de artes marciais</desc>
       <value>[Violência, Drogas Lícitas, Linguagem Imprópria]</value>
     </rating>
   </programme>
-  <programme start="20241208194540 -0300" stop="20241208195531 -0300" channel="TV Zyn">
+  <programme start="20241208194154 -0300" stop="20241208195145 -0300" channel="TV Zyn">
     <title lang="pt">O Que Assistir?</title>
     <sub-title lang="pt">Filmes do catálogo</sub-title>
     <desc lang="pt"> - Confira alguns filmes que separamos para você!</desc>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20241208195556 -0300" stop="20241208202127 -0300" channel="TV Zyn">
+  <programme start="20241208195210 -0300" stop="20241208201742 -0300" channel="TV Zyn">
     <title lang="pt">A Pracinha</title>
     <desc lang="pt"> - A Pracinha é um lugar feito para a família se divertir. Vem você também. A Pracinha é Nossa.</desc>
     <category lang="en">comedy</category>
@@ -42015,55 +42344,55 @@ de artes marciais</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241208202230 -0300" stop="20241208205034 -0300" channel="TV Zyn">
+  <programme start="20241208201844 -0300" stop="20241208204648 -0300" channel="TV Zyn">
     <title lang="pt">Lagging </title>
     <desc lang="pt"> - Para conquistar o mundo dos jogos online, esses amigos terão que sobreviver às missões da vida real!</desc>
     <category lang="en">entertainment programmes for 6 to 14</category>
     <episode-num system="xmltv_ns">1.0.</episode-num>
   </programme>
-  <programme start="20241208205121 -0300" stop="20241208210112 -0300" channel="TV Zyn">
+  <programme start="20241208204736 -0300" stop="20241208205726 -0300" channel="TV Zyn">
     <title lang="pt">O Que Assistir?</title>
     <sub-title lang="pt">Filmes do catálogo</sub-title>
     <desc lang="pt"> - Confira alguns filmes que separamos para você!</desc>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20241208210122 -0300" stop="20241208212838 -0300" channel="TV Zyn">
+  <programme start="20241208205736 -0300" stop="20241208212453 -0300" channel="TV Zyn">
     <title lang="pt">As Feras Futebol Clube</title>
     <desc lang="pt"> - Para jogar no Feras Futebol Clube precisa seguir uma regra clara: seja selvagem!</desc>
     <category lang="en">cartoons/puppets</category>
     <episode-num system="xmltv_ns">0.10.</episode-num>
   </programme>
-  <programme start="20241208212925 -0300" stop="20241208220041 -0300" channel="TV Zyn">
+  <programme start="20241208212540 -0300" stop="20241208215656 -0300" channel="TV Zyn">
     <title lang="pt">Jamie Johnson </title>
     <desc lang="pt"> - Ser um grande jogador de futebol é o sonho de muitos, mas ter o talento para realizar é para poucos!</desc>
     <category lang="en">movie/drama (general)</category>
     <episode-num system="xmltv_ns">0.10.</episode-num>
   </programme>
-  <programme start="20241208220128 -0300" stop="20241208222650 -0300" channel="TV Zyn">
+  <programme start="20241208215743 -0300" stop="20241208222304 -0300" channel="TV Zyn">
     <title lang="pt">Beyblade X</title>
     <desc lang="pt"> - Robin Kazami quer se tornar jogador profissional de Beyblade e chegar no topo da Torre X.</desc>
     <category lang="en">cartoons/puppets</category>
     <episode-num system="xmltv_ns">0.1.</episode-num>
   </programme>
-  <programme start="20241208222738 -0300" stop="20241208225455 -0300" channel="TV Zyn">
+  <programme start="20241208222353 -0300" stop="20241208225110 -0300" channel="TV Zyn">
     <title lang="pt">Athena</title>
     <desc lang="pt"> - Depois de jogar fora a carreira de top model, Nyela vai à faculdade tentar se tornar uma estilista.</desc>
     <category lang="en">movie/drama (general)</category>
     <episode-num system="xmltv_ns">0.8.</episode-num>
   </programme>
-  <programme start="20241208225809 -0300" stop="20241208232506 -0300" channel="TV Zyn">
+  <programme start="20241208225423 -0300" stop="20241208232121 -0300" channel="TV Zyn">
     <title lang="pt">Athena</title>
     <desc lang="pt"> - Depois de jogar fora a carreira de top model, Nyela vai à faculdade tentar se tornar uma estilista.</desc>
     <category lang="en">movie/drama (general)</category>
     <episode-num system="xmltv_ns">0.9.</episode-num>
   </programme>
-  <programme start="20241208232815 -0300" stop="20241208235537 -0300" channel="TV Zyn">
+  <programme start="20241208232429 -0300" stop="20241208235152 -0300" channel="TV Zyn">
     <title lang="pt">Athena</title>
     <desc lang="pt"> - Depois de jogar fora a carreira de top model, Nyela vai à faculdade tentar se tornar uma estilista.</desc>
     <category lang="en">movie/drama (general)</category>
     <episode-num system="xmltv_ns">0.10.</episode-num>
   </programme>
-  <programme start="20241208235948 -0300" stop="20241209005425 -0300" channel="TV Zyn">
+  <programme start="20241208235602 -0300" stop="20241209005039 -0300" channel="TV Zyn">
     <title lang="pt">Cúmplices de Um Resgate</title>
     <desc lang="pt"> - Gêmeas que foram separadas ao nascer e se reencontram na adolescência. E se tornam cúmplices na vida.</desc>
     <category lang="en">movie/drama (general)</category>
@@ -42072,7 +42401,7 @@ de artes marciais</desc>
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20241209005928 -0300" stop="20241209015008 -0300" channel="TV Zyn">
+  <programme start="20241209005542 -0300" stop="20241209014623 -0300" channel="TV Zyn">
     <title lang="pt">Carrossel</title>
     <desc lang="pt"> - Uma turminha animada que deixa o mundo mais divertido e musical. Embarca nesse Carrossel com eles.</desc>
     <category lang="en">adventure/western/war</category>
@@ -42081,13 +42410,13 @@ de artes marciais</desc>
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20241209015055 -0300" stop="20241209020046 -0300" channel="TV Zyn">
+  <programme start="20241209014710 -0300" stop="20241209015701 -0300" channel="TV Zyn">
     <title lang="pt">O Que Assistir?</title>
     <sub-title lang="pt">Filmes do catálogo</sub-title>
     <desc lang="pt"> - Confira alguns filmes que separamos para você!</desc>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20241209020457 -0300" stop="20241209025938 -0300" channel="TV Zyn">
+  <programme start="20241209020111 -0300" stop="20241209025552 -0300" channel="TV Zyn">
     <title lang="pt">Patrulha Salvadora</title>
     <sub-title lang="pt">2. O Caso do Ataque do Hápi</sub-title>
     <desc lang="pt"> - As crianças mais amadas de Carrossel agora são super heróis que lutam contra o crime!</desc>
@@ -42097,7 +42426,7 @@ de artes marciais</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241209030010 -0300" stop="20241209041802 -0300" channel="TV Zyn">
+  <programme start="20241209025624 -0300" stop="20241209041416 -0300" channel="TV Zyn">
     <title lang="pt">Programa da Maisa</title>
     <sub-title lang="pt">Programa de</sub-title>
     <desc lang="pt">realizado em 29/06/2019 - No talk show, Maisa Silva e Oscar Filho recebem convidados para uma conversa bem &amp;apos;à vontade&amp;apos;.</desc>
@@ -42105,13 +42434,13 @@ de artes marciais</desc>
     <date>29/06/2019</date>
     <episode-num system="xmltv_ns">0.15.</episode-num>
   </programme>
-  <programme start="20241209041849 -0300" stop="20241209042840 -0300" channel="TV Zyn">
+  <programme start="20241209041503 -0300" stop="20241209042454 -0300" channel="TV Zyn">
     <title lang="pt">O Que Assistir?</title>
     <sub-title lang="pt">Filmes do catálogo</sub-title>
     <desc lang="pt"> - Confira alguns filmes que separamos para você!</desc>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20241209042905 -0300" stop="20241209045811 -0300" channel="TV Zyn">
+  <programme start="20241209042519 -0300" stop="20241209045425 -0300" channel="TV Zyn">
     <title lang="pt">Dance Academy</title>
     <sub-title lang="pt">16. Controle</sub-title>
     <desc lang="pt"> - Tara Webster, uma adolescente de 15 anos, que desde pequena sonha em ser uma grande dançarina!</desc>
@@ -42121,26 +42450,26 @@ de artes marciais</desc>
       <value>[Violência]</value>
     </rating>
   </programme>
-  <programme start="20241209045913 -0300" stop="20241209052757 -0300" channel="TV Zyn">
+  <programme start="20241209045527 -0300" stop="20241209052411 -0300" channel="TV Zyn">
     <title lang="pt">Athena</title>
     <desc lang="pt"> - Depois de jogar fora a carreira de top model, Nyela vai à faculdade tentar se tornar uma estilista.</desc>
     <category lang="en">movie/drama (general)</category>
     <episode-num system="xmltv_ns">0.14.</episode-num>
   </programme>
-  <programme start="20241209052914 -0300" stop="20241209055725 -0300" channel="TV Zyn">
+  <programme start="20241209052528 -0300" stop="20241209055340 -0300" channel="TV Zyn">
     <title lang="pt">H2O Meninas Sereias</title>
     <sub-title lang="pt">15. Irresistível</sub-title>
     <desc lang="pt"> - As adolescentes Cléo, Nanda e Drica protegem um segredo: elas se transformam em sereias!</desc>
     <category lang="en">entertainment programmes for 6 to 14</category>
     <episode-num system="xmltv_ns">1.14.</episode-num>
   </programme>
-  <programme start="20241209055827 -0300" stop="20241209062320 -0300" channel="TV Zyn">
+  <programme start="20241209055442 -0300" stop="20241209061935 -0300" channel="TV Zyn">
     <title lang="pt">Spooksville</title>
     <desc lang="pt"> - Spooksville é uma cidade sobrenatural e Adam descobre que é a chave para libertar a cidade do mal!</desc>
     <category lang="en">detective/thriller</category>
     <episode-num system="xmltv_ns">0.18.</episode-num>
   </programme>
-  <programme start="20241209062422 -0300" stop="20241209065246 -0300" channel="TV Zyn">
+  <programme start="20241209062037 -0300" stop="20241209064900 -0300" channel="TV Zyn">
     <title lang="pt">Wolfblood</title>
     <desc lang="pt"> - Se já não é fácil ser adolescente, imagine ter que esconder que é meio lobo, um wolfblood!</desc>
     <category lang="en">movie/drama (general)</category>
@@ -42149,7 +42478,7 @@ de artes marciais</desc>
       <value>[Medo, Violência]</value>
     </rating>
   </programme>
-  <programme start="20241209065343 -0300" stop="20241209071926 -0300" channel="TV Zyn">
+  <programme start="20241209064957 -0300" stop="20241209071541 -0300" channel="TV Zyn">
     <title lang="pt">A Hora do Arrepio</title>
     <sub-title lang="pt">9. Fim de jogo</sub-title>
     <desc lang="pt"> - A cada episódio, uma história e um susto diferentes. Prontos para A Hora do Arrepio?</desc>
@@ -42159,7 +42488,7 @@ de artes marciais</desc>
       <value>[Medo]</value>
     </rating>
   </programme>
-  <programme start="20241209072318 -0300" stop="20241209075022 -0300" channel="TV Zyn">
+  <programme start="20241209071933 -0300" stop="20241209074637 -0300" channel="TV Zyn">
     <title lang="pt">A Hora do Arrepio</title>
     <sub-title lang="pt">10. Doces alienígenas</sub-title>
     <desc lang="pt"> - A cada episódio, uma história e um susto diferentes. Prontos para A Hora do Arrepio?</desc>
@@ -42169,13 +42498,13 @@ de artes marciais</desc>
       <value>[Medo]</value>
     </rating>
   </programme>
-  <programme start="20241209075059 -0300" stop="20241209080050 -0300" channel="TV Zyn">
+  <programme start="20241209074714 -0300" stop="20241209075705 -0300" channel="TV Zyn">
     <title lang="pt">O Que Assistir?</title>
     <sub-title lang="pt">Filmes do catálogo</sub-title>
     <desc lang="pt"> - Confira alguns filmes que separamos para você!</desc>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20241209080115 -0300" stop="20241209085552 -0300" channel="TV Zyn">
+  <programme start="20241209075730 -0300" stop="20241209085206 -0300" channel="TV Zyn">
     <title lang="pt">Cúmplices de Um Resgate</title>
     <desc lang="pt"> - Gêmeas que foram separadas ao nascer e se reencontram na adolescência. E se tornam cúmplices na vida.</desc>
     <category lang="en">movie/drama (general)</category>
@@ -42184,7 +42513,7 @@ de artes marciais</desc>
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20241209090055 -0300" stop="20241209095135 -0300" channel="TV Zyn">
+  <programme start="20241209085709 -0300" stop="20241209094750 -0300" channel="TV Zyn">
     <title lang="pt">Carrossel</title>
     <desc lang="pt"> - Uma turminha animada que deixa o mundo mais divertido e musical. Embarca nesse Carrossel com eles.</desc>
     <category lang="en">adventure/western/war</category>
@@ -42193,13 +42522,13 @@ de artes marciais</desc>
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20241209095222 -0300" stop="20241209100213 -0300" channel="TV Zyn">
+  <programme start="20241209094837 -0300" stop="20241209095828 -0300" channel="TV Zyn">
     <title lang="pt">O Que Assistir?</title>
     <sub-title lang="pt">Filmes do catálogo</sub-title>
     <desc lang="pt"> - Confira alguns filmes que separamos para você!</desc>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20241209100624 -0300" stop="20241209110105 -0300" channel="TV Zyn">
+  <programme start="20241209100238 -0300" stop="20241209105720 -0300" channel="TV Zyn">
     <title lang="pt">Patrulha Salvadora</title>
     <sub-title lang="pt">2. O Caso do Ataque do Hápi</sub-title>
     <desc lang="pt"> - As crianças mais amadas de Carrossel agora são super heróis que lutam contra o crime!</desc>
@@ -42209,7 +42538,7 @@ de artes marciais</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241209110137 -0300" stop="20241209121929 -0300" channel="TV Zyn">
+  <programme start="20241209105752 -0300" stop="20241209121543 -0300" channel="TV Zyn">
     <title lang="pt">Programa da Maisa</title>
     <sub-title lang="pt">Programa de</sub-title>
     <desc lang="pt">realizado em 29/06/2019 - No talk show, Maisa Silva e Oscar Filho recebem convidados para uma conversa bem &amp;apos;à vontade&amp;apos;.</desc>
@@ -42217,13 +42546,13 @@ de artes marciais</desc>
     <date>29/06/2019</date>
     <episode-num system="xmltv_ns">0.15.</episode-num>
   </programme>
-  <programme start="20241209122016 -0300" stop="20241209123007 -0300" channel="TV Zyn">
+  <programme start="20241209121630 -0300" stop="20241209122621 -0300" channel="TV Zyn">
     <title lang="pt">O Que Assistir?</title>
     <sub-title lang="pt">Filmes do catálogo</sub-title>
     <desc lang="pt"> - Confira alguns filmes que separamos para você!</desc>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20241209123032 -0300" stop="20241209125938 -0300" channel="TV Zyn">
+  <programme start="20241209122646 -0300" stop="20241209125552 -0300" channel="TV Zyn">
     <title lang="pt">Dance Academy</title>
     <sub-title lang="pt">16. Controle</sub-title>
     <desc lang="pt"> - Tara Webster, uma adolescente de 15 anos, que desde pequena sonha em ser uma grande dançarina!</desc>
@@ -42233,26 +42562,26 @@ de artes marciais</desc>
       <value>[Violência]</value>
     </rating>
   </programme>
-  <programme start="20241209130040 -0300" stop="20241209132924 -0300" channel="TV Zyn">
+  <programme start="20241209125654 -0300" stop="20241209132538 -0300" channel="TV Zyn">
     <title lang="pt">Athena</title>
     <desc lang="pt"> - Depois de jogar fora a carreira de top model, Nyela vai à faculdade tentar se tornar uma estilista.</desc>
     <category lang="en">movie/drama (general)</category>
     <episode-num system="xmltv_ns">0.14.</episode-num>
   </programme>
-  <programme start="20241209133041 -0300" stop="20241209135852 -0300" channel="TV Zyn">
+  <programme start="20241209132655 -0300" stop="20241209135507 -0300" channel="TV Zyn">
     <title lang="pt">H2O Meninas Sereias</title>
     <sub-title lang="pt">15. Irresistível</sub-title>
     <desc lang="pt"> - As adolescentes Cléo, Nanda e Drica protegem um segredo: elas se transformam em sereias!</desc>
     <category lang="en">entertainment programmes for 6 to 14</category>
     <episode-num system="xmltv_ns">1.14.</episode-num>
   </programme>
-  <programme start="20241209135954 -0300" stop="20241209142447 -0300" channel="TV Zyn">
+  <programme start="20241209135609 -0300" stop="20241209142102 -0300" channel="TV Zyn">
     <title lang="pt">Spooksville</title>
     <desc lang="pt"> - Spooksville é uma cidade sobrenatural e Adam descobre que é a chave para libertar a cidade do mal!</desc>
     <category lang="en">detective/thriller</category>
     <episode-num system="xmltv_ns">0.18.</episode-num>
   </programme>
-  <programme start="20241209142549 -0300" stop="20241209145413 -0300" channel="TV Zyn">
+  <programme start="20241209142204 -0300" stop="20241209145027 -0300" channel="TV Zyn">
     <title lang="pt">Wolfblood</title>
     <desc lang="pt"> - Se já não é fácil ser adolescente, imagine ter que esconder que é meio lobo, um wolfblood!</desc>
     <category lang="en">movie/drama (general)</category>
@@ -42261,7 +42590,7 @@ de artes marciais</desc>
       <value>[Medo, Violência]</value>
     </rating>
   </programme>
-  <programme start="20241209145510 -0300" stop="20241209152053 -0300" channel="TV Zyn">
+  <programme start="20241209145124 -0300" stop="20241209151708 -0300" channel="TV Zyn">
     <title lang="pt">A Hora do Arrepio</title>
     <sub-title lang="pt">9. Fim de jogo</sub-title>
     <desc lang="pt"> - A cada episódio, uma história e um susto diferentes. Prontos para A Hora do Arrepio?</desc>
@@ -42271,91 +42600,38 @@ de artes marciais</desc>
       <value>[Medo]</value>
     </rating>
   </programme>
-  <programme start="20241205152705 -0300" stop="20241205153230 -0300" channel="Humor">
-    <title lang="pt">Zumbis na TV</title>
-    <sub-title lang="pt">realizado em 05/06/2022</sub-title>
-    <date>05/06/2022</date>
-    <episode-num system="xmltv_ns">2021.22155.</episode-num>
-  </programme>
-  <programme start="20241205153931 -0300" stop="20241205154553 -0300" channel="Humor">
-    <title lang="pt">Câmeras Escondidas</title>
-    <sub-title lang="pt">A Maldição da Chorona</sub-title>
-    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
-    <category lang="en">comedy</category>
+  <programme start="20241209152100 -0300" stop="20241209154804 -0300" channel="TV Zyn">
+    <title lang="pt">A Hora do Arrepio</title>
+    <sub-title lang="pt">10. Doces alienígenas</sub-title>
+    <desc lang="pt"> - A cada episódio, uma história e um susto diferentes. Prontos para A Hora do Arrepio?</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
     <rating system="Brazil">
-      <value>[A12]</value>
+      <value>[Medo]</value>
     </rating>
   </programme>
-  <programme start="20241205154553 -0300" stop="20241205155118 -0300" channel="Humor">
-    <title lang="pt">Câmeras Escondidas</title>
-    <sub-title lang="pt">Abelha Cai da Árvore</sub-title>
-    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
-    <category lang="en">comedy</category>
+  <programme start="20241209154841 -0300" stop="20241209155832 -0300" channel="TV Zyn">
+    <title lang="pt">O Que Assistir?</title>
+    <sub-title lang="pt">Filmes do catálogo</sub-title>
+    <desc lang="pt"> - Confira alguns filmes que separamos para você!</desc>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20241209155857 -0300" stop="20241209165334 -0300" channel="TV Zyn">
+    <title lang="pt">Cúmplices de Um Resgate</title>
+    <desc lang="pt"> - Gêmeas que foram separadas ao nascer e se reencontram na adolescência. E se tornam cúmplices na vida.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">6.120.</episode-num>
     <rating system="Brazil">
-      <value>[A12]</value>
+      <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20241205160800 -0300" stop="20241205161349 -0300" channel="Humor">
-    <title lang="pt">Câmeras Escondidas</title>
-    <sub-title lang="pt">Akki Atacadista</sub-title>
-    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
-    <category lang="en">comedy</category>
+  <programme start="20241209165836 -0300" stop="20241209171907 -0300" channel="TV Zyn">
+    <title lang="pt">Carrossel</title>
+    <desc lang="pt"> - Uma turminha animada que deixa o mundo mais divertido e musical. Embarca nesse Carrossel com eles.</desc>
+    <category lang="en">adventure/western/war</category>
+    <episode-num system="xmltv_ns">2.40.</episode-num>
     <rating system="Brazil">
-      <value>[A12]</value>
-    </rating>
-  </programme>
-  <programme start="20241205162130 -0300" stop="20241205162933 -0300" channel="Humor">
-    <title lang="pt">Câmeras Escondidas</title>
-    <sub-title lang="pt">Almoço Inflacionado</sub-title>
-    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
-    <category lang="en">comedy</category>
-    <rating system="Brazil">
-      <value>[A12]</value>
-    </rating>
-  </programme>
-  <programme start="20241205163743 -0300" stop="20241205164534 -0300" channel="Humor">
-    <title lang="pt">Câmeras Escondidas</title>
-    <sub-title lang="pt">Anabelle 3</sub-title>
-    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
-    <category lang="en">comedy</category>
-    <rating system="Brazil">
-      <value>[A12]</value>
-    </rating>
-  </programme>
-  <programme start="20241205164706 -0300" stop="20241205165650 -0300" channel="Humor">
-    <title lang="pt">Câmeras Escondidas</title>
-    <sub-title lang="pt">Assédio na Entrevista</sub-title>
-    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
-    <category lang="en">comedy</category>
-    <rating system="Brazil">
-      <value>[A12]</value>
-    </rating>
-  </programme>
-  <programme start="20241205165958 -0300" stop="20241205170632 -0300" channel="Humor">
-    <title lang="pt">Câmeras Escondidas</title>
-    <sub-title lang="pt">Assistente Virtual</sub-title>
-    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
-    <category lang="en">comedy</category>
-    <rating system="Brazil">
-      <value>[A12]</value>
-    </rating>
-  </programme>
-  <programme start="20241205170632 -0300" stop="20241205171239 -0300" channel="Humor">
-    <title lang="pt">Câmeras Escondidas</title>
-    <sub-title lang="pt">Ataque das Ratazanas</sub-title>
-    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
-    <category lang="en">comedy</category>
-    <rating system="Brazil">
-      <value>[A12]</value>
-    </rating>
-  </programme>
-  <programme start="20241205171239 -0300" stop="20241205171853 -0300" channel="Humor">
-    <title lang="pt">Câmeras Escondidas</title>
-    <sub-title lang="pt">Ataque do Jacaré</sub-title>
-    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
-    <category lang="en">comedy</category>
-    <rating system="Brazil">
-      <value>[A12]</value>
+      <value>[10]</value>
     </rating>
   </programme>
   <programme start="20241205171853 -0300" stop="20241205172417 -0300" channel="Humor">
@@ -44906,71 +45182,112 @@ de artes marciais</desc>
       <value>[A12]</value>
     </rating>
   </programme>
-  <programme start="20241205151843 -0300" stop="20241205152956 -0300" channel="Criança">
-    <title lang="pt">Rua do Zoo 64</title>
-    <sub-title lang="pt">10. A história do Bola de Neve e seu novo amigo</sub-title>
-    <desc lang="pt"> - Faça como a Lucy, se divirta com as histórias de vida dos animais da Rua do Zoo!</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">2.9.</episode-num>
+  <programme start="20241209153724 -0300" stop="20241209154515 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Anabelle 3</sub-title>
+    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[A12]</value>
     </rating>
   </programme>
-  <programme start="20241205153258 -0300" stop="20241205155446 -0300" channel="Criança">
-    <title lang="pt">O Picapau Amarelo</title>
-    <sub-title lang="pt">5. Emília no país da gramática</sub-title>
-    <desc lang="pt"> - Muita diversão e aprendizados te esperam nessa versão da obra de Monteiro Lobato, O Picapau Amarelo.</desc>
-    <category lang="en">entertainment programmes for 6 to 14</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
+  <programme start="20241209154647 -0300" stop="20241209155631 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Assédio na Entrevista</sub-title>
+    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
     <rating system="Brazil">
-      <value>[AL]</value>
+      <value>[A12]</value>
     </rating>
   </programme>
-  <programme start="20241205155730 -0300" stop="20241205160358 -0300" channel="Criança">
-    <title lang="pt">21. Louie, desenhe um carrossel</title>
-    <desc lang="pt"> - Embarque no mundo da criatividade e aprenda a desenhar com Louie e Yoko!</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">1.20.</episode-num>
+  <programme start="20241209155953 -0300" stop="20241209160628 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Assistente Virtual</sub-title>
+    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[A12]</value>
     </rating>
   </programme>
-  <programme start="20241205160546 -0300" stop="20241205161216 -0300" channel="Criança">
-    <title lang="pt">22. Louie, desenhe um polvo</title>
-    <desc lang="pt"> - Embarque no mundo da criatividade e aprenda a desenhar com Louie e Yoko!</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">1.21.</episode-num>
+  <programme start="20241209160628 -0300" stop="20241209161235 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Ataque das Ratazanas</sub-title>
+    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[A12]</value>
     </rating>
   </programme>
-  <programme start="20241205161354 -0300" stop="20241205162046 -0300" channel="Criança">
-    <title lang="pt">23. Louie, desenhe um flamingo</title>
-    <desc lang="pt"> - Embarque no mundo da criatividade e aprenda a desenhar com Louie e Yoko!</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">1.22.</episode-num>
+  <programme start="20241209161235 -0300" stop="20241209161849 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Ataque do Jacaré</sub-title>
+    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[A12]</value>
     </rating>
   </programme>
-  <programme start="20241205164559 -0300" stop="20241205165655 -0300" channel="Criança">
-    <title lang="pt">Ziggy e o Trenzinho do Zoológico</title>
-    <sub-title lang="pt">11. O inverno encantando de Brian</sub-title>
-    <desc lang="pt"> - Embarque nesse trem e se aventure com Ziggy e seus amigos!</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.10.</episode-num>
+  <programme start="20241209161849 -0300" stop="20241209162412 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Bagageiro com Farinha</sub-title>
+    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[A12]</value>
     </rating>
   </programme>
-  <programme start="20241205165924 -0300" stop="20241205171025 -0300" channel="Criança">
-    <title lang="pt">Ziggy e o Trenzinho do Zoológico</title>
-    <sub-title lang="pt">12. A escultura derretida de Scottie</sub-title>
-    <desc lang="pt"> - Embarque nesse trem e se aventure com Ziggy e seus amigos!</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.11.</episode-num>
+  <programme start="20241209162918 -0300" stop="20241209163514 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Bazuca de Meleca</sub-title>
+    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[A12]</value>
+    </rating>
+  </programme>
+  <programme start="20241209164007 -0300" stop="20241209164556 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Braço de Gesso</sub-title>
+    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <rating system="Brazil">
+      <value>[A12]</value>
+    </rating>
+  </programme>
+  <programme start="20241209164918 -0300" stop="20241209165447 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Brinquedo Assassino</sub-title>
+    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <rating system="Brazil">
+      <value>[A12]</value>
+    </rating>
+  </programme>
+  <programme start="20241209165447 -0300" stop="20241209170008 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Brinquedo Assassino 2</sub-title>
+    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <rating system="Brazil">
+      <value>[A12]</value>
+    </rating>
+  </programme>
+  <programme start="20241209170959 -0300" stop="20241209171707 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Câmera de Segurança na Loja</sub-title>
+    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <rating system="Brazil">
+      <value>[A12]</value>
+    </rating>
+  </programme>
+  <programme start="20241209171707 -0300" stop="20241209172347 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Carrinho de Tortas</sub-title>
+    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <rating system="Brazil">
+      <value>[A12]</value>
     </rating>
   </programme>
   <programme start="20241205171202 -0300" stop="20241205172234 -0300" channel="Criança">
@@ -47659,16 +47976,74 @@ de artes marciais</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241205152438 -0300" stop="20241205160747 -0300" channel="Cinema">
-    <title lang="pt">Rápidos e Perigosos</title>
-    <desc lang="pt"> - Roy tem que escolher entre ficar com a sua filha ou correr por toda a Noruega.</desc>
-    <category lang="en">detective/thriller</category>
-    <episode-num system="xmltv_ns">.0.</episode-num>
+  <programme start="20241209153018 -0300" stop="20241209155236 -0300" channel="Criança">
+    <title lang="pt">O Picapau Amarelo</title>
+    <sub-title lang="pt">9. O Saci</sub-title>
+    <desc lang="pt"> - Muita diversão e aprendizados te esperam nessa versão da obra de Monteiro Lobato, O Picapau Amarelo.</desc>
+    <category lang="en">entertainment programmes for 6 to 14</category>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
     <rating system="Brazil">
-      <value>[14]</value>
+      <value>[AL]</value>
     </rating>
   </programme>
-  <programme start="20241205160812 -0300" stop="20241205181544 -0300" channel="Cinema">
+  <programme start="20241209155520 -0300" stop="20241209160150 -0300" channel="Criança">
+    <title lang="pt">34. Louie, desenhe uma carruagem</title>
+    <desc lang="pt"> - Embarque no mundo da criatividade e aprenda a desenhar com Louie e Yoko!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">1.33.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20241209160337 -0300" stop="20241209161012 -0300" channel="Criança">
+    <title lang="pt">35. Louie, desenhe um furão.</title>
+    <desc lang="pt"> - Embarque no mundo da criatividade e aprenda a desenhar com Louie e Yoko!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">1.34.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20241209161149 -0300" stop="20241209161838 -0300" channel="Criança">
+    <title lang="pt">36. Louie, desenhe um fantasma</title>
+    <desc lang="pt"> - Embarque no mundo da criatividade e aprenda a desenhar com Louie e Yoko!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">1.35.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20241209164403 -0300" stop="20241209165458 -0300" channel="Criança">
+    <title lang="pt">Ziggy e o Trenzinho do Zoológico</title>
+    <sub-title lang="pt">19. Flora, a exploradora</sub-title>
+    <desc lang="pt"> - Embarque nesse trem e se aventure com Ziggy e seus amigos!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.18.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20241209165727 -0300" stop="20241209170828 -0300" channel="Criança">
+    <title lang="pt">Ziggy e o Trenzinho do Zoológico</title>
+    <sub-title lang="pt">20. A montanha de erros do Ziggy</sub-title>
+    <desc lang="pt"> - Embarque nesse trem e se aventure com Ziggy e seus amigos!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.19.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20241209171005 -0300" stop="20241209172037 -0300" channel="Criança">
+    <title lang="pt">Dot.</title>
+    <sub-title lang="pt">19. Dot desconectada</sub-title>
+    <desc lang="pt"> - Está a procura de uma aventura tecnológica? Dot. pode te levar pra uma!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.18.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20241205171336 -0300" stop="20241205181544 -0300" channel="Cinema">
     <title lang="pt">O Fim da Verdade</title>
     <desc lang="pt"> - Martin é um especialista em terrorismo e faz de tudo para contribuir para a segurança nacional.</desc>
     <category lang="en">detective/thriller</category>
