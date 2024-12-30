@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2024-12-30 16:45:04" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2024-12-30 18:15:04" generator-info-url="http://limaalef.com">
   <channel id="Claro TV+ 4K">
     <display-name lang="pt">Claro TV+ 4K</display-name>
   </channel>
@@ -19445,6 +19445,11 @@
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
+  <programme start="" stop="" channel="1682">
+    <title lang="pt">Reapresentação de Comissão</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
   <programme start="" stop="" channel="1765">
     <title lang="pt">Repórter Eco</title>
     <desc lang="pt"> - </desc>
@@ -19585,6 +19590,11 @@
     <desc lang="pt"> - </desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
+  <programme start="" stop="" channel="1765">
+    <title lang="pt">Brasil em Constituição</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">movie/drama (general)</category>
+  </programme>
   <programme start="" stop="" channel="1779">
     <title lang="pt">Tela Brasil: Rio Grande do Sul - Seis Meses Depois</title>
     <desc lang="pt"> - </desc>
@@ -19703,6 +19713,12 @@
     <desc lang="pt"> - </desc>
     <category lang="en">documentary</category>
   </programme>
+  <programme start="" stop="" channel="1779">
+    <title lang="pt">Senadoc: Senado, A História Que Transformou O Brasil - O Amanhã Começa Hoje</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+    <episode-num system="xmltv_ns">.6.</episode-num>
+  </programme>
   <programme start="" stop="" channel="2302">
     <title lang="pt">Nossos Biomas</title>
     <desc lang="pt"> - </desc>
@@ -19820,6 +19836,11 @@
   </programme>
   <programme start="" stop="" channel="2302">
     <title lang="pt">Atos do Executivo</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="" stop="" channel="2302">
+    <title lang="pt">Mulheres pela Independência</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
@@ -22141,7 +22162,7 @@
     <category lang="en">sports (general)</category>
     <new />
   </programme>
-  <programme start="20241230155134 -0300" stop="20241230163017 -0300" channel="sportv">
+  <programme start="20241230155134 -0300" stop="20241230163016 -0300" channel="sportv">
     <title lang="pt">Giro da Rodada: Campeão Série A</title>
     <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol aqui o sportv!</desc>
     <category lang="en">sports (general)</category>
@@ -22151,7 +22172,7 @@
     <desc lang="pt">Quer reviver aquele jogo inesquecível? Saber o que seu ídolo sentiu na hora do gol decisivo? O Baú do Esporte traz diariamente os grandes momentos e personagens que marcaram a história esportiva do Brasil e do mundo.</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20241230165940 -0300" stop="20241230180003 -0300" channel="sportv">
+  <programme start="20241230165940 -0300" stop="20241230180002 -0300" channel="sportv">
     <title lang="pt">VT - Amistoso: Jogo Das Estrelas</title>
     <desc lang="pt">Acompanhe mais um jogão! Um amistoso de futebol, aqui no sportv!</desc>
     <category lang="en">football/soccer</category>
@@ -22179,11 +22200,18 @@
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20241230223019 -0300" stop="20241230232250 -0300" channel="sportv">
+  <programme start="20241230223019 -0300" stop="20241230232450 -0300" channel="sportv">
     <title lang="pt">Sessão sportv: Gigantes</title>
     <desc lang="pt">A enchente histórica que abalou o Rio Grande do Sul em maio de 2024 causou também destruição nas instalações do Sport Club Internacional. O documentário Gigantes traz o relato da reconstrução do Estádio Beira-Rio e do Centro de Treinamento do time profissional masculino sob a ótica de seus funcionários. Foram 70 dias sem jogos e um trabalho incessante para que o Inter pudesse voltar a jogar em sua casa.
 </desc>
     <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20241230232452 -0300" stop="20241231011950 -0300" channel="sportv">
+    <title lang="pt">VT - CONMEBOL Copa América: Argentina x Colômbia</title>
+    <sub-title lang="pt">Final</sub-title>
+    <desc lang="pt">Seleções da América do Sul disputam o título continental em jogos emocionantes Tá na Copa América, tá no sportv</desc>
+    <category lang="en">football/soccer</category>
+    <previously-shown />
   </programme>
   <programme start="20241229220954 -0300" stop="20241230002409 -0300" channel="sportv-2">
     <title lang="pt">VT - Liga das Nações de Vôlei Feminino: Brasil x Polônia</title>
@@ -22272,7 +22300,7 @@
     <category lang="en">sports (general)</category>
     <previously-shown />
   </programme>
-  <programme start="20241230211039 -0300" stop="20241230222959 -0300" channel="sportv-2">
+  <programme start="20241230211039 -0300" stop="20241230223214 -0300" channel="sportv-2">
     <title lang="pt">VT - Jogos Olímpicos Paris 2024: Paris 2024 - Vôlei Feminino - Brasil x Japão</title>
     <sub-title lang="pt">realizado em 01/08/2024</sub-title>
     <desc lang="pt">A cobertura de 100% dos Jogos Olímpicos de Paris 2024 está no sportv! Embarque em nosso mundo e acompanhe tudo em 4 canais e mais de 40 sinais ao vivo. Tá em Paris, tá no sportv.</desc>
@@ -22280,7 +22308,7 @@
     <date>01/08/2024</date>
     <previously-shown />
   </programme>
-  <programme start="20241230223000 -0300" stop="20241231000959 -0300" channel="sportv-2">
+  <programme start="20241230223217 -0300" stop="20241231000936 -0300" channel="sportv-2">
     <title lang="pt">VT - Jogos Olímpicos Paris 2024: Vôlei Feminino - Brasil x Polônia</title>
     <desc lang="pt">A cobertura de 100% dos Jogos Olímpicos de Paris 2024 está no sportv! Embarque em nosso mundo e acompanhe tudo em 4 canais e mais de 40 sinais ao vivo. Tá em Paris, tá no sportv.</desc>
     <category lang="en">sports (general)</category>
@@ -22493,20 +22521,20 @@ Uma paixão que de fato transformou e segue transformando suas vidas.
     <category lang="en">motor sport</category>
     <previously-shown />
   </programme>
-  <programme start="20241230203604 -0300" stop="20241230222926 -0300" channel="sportv-3">
+  <programme start="20241230203604 -0300" stop="20241230223206 -0300" channel="sportv-3">
     <title lang="pt">VT - Stock Car: GP de Belo Horizonte-MG - Corrida 2</title>
     <sub-title lang="pt">7ª Etapa</sub-title>
     <desc lang="pt">Acompanhe uma das mais importantes e tradicionais competições de automobilismo, no Sportv</desc>
     <category lang="en">motor sport</category>
     <previously-shown />
   </programme>
-  <programme start="20241230225500 -0300" stop="20241230234959 -0300" channel="sportv-3">
+  <programme start="20241230223208 -0300" stop="20241230232719 -0300" channel="sportv-3">
     <title lang="pt">VT - Stock Car: GP de Velopark - 1ª Corrida - 8ª Etapa</title>
     <desc lang="pt">Acompanhe uma das mais importantes e tradicionais competições de automobilismo, no Sportv</desc>
     <category lang="en">motor sport</category>
     <previously-shown />
   </programme>
-  <programme start="20241230235000 -0300" stop="20241231004959 -0300" channel="sportv-3">
+  <programme start="20241230232721 -0300" stop="20241231002805 -0300" channel="sportv-3">
     <title lang="pt">VT - Stock Car: GP de Velopark - 2ª Corrida - 8ª Etapa</title>
     <desc lang="pt">Acompanhe uma das mais importantes e tradicionais competições de automobilismo, no Sportv</desc>
     <category lang="en">motor sport</category>
@@ -22810,7 +22838,7 @@ Uma paixão que de fato transformou e segue transformando suas vidas.
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241230152932 -0300" stop="20241230160002 -0300" channel="multishow">
+  <programme start="20241230152932 -0300" stop="20241230160001 -0300" channel="multishow">
     <title lang="pt">Tô de Graça</title>
     <sub-title lang="pt">Casamento Americano</sub-title>
     <desc lang="pt"> - Graça é surpreendida com a notícia de que Sara Jane está de casamento marcado. Emocionada, insiste em celebrar o casório numa cerimônia improvisada em sua própria casa. A expectativa da família em conhecer o noivo é grande. Sara Jane avisa que o seu escolhido tem defeitos e qualidades, mas é um homem muito experiente e vivido. Agora é pagar para ver...</desc>
@@ -22946,7 +22974,7 @@ Uma paixão que de fato transformou e segue transformando suas vidas.
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241230210208 -0300" stop="20241230215159 -0300" channel="multishow">
+  <programme start="20241230210208 -0300" stop="20241230215236 -0300" channel="multishow">
     <title lang="pt">Vai Que Cola - Lady Jo´s Hostel</title>
     <desc lang="pt"> - O parceiro de Velna, Armando, aparece na pensão para tentar faturar uma grana. Todos, iludidos com as promessas do falso gringo, entregam dinheiro para o malandro.</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
@@ -22954,7 +22982,7 @@ Uma paixão que de fato transformou e segue transformando suas vidas.
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241230215200 -0300" stop="20241230222959 -0300" channel="multishow">
+  <programme start="20241230215239 -0300" stop="20241230222948 -0300" channel="multishow">
     <title lang="pt">Vai que Cola</title>
     <sub-title lang="pt">Quem Vai Ficar Com Jéssi?</sub-title>
     <desc lang="pt"> - Jéssica não se lembra do aniversário de namoro com Lindomar. Ao descobrir, tenta preparar uma surpresa, mas o boy está frio e distante. Será que falta apimentar a relação?</desc>
@@ -22962,7 +22990,7 @@ Uma paixão que de fato transformou e segue transformando suas vidas.
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241230223000 -0300" stop="20241230225459 -0300" channel="multishow">
+  <programme start="20241230222950 -0300" stop="20241230224919 -0300" channel="multishow">
     <title lang="pt">Cilada</title>
     <sub-title lang="pt">10 Anos Dois</sub-title>
     <desc lang="pt"> - 10 anos depois, Bruno e Débora ainda estão casados e vivem tanto as vantagens quanto as ciladas de um casamento longo.</desc>
@@ -23165,7 +23193,7 @@ Juntos, eles mostram como é possível mudar cômodos inteiros com muita criativ
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241230152640 -0300" stop="20241230163212 -0300" channel="gnt">
+  <programme start="20241230152640 -0300" stop="20241230163211 -0300" channel="gnt">
     <title lang="pt">Que História É Essa, Porchat?</title>
     <sub-title lang="pt">Bruna Gonçalves + Maurício Manfrini e Thaissa Carvalho</sub-title>
     <desc lang="pt"> - Brunna Gonçalves, Maurício Manfrini e Thaíssa Carvalho sobem ao palco do "Que História É Essa, Porchat?" Na plateia: uma viagem dos infernos para o Pantanal e um buraco na neve em uma montanha nos Estados Unidos</desc>
@@ -23173,7 +23201,7 @@ Juntos, eles mostram como é possível mudar cômodos inteiros com muita criativ
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20241230163217 -0300" stop="20241230171549 -0300" channel="gnt">
+  <programme start="20241230163217 -0300" stop="20241230171548 -0300" channel="gnt">
     <title lang="pt">Que Marravilha!</title>
     <sub-title lang="pt">Você que me Ensinou</sub-title>
     <desc lang="pt"> - Claude e Batista preparam jabá com jerimum, receita típica nordestina. Carola faz mousse de chocolate cappuccino. Eles recebem Bruno, filho do Batista, e Luiz, que trabalha com a dupla.</desc>
@@ -23224,7 +23252,7 @@ Receita: cabrito na cachaça
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241230194812 -0300" stop="20241230204159 -0300" channel="gnt">
+  <programme start="20241230194812 -0300" stop="20241230204534 -0300" channel="gnt">
     <title lang="pt">Que Seja Doce</title>
     <sub-title lang="pt">Festa Da Firma</sub-title>
     <desc lang="pt"> - A Festa da Firma é esperada por diversas pessoas em todo o mundo! Alguns bajulam os chefes, outros são os verdadeiros amigos da onça e também existem aqueles que fazem coisas que não querem lembrar no dia seguinte. O que os confeiteiros irão apresentar ao nosso convidado especial do dia, o chef Rafael Barros?</desc>
@@ -23232,7 +23260,7 @@ Receita: cabrito na cachaça
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241230204200 -0300" stop="20241230214459 -0300" channel="gnt">
+  <programme start="20241230204539 -0300" stop="20241230214745 -0300" channel="gnt">
     <title lang="pt">Que Seja Doce</title>
     <sub-title lang="pt">É Pavê?</sub-title>
     <desc lang="pt"> - Há mais de 30 anos, Marcelo se pergunta por que sua mãe, Dona Luiza, não faz mais seu doce preferido. A alegria e o amor da família Paiva vão incentivar nossos confeiteiros de hoje.</desc>
@@ -23240,7 +23268,7 @@ Receita: cabrito na cachaça
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241230214500 -0300" stop="20241230223359 -0300" channel="gnt">
+  <programme start="20241230214750 -0300" stop="20241230223719 -0300" channel="gnt">
     <title lang="pt">Avisa Lá Que Eu Vou</title>
     <sub-title lang="pt">Círio de Nazaré</sub-title>
     <desc lang="pt"> - Paulo vai até Belém participar do Círio de Nazaré, a maior procissão do Brasil e um dos maiores eventos religiosos do mundo.</desc>
@@ -23248,7 +23276,7 @@ Receita: cabrito na cachaça
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241230223400 -0300" stop="20241230233359 -0300" channel="gnt">
+  <programme start="20241230223724 -0300" stop="20241230233359 -0300" channel="gnt">
     <title lang="pt">Sobre Nós Dois</title>
     <sub-title lang="pt">Fábio Porchat &amp; João Vicente + Gabriela Prioli &amp; Thiago Mansur</sub-title>
     <desc lang="pt"> - Sabrina Sato e Marcelo Adnet conversam sobre parceria e dedo podre. Eles recebem os amigos Fabio Porchat e João Vicente e o casal Gabriela Priolli e Thiago Mansur.</desc>
@@ -23413,7 +23441,7 @@ Receita: cabrito na cachaça
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241230144419 -0300" stop="20241230152949 -0300" channel="viva">
+  <programme start="20241230144419 -0300" stop="20241230152951 -0300" channel="viva">
     <title lang="pt">Corpo A Corpo</title>
     <desc lang="pt"> - Amauri presenteia Christina. Victor percebe a frieza de Eloá. Bia insiste para Rafael aceitar ajuda de Alfredo. Lúcia volta para casa e flagra Tereza cuidando de Alfredo.</desc>
     <rating system="Brazil">
@@ -23490,7 +23518,7 @@ Receita: cabrito na cachaça
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20241230212249 -0300" stop="20241230220359 -0300" channel="viva">
+  <programme start="20241230212249 -0300" stop="20241230220828 -0300" channel="viva">
     <title lang="pt">Toma Lá, Dá Cá</title>
     <sub-title lang="pt">Falando Grosso</sub-title>
     <desc lang="pt"> - Rita e Arnaldo têm sonhos eróticos com o novo casal de vizinhos. Mário Jorge e Arnaldo são acusados de homofobia e racismo respectivamente. Deise impõe condições a Mário Jorge.</desc>
@@ -23498,7 +23526,7 @@ Receita: cabrito na cachaça
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20241230220400 -0300" stop="20241230224859 -0300" channel="viva">
+  <programme start="20241230220831 -0300" stop="20241230224849 -0300" channel="viva">
     <title lang="pt">A Grande Família</title>
     <sub-title lang="pt">A Escolha De Bebel</sub-title>
     <desc lang="pt"> - Bebel exige que Agostinho a leve num restaurante francês caro. Agostinho não tem dinheiro para pagar a conta e deixa Bebel no local criando uma grande confusão.</desc>
@@ -23506,7 +23534,7 @@ Receita: cabrito na cachaça
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241230225000 -0300" stop="20241230233459 -0300" channel="viva">
+  <programme start="20241230224853 -0300" stop="20241230231847 -0300" channel="viva">
     <title lang="pt">Viver A Vida</title>
     <desc lang="pt"> - Bruno encontra Marcos. Ricardo tem uma conversa séria com Ellen. Renata se consulta com a nutricionista. Soraia esconde uma foto de Maradona. Luciana se lembra de bons momentos.</desc>
     <rating system="Brazil">
@@ -23635,7 +23663,7 @@ Receita: cabrito na cachaça
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20241230155140 -0300" stop="20241230172102 -0300" channel="canal-brasil">
+  <programme start="20241230155140 -0300" stop="20241230172108 -0300" channel="canal-brasil">
     <title lang="pt">Boleiros 2 - Vencedores E Vencidos</title>
     <desc lang="pt"> - Reduto de boleiros e ex-boleiros, o Bar do Aurélio está repaginado após a chegada de um novo sócio. A narrativa mostra os acontecimentos subsequentes ao dia em que o jogador-empresário visita o local.</desc>
     <rating system="Brazil">
@@ -23664,14 +23692,14 @@ Receita: cabrito na cachaça
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241230213010 -0300" stop="20241230225959 -0300" channel="canal-brasil">
+  <programme start="20241230213010 -0300" stop="20241230230010 -0300" channel="canal-brasil">
     <title lang="pt">Quebrando Mitos</title>
     <desc lang="pt"> - O filme revela a masculinidade frágil de Jair Bolsonaro sob o ponto de vista de um casal LGBTQIA+ – o cineasta Fernando Grostein Andrade e o ator Fernando Siqueira, que sofreram ameaças pelas críticas ao político.</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241230230000 -0300" stop="20241230231459 -0300" channel="canal-brasil">
+  <programme start="20241230230014 -0300" stop="20241230231430 -0300" channel="canal-brasil">
     <title lang="pt">Sobrepostas - Corpo E Desejo</title>
     <sub-title lang="pt">Geni Núñez</sub-title>
     <desc lang="pt"> - A ativista indígena Geni Núñez fala de como a evangelização afetou a sua vida, destaca a busca por relações potáveis e comenta que alguns desvios foram muito saudáveis para o seu crescimento.</desc>
@@ -23679,7 +23707,7 @@ Receita: cabrito na cachaça
       <value>[18]</value>
     </rating>
   </programme>
-  <programme start="20241230231500 -0300" stop="20241230232959 -0300" channel="canal-brasil">
+  <programme start="20241230231432 -0300" stop="20241230232928 -0300" channel="canal-brasil">
     <title lang="pt">Sobrepostas - Corpo E Desejo</title>
     <sub-title lang="pt">Bia Gremion</sub-title>
     <desc lang="pt"> - A influenciadora Bia Gremion fala sobre a imposição da padronização dos corpos femininos, o lugar de fetichização da mulher gorda e destaca que está descobrindo sua sexualidade.</desc>
@@ -23941,7 +23969,7 @@ aliada do nosso bem-estar.</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241230160444 -0300" stop="20241230161721 -0300" channel="canal-off">
+  <programme start="20241230160444 -0300" stop="20241230161747 -0300" channel="canal-off">
     <title lang="pt">Mundo Gustavo</title>
     <desc lang="pt"> - Gustavo Ribeiro e a crew da Ementa experimentam algumas manobras nas ruas da primeira cidade do skate: Barcelona.</desc>
     <episode-num system="xmltv_ns">.0.</episode-num>
@@ -24047,7 +24075,7 @@ aliada do nosso bem-estar.</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241230213053 -0300" stop="20241230222459 -0300" channel="canal-off">
+  <programme start="20241230213053 -0300" stop="20241230222541 -0300" channel="canal-off">
     <title lang="pt">Corre Atrás: O Desafio De Viver Do Surfe</title>
     <sub-title lang="pt">A Última Etapa</sub-title>
     <desc lang="pt"> - Veremos as histórias das surfistas Tininha, Juliana e Kemily, suas lutas e conquistas no esporte, enfrentando dificuldades como a falta de patrocínio, mas firmes em seus sonhos.</desc>
@@ -24055,7 +24083,7 @@ aliada do nosso bem-estar.</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241230222500 -0300" stop="20241230231459 -0300" channel="canal-off">
+  <programme start="20241230222544 -0300" stop="20241230231608 -0300" channel="canal-off">
     <title lang="pt">Expedition Kayak</title>
     <desc lang="pt"> - A Conexão Quebec enfrenta o Betsiamites, onde a abertura das comportas da barragem Bersimis 1, onde uma vez ao ano, se transforma em uma das águas brancas mais intensas do mundo.</desc>
     <episode-num system="xmltv_ns">.19.</episode-num>
@@ -24063,7 +24091,7 @@ aliada do nosso bem-estar.</desc>
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20241230231500 -0300" stop="20241231000559 -0300" channel="canal-off">
+  <programme start="20241230231610 -0300" stop="20241231000559 -0300" channel="canal-off">
     <title lang="pt">Expedition Kayak</title>
     <desc lang="pt"> - Dessa vez, a turma retorna às suas raízes explorando uma importante bacia hidrográfica da América do Norte, Saguenay-Lac-SaintJean, com Louis Philippe, uma lenda das águas brancas.</desc>
     <episode-num system="xmltv_ns">.18.</episode-num>
@@ -24362,7 +24390,7 @@ aliada do nosso bem-estar.</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241230163808 -0300" stop="20241230173109 -0300" channel="bis">
+  <programme start="20241230163808 -0300" stop="20241230173111 -0300" channel="bis">
     <title lang="pt">Natal em Graceland</title>
     <sub-title lang="pt">Palco Principal</sub-title>
     <desc lang="pt"> - Um especial de música ao vivo que reúne o legado de Elvis Presley e o espírito natalino. O primeiro especial musical de Natal desse tipo, televisionado ao vivo da propriedade.</desc>
@@ -24563,14 +24591,14 @@ aliada do nosso bem-estar.</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241230220029 -0300" stop="20241230231559 -0300" channel="bis">
+  <programme start="20241230220029 -0300" stop="20241230231636 -0300" channel="bis">
     <title lang="pt">Palco Principal</title>
     <desc lang="pt"> - Confira a exibição do conteúdo "Claudia Leitte - Intemporal", nos canais Multishow e Bis.</desc>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20241230231600 -0300" stop="20241231002259 -0300" channel="bis">
+  <programme start="20241230231639 -0300" stop="20241231002259 -0300" channel="bis">
     <title lang="pt">Especial Festival Psica 2024</title>
     <sub-title lang="pt">Palco Principal</sub-title>
     <desc lang="pt"> - O Multishow vai voando para o Pará e exibe o programa Especial Festival Psica 2024, com as atrações dos palcos espalhadas pela cidade e no Estádio do Mangueirão.</desc>
@@ -24928,7 +24956,7 @@ vamos até Fernando de Noronha, na Pousada Morena. E finalizamos em Ribeirão Cl
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241230213807 -0300" stop="20241230223259 -0300" channel="modo-viagem">
+  <programme start="20241230213807 -0300" stop="20241230223304 -0300" channel="modo-viagem">
     <title lang="pt">Paisagens Aéreas</title>
     <sub-title lang="pt">África do Sul</sub-title>
     <desc lang="pt"> - Embarque na Cidade do Cabo e conheça a incrível Garden Route. De um movimentado centro a densas florestas, descubra a rica história, geografia e biodiversidade da nação arco-íris.</desc>
@@ -24936,7 +24964,7 @@ vamos até Fernando de Noronha, na Pousada Morena. E finalizamos em Ribeirão Cl
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241230223300 -0300" stop="20241230230059 -0300" channel="modo-viagem">
+  <programme start="20241230223307 -0300" stop="20241230230059 -0300" channel="modo-viagem">
     <title lang="pt">Brasil Visto De Cima</title>
     <sub-title lang="pt">Chapada Das Mesas - Parte 2</sub-title>
     <desc lang="pt"> - Em meio a curiosas formações rochosas, surgem belas paisagens e cidades como Balsas, conhecida como “Capital do Agronegócio"..</desc>
@@ -25329,7 +25357,7 @@ vamos até Fernando de Noronha, na Pousada Morena. E finalizamos em Ribeirão Cl
     <category lang="en">sports (general)</category>
     <date>26/07/2009</date>
   </programme>
-  <programme start="20241230162122 -0300" stop="20241230171955 -0300" channel="premiere">
+  <programme start="20241230162122 -0300" stop="20241230171957 -0300" channel="premiere">
     <title lang="pt">Retrô - Copa do Brasil 2015: Palmeiras x Internacional</title>
     <sub-title lang="pt">Quartas de Final - Jogo de Volta, realizado em 30/09/2015</sub-title>
     <desc lang="pt">Reveja partidas históricas do seu esporte favorito!
@@ -25787,11 +25815,22 @@ de artes marciais</desc>
     <desc lang="pt"> - As principais notícias do Brasil e do mundo.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20241231003000 -0300" stop="20241231022959 -0300" channel="sportv">
+  <programme start="20241230232452 -0300" stop="20241231011950 -0300" channel="sportv">
     <title lang="pt">VT - CONMEBOL Copa América: Argentina x Colômbia</title>
     <sub-title lang="pt">Final</sub-title>
     <desc lang="pt">Seleções da América do Sul disputam o título continental em jogos emocionantes Tá na Copa América, tá no sportv</desc>
     <category lang="en">football/soccer</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241231011953 -0300" stop="20241231014551 -0300" channel="sportv">
+    <title lang="pt">Giro da Rodada: Campeão Série A</title>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol aqui o sportv!</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20241231014553 -0300" stop="20241231022959 -0300" channel="sportv">
+    <title lang="pt">VT - Jogos Olímpicos Paris 2024: Futebol Feminino - Brasil x Japão</title>
+    <desc lang="pt">A cobertura de 100% dos Jogos Olímpicos de Paris 2024 está no sportv! Embarque em nosso mundo e acompanhe tudo em 4 canais e mais de 40 sinais ao vivo. Tá em Paris, tá no sportv.</desc>
+    <category lang="en">sports (general)</category>
     <previously-shown />
   </programme>
   <programme start="20241231023000 -0300" stop="20241231025959 -0300" channel="sportv">
@@ -25906,9 +25945,8 @@ de artes marciais</desc>
     </rating>
   </programme>
   <programme start="20241231200000 -0300" stop="20241231205959 -0300" channel="sportv">
-    <title lang="pt">VT - CONMEBOL Copa América: Uruguai x Brasil</title>
-    <sub-title lang="pt">Quartas de Final</sub-title>
-    <desc lang="pt">Seleções da América do Sul disputam o título continental em jogos emocionantes Tá na Copa América, tá no sportv</desc>
+    <title lang="pt">VT - Amistoso: Jogo Das Estrelas</title>
+    <desc lang="pt">Acompanhe mais um jogão! Um amistoso de futebol, aqui no sportv!</desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
@@ -25926,19 +25964,19 @@ de artes marciais</desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20241230223000 -0300" stop="20241231000959 -0300" channel="sportv-2">
+  <programme start="20241230223217 -0300" stop="20241231000936 -0300" channel="sportv-2">
     <title lang="pt">VT - Jogos Olímpicos Paris 2024: Vôlei Feminino - Brasil x Polônia</title>
     <desc lang="pt">A cobertura de 100% dos Jogos Olímpicos de Paris 2024 está no sportv! Embarque em nosso mundo e acompanhe tudo em 4 canais e mais de 40 sinais ao vivo. Tá em Paris, tá no sportv.</desc>
     <category lang="en">sports (general)</category>
     <previously-shown />
   </programme>
-  <programme start="20241231001000 -0300" stop="20241231002959 -0300" channel="sportv-2">
+  <programme start="20241231000940 -0300" stop="20241231002902 -0300" channel="sportv-2">
     <title lang="pt">VT - Jogos Olímpicos Paris 2024: Paris 2024: Isaquias Queiroz - Medalha De Prata Na Canoagem</title>
     <desc lang="pt">Mini-programa com os principais destaques da programação do SporTV.</desc>
     <category lang="en">sports (general)</category>
     <previously-shown />
   </programme>
-  <programme start="20241231003000 -0300" stop="20241231013959 -0300" channel="sportv-2">
+  <programme start="20241231002904 -0300" stop="20241231004944 -0300" channel="sportv-2">
     <title lang="pt">VT - Jogos Olímpicos Paris 2024: Vôlei Feminino - Brasil x Quênia</title>
     <desc lang="pt">A cobertura de 100% dos Jogos Olímpicos de Paris 2024 está no sportv! Embarque em nosso mundo e acompanhe tudo em 4 canais e mais de 40 sinais ao vivo. Tá em Paris, tá no sportv.</desc>
     <category lang="en">sports (general)</category>
@@ -25997,8 +26035,8 @@ de artes marciais</desc>
     <previously-shown />
   </programme>
   <programme start="20241231150000 -0300" stop="20241231162959 -0300" channel="sportv-2">
-    <title lang="pt">Corrida De São Silvestre: São Paulo-SP - Inédito</title>
-    <desc lang="pt">venha conferir todas as emoções da corrida mais famosa do brasil a Corrida de São Silvestre.</desc>
+    <title lang="pt">Corrida De São Silvestre - SP - Inédito</title>
+    <desc lang="pt"> - venha conferir todas as emoções da corrida mais famosa do brasil a Corrida de São Silvestre.</desc>
     <category lang="en">sports (general)</category>
     <new />
   </programme>
@@ -26043,34 +26081,34 @@ de artes marciais</desc>
     <category lang="en">team sports</category>
     <previously-shown />
   </programme>
-  <programme start="20241230235000 -0300" stop="20241231004959 -0300" channel="sportv-3">
+  <programme start="20241230232721 -0300" stop="20241231002805 -0300" channel="sportv-3">
     <title lang="pt">VT - Stock Car: GP de Velopark - 2ª Corrida - 8ª Etapa</title>
     <desc lang="pt">Acompanhe uma das mais importantes e tradicionais competições de automobilismo, no Sportv</desc>
     <category lang="en">motor sport</category>
     <previously-shown />
   </programme>
-  <programme start="20241231005000 -0300" stop="20241231021959 -0300" channel="sportv-3">
+  <programme start="20241231002808 -0300" stop="20241231015735 -0300" channel="sportv-3">
     <title lang="pt">VT - Stock Car: GP da Argentina - 9ª Etapa</title>
     <sub-title lang="pt">Corrida 1</sub-title>
     <desc lang="pt">Acompanhe uma das mais importantes e tradicionais competições de automobilismo, no Sportv</desc>
     <category lang="en">motor sport</category>
     <previously-shown />
   </programme>
-  <programme start="20241231022000 -0300" stop="20241231034459 -0300" channel="sportv-3">
+  <programme start="20241231015738 -0300" stop="20241231032048 -0300" channel="sportv-3">
     <title lang="pt">VT - Stock Car: GP de Argentina - Corrida 2</title>
     <sub-title lang="pt">9ª Etapa</sub-title>
     <desc lang="pt">Acompanhe uma das mais importantes e tradicionais competições de automobilismo, no Sportv</desc>
     <category lang="en">motor sport</category>
     <previously-shown />
   </programme>
-  <programme start="20241231034500 -0300" stop="20241231044459 -0300" channel="sportv-3">
+  <programme start="20241231032049 -0300" stop="20241231042453 -0300" channel="sportv-3">
     <title lang="pt">VT - Stock Car: GP do Uruguai - 10ª Etapa</title>
     <sub-title lang="pt">Corrida 1</sub-title>
     <desc lang="pt">Acompanhe uma das mais importantes e tradicionais competições de automobilismo, no Sportv</desc>
     <category lang="en">motor sport</category>
     <previously-shown />
   </programme>
-  <programme start="20241231044500 -0300" stop="20241231061459 -0300" channel="sportv-3">
+  <programme start="20241231042455 -0300" stop="20241231055552 -0300" channel="sportv-3">
     <title lang="pt">VT - Stock Car: GP do Uruguai - 10ª Etapa</title>
     <sub-title lang="pt">Corrida 2</sub-title>
     <desc lang="pt">Acompanhe uma das mais importantes e tradicionais competições de automobilismo, no Sportv</desc>
@@ -27102,7 +27140,7 @@ Receita: cabrito na cachaça
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241230234500 -0300" stop="20241231002959 -0300" channel="viva">
+  <programme start="20241230234515 -0300" stop="20241231002959 -0300" channel="viva">
     <title lang="pt">Cobras &amp; Lagartos</title>
     <sub-title lang="pt">Cobras E Lagartos</sub-title>
     <desc lang="pt"> - Estevão se torna o novo presidente da Luxus. Orã segue enganando Bandeira. Bel e Duda celebram a nova vida. Ellen e Foguinho conspiram contra Estevão.</desc>
@@ -27954,7 +27992,7 @@ aliada do nosso bem-estar.</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241230231600 -0300" stop="20241231002259 -0300" channel="bis">
+  <programme start="20241230231639 -0300" stop="20241231002259 -0300" channel="bis">
     <title lang="pt">Especial Festival Psica 2024</title>
     <sub-title lang="pt">Palco Principal</sub-title>
     <desc lang="pt"> - O Multishow vai voando para o Pará e exibe o programa Especial Festival Psica 2024, com as atrações dos palcos espalhadas pela cidade e no Estádio do Mangueirão.</desc>
@@ -28512,7 +28550,7 @@ aliada do nosso bem-estar.</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241230233100 -0300" stop="20241231000059 -0300" channel="modo-viagem">
+  <programme start="20241230233106 -0300" stop="20241231000059 -0300" channel="modo-viagem">
     <title lang="pt">Paisagens Aéreas</title>
     <sub-title lang="pt">Espanha - Parte 1</sub-title>
     <desc lang="pt"> - A Espanha é cheia de contrastes, na beleza natural e em sua história. Suas cidades misturam o moderno com a arquitetura centenária, criando cidades fascinantes.</desc>
@@ -29167,7 +29205,7 @@ pataxós.</desc>
     <category lang="en">sports (general)</category>
     <date>09/07/2000</date>
   </programme>
-  <programme start="20241231000425 -0300" stop="20241231003142 -0300" channel="premiere">
+  <programme start="20241231000425 -0300" stop="20241231010223 -0300" channel="premiere">
     <title lang="pt">Retrô - São Paulo X Cruzeiro</title>
     <sub-title lang="pt">2ª Rodada, realizado em 06/04/2003</sub-title>
     <desc lang="pt">Reveja partidas históricas do seu esporte favorito!
@@ -29176,7 +29214,7 @@ pataxós.</desc>
     <category lang="en">sports (general)</category>
     <date>06/04/2003</date>
   </programme>
-  <programme start="20241231014000 -0300" stop="20241231023959 -0300" channel="premiere">
+  <programme start="20241231010226 -0300" stop="20241231023616 -0300" channel="premiere">
     <title lang="pt">Retrô - Copa do Brasil 2001: Grêmio x Fluminense</title>
     <sub-title lang="pt">Jogo de Ida, realizado em 02/05/2001</sub-title>
     <desc lang="pt">Reveja partidas históricas do seu esporte favorito!
@@ -41303,18 +41341,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
     <desc lang="pt"> - Acompanhe as principais notícias do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
-  <programme start="20241230155228 -0300" stop="20241230165050 -0300" channel="Silvio Santos">
-    <title lang="pt">Show do Milhão</title>
-    <sub-title lang="pt">realizado em 02/04/2000</sub-title>
-    <desc lang="pt">Silvio Santos convida participantes para testarem seus conhecimentos valendo um milhão de reais.</desc>
-    <category lang="en">variety show</category>
-    <date>02/04/2000</date>
-    <episode-num system="xmltv_ns">1.21.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20241230165100 -0300" stop="20241230203821 -0300" channel="Silvio Santos">
+  <programme start="20241230174319 -0300" stop="20241230203821 -0300" channel="Silvio Santos">
     <title lang="pt">Programa Silvio Santos</title>
     <sub-title lang="pt">realizado em 02/11/2008</sub-title>
     <desc lang="pt">Um clássico da TV brasileira! Aviõezinhos, calouros, artistas e, claro, o patrão Silvio Santos!</desc>
@@ -41999,7 +42026,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250103154641 -0300" stop="20250103160721 -0300" channel="Silvio Santos">
+  <programme start="20250103154641 -0300" stop="20250103164451 -0300" channel="Silvio Santos">
     <title lang="pt">Nada Além da Verdade</title>
     <sub-title lang="pt">realizado em 04/05/2008</sub-title>
     <desc lang="pt">Você enfrentaria um detector de mentiras comandado por Silvio Santos?</desc>
@@ -42010,37 +42037,25 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[A10]</value>
     </rating>
   </programme>
-  <programme start="20241230154108 -0300" stop="20241230155514 -0300" channel="Saudade">
-    <title lang="pt">Canta e Dança Minha Gente</title>
-    <sub-title lang="pt">realizado em 17/12/2000</sub-title>
-    <desc lang="pt">Carla Perez comanda o programa com muita música e dança junto da plateia e convidados.</desc>
-    <category lang="en">show/game show (general)</category>
-    <date>17/12/2000</date>
-    <episode-num system="xmltv_ns">1.40.</episode-num>
+  <programme start="20250103164454 -0300" stop="20250103173930 -0300" channel="Silvio Santos">
+    <title lang="pt">Namoro na TV</title>
+    <sub-title lang="pt">realizado em 16/08/1987</sub-title>
+    <desc lang="pt">Quer saber como era paquerar quando não existiam aplicativos de namoro? Silvio Santos te mostra!</desc>
+    <date>16/08/1987</date>
+    <episode-num system="xmltv_ns">2.7.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[AL]</value>
     </rating>
   </programme>
-  <programme start="20241230155517 -0300" stop="20241230170156 -0300" channel="Saudade">
-    <title lang="pt">Canta e Dança Minha Gente</title>
-    <sub-title lang="pt">realizado em 31/12/2000</sub-title>
-    <desc lang="pt">Carla Perez comanda o programa com muita música e dança junto da plateia e convidados.</desc>
-    <category lang="en">show/game show (general)</category>
-    <date>31/12/2000</date>
-    <episode-num system="xmltv_ns">1.41.</episode-num>
+  <programme start="20250103173937 -0300" stop="20250103174917 -0300" channel="Silvio Santos">
+    <title lang="pt">Show do Milhão</title>
+    <sub-title lang="pt">realizado em 29/05/2000</sub-title>
+    <desc lang="pt">Silvio Santos convida participantes para testarem seus conhecimentos valendo um milhão de reais.</desc>
+    <category lang="en">variety show</category>
+    <date>29/05/2000</date>
+    <episode-num system="xmltv_ns">2.1.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20241230170206 -0300" stop="20241230173514 -0300" channel="Saudade">
-    <title lang="pt">Fala Dercy</title>
-    <sub-title lang="pt">realizado em 20/04/2000</sub-title>
-    <desc lang="pt">Em "Fala Dercy", a icônica Dercy Gonçalves faz humor afiado, charme e muita autenticidade na TV!</desc>
-    <category lang="en">show/game show (general)</category>
-    <date>20/04/2000</date>
-    <episode-num system="xmltv_ns">0.14.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
     </rating>
   </programme>
   <programme start="20241230180003 -0300" stop="20241230200705 -0300" channel="Saudade">
@@ -42372,28 +42387,352 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[A10]</value>
     </rating>
   </programme>
-  <programme start="20241230154620 -0300" stop="20241230155611 -0300" channel="Novelas">
-    <title lang="pt">O Que Assistir?</title>
-    <sub-title lang="pt">Séries médicas do catálogo</sub-title>
-    <desc lang="pt"> - Confira algumas séries que separamos para você!</desc>
-    <episode-num system="xmltv_ns">0..</episode-num>
-  </programme>
-  <programme start="20241230155926 -0300" stop="20241230165303 -0300" channel="Novelas">
-    <title lang="pt">Amor Inesperado</title>
-    <desc lang="pt"> - Duas irmãs, duas visões opostas sobre o amor. Voltea Pa&amp;apos; Que Te Enamores revela o poder das emoções.</desc>
-    <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
+  <programme start="20250101000014 -0300" stop="20250101014607 -0300" channel="Saudade">
+    <title lang="pt">Fantasia</title>
+    <sub-title lang="pt">realizado em 04/04/1999</sub-title>
+    <desc lang="pt">O programa interativo dos anos 90 que derrubou o sistema de telefonia da maior cidade do Brasil.</desc>
+    <category lang="en">variety show</category>
+    <date>04/04/1999</date>
+    <episode-num system="xmltv_ns">2.13.</episode-num>
     <rating system="Brazil">
-      <value>[A14]</value>
+      <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241230165618 -0300" stop="20241230174928 -0300" channel="Novelas">
-    <title lang="pt">Amor Inesperado</title>
-    <desc lang="pt"> - Duas irmãs, duas visões opostas sobre o amor. Voltea Pa&amp;apos; Que Te Enamores revela o poder das emoções.</desc>
-    <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
+  <programme start="20250101015116 -0300" stop="20250101015816 -0300" channel="Saudade">
+    <title lang="pt">Teaser - Coleção SBT</title>
+    <sub-title lang="pt">Making Of - Coleção SBT</sub-title>
+    <desc lang="pt"> - A história de um gênio do humor brasileiro, história de infância, conflitos, sucessos e desafios.</desc>
+    <category lang="en">documentary</category>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
     <rating system="Brazil">
-      <value>[A14]</value>
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250101015826 -0300" stop="20250101023409 -0300" channel="Saudade">
+    <title lang="pt">TV Animal</title>
+    <sub-title lang="pt">realizado em 17/11/1995</sub-title>
+    <desc lang="pt">Aqui os bichos são os astros de uma competição entre famosos!</desc>
+    <category lang="en">variety show</category>
+    <date>17/11/1995</date>
+    <episode-num system="xmltv_ns">7.29.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250101023419 -0300" stop="20250101024410 -0300" channel="Saudade">
+    <title lang="pt">O Que Assistir?</title>
+    <sub-title lang="pt">Filmes do Catálogo</sub-title>
+    <desc lang="pt"> - Confira alguns filmes que separamos para você!</desc>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20250101024420 -0300" stop="20250101034149 -0300" channel="Saudade">
+    <title lang="pt">Programa Livre</title>
+    <sub-title lang="pt">realizado em 31/12/1991</sub-title>
+    <desc lang="pt">Na década de 90, a juventude se encontrava com seus ídolos no palco de Serginho Groisman!</desc>
+    <category lang="en">variety show</category>
+    <date>31/12/1991</date>
+    <episode-num system="xmltv_ns">0.107.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250101034152 -0300" stop="20250101044018 -0300" channel="Saudade">
+    <title lang="pt">Programa Livre</title>
+    <sub-title lang="pt">realizado em 25/03/1992</sub-title>
+    <desc lang="pt">Na década de 90, a juventude se encontrava com seus ídolos no palco de Serginho Groisman!</desc>
+    <category lang="en">variety show</category>
+    <date>25/03/1992</date>
+    <episode-num system="xmltv_ns">1.56.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250101044028 -0300" stop="20250101054253 -0300" channel="Saudade">
+    <title lang="pt">Fala Dercy</title>
+    <sub-title lang="pt">realizado em 27/04/2000</sub-title>
+    <desc lang="pt">Em "Fala Dercy", a icônica Dercy Gonçalves faz humor afiado, charme e muita autenticidade na TV!</desc>
+    <category lang="en">show/game show (general)</category>
+    <date>27/04/2000</date>
+    <episode-num system="xmltv_ns">0.15.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250101054303 -0300" stop="20250101055254 -0300" channel="Saudade">
+    <title lang="pt">O Que Assistir?</title>
+    <sub-title lang="pt">Series médicas</sub-title>
+    <desc lang="pt"> - Curte séries médicas? Confiram algumas que separamos para vocês</desc>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+  </programme>
+  <programme start="20250101055254 -0300" stop="20250101055953 -0300" channel="Saudade">
+    <title lang="pt">Teaser - Coleção SBT</title>
+    <sub-title lang="pt">Making Of - Coleção SBT</sub-title>
+    <desc lang="pt"> - A história de um gênio do humor brasileiro, história de infância, conflitos, sucessos e desafios.</desc>
+    <category lang="en">documentary</category>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250101060003 -0300" stop="20250101074556 -0300" channel="Saudade">
+    <title lang="pt">Fantasia</title>
+    <sub-title lang="pt">realizado em 04/04/1999</sub-title>
+    <desc lang="pt">O programa interativo dos anos 90 que derrubou o sistema de telefonia da maior cidade do Brasil.</desc>
+    <category lang="en">variety show</category>
+    <date>04/04/1999</date>
+    <episode-num system="xmltv_ns">2.13.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250101075105 -0300" stop="20250101075805 -0300" channel="Saudade">
+    <title lang="pt">Teaser - Coleção SBT</title>
+    <sub-title lang="pt">Making Of - Coleção SBT</sub-title>
+    <desc lang="pt"> - A história de um gênio do humor brasileiro, história de infância, conflitos, sucessos e desafios.</desc>
+    <category lang="en">documentary</category>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250101075815 -0300" stop="20250101083358 -0300" channel="Saudade">
+    <title lang="pt">TV Animal</title>
+    <sub-title lang="pt">realizado em 17/11/1995</sub-title>
+    <desc lang="pt">Aqui os bichos são os astros de uma competição entre famosos!</desc>
+    <category lang="en">variety show</category>
+    <date>17/11/1995</date>
+    <episode-num system="xmltv_ns">7.29.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250101083408 -0300" stop="20250101084359 -0300" channel="Saudade">
+    <title lang="pt">O Que Assistir?</title>
+    <sub-title lang="pt">Filmes do Catálogo</sub-title>
+    <desc lang="pt"> - Confira alguns filmes que separamos para você!</desc>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20250101084409 -0300" stop="20250101094138 -0300" channel="Saudade">
+    <title lang="pt">Programa Livre</title>
+    <sub-title lang="pt">realizado em 31/12/1991</sub-title>
+    <desc lang="pt">Na década de 90, a juventude se encontrava com seus ídolos no palco de Serginho Groisman!</desc>
+    <category lang="en">variety show</category>
+    <date>31/12/1991</date>
+    <episode-num system="xmltv_ns">0.107.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250101094141 -0300" stop="20250101104022 -0300" channel="Saudade">
+    <title lang="pt">Programa Livre</title>
+    <sub-title lang="pt">realizado em 25/03/1992</sub-title>
+    <desc lang="pt">Na década de 90, a juventude se encontrava com seus ídolos no palco de Serginho Groisman!</desc>
+    <category lang="en">variety show</category>
+    <date>25/03/1992</date>
+    <episode-num system="xmltv_ns">1.56.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250101104032 -0300" stop="20250101114257 -0300" channel="Saudade">
+    <title lang="pt">Fala Dercy</title>
+    <sub-title lang="pt">realizado em 27/04/2000</sub-title>
+    <desc lang="pt">Em "Fala Dercy", a icônica Dercy Gonçalves faz humor afiado, charme e muita autenticidade na TV!</desc>
+    <category lang="en">show/game show (general)</category>
+    <date>27/04/2000</date>
+    <episode-num system="xmltv_ns">0.15.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250101114307 -0300" stop="20250101115258 -0300" channel="Saudade">
+    <title lang="pt">O Que Assistir?</title>
+    <sub-title lang="pt">Series médicas</sub-title>
+    <desc lang="pt"> - Curte séries médicas? Confiram algumas que separamos para vocês</desc>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+  </programme>
+  <programme start="20250101115258 -0300" stop="20250101115958 -0300" channel="Saudade">
+    <title lang="pt">Teaser - Coleção SBT</title>
+    <sub-title lang="pt">Making Of - Coleção SBT</sub-title>
+    <desc lang="pt"> - A história de um gênio do humor brasileiro, história de infância, conflitos, sucessos e desafios.</desc>
+    <category lang="en">documentary</category>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250101120008 -0300" stop="20250101134600 -0300" channel="Saudade">
+    <title lang="pt">Fantasia</title>
+    <sub-title lang="pt">realizado em 04/04/1999</sub-title>
+    <desc lang="pt">O programa interativo dos anos 90 que derrubou o sistema de telefonia da maior cidade do Brasil.</desc>
+    <category lang="en">variety show</category>
+    <date>04/04/1999</date>
+    <episode-num system="xmltv_ns">2.13.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250101135110 -0300" stop="20250101135809 -0300" channel="Saudade">
+    <title lang="pt">Teaser - Coleção SBT</title>
+    <sub-title lang="pt">Making Of - Coleção SBT</sub-title>
+    <desc lang="pt"> - A história de um gênio do humor brasileiro, história de infância, conflitos, sucessos e desafios.</desc>
+    <category lang="en">documentary</category>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250101135819 -0300" stop="20250101143402 -0300" channel="Saudade">
+    <title lang="pt">TV Animal</title>
+    <sub-title lang="pt">realizado em 17/11/1995</sub-title>
+    <desc lang="pt">Aqui os bichos são os astros de uma competição entre famosos!</desc>
+    <category lang="en">variety show</category>
+    <date>17/11/1995</date>
+    <episode-num system="xmltv_ns">7.29.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250101143412 -0300" stop="20250101144403 -0300" channel="Saudade">
+    <title lang="pt">O Que Assistir?</title>
+    <sub-title lang="pt">Filmes do Catálogo</sub-title>
+    <desc lang="pt"> - Confira alguns filmes que separamos para você!</desc>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20250101144413 -0300" stop="20250101154143 -0300" channel="Saudade">
+    <title lang="pt">Programa Livre</title>
+    <sub-title lang="pt">realizado em 31/12/1991</sub-title>
+    <desc lang="pt">Na década de 90, a juventude se encontrava com seus ídolos no palco de Serginho Groisman!</desc>
+    <category lang="en">variety show</category>
+    <date>31/12/1991</date>
+    <episode-num system="xmltv_ns">0.107.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250101154146 -0300" stop="20250101164026 -0300" channel="Saudade">
+    <title lang="pt">Programa Livre</title>
+    <sub-title lang="pt">realizado em 25/03/1992</sub-title>
+    <desc lang="pt">Na década de 90, a juventude se encontrava com seus ídolos no palco de Serginho Groisman!</desc>
+    <category lang="en">variety show</category>
+    <date>25/03/1992</date>
+    <episode-num system="xmltv_ns">1.56.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250101164036 -0300" stop="20250101174301 -0300" channel="Saudade">
+    <title lang="pt">Fala Dercy</title>
+    <sub-title lang="pt">realizado em 27/04/2000</sub-title>
+    <desc lang="pt">Em "Fala Dercy", a icônica Dercy Gonçalves faz humor afiado, charme e muita autenticidade na TV!</desc>
+    <category lang="en">show/game show (general)</category>
+    <date>27/04/2000</date>
+    <episode-num system="xmltv_ns">0.15.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250101174311 -0300" stop="20250101175302 -0300" channel="Saudade">
+    <title lang="pt">O Que Assistir?</title>
+    <sub-title lang="pt">Series médicas</sub-title>
+    <desc lang="pt"> - Curte séries médicas? Confiram algumas que separamos para vocês</desc>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+  </programme>
+  <programme start="20250101175302 -0300" stop="20250101180002 -0300" channel="Saudade">
+    <title lang="pt">Teaser - Coleção SBT</title>
+    <sub-title lang="pt">Making Of - Coleção SBT</sub-title>
+    <desc lang="pt"> - A história de um gênio do humor brasileiro, história de infância, conflitos, sucessos e desafios.</desc>
+    <category lang="en">documentary</category>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250101180012 -0300" stop="20250101194605 -0300" channel="Saudade">
+    <title lang="pt">Fantasia</title>
+    <sub-title lang="pt">realizado em 04/04/1999</sub-title>
+    <desc lang="pt">O programa interativo dos anos 90 que derrubou o sistema de telefonia da maior cidade do Brasil.</desc>
+    <category lang="en">variety show</category>
+    <date>04/04/1999</date>
+    <episode-num system="xmltv_ns">2.13.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250101195114 -0300" stop="20250101195813 -0300" channel="Saudade">
+    <title lang="pt">Teaser - Coleção SBT</title>
+    <sub-title lang="pt">Making Of - Coleção SBT</sub-title>
+    <desc lang="pt"> - A história de um gênio do humor brasileiro, história de infância, conflitos, sucessos e desafios.</desc>
+    <category lang="en">documentary</category>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250101195823 -0300" stop="20250101203407 -0300" channel="Saudade">
+    <title lang="pt">TV Animal</title>
+    <sub-title lang="pt">realizado em 17/11/1995</sub-title>
+    <desc lang="pt">Aqui os bichos são os astros de uma competição entre famosos!</desc>
+    <category lang="en">variety show</category>
+    <date>17/11/1995</date>
+    <episode-num system="xmltv_ns">7.29.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250101203417 -0300" stop="20250101204407 -0300" channel="Saudade">
+    <title lang="pt">O Que Assistir?</title>
+    <sub-title lang="pt">Filmes do Catálogo</sub-title>
+    <desc lang="pt"> - Confira alguns filmes que separamos para você!</desc>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20250101204417 -0300" stop="20250101214147 -0300" channel="Saudade">
+    <title lang="pt">Programa Livre</title>
+    <sub-title lang="pt">realizado em 31/12/1991</sub-title>
+    <desc lang="pt">Na década de 90, a juventude se encontrava com seus ídolos no palco de Serginho Groisman!</desc>
+    <category lang="en">variety show</category>
+    <date>31/12/1991</date>
+    <episode-num system="xmltv_ns">0.107.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250101214150 -0300" stop="20250101224015 -0300" channel="Saudade">
+    <title lang="pt">Programa Livre</title>
+    <sub-title lang="pt">realizado em 25/03/1992</sub-title>
+    <desc lang="pt">Na década de 90, a juventude se encontrava com seus ídolos no palco de Serginho Groisman!</desc>
+    <category lang="en">variety show</category>
+    <date>25/03/1992</date>
+    <episode-num system="xmltv_ns">1.56.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250101224025 -0300" stop="20250101234251 -0300" channel="Saudade">
+    <title lang="pt">Fala Dercy</title>
+    <sub-title lang="pt">realizado em 27/04/2000</sub-title>
+    <desc lang="pt">Em "Fala Dercy", a icônica Dercy Gonçalves faz humor afiado, charme e muita autenticidade na TV!</desc>
+    <category lang="en">show/game show (general)</category>
+    <date>27/04/2000</date>
+    <episode-num system="xmltv_ns">0.15.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250101234301 -0300" stop="20250101235252 -0300" channel="Saudade">
+    <title lang="pt">O Que Assistir?</title>
+    <sub-title lang="pt">Series médicas</sub-title>
+    <desc lang="pt"> - Curte séries médicas? Confiram algumas que separamos para vocês</desc>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+  </programme>
+  <programme start="20250101235252 -0300" stop="20250101235951 -0300" channel="Saudade">
+    <title lang="pt">Teaser - Coleção SBT</title>
+    <sub-title lang="pt">Making Of - Coleção SBT</sub-title>
+    <desc lang="pt"> - A história de um gênio do humor brasileiro, história de infância, conflitos, sucessos e desafios.</desc>
+    <category lang="en">documentary</category>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
     </rating>
   </programme>
   <programme start="20241230175606 -0300" stop="20241230185453 -0300" channel="Novelas">
@@ -42456,7 +42795,39 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
     <desc lang="pt"> - Confira algumas séries que separamos para você!</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
   </programme>
-  <programme start="20241230153433 -0300" stop="20241230164833 -0300" channel="Informação">
+  <programme start="20241230172014 -0300" stop="20241230183318 -0300" channel="Informação">
+    <title lang="pt">Fofocalizando</title>
+    <sub-title lang="pt">realizado em 30/12/2024</sub-title>
+    <desc lang="pt"> Fique por dentro das principais notícias do mundo das celebridades em primei</desc>
+    <category lang="en">news/current affairs (general)</category>
+    <date>30/12/2024</date>
+    <episode-num system="xmltv_ns">0.3011.</episode-num>
+  </programme>
+  <programme start="20241230183318 -0300" stop="20241230212854 -0300" channel="Informação">
+    <title lang="pt">Tá Na Hora</title>
+    <sub-title lang="pt">realizado em 23/12/2024</sub-title>
+    <desc lang="pt">Datena comanda o "Tá na Hora", levando informação e prestação de serviço durante a sua volta para casa.</desc>
+    <category lang="en">news/current affairs (general)</category>
+    <date>23/12/2024</date>
+    <episode-num system="xmltv_ns">0.2311.</episode-num>
+  </programme>
+  <programme start="20241230212904 -0300" stop="20241230215726 -0300" channel="Informação">
+    <title lang="pt">SBT Brasil</title>
+    <sub-title lang="pt">realizado em 23/12/2024</sub-title>
+    <desc lang="pt">Cesar Filho leva ao telespectador as notícias mais importantes do dia, ao vivo, com liberdade editor</desc>
+    <category lang="en">news/current affairs (general)</category>
+    <date>23/12/2024</date>
+    <episode-num system="xmltv_ns">0.2311.</episode-num>
+  </programme>
+  <programme start="20241230220250 -0300" stop="20241230222802 -0300" channel="Informação">
+    <title lang="pt">SBT Brasil</title>
+    <sub-title lang="pt">realizado em 18/12/2024</sub-title>
+    <desc lang="pt">Cesar Filho leva ao telespectador as notícias mais importantes do dia, ao vivo, com liberdade editor</desc>
+    <category lang="en">news/current affairs (general)</category>
+    <date>18/12/2024</date>
+    <episode-num system="xmltv_ns">0.1811.</episode-num>
+  </programme>
+  <programme start="20241230222822 -0300" stop="20241230234222 -0300" channel="Informação">
     <title lang="pt">Ucrânia - Arquivos de Guerra</title>
     <desc lang="pt"> - O primeiro ano do conflito na Ucrânia pelo olhar do correspondente internacional Sérgio Utsch.</desc>
     <category lang="en">documentary</category>
@@ -42465,62 +42836,14 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241230164843 -0300" stop="20241230172004 -0300" channel="Informação">
+  <programme start="20241230234232 -0300" stop="20241230235438 -0300" channel="Informação">
     <title lang="pt">Giro Informação</title>
     <sub-title lang="pt">Programa 34</sub-title>
     <desc lang="pt"> - Informação, turismo, curiosidades e muito mais. O Giro Informação te deixa por dentro de assuntos que vão fazer diferença no seu dia a dia.</desc>
     <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">0.33.</episode-num>
   </programme>
-  <programme start="20241230172014 -0300" stop="20241230183429 -0300" channel="Informação">
-    <title lang="pt">Fofocalizando</title>
-    <sub-title lang="pt">realizado em 27/12/2024</sub-title>
-    <desc lang="pt"> Fique por dentro das principais notícias do mundo das celebridades em primei</desc>
-    <category lang="en">news/current affairs (general)</category>
-    <date>27/12/2024</date>
-    <episode-num system="xmltv_ns">0.2711.</episode-num>
-  </programme>
-  <programme start="20241230183429 -0300" stop="20241230213006 -0300" channel="Informação">
-    <title lang="pt">Tá Na Hora</title>
-    <sub-title lang="pt">realizado em 23/12/2024</sub-title>
-    <desc lang="pt">Datena comanda o "Tá na Hora", levando informação e prestação de serviço durante a sua volta para casa.</desc>
-    <category lang="en">news/current affairs (general)</category>
-    <date>23/12/2024</date>
-    <episode-num system="xmltv_ns">0.2311.</episode-num>
-  </programme>
-  <programme start="20241230213016 -0300" stop="20241230215838 -0300" channel="Informação">
-    <title lang="pt">SBT Brasil</title>
-    <sub-title lang="pt">realizado em 23/12/2024</sub-title>
-    <desc lang="pt">Cesar Filho leva ao telespectador as notícias mais importantes do dia, ao vivo, com liberdade editor</desc>
-    <category lang="en">news/current affairs (general)</category>
-    <date>23/12/2024</date>
-    <episode-num system="xmltv_ns">0.2311.</episode-num>
-  </programme>
-  <programme start="20241230220402 -0300" stop="20241230222913 -0300" channel="Informação">
-    <title lang="pt">SBT Brasil</title>
-    <sub-title lang="pt">realizado em 18/12/2024</sub-title>
-    <desc lang="pt">Cesar Filho leva ao telespectador as notícias mais importantes do dia, ao vivo, com liberdade editor</desc>
-    <category lang="en">news/current affairs (general)</category>
-    <date>18/12/2024</date>
-    <episode-num system="xmltv_ns">0.1811.</episode-num>
-  </programme>
-  <programme start="20241230222933 -0300" stop="20241230234334 -0300" channel="Informação">
-    <title lang="pt">Ucrânia - Arquivos de Guerra</title>
-    <desc lang="pt"> - O primeiro ano do conflito na Ucrânia pelo olhar do correspondente internacional Sérgio Utsch.</desc>
-    <category lang="en">documentary</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20241230234344 -0300" stop="20241230235550 -0300" channel="Informação">
-    <title lang="pt">Giro Informação</title>
-    <sub-title lang="pt">Programa 34</sub-title>
-    <desc lang="pt"> - Informação, turismo, curiosidades e muito mais. O Giro Informação te deixa por dentro de assuntos que vão fazer diferença no seu dia a dia.</desc>
-    <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">0.33.</episode-num>
-  </programme>
-  <programme start="20241230235610 -0300" stop="20241231005647 -0300" channel="Informação">
+  <programme start="20241230235458 -0300" stop="20241231005536 -0300" channel="Informação">
     <title lang="pt">Animais Bebês</title>
     <desc lang="pt"> - Acompanhe os primeiros passos e desafios dos animais em seus primeiros dias de vida.</desc>
     <category lang="en">documentary</category>
@@ -42529,7 +42852,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241231005707 -0300" stop="20241231015643 -0300" channel="Informação">
+  <programme start="20241231005556 -0300" stop="20241231015532 -0300" channel="Informação">
     <title lang="pt">Animais Bebês</title>
     <desc lang="pt"> - Acompanhe os primeiros passos e desafios dos animais em seus primeiros dias de vida.</desc>
     <category lang="en">documentary</category>
@@ -42538,7 +42861,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241231015703 -0300" stop="20241231025857 -0300" channel="Informação">
+  <programme start="20241231015552 -0300" stop="20241231025746 -0300" channel="Informação">
     <title lang="pt">Animais Bebês</title>
     <desc lang="pt"> - Acompanhe os primeiros passos e desafios dos animais em seus primeiros dias de vida.</desc>
     <category lang="en">documentary</category>
@@ -42547,7 +42870,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241231025917 -0300" stop="20241231040025 -0300" channel="Informação">
+  <programme start="20241231025806 -0300" stop="20241231035914 -0300" channel="Informação">
     <title lang="pt">Vida Secreta dos Animais da Fazenda</title>
     <desc lang="pt"> - Conheça fatos interessantes sobre animais de fazendas britânicas em diferentes estações do ano.</desc>
     <category lang="en">documentary</category>
@@ -42556,7 +42879,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241231040045 -0300" stop="20241231050159 -0300" channel="Informação">
+  <programme start="20241231035934 -0300" stop="20241231050048 -0300" channel="Informação">
     <title lang="pt">Vida Secreta dos Animais da Fazenda</title>
     <desc lang="pt"> - Conheça fatos interessantes sobre animais de fazendas britânicas em diferentes estações do ano.</desc>
     <category lang="en">documentary</category>
@@ -42565,7 +42888,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241231050219 -0300" stop="20241231060257 -0300" channel="Informação">
+  <programme start="20241231050108 -0300" stop="20241231060146 -0300" channel="Informação">
     <title lang="pt">Vida Secreta dos Animais da Fazenda</title>
     <desc lang="pt"> - Conheça fatos interessantes sobre animais de fazendas britânicas em diferentes estações do ano.</desc>
     <category lang="en">documentary</category>
@@ -42574,7 +42897,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241231060317 -0300" stop="20241231070148 -0300" channel="Informação">
+  <programme start="20241231060206 -0300" stop="20241231070037 -0300" channel="Informação">
     <title lang="pt">Tubarão</title>
     <desc lang="pt"> - A história evolutiva dos maiores predadores do oceano.</desc>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -42582,7 +42905,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241231070208 -0300" stop="20241231080140 -0300" channel="Informação">
+  <programme start="20241231070057 -0300" stop="20241231080028 -0300" channel="Informação">
     <title lang="pt">Tubarão</title>
     <desc lang="pt"> - A história evolutiva dos maiores predadores do oceano.</desc>
     <episode-num system="xmltv_ns">0.1.</episode-num>
@@ -42590,7 +42913,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241231080200 -0300" stop="20241231090237 -0300" channel="Informação">
+  <programme start="20241231080048 -0300" stop="20241231090126 -0300" channel="Informação">
     <title lang="pt">Animais Bebês</title>
     <desc lang="pt"> - Acompanhe os primeiros passos e desafios dos animais em seus primeiros dias de vida.</desc>
     <category lang="en">documentary</category>
@@ -42599,7 +42922,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241231090257 -0300" stop="20241231100233 -0300" channel="Informação">
+  <programme start="20241231090146 -0300" stop="20241231100122 -0300" channel="Informação">
     <title lang="pt">Animais Bebês</title>
     <desc lang="pt"> - Acompanhe os primeiros passos e desafios dos animais em seus primeiros dias de vida.</desc>
     <category lang="en">documentary</category>
@@ -42608,77 +42931,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241231100253 -0300" stop="20241231110447 -0300" channel="Informação">
-    <title lang="pt">Animais Bebês</title>
-    <desc lang="pt"> - Acompanhe os primeiros passos e desafios dos animais em seus primeiros dias de vida.</desc>
-    <category lang="en">documentary</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20241231110507 -0300" stop="20241231120615 -0300" channel="Informação">
-    <title lang="pt">Vida Secreta dos Animais da Fazenda</title>
-    <desc lang="pt"> - Conheça fatos interessantes sobre animais de fazendas britânicas em diferentes estações do ano.</desc>
-    <category lang="en">documentary</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20241231120635 -0300" stop="20241231130749 -0300" channel="Informação">
-    <title lang="pt">Vida Secreta dos Animais da Fazenda</title>
-    <desc lang="pt"> - Conheça fatos interessantes sobre animais de fazendas britânicas em diferentes estações do ano.</desc>
-    <category lang="en">documentary</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20241231130809 -0300" stop="20241231140847 -0300" channel="Informação">
-    <title lang="pt">Vida Secreta dos Animais da Fazenda</title>
-    <desc lang="pt"> - Conheça fatos interessantes sobre animais de fazendas britânicas em diferentes estações do ano.</desc>
-    <category lang="en">documentary</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20241231140907 -0300" stop="20241231150738 -0300" channel="Informação">
-    <title lang="pt">Tubarão</title>
-    <desc lang="pt"> - A história evolutiva dos maiores predadores do oceano.</desc>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20241231150758 -0300" stop="20241231160730 -0300" channel="Informação">
-    <title lang="pt">Tubarão</title>
-    <desc lang="pt"> - A história evolutiva dos maiores predadores do oceano.</desc>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20241231160750 -0300" stop="20241231170827 -0300" channel="Informação">
-    <title lang="pt">Animais Bebês</title>
-    <desc lang="pt"> - Acompanhe os primeiros passos e desafios dos animais em seus primeiros dias de vida.</desc>
-    <category lang="en">documentary</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20241231170847 -0300" stop="20241231180823 -0300" channel="Informação">
-    <title lang="pt">Animais Bebês</title>
-    <desc lang="pt"> - Acompanhe os primeiros passos e desafios dos animais em seus primeiros dias de vida.</desc>
-    <category lang="en">documentary</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20241231180843 -0300" stop="20241231191037 -0300" channel="Informação">
+  <programme start="20241231100142 -0300" stop="20241231110336 -0300" channel="Informação">
     <title lang="pt">Animais Bebês</title>
     <desc lang="pt"> - Acompanhe os primeiros passos e desafios dos animais em seus primeiros dias de vida.</desc>
     <category lang="en">documentary</category>
@@ -42687,7 +42940,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241231191057 -0300" stop="20241231201205 -0300" channel="Informação">
+  <programme start="20241231110356 -0300" stop="20241231120504 -0300" channel="Informação">
     <title lang="pt">Vida Secreta dos Animais da Fazenda</title>
     <desc lang="pt"> - Conheça fatos interessantes sobre animais de fazendas britânicas em diferentes estações do ano.</desc>
     <category lang="en">documentary</category>
@@ -42696,7 +42949,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241231201225 -0300" stop="20241231211339 -0300" channel="Informação">
+  <programme start="20241231120524 -0300" stop="20241231130638 -0300" channel="Informação">
     <title lang="pt">Vida Secreta dos Animais da Fazenda</title>
     <desc lang="pt"> - Conheça fatos interessantes sobre animais de fazendas britânicas em diferentes estações do ano.</desc>
     <category lang="en">documentary</category>
@@ -42705,7 +42958,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241231211359 -0300" stop="20241231221437 -0300" channel="Informação">
+  <programme start="20241231130658 -0300" stop="20241231140736 -0300" channel="Informação">
     <title lang="pt">Vida Secreta dos Animais da Fazenda</title>
     <desc lang="pt"> - Conheça fatos interessantes sobre animais de fazendas britânicas em diferentes estações do ano.</desc>
     <category lang="en">documentary</category>
@@ -42714,7 +42967,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241231221457 -0300" stop="20241231231328 -0300" channel="Informação">
+  <programme start="20241231140756 -0300" stop="20241231150627 -0300" channel="Informação">
     <title lang="pt">Tubarão</title>
     <desc lang="pt"> - A história evolutiva dos maiores predadores do oceano.</desc>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -42722,7 +42975,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241231231348 -0300" stop="20250101001320 -0300" channel="Informação">
+  <programme start="20241231150647 -0300" stop="20241231160618 -0300" channel="Informação">
     <title lang="pt">Tubarão</title>
     <desc lang="pt"> - A história evolutiva dos maiores predadores do oceano.</desc>
     <episode-num system="xmltv_ns">0.1.</episode-num>
@@ -42730,7 +42983,77 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250101001340 -0300" stop="20250101011312 -0300" channel="Informação">
+  <programme start="20241231160638 -0300" stop="20241231170716 -0300" channel="Informação">
+    <title lang="pt">Animais Bebês</title>
+    <desc lang="pt"> - Acompanhe os primeiros passos e desafios dos animais em seus primeiros dias de vida.</desc>
+    <category lang="en">documentary</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20241231170736 -0300" stop="20241231180712 -0300" channel="Informação">
+    <title lang="pt">Animais Bebês</title>
+    <desc lang="pt"> - Acompanhe os primeiros passos e desafios dos animais em seus primeiros dias de vida.</desc>
+    <category lang="en">documentary</category>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20241231180732 -0300" stop="20241231190926 -0300" channel="Informação">
+    <title lang="pt">Animais Bebês</title>
+    <desc lang="pt"> - Acompanhe os primeiros passos e desafios dos animais em seus primeiros dias de vida.</desc>
+    <category lang="en">documentary</category>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20241231190946 -0300" stop="20241231201054 -0300" channel="Informação">
+    <title lang="pt">Vida Secreta dos Animais da Fazenda</title>
+    <desc lang="pt"> - Conheça fatos interessantes sobre animais de fazendas britânicas em diferentes estações do ano.</desc>
+    <category lang="en">documentary</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20241231201114 -0300" stop="20241231211228 -0300" channel="Informação">
+    <title lang="pt">Vida Secreta dos Animais da Fazenda</title>
+    <desc lang="pt"> - Conheça fatos interessantes sobre animais de fazendas britânicas em diferentes estações do ano.</desc>
+    <category lang="en">documentary</category>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20241231211248 -0300" stop="20241231221326 -0300" channel="Informação">
+    <title lang="pt">Vida Secreta dos Animais da Fazenda</title>
+    <desc lang="pt"> - Conheça fatos interessantes sobre animais de fazendas britânicas em diferentes estações do ano.</desc>
+    <category lang="en">documentary</category>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20241231221346 -0300" stop="20241231231217 -0300" channel="Informação">
+    <title lang="pt">Tubarão</title>
+    <desc lang="pt"> - A história evolutiva dos maiores predadores do oceano.</desc>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20241231231237 -0300" stop="20250101001208 -0300" channel="Informação">
+    <title lang="pt">Tubarão</title>
+    <desc lang="pt"> - A história evolutiva dos maiores predadores do oceano.</desc>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250101001228 -0300" stop="20250101011200 -0300" channel="Informação">
     <title lang="pt">Animais Super Pequenos</title>
     <desc lang="pt"> - O biólogo Patrick Aryee explora os segredos por trás do sucesso dos pequenos animais.</desc>
     <category lang="en">documentary</category>
@@ -42739,7 +43062,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250101011332 -0300" stop="20250101021246 -0300" channel="Informação">
+  <programme start="20250101011220 -0300" stop="20250101021134 -0300" channel="Informação">
     <title lang="pt">24 Horas na Terra</title>
     <desc lang="pt"> - Exemplos extraordinários de como animais e plantas estão adaptados para explorar o ciclo de 24 horas</desc>
     <category lang="en">documentary</category>
@@ -42748,7 +43071,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250101021306 -0300" stop="20250101031143 -0300" channel="Informação">
+  <programme start="20250101021154 -0300" stop="20250101031031 -0300" channel="Informação">
     <title lang="pt">24 Horas na Terra</title>
     <desc lang="pt"> - Exemplos extraordinários de como animais e plantas estão adaptados para explorar o ciclo de 24 horas</desc>
     <category lang="en">documentary</category>
@@ -42757,7 +43080,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250101031203 -0300" stop="20250101041246 -0300" channel="Informação">
+  <programme start="20250101031051 -0300" stop="20250101041135 -0300" channel="Informação">
     <title lang="pt">Atlântico</title>
     <desc lang="pt"> - Descubra os incríveis desafios dos habitantes resilientes deste vasto oceano.</desc>
     <category lang="en">documentary</category>
@@ -42766,7 +43089,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250101041306 -0300" stop="20250101051225 -0300" channel="Informação">
+  <programme start="20250101041155 -0300" stop="20250101051113 -0300" channel="Informação">
     <title lang="pt">Atlântico</title>
     <desc lang="pt"> - Descubra os incríveis desafios dos habitantes resilientes deste vasto oceano.</desc>
     <category lang="en">documentary</category>
@@ -42775,7 +43098,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250101051245 -0300" stop="20250101061430 -0300" channel="Informação">
+  <programme start="20250101051133 -0300" stop="20250101061319 -0300" channel="Informação">
     <title lang="pt">Atlântico</title>
     <desc lang="pt"> - Descubra os incríveis desafios dos habitantes resilientes deste vasto oceano.</desc>
     <category lang="en">documentary</category>
@@ -42784,7 +43107,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250101061450 -0300" stop="20250101071525 -0300" channel="Informação">
+  <programme start="20250101061339 -0300" stop="20250101071413 -0300" channel="Informação">
     <title lang="pt">Brasil Selvagem: Terra do Fogo e Enchentes</title>
     <desc lang="pt"> - Como animais icônicos sobrevivem em uma batalha contra as forças da natureza na terra dos extremos.</desc>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -42792,7 +43115,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250101071545 -0300" stop="20250101081705 -0300" channel="Informação">
+  <programme start="20250101071433 -0300" stop="20250101081553 -0300" channel="Informação">
     <title lang="pt">Brasil Selvagem: Terra do Fogo e Enchentes</title>
     <desc lang="pt"> - Como animais icônicos sobrevivem em uma batalha contra as forças da natureza na terra dos extremos.</desc>
     <episode-num system="xmltv_ns">0.1.</episode-num>
@@ -42800,7 +43123,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250101081725 -0300" stop="20250101091657 -0300" channel="Informação">
+  <programme start="20250101081613 -0300" stop="20250101091545 -0300" channel="Informação">
     <title lang="pt">Animais Super Pequenos</title>
     <desc lang="pt"> - O biólogo Patrick Aryee explora os segredos por trás do sucesso dos pequenos animais.</desc>
     <category lang="en">documentary</category>
@@ -42809,7 +43132,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250101091717 -0300" stop="20250101101631 -0300" channel="Informação">
+  <programme start="20250101091605 -0300" stop="20250101101519 -0300" channel="Informação">
     <title lang="pt">24 Horas na Terra</title>
     <desc lang="pt"> - Exemplos extraordinários de como animais e plantas estão adaptados para explorar o ciclo de 24 horas</desc>
     <category lang="en">documentary</category>
@@ -42818,7 +43141,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250101101651 -0300" stop="20250101111528 -0300" channel="Informação">
+  <programme start="20250101101539 -0300" stop="20250101111416 -0300" channel="Informação">
     <title lang="pt">24 Horas na Terra</title>
     <desc lang="pt"> - Exemplos extraordinários de como animais e plantas estão adaptados para explorar o ciclo de 24 horas</desc>
     <category lang="en">documentary</category>
@@ -42827,7 +43150,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250101111548 -0300" stop="20250101121631 -0300" channel="Informação">
+  <programme start="20250101111436 -0300" stop="20250101121519 -0300" channel="Informação">
     <title lang="pt">Atlântico</title>
     <desc lang="pt"> - Descubra os incríveis desafios dos habitantes resilientes deste vasto oceano.</desc>
     <category lang="en">documentary</category>
@@ -42836,7 +43159,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250101121651 -0300" stop="20250101131609 -0300" channel="Informação">
+  <programme start="20250101121539 -0300" stop="20250101131458 -0300" channel="Informação">
     <title lang="pt">Atlântico</title>
     <desc lang="pt"> - Descubra os incríveis desafios dos habitantes resilientes deste vasto oceano.</desc>
     <category lang="en">documentary</category>
@@ -42845,7 +43168,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250101131629 -0300" stop="20250101141815 -0300" channel="Informação">
+  <programme start="20250101131518 -0300" stop="20250101141703 -0300" channel="Informação">
     <title lang="pt">Atlântico</title>
     <desc lang="pt"> - Descubra os incríveis desafios dos habitantes resilientes deste vasto oceano.</desc>
     <category lang="en">documentary</category>
@@ -42854,7 +43177,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250101141835 -0300" stop="20250101151910 -0300" channel="Informação">
+  <programme start="20250101141723 -0300" stop="20250101151758 -0300" channel="Informação">
     <title lang="pt">Brasil Selvagem: Terra do Fogo e Enchentes</title>
     <desc lang="pt"> - Como animais icônicos sobrevivem em uma batalha contra as forças da natureza na terra dos extremos.</desc>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -42862,7 +43185,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250101151930 -0300" stop="20250101162049 -0300" channel="Informação">
+  <programme start="20250101151818 -0300" stop="20250101161938 -0300" channel="Informação">
     <title lang="pt">Brasil Selvagem: Terra do Fogo e Enchentes</title>
     <desc lang="pt"> - Como animais icônicos sobrevivem em uma batalha contra as forças da natureza na terra dos extremos.</desc>
     <episode-num system="xmltv_ns">0.1.</episode-num>
@@ -42870,7 +43193,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250101162109 -0300" stop="20250101172041 -0300" channel="Informação">
+  <programme start="20250101161958 -0300" stop="20250101171930 -0300" channel="Informação">
     <title lang="pt">Animais Super Pequenos</title>
     <desc lang="pt"> - O biólogo Patrick Aryee explora os segredos por trás do sucesso dos pequenos animais.</desc>
     <category lang="en">documentary</category>
@@ -42879,7 +43202,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250101172101 -0300" stop="20250101182015 -0300" channel="Informação">
+  <programme start="20250101171950 -0300" stop="20250101181904 -0300" channel="Informação">
     <title lang="pt">24 Horas na Terra</title>
     <desc lang="pt"> - Exemplos extraordinários de como animais e plantas estão adaptados para explorar o ciclo de 24 horas</desc>
     <category lang="en">documentary</category>
@@ -42888,7 +43211,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250101182035 -0300" stop="20250101191912 -0300" channel="Informação">
+  <programme start="20250101181924 -0300" stop="20250101191801 -0300" channel="Informação">
     <title lang="pt">24 Horas na Terra</title>
     <desc lang="pt"> - Exemplos extraordinários de como animais e plantas estão adaptados para explorar o ciclo de 24 horas</desc>
     <category lang="en">documentary</category>
@@ -42897,7 +43220,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250101191932 -0300" stop="20250101202015 -0300" channel="Informação">
+  <programme start="20250101191821 -0300" stop="20250101201904 -0300" channel="Informação">
     <title lang="pt">Atlântico</title>
     <desc lang="pt"> - Descubra os incríveis desafios dos habitantes resilientes deste vasto oceano.</desc>
     <category lang="en">documentary</category>
@@ -42906,7 +43229,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250101202035 -0300" stop="20250101211954 -0300" channel="Informação">
+  <programme start="20250101201924 -0300" stop="20250101211842 -0300" channel="Informação">
     <title lang="pt">Atlântico</title>
     <desc lang="pt"> - Descubra os incríveis desafios dos habitantes resilientes deste vasto oceano.</desc>
     <category lang="en">documentary</category>
@@ -42915,7 +43238,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250101212014 -0300" stop="20250101222200 -0300" channel="Informação">
+  <programme start="20250101211902 -0300" stop="20250101222048 -0300" channel="Informação">
     <title lang="pt">Atlântico</title>
     <desc lang="pt"> - Descubra os incríveis desafios dos habitantes resilientes deste vasto oceano.</desc>
     <category lang="en">documentary</category>
@@ -42924,7 +43247,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250101222220 -0300" stop="20250101232254 -0300" channel="Informação">
+  <programme start="20250101222108 -0300" stop="20250101232143 -0300" channel="Informação">
     <title lang="pt">Brasil Selvagem: Terra do Fogo e Enchentes</title>
     <desc lang="pt"> - Como animais icônicos sobrevivem em uma batalha contra as forças da natureza na terra dos extremos.</desc>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -42932,7 +43255,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250101232314 -0300" stop="20250102002434 -0300" channel="Informação">
+  <programme start="20250101232203 -0300" stop="20250102002322 -0300" channel="Informação">
     <title lang="pt">Brasil Selvagem: Terra do Fogo e Enchentes</title>
     <desc lang="pt"> - Como animais icônicos sobrevivem em uma batalha contra as forças da natureza na terra dos extremos.</desc>
     <episode-num system="xmltv_ns">0.1.</episode-num>
@@ -42940,7 +43263,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250102002454 -0300" stop="20250102012426 -0300" channel="Informação">
+  <programme start="20250102002342 -0300" stop="20250102012314 -0300" channel="Informação">
     <title lang="pt">Animais Super Pequenos</title>
     <desc lang="pt"> - O biólogo Patrick Aryee explora os segredos por trás do sucesso dos pequenos animais.</desc>
     <category lang="en">documentary</category>
@@ -42949,7 +43272,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250102012446 -0300" stop="20250102022400 -0300" channel="Informação">
+  <programme start="20250102012334 -0300" stop="20250102022248 -0300" channel="Informação">
     <title lang="pt">24 Horas na Terra</title>
     <desc lang="pt"> - Exemplos extraordinários de como animais e plantas estão adaptados para explorar o ciclo de 24 horas</desc>
     <category lang="en">documentary</category>
@@ -42958,7 +43281,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250102022420 -0300" stop="20250102032257 -0300" channel="Informação">
+  <programme start="20250102022308 -0300" stop="20250102032145 -0300" channel="Informação">
     <title lang="pt">24 Horas na Terra</title>
     <desc lang="pt"> - Exemplos extraordinários de como animais e plantas estão adaptados para explorar o ciclo de 24 horas</desc>
     <category lang="en">documentary</category>
@@ -42967,7 +43290,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250102032317 -0300" stop="20250102042400 -0300" channel="Informação">
+  <programme start="20250102032205 -0300" stop="20250102042248 -0300" channel="Informação">
     <title lang="pt">Atlântico</title>
     <desc lang="pt"> - Descubra os incríveis desafios dos habitantes resilientes deste vasto oceano.</desc>
     <category lang="en">documentary</category>
@@ -42976,7 +43299,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250102042420 -0300" stop="20250102052339 -0300" channel="Informação">
+  <programme start="20250102042308 -0300" stop="20250102052227 -0300" channel="Informação">
     <title lang="pt">Atlântico</title>
     <desc lang="pt"> - Descubra os incríveis desafios dos habitantes resilientes deste vasto oceano.</desc>
     <category lang="en">documentary</category>
@@ -42985,7 +43308,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250102052359 -0300" stop="20250102062544 -0300" channel="Informação">
+  <programme start="20250102052247 -0300" stop="20250102062433 -0300" channel="Informação">
     <title lang="pt">Atlântico</title>
     <desc lang="pt"> - Descubra os incríveis desafios dos habitantes resilientes deste vasto oceano.</desc>
     <category lang="en">documentary</category>
@@ -42994,7 +43317,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250102062604 -0300" stop="20250102072639 -0300" channel="Informação">
+  <programme start="20250102062453 -0300" stop="20250102072527 -0300" channel="Informação">
     <title lang="pt">Brasil Selvagem: Terra do Fogo e Enchentes</title>
     <desc lang="pt"> - Como animais icônicos sobrevivem em uma batalha contra as forças da natureza na terra dos extremos.</desc>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -43002,7 +43325,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250102072659 -0300" stop="20250102082818 -0300" channel="Informação">
+  <programme start="20250102072547 -0300" stop="20250102082707 -0300" channel="Informação">
     <title lang="pt">Brasil Selvagem: Terra do Fogo e Enchentes</title>
     <desc lang="pt"> - Como animais icônicos sobrevivem em uma batalha contra as forças da natureza na terra dos extremos.</desc>
     <episode-num system="xmltv_ns">0.1.</episode-num>
@@ -43010,7 +43333,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250102082838 -0300" stop="20250102092710 -0300" channel="Informação">
+  <programme start="20250102082727 -0300" stop="20250102092558 -0300" channel="Informação">
     <title lang="pt">Tubarão</title>
     <desc lang="pt"> - A história evolutiva dos maiores predadores do oceano.</desc>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -43018,14 +43341,14 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250102092720 -0300" stop="20250102095439 -0300" channel="Informação">
+  <programme start="20250102092608 -0300" stop="20250102095327 -0300" channel="Informação">
     <title lang="pt">Giro Informação</title>
     <sub-title lang="pt">Programa 35</sub-title>
     <desc lang="pt"> - Informação, turismo, curiosidades e muito mais. O Giro Informação te deixa por dentro de assuntos que vão fazer diferença no seu dia a dia.</desc>
     <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">0.34.</episode-num>
   </programme>
-  <programme start="20250102095449 -0300" stop="20250102133656 -0300" channel="Informação">
+  <programme start="20250102095337 -0300" stop="20250102133544 -0300" channel="Informação">
     <title lang="pt">Primeiro Impacto</title>
     <sub-title lang="pt">realizado em 27/12/2024</sub-title>
     <desc lang="pt">Trânsito, política, saúde, esporte, mercado de trabalho, educação e os assuntos que são destaque no Brasil e no mundo.</desc>
@@ -43033,7 +43356,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
     <date>27/12/2024</date>
     <episode-num system="xmltv_ns">0.2711.</episode-num>
   </programme>
-  <programme start="20250102134156 -0300" stop="20250102153400 -0300" channel="Informação">
+  <programme start="20250102134044 -0300" stop="20250102153248 -0300" channel="Informação">
     <title lang="pt">Primeiro Impacto</title>
     <sub-title lang="pt">realizado em 27/12/2024</sub-title>
     <desc lang="pt">Trânsito, política, saúde, esporte, mercado de trabalho, educação e os assuntos que são destaque no Brasil e no mundo.</desc>
@@ -43041,7 +43364,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
     <date>27/12/2024</date>
     <episode-num system="xmltv_ns">0.2711.</episode-num>
   </programme>
-  <programme start="20250102153420 -0300" stop="20250102163659 -0300" channel="Informação">
+  <programme start="20250102153308 -0300" stop="20250102163547 -0300" channel="Informação">
     <title lang="pt">Ensinando Como Apreciar Vinhos</title>
     <desc lang="pt"> - Numa visita à vinícolas, o documentário desmistifica alguns conceitos sobre o consumo da bebida.</desc>
     <category lang="en">documentary</category>
@@ -43050,14 +43373,14 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250102163709 -0300" stop="20250102170447 -0300" channel="Informação">
+  <programme start="20250102163557 -0300" stop="20250102170335 -0300" channel="Informação">
     <title lang="pt">Giro Informação</title>
     <sub-title lang="pt">Programa 35</sub-title>
     <desc lang="pt"> - Informação, turismo, curiosidades e muito mais. O Giro Informação te deixa por dentro de assuntos que vão fazer diferença no seu dia a dia.</desc>
     <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">0.34.</episode-num>
   </programme>
-  <programme start="20250102170457 -0300" stop="20250102181955 -0300" channel="Informação">
+  <programme start="20250102170345 -0300" stop="20250102181843 -0300" channel="Informação">
     <title lang="pt">Fofocalizando</title>
     <sub-title lang="pt">realizado em 23/12/2024</sub-title>
     <desc lang="pt"> Fique por dentro das principais notícias do mundo das celebridades em primei</desc>
@@ -43065,7 +43388,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
     <date>23/12/2024</date>
     <episode-num system="xmltv_ns">0.2311.</episode-num>
   </programme>
-  <programme start="20250102181955 -0300" stop="20250102211531 -0300" channel="Informação">
+  <programme start="20250102181843 -0300" stop="20250102211419 -0300" channel="Informação">
     <title lang="pt">Tá Na Hora</title>
     <sub-title lang="pt">realizado em 23/12/2024</sub-title>
     <desc lang="pt">Datena comanda o "Tá na Hora", levando informação e prestação de serviço durante a sua volta para casa.</desc>
@@ -43073,7 +43396,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
     <date>23/12/2024</date>
     <episode-num system="xmltv_ns">0.2311.</episode-num>
   </programme>
-  <programme start="20250102211541 -0300" stop="20250102214403 -0300" channel="Informação">
+  <programme start="20250102211429 -0300" stop="20250102214252 -0300" channel="Informação">
     <title lang="pt">SBT Brasil</title>
     <sub-title lang="pt">realizado em 23/12/2024</sub-title>
     <desc lang="pt">Cesar Filho leva ao telespectador as notícias mais importantes do dia, ao vivo, com liberdade editor</desc>
@@ -43081,7 +43404,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
     <date>23/12/2024</date>
     <episode-num system="xmltv_ns">0.2311.</episode-num>
   </programme>
-  <programme start="20250102214928 -0300" stop="20250102221439 -0300" channel="Informação">
+  <programme start="20250102214816 -0300" stop="20250102221327 -0300" channel="Informação">
     <title lang="pt">SBT Brasil</title>
     <sub-title lang="pt">realizado em 18/12/2024</sub-title>
     <desc lang="pt">Cesar Filho leva ao telespectador as notícias mais importantes do dia, ao vivo, com liberdade editor</desc>
@@ -43089,7 +43412,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
     <date>18/12/2024</date>
     <episode-num system="xmltv_ns">0.1811.</episode-num>
   </programme>
-  <programme start="20250102221459 -0300" stop="20250102231738 -0300" channel="Informação">
+  <programme start="20250102221347 -0300" stop="20250102231626 -0300" channel="Informação">
     <title lang="pt">Ensinando Como Apreciar Vinhos</title>
     <desc lang="pt"> - Numa visita à vinícolas, o documentário desmistifica alguns conceitos sobre o consumo da bebida.</desc>
     <category lang="en">documentary</category>
@@ -43098,27 +43421,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241230154717 -0300" stop="20241230160451 -0300" channel="Séries">
-    <title lang="pt">Private Eyes</title>
-    <sub-title lang="pt">10. Joias da Família</sub-title>
-    <desc lang="pt"> - Um ex-jogador de hóquei e uma detetive particular se tornam uma inesperada dupla de investigadores.</desc>
-    <category lang="en">comedy</category>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
-    <rating system="Brazil">
-      <value>[A14]</value>
-    </rating>
-  </programme>
-  <programme start="20241230160454 -0300" stop="20241230170213 -0300" channel="Séries">
-    <title lang="pt">Private Eyes</title>
-    <sub-title lang="pt">1. Indo Além</sub-title>
-    <desc lang="pt"> - Um ex-jogador de hóquei e uma detetive particular se tornam uma inesperada dupla de investigadores.</desc>
-    <category lang="en">comedy</category>
-    <episode-num system="xmltv_ns">1.0.</episode-num>
-    <rating system="Brazil">
-      <value>[A14]</value>
-    </rating>
-  </programme>
-  <programme start="20241230170216 -0300" stop="20241230175957 -0300" channel="Séries">
+  <programme start="20241230175238 -0300" stop="20241230175957 -0300" channel="Séries">
     <title lang="pt">Private Eyes</title>
     <sub-title lang="pt">2. Império à Beira-Mar</sub-title>
     <desc lang="pt"> - Um ex-jogador de hóquei e uma detetive particular se tornam uma inesperada dupla de investigadores.</desc>
@@ -43448,39 +43751,277 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
     <title lang="pt">Programação Séries</title>
     <desc lang="pt"> - </desc>
   </programme>
-  <programme start="20241230154955 -0300" stop="20241230164816 -0300" channel="Pop">
-    <title lang="pt">S.O.S Casamento</title>
-    <sub-title lang="pt">Marcela e Sidnei</sub-title>
-    <desc lang="pt">realizado em 22/07/2011 - Um reality show onde Ana Canosa tem a missão de tentar salvar relacionamentos dados como perdidos.</desc>
-    <category lang="en">variety show</category>
-    <date>22/07/2011</date>
+  <programme start="20250101000003 -0300" stop="20250101005100 -0300" channel="Séries">
+    <title lang="pt">Doctor Who</title>
+    <sub-title lang="pt">7. O Jogo Longo</sub-title>
+    <desc lang="pt"> - Acompanhe as jornadas pelo espaço-tempo do Doutor, um alienígena da linhagem dos senhores do tempo.</desc>
+    <category lang="en">detective/thriller</category>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250101005103 -0300" stop="20250101014154 -0300" channel="Séries">
+    <title lang="pt">Doctor Who</title>
+    <sub-title lang="pt">8. Dia dos Pais</sub-title>
+    <desc lang="pt"> - Acompanhe as jornadas pelo espaço-tempo do Doutor, um alienígena da linhagem dos senhores do tempo.</desc>
+    <category lang="en">detective/thriller</category>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250101014157 -0300" stop="20250101023313 -0300" channel="Séries">
+    <title lang="pt">Doctor Who</title>
+    <sub-title lang="pt">9. A Criança Vazia</sub-title>
+    <desc lang="pt"> - Acompanhe as jornadas pelo espaço-tempo do Doutor, um alienígena da linhagem dos senhores do tempo.</desc>
+    <category lang="en">detective/thriller</category>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250101023316 -0300" stop="20250101032240 -0300" channel="Séries">
+    <title lang="pt">Doctor Who</title>
+    <sub-title lang="pt">10. O Doutor Dança</sub-title>
+    <desc lang="pt"> - Acompanhe as jornadas pelo espaço-tempo do Doutor, um alienígena da linhagem dos senhores do tempo.</desc>
+    <category lang="en">detective/thriller</category>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250101032243 -0300" stop="20250101041251 -0300" channel="Séries">
+    <title lang="pt">Doctor Who</title>
+    <sub-title lang="pt">11. Boom Town</sub-title>
+    <desc lang="pt"> - Acompanhe as jornadas pelo espaço-tempo do Doutor, um alienígena da linhagem dos senhores do tempo.</desc>
+    <category lang="en">detective/thriller</category>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250101041254 -0300" stop="20250101050205 -0300" channel="Séries">
+    <title lang="pt">Doctor Who</title>
+    <sub-title lang="pt">12. Lobo Mau</sub-title>
+    <desc lang="pt"> - Acompanhe as jornadas pelo espaço-tempo do Doutor, um alienígena da linhagem dos senhores do tempo.</desc>
+    <category lang="en">detective/thriller</category>
     <episode-num system="xmltv_ns">0.11.</episode-num>
     <rating system="Brazil">
-      <value>[10]</value>
+      <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241230164958 -0300" stop="20241230165458 -0300" channel="Pop">
-    <title lang="pt">Barbie Natal</title>
-    <sub-title lang="pt">3. Acredite em você, acredite com Barbie com  Andréa Canesqui</sub-title>
-    <desc lang="pt"> - Websérie intimista com Natália Guimarães e diferentes estilos de mães de meninas.</desc>
-    <category lang="en">entertainment programmes for 6 to 14</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
+  <programme start="20250101050208 -0300" stop="20250101055901 -0300" channel="Séries">
+    <title lang="pt">Doctor Who</title>
+    <sub-title lang="pt">13. O Momento da Despedida</sub-title>
+    <desc lang="pt"> - Acompanhe as jornadas pelo espaço-tempo do Doutor, um alienígena da linhagem dos senhores do tempo.</desc>
+    <category lang="en">detective/thriller</category>
+    <episode-num system="xmltv_ns">0.12.</episode-num>
     <rating system="Brazil">
-      <value>[AL]</value>
+      <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241230165713 -0300" stop="20241230172741 -0300" channel="Pop">
-    <title lang="pt">Família Pede Socorro</title>
-    <sub-title lang="pt">realizado em 22/04/2012</sub-title>
-    <desc lang="pt">Uma família que está passando por alguma crise recebe a ajuda da especialista Ana Canosa.</desc>
-    <category lang="en">variety show</category>
-    <date>22/04/2012</date>
+  <programme start="20250101055904 -0300" stop="20250101070641 -0300" channel="Séries">
+    <title lang="pt">Doctor Who</title>
+    <sub-title lang="pt">1. A Invasão Natalina</sub-title>
+    <desc lang="pt"> - Acompanhe as jornadas pelo espaço-tempo do Doutor, um alienígena da linhagem dos senhores do tempo.</desc>
+    <category lang="en">detective/thriller</category>
     <episode-num system="xmltv_ns">1.0.</episode-num>
     <rating system="Brazil">
-      <value>[10]</value>
+      <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241230173133 -0300" stop="20241230180036 -0300" channel="Pop">
+  <programme start="20250101070644 -0300" stop="20250101075958 -0300" channel="Séries">
+    <title lang="pt">Doctor Who</title>
+    <sub-title lang="pt">2. Nova Terra</sub-title>
+    <desc lang="pt"> - Acompanhe as jornadas pelo espaço-tempo do Doutor, um alienígena da linhagem dos senhores do tempo.</desc>
+    <category lang="en">detective/thriller</category>
+    <episode-num system="xmltv_ns">1.1.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250101080008 -0300" stop="20250101085105 -0300" channel="Séries">
+    <title lang="pt">Doctor Who</title>
+    <sub-title lang="pt">7. O Jogo Longo</sub-title>
+    <desc lang="pt"> - Acompanhe as jornadas pelo espaço-tempo do Doutor, um alienígena da linhagem dos senhores do tempo.</desc>
+    <category lang="en">detective/thriller</category>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250101085108 -0300" stop="20250101094158 -0300" channel="Séries">
+    <title lang="pt">Doctor Who</title>
+    <sub-title lang="pt">8. Dia dos Pais</sub-title>
+    <desc lang="pt"> - Acompanhe as jornadas pelo espaço-tempo do Doutor, um alienígena da linhagem dos senhores do tempo.</desc>
+    <category lang="en">detective/thriller</category>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250101094201 -0300" stop="20250101103318 -0300" channel="Séries">
+    <title lang="pt">Doctor Who</title>
+    <sub-title lang="pt">9. A Criança Vazia</sub-title>
+    <desc lang="pt"> - Acompanhe as jornadas pelo espaço-tempo do Doutor, um alienígena da linhagem dos senhores do tempo.</desc>
+    <category lang="en">detective/thriller</category>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250101103321 -0300" stop="20250101112244 -0300" channel="Séries">
+    <title lang="pt">Doctor Who</title>
+    <sub-title lang="pt">10. O Doutor Dança</sub-title>
+    <desc lang="pt"> - Acompanhe as jornadas pelo espaço-tempo do Doutor, um alienígena da linhagem dos senhores do tempo.</desc>
+    <category lang="en">detective/thriller</category>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250101112247 -0300" stop="20250101121256 -0300" channel="Séries">
+    <title lang="pt">Doctor Who</title>
+    <sub-title lang="pt">11. Boom Town</sub-title>
+    <desc lang="pt"> - Acompanhe as jornadas pelo espaço-tempo do Doutor, um alienígena da linhagem dos senhores do tempo.</desc>
+    <category lang="en">detective/thriller</category>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250101121259 -0300" stop="20250101130209 -0300" channel="Séries">
+    <title lang="pt">Doctor Who</title>
+    <sub-title lang="pt">12. Lobo Mau</sub-title>
+    <desc lang="pt"> - Acompanhe as jornadas pelo espaço-tempo do Doutor, um alienígena da linhagem dos senhores do tempo.</desc>
+    <category lang="en">detective/thriller</category>
+    <episode-num system="xmltv_ns">0.11.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250101130212 -0300" stop="20250101135906 -0300" channel="Séries">
+    <title lang="pt">Doctor Who</title>
+    <sub-title lang="pt">13. O Momento da Despedida</sub-title>
+    <desc lang="pt"> - Acompanhe as jornadas pelo espaço-tempo do Doutor, um alienígena da linhagem dos senhores do tempo.</desc>
+    <category lang="en">detective/thriller</category>
+    <episode-num system="xmltv_ns">0.12.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250101135909 -0300" stop="20250101150645 -0300" channel="Séries">
+    <title lang="pt">Doctor Who</title>
+    <sub-title lang="pt">1. A Invasão Natalina</sub-title>
+    <desc lang="pt"> - Acompanhe as jornadas pelo espaço-tempo do Doutor, um alienígena da linhagem dos senhores do tempo.</desc>
+    <category lang="en">detective/thriller</category>
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250101150648 -0300" stop="20250101160002 -0300" channel="Séries">
+    <title lang="pt">Doctor Who</title>
+    <sub-title lang="pt">2. Nova Terra</sub-title>
+    <desc lang="pt"> - Acompanhe as jornadas pelo espaço-tempo do Doutor, um alienígena da linhagem dos senhores do tempo.</desc>
+    <category lang="en">detective/thriller</category>
+    <episode-num system="xmltv_ns">1.1.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250101160012 -0300" stop="20250101165109 -0300" channel="Séries">
+    <title lang="pt">Doctor Who</title>
+    <sub-title lang="pt">7. O Jogo Longo</sub-title>
+    <desc lang="pt"> - Acompanhe as jornadas pelo espaço-tempo do Doutor, um alienígena da linhagem dos senhores do tempo.</desc>
+    <category lang="en">detective/thriller</category>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250101165112 -0300" stop="20250101174203 -0300" channel="Séries">
+    <title lang="pt">Doctor Who</title>
+    <sub-title lang="pt">8. Dia dos Pais</sub-title>
+    <desc lang="pt"> - Acompanhe as jornadas pelo espaço-tempo do Doutor, um alienígena da linhagem dos senhores do tempo.</desc>
+    <category lang="en">detective/thriller</category>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250101174206 -0300" stop="20250101183322 -0300" channel="Séries">
+    <title lang="pt">Doctor Who</title>
+    <sub-title lang="pt">9. A Criança Vazia</sub-title>
+    <desc lang="pt"> - Acompanhe as jornadas pelo espaço-tempo do Doutor, um alienígena da linhagem dos senhores do tempo.</desc>
+    <category lang="en">detective/thriller</category>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250101183325 -0300" stop="20250101192249 -0300" channel="Séries">
+    <title lang="pt">Doctor Who</title>
+    <sub-title lang="pt">10. O Doutor Dança</sub-title>
+    <desc lang="pt"> - Acompanhe as jornadas pelo espaço-tempo do Doutor, um alienígena da linhagem dos senhores do tempo.</desc>
+    <category lang="en">detective/thriller</category>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250101192252 -0300" stop="20250101201300 -0300" channel="Séries">
+    <title lang="pt">Doctor Who</title>
+    <sub-title lang="pt">11. Boom Town</sub-title>
+    <desc lang="pt"> - Acompanhe as jornadas pelo espaço-tempo do Doutor, um alienígena da linhagem dos senhores do tempo.</desc>
+    <category lang="en">detective/thriller</category>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250101201303 -0300" stop="20250101210214 -0300" channel="Séries">
+    <title lang="pt">Doctor Who</title>
+    <sub-title lang="pt">12. Lobo Mau</sub-title>
+    <desc lang="pt"> - Acompanhe as jornadas pelo espaço-tempo do Doutor, um alienígena da linhagem dos senhores do tempo.</desc>
+    <category lang="en">detective/thriller</category>
+    <episode-num system="xmltv_ns">0.11.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250101210217 -0300" stop="20250101215910 -0300" channel="Séries">
+    <title lang="pt">Doctor Who</title>
+    <sub-title lang="pt">13. O Momento da Despedida</sub-title>
+    <desc lang="pt"> - Acompanhe as jornadas pelo espaço-tempo do Doutor, um alienígena da linhagem dos senhores do tempo.</desc>
+    <category lang="en">detective/thriller</category>
+    <episode-num system="xmltv_ns">0.12.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250101215913 -0300" stop="20250101230650 -0300" channel="Séries">
+    <title lang="pt">Doctor Who</title>
+    <sub-title lang="pt">1. A Invasão Natalina</sub-title>
+    <desc lang="pt"> - Acompanhe as jornadas pelo espaço-tempo do Doutor, um alienígena da linhagem dos senhores do tempo.</desc>
+    <category lang="en">detective/thriller</category>
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250101230653 -0300" stop="20250102000007 -0300" channel="Séries">
+    <title lang="pt">Doctor Who</title>
+    <sub-title lang="pt">2. Nova Terra</sub-title>
+    <desc lang="pt"> - Acompanhe as jornadas pelo espaço-tempo do Doutor, um alienígena da linhagem dos senhores do tempo.</desc>
+    <category lang="en">detective/thriller</category>
+    <episode-num system="xmltv_ns">1.1.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241230175311 -0300" stop="20241230180036 -0300" channel="Pop">
     <title lang="pt">Família Pede Socorro</title>
     <sub-title lang="pt">realizado em 29/04/2012</sub-title>
     <desc lang="pt">Uma família que está passando por alguma crise recebe a ajuda da especialista Ana Canosa.</desc>
@@ -43594,26 +44135,40 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20241230155658 -0300" stop="20241230160158 -0300" channel="TV Zyn">
-    <title lang="pt">Barbie Natal</title>
-    <sub-title lang="pt">3. Acredite em você, acredite com Barbie com  Andréa Canesqui</sub-title>
-    <desc lang="pt"> - Websérie intimista com Natália Guimarães e diferentes estilos de mães de meninas.</desc>
-    <category lang="en">entertainment programmes for 6 to 14</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <rating system="Brazil">
-      <value>[AL]</value>
-    </rating>
-  </programme>
-  <programme start="20241230160223 -0300" stop="20241230165308 -0300" channel="TV Zyn">
-    <title lang="pt">Cúmplices de Um Resgate</title>
-    <desc lang="pt"> - Gêmeas que foram separadas ao nascer e se reencontram na adolescência. E se tornam cúmplices na vida.</desc>
-    <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">6.133.</episode-num>
+  <programme start="20241231000439 -0300" stop="20241231004701 -0300" channel="Pop">
+    <title lang="pt">Famosos da Internet</title>
+    <sub-title lang="pt">realizado em 18/09/2011</sub-title>
+    <desc lang="pt">As chamadas “Celebridades da Internet” se apresentam no palco do programa da Eliana.</desc>
+    <category lang="en">variety show</category>
+    <date>18/09/2011</date>
+    <episode-num system="xmltv_ns">0..</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20241230165426 -0300" stop="20241230165926 -0300" channel="TV Zyn">
+  <programme start="20241231005058 -0300" stop="20241231012653 -0300" channel="Pop">
+    <title lang="pt">Famosos da Internet</title>
+    <sub-title lang="pt">realizado em 08/07/2012</sub-title>
+    <desc lang="pt">As chamadas “Celebridades da Internet” se apresentam no palco do programa da Eliana.</desc>
+    <category lang="en">variety show</category>
+    <date>08/07/2012</date>
+    <episode-num system="xmltv_ns">1..</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20241231013045 -0300" stop="20241231022104 -0300" channel="Pop">
+    <title lang="pt">Casos de Família</title>
+    <sub-title lang="pt">realizado em 12/11/2014</sub-title>
+    <desc lang="pt">O programa Casos de Família é baseado em conflitos que acontecem na vida de qualquer pessoa.</desc>
+    <category lang="en">variety show</category>
+    <date>12/11/2014</date>
+    <episode-num system="xmltv_ns">0..</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20241231022211 -0300" stop="20241231022711 -0300" channel="Pop">
     <title lang="pt">Barbie Natal</title>
     <sub-title lang="pt">1. Acredite em você, acredite com Barbie com Mayara Luizo</sub-title>
     <desc lang="pt"> - Websérie intimista com Natália Guimarães e diferentes estilos de mães de meninas.</desc>
@@ -43621,15 +44176,6 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <rating system="Brazil">
       <value>[AL]</value>
-    </rating>
-  </programme>
-  <programme start="20241230165951 -0300" stop="20241230175211 -0300" channel="TV Zyn">
-    <title lang="pt">Carrossel</title>
-    <desc lang="pt"> - Uma turminha animada que deixa o mundo mais divertido e musical. Embarca nesse Carrossel com eles.</desc>
-    <category lang="en">adventure/western/war</category>
-    <episode-num system="xmltv_ns">2.53.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
     </rating>
   </programme>
   <programme start="20241230175253 -0300" stop="20241230180244 -0300" channel="TV Zyn">
@@ -45307,114 +45853,32 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[Medo]</value>
     </rating>
   </programme>
-  <programme start="20241230154409 -0300" stop="20241230155209 -0300" channel="Humor">
-    <title lang="pt">Câmeras Escondidas</title>
-    <sub-title lang="pt">Doente no Hospital</sub-title>
-    <desc lang="pt">realizado em 03/07/2022 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
-    <category lang="en">comedy</category>
-    <date>03/07/2022</date>
-    <episode-num system="xmltv_ns">1.22183.</episode-num>
+  <programme start="20250103160425 -0300" stop="20250103170032 -0300" channel="TV Zyn">
+    <title lang="pt">Cúmplices de Um Resgate</title>
+    <desc lang="pt"> - Gêmeas que foram separadas ao nascer e se reencontram na adolescência. E se tornam cúmplices na vida.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">6.137.</episode-num>
     <rating system="Brazil">
-      <value>[12]</value>
+      <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20241230155209 -0300" stop="20241230160029 -0300" channel="Humor">
-    <title lang="pt">Câmeras Escondidas</title>
-    <sub-title lang="pt">Drive Thru Maluco</sub-title>
-    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
-    <category lang="en">comedy</category>
+  <programme start="20250103170149 -0300" stop="20250103170649 -0300" channel="TV Zyn">
+    <title lang="pt">Barbie Natal</title>
+    <sub-title lang="pt">1. Acredite em você, acredite com Barbie com Mayara Luizo</sub-title>
+    <desc lang="pt"> - Websérie intimista com Natália Guimarães e diferentes estilos de mães de meninas.</desc>
+    <category lang="en">entertainment programmes for 6 to 14</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
     <rating system="Brazil">
-      <value>[A12]</value>
+      <value>[AL]</value>
     </rating>
   </programme>
-  <programme start="20241230160356 -0300" stop="20241230161006 -0300" channel="Humor">
-    <title lang="pt">Câmeras Escondidas</title>
-    <sub-title lang="pt">Esmola para Enterrar a Mãe</sub-title>
-    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
-    <category lang="en">comedy</category>
+  <programme start="20250103170714 -0300" stop="20250103175709 -0300" channel="TV Zyn">
+    <title lang="pt">Carrossel</title>
+    <desc lang="pt"> - Uma turminha animada que deixa o mundo mais divertido e musical. Embarca nesse Carrossel com eles.</desc>
+    <category lang="en">adventure/western/war</category>
+    <episode-num system="xmltv_ns">2.57.</episode-num>
     <rating system="Brazil">
-      <value>[A12]</value>
-    </rating>
-  </programme>
-  <programme start="20241230161006 -0300" stop="20241230161922 -0300" channel="Humor">
-    <title lang="pt">Câmeras Escondidas</title>
-    <sub-title lang="pt">Experimentar Camisinha</sub-title>
-    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
-    <category lang="en">comedy</category>
-    <rating system="Brazil">
-      <value>[A12]</value>
-    </rating>
-  </programme>
-  <programme start="20241230161922 -0300" stop="20241230162920 -0300" channel="Humor">
-    <title lang="pt">Câmeras Escondidas</title>
-    <sub-title lang="pt">Fofão</sub-title>
-    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
-    <category lang="en">comedy</category>
-    <rating system="Brazil">
-      <value>[A12]</value>
-    </rating>
-  </programme>
-  <programme start="20241230163635 -0300" stop="20241230164550 -0300" channel="Humor">
-    <title lang="pt">Câmeras Escondidas</title>
-    <sub-title lang="pt">Ghostbusters Mais Além</sub-title>
-    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
-    <category lang="en">comedy</category>
-    <rating system="Brazil">
-      <value>[A12]</value>
-    </rating>
-  </programme>
-  <programme start="20241230164550 -0300" stop="20241230165406 -0300" channel="Humor">
-    <title lang="pt">Câmeras Escondidas</title>
-    <sub-title lang="pt">Ghostbusters Mais Além 2</sub-title>
-    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
-    <category lang="en">comedy</category>
-    <rating system="Brazil">
-      <value>[A12]</value>
-    </rating>
-  </programme>
-  <programme start="20241230170129 -0300" stop="20241230171005 -0300" channel="Humor">
-    <title lang="pt">Câmeras Escondidas</title>
-    <sub-title lang="pt">Invasão Alienígena com Balé SBT</sub-title>
-    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
-    <category lang="en">comedy</category>
-    <rating system="Brazil">
-      <value>[A12]</value>
-    </rating>
-  </programme>
-  <programme start="20241230171005 -0300" stop="20241230171607 -0300" channel="Humor">
-    <title lang="pt">Câmeras Escondidas</title>
-    <sub-title lang="pt">Invasão Alienígena 2</sub-title>
-    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
-    <category lang="en">comedy</category>
-    <rating system="Brazil">
-      <value>[A12]</value>
-    </rating>
-  </programme>
-  <programme start="20241230171929 -0300" stop="20241230172557 -0300" channel="Humor">
-    <title lang="pt">Câmeras Escondidas</title>
-    <sub-title lang="pt">Invasão Alienígena 3</sub-title>
-    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
-    <category lang="en">comedy</category>
-    <rating system="Brazil">
-      <value>[A12]</value>
-    </rating>
-  </programme>
-  <programme start="20241230172557 -0300" stop="20241230173255 -0300" channel="Humor">
-    <title lang="pt">Câmeras Escondidas</title>
-    <sub-title lang="pt">Ivo Barbeiro</sub-title>
-    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
-    <category lang="en">comedy</category>
-    <rating system="Brazil">
-      <value>[A12]</value>
-    </rating>
-  </programme>
-  <programme start="20241230174525 -0300" stop="20241230175218 -0300" channel="Humor">
-    <title lang="pt">Câmeras Escondidas</title>
-    <sub-title lang="pt">Ivo Empacotador</sub-title>
-    <desc lang="pt"> - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
-    <category lang="en">comedy</category>
-    <rating system="Brazil">
-      <value>[A12]</value>
+      <value>[10]</value>
     </rating>
   </programme>
   <programme start="20241230175545 -0300" stop="20241230180243 -0300" channel="Humor">
@@ -48263,92 +48727,132 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241230154438 -0300" stop="20241230155447 -0300" channel="Criança">
-    <title lang="pt">O Picapau Amarelo</title>
-    <sub-title lang="pt">13. Viagem ao céu</sub-title>
-    <desc lang="pt"> - Muita diversão e aprendizados te esperam nessa versão da obra de Monteiro Lobato, O Picapau Amarelo.</desc>
-    <category lang="en">entertainment programmes for 6 to 14</category>
-    <episode-num system="xmltv_ns">0.12.</episode-num>
+  <programme start="20250103155525 -0300" stop="20250103160121 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Ivo Pedreiro 2</sub-title>
+    <desc lang="pt">realizado em 08/05/2022 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>08/05/2022</date>
+    <episode-num system="xmltv_ns">2.22127.</episode-num>
     <rating system="Brazil">
-      <value>[AL]</value>
+      <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241230155753 -0300" stop="20241230160427 -0300" channel="Criança">
-    <title lang="pt">15. Louie, desenhe um crocodilo</title>
-    <desc lang="pt"> - Embarque no mundo da criatividade e aprenda a desenhar com Louie e Yoko!</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.14.</episode-num>
+  <programme start="20250103160443 -0300" stop="20250103161140 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Levar Caixão no Ônibus</sub-title>
+    <desc lang="pt">realizado em 29/05/2022 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>29/05/2022</date>
+    <episode-num system="xmltv_ns">2.22148.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241230160604 -0300" stop="20241230161239 -0300" channel="Criança">
-    <title lang="pt">16. Louie, desenhe uma ovelha</title>
-    <desc lang="pt"> - Embarque no mundo da criatividade e aprenda a desenhar com Louie e Yoko!</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.15.</episode-num>
+  <programme start="20250103161140 -0300" stop="20250103161809 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Lixar os Pés</sub-title>
+    <desc lang="pt">realizado em 21/07/2019 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>21/07/2019</date>
+    <episode-num system="xmltv_ns">2018.19201.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241230161416 -0300" stop="20241230162112 -0300" channel="Criança">
-    <title lang="pt">17. Louie, desenhe um cavalo</title>
-    <desc lang="pt"> - Embarque no mundo da criatividade e aprenda a desenhar com Louie e Yoko!</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.16.</episode-num>
+  <programme start="20250103162930 -0300" stop="20250103163446 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Mictório Interativo 2</sub-title>
+    <desc lang="pt">realizado em 14/07/2019 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>14/07/2019</date>
+    <episode-num system="xmltv_ns">2018.19194.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241230164733 -0300" stop="20241230165828 -0300" channel="Criança">
-    <title lang="pt">Ziggy e o Trenzinho do Zoológico</title>
-    <sub-title lang="pt">5. O despertar do urso</sub-title>
-    <desc lang="pt"> - Embarque nesse trem e se aventure com Ziggy e seus amigos!</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">1.4.</episode-num>
+  <programme start="20250103164216 -0300" stop="20250103164843 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Morto Pega Táxi</sub-title>
+    <desc lang="pt">realizado em 26/06/2022 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>26/06/2022</date>
+    <episode-num system="xmltv_ns">1.22176.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241230170005 -0300" stop="20241230171106 -0300" channel="Criança">
-    <title lang="pt">Ziggy e o Trenzinho do Zoológico</title>
-    <sub-title lang="pt">6. As pegadinhas dos pinguins</sub-title>
-    <desc lang="pt"> - Embarque nesse trem e se aventure com Ziggy e seus amigos!</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
+  <programme start="20250103164843 -0300" stop="20250103165406 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Mudo Pede Informação</sub-title>
+    <desc lang="pt">realizado em 04/12/2022 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>04/12/2022</date>
+    <episode-num system="xmltv_ns">2.22337.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241230171411 -0300" stop="20241230172443 -0300" channel="Criança">
-    <title lang="pt">Dot.</title>
-    <sub-title lang="pt">5. Susto de mestre 2.0</sub-title>
-    <desc lang="pt"> - Está a procura de uma aventura tecnológica? Dot. pode te levar pra uma!</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
+  <programme start="20250103165406 -0300" stop="20250103170008 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">O Eletrocutado</sub-title>
+    <desc lang="pt">realizado em 03/04/2022 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>03/04/2022</date>
+    <episode-num system="xmltv_ns">1.22092.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241230172620 -0300" stop="20241230173723 -0300" channel="Criança">
-    <title lang="pt">Dot.</title>
-    <sub-title lang="pt">6. Vá embora fantasma</sub-title>
-    <desc lang="pt"> - Está a procura de uma aventura tecnológica? Dot. pode te levar pra uma!</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
+  <programme start="20250103170330 -0300" stop="20250103171205 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">O Exorcista do Papa</sub-title>
+    <desc lang="pt">realizado em 09/04/2023 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>09/04/2023</date>
+    <episode-num system="xmltv_ns">1.23098.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20241230174119 -0300" stop="20241230174803 -0300" channel="Criança">
-    <title lang="pt">Oi, Duggee</title>
-    <sub-title lang="pt">45. Duggee e o distintivo do canto</sub-title>
-    <desc lang="pt"> - Duggee é um cachorrão que atua como o líder de um clubinho chamado "Os Esquilos".</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">1.44.</episode-num>
+  <programme start="20250103171205 -0300" stop="20250103171839 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Palhaço no Elevador</sub-title>
+    <desc lang="pt">realizado em 21/03/2021 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>21/03/2021</date>
+    <episode-num system="xmltv_ns">1.21079.</episode-num>
     <rating system="Brazil">
-      <value>[AL]</value>
+      <value>[12]</value>
     </rating>
+  </programme>
+  <programme start="20250103171839 -0300" stop="20250103172353 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Papapa - Praia</sub-title>
+    <desc lang="pt">realizado em 27/09/2020 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>27/09/2020</date>
+    <episode-num system="xmltv_ns">1.20270.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250103173125 -0300" stop="20250103173938 -0300" channel="Humor">
+    <title lang="pt">Câmeras Escondidas</title>
+    <sub-title lang="pt">Pintores Pelados</sub-title>
+    <desc lang="pt">realizado em 12/06/2022 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
+    <date>12/06/2022</date>
+    <episode-num system="xmltv_ns">1.22162.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250103175207 -0300" stop="20250103175856 -0300" channel="Humor">
+    <title lang="pt">Sala Radioativa - Frankenstein</title>
+    <sub-title lang="pt">realizado em 13/03/2022</sub-title>
+    <date>13/03/2022</date>
+    <episode-num system="xmltv_ns">2021.22071.</episode-num>
   </programme>
   <programme start="20241230174941 -0300" stop="20241230175625 -0300" channel="Criança">
     <title lang="pt">Oi, Duggee</title>
@@ -50568,7 +51072,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[AL]</value>
     </rating>
   </programme>
-  <programme start="20250102210145 -0300" stop="20250103050328 -0300" channel="Criança">
+  <programme start="20250102210145 -0300" stop="20250103055337 -0300" channel="Criança">
     <title lang="pt">Bons sonhos</title>
     <sub-title lang="pt">Boa noite - looping musical</sub-title>
     <desc lang="pt"> - Clipe musical para bloco "Boa noite".</desc>
@@ -50578,7 +51082,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[AL]</value>
     </rating>
   </programme>
-  <programme start="20250103050328 -0300" stop="20250103053517 -0300" channel="Criança">
+  <programme start="20250103055337 -0300" stop="20250103062526 -0300" channel="Criança">
     <title lang="pt">Clipe Bom dia</title>
     <desc lang="pt"> - Clipe musical para bloco "Bom dia".</desc>
     <category lang="en">entertainment programmes for 6 to 14</category>
@@ -50587,44 +51091,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[AL]</value>
     </rating>
   </programme>
-  <programme start="20250103053524 -0300" stop="20250103055814 -0300" channel="Criança">
-    <title lang="pt">O Picapau Amarelo</title>
-    <sub-title lang="pt">1. O Marquês de Rabicó</sub-title>
-    <desc lang="pt"> - Muita diversão e aprendizados te esperam nessa versão da obra de Monteiro Lobato, O Picapau Amarelo.</desc>
-    <category lang="en">entertainment programmes for 6 to 14</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <rating system="Brazil">
-      <value>[AL]</value>
-    </rating>
-  </programme>
-  <programme start="20250103060126 -0300" stop="20250103060752 -0300" channel="Criança">
-    <title lang="pt">30. Louie, desenhe um bolo</title>
-    <desc lang="pt"> - Embarque no mundo da criatividade e aprenda a desenhar com Louie e Yoko!</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.29.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250103060929 -0300" stop="20250103061551 -0300" channel="Criança">
-    <title lang="pt">31. Louie, desenhe um castelo</title>
-    <desc lang="pt"> - Embarque no mundo da criatividade e aprenda a desenhar com Louie e Yoko!</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.30.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250103061728 -0300" stop="20250103062423 -0300" channel="Criança">
-    <title lang="pt">32. Louie, desenhe um leão</title>
-    <desc lang="pt"> - Embarque no mundo da criatividade e aprenda a desenhar com Louie e Yoko!</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.31.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250103065042 -0300" stop="20250103070138 -0300" channel="Criança">
+  <programme start="20250103064756 -0300" stop="20250103065851 -0300" channel="Criança">
     <title lang="pt">Ziggy e o Trenzinho do Zoológico</title>
     <sub-title lang="pt">13. O jogo dos sonhos de Brian</sub-title>
     <desc lang="pt"> - Embarque nesse trem e se aventure com Ziggy e seus amigos!</desc>
@@ -50634,7 +51101,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250103070315 -0300" stop="20250103071416 -0300" channel="Criança">
+  <programme start="20250103070028 -0300" stop="20250103071129 -0300" channel="Criança">
     <title lang="pt">Ziggy e o Trenzinho do Zoológico</title>
     <sub-title lang="pt">14. A pedra</sub-title>
     <desc lang="pt"> - Embarque nesse trem e se aventure com Ziggy e seus amigos!</desc>
@@ -50644,7 +51111,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250103071721 -0300" stop="20250103072753 -0300" channel="Criança">
+  <programme start="20250103071434 -0300" stop="20250103072506 -0300" channel="Criança">
     <title lang="pt">Dot.</title>
     <sub-title lang="pt">13. Uma canção para todos</sub-title>
     <desc lang="pt"> - Está a procura de uma aventura tecnológica? Dot. pode te levar pra uma!</desc>
@@ -50654,7 +51121,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250103072930 -0300" stop="20250103074032 -0300" channel="Criança">
+  <programme start="20250103072643 -0300" stop="20250103073746 -0300" channel="Criança">
     <title lang="pt">Dot.</title>
     <sub-title lang="pt">14. A árvore de Natal</sub-title>
     <desc lang="pt"> - Está a procura de uma aventura tecnológica? Dot. pode te levar pra uma!</desc>
@@ -50664,7 +51131,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250103074428 -0300" stop="20250103075113 -0300" channel="Criança">
+  <programme start="20250103074142 -0300" stop="20250103074826 -0300" channel="Criança">
     <title lang="pt">Oi, Duggee</title>
     <sub-title lang="pt">5. Duggee e o distintivo de resgate</sub-title>
     <desc lang="pt"> - Duggee é um cachorrão que atua como o líder de um clubinho chamado "Os Esquilos".</desc>
@@ -50674,7 +51141,7 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[AL]</value>
     </rating>
   </programme>
-  <programme start="20250103075250 -0300" stop="20250103075935 -0300" channel="Criança">
+  <programme start="20250103075003 -0300" stop="20250103075648 -0300" channel="Criança">
     <title lang="pt">Oi, Duggee</title>
     <sub-title lang="pt">6. Duggee e o distintivo de super escoteiro</sub-title>
     <desc lang="pt"> - Duggee é um cachorrão que atua como o líder de um clubinho chamado "Os Esquilos".</desc>
@@ -50684,136 +51151,461 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[AL]</value>
     </rating>
   </programme>
-  <programme start="20250103081126 -0300" stop="20250103082145 -0300" channel="Criança">
-    <title lang="pt">Jojô e a Vovó</title>
-    <sub-title lang="pt">22. É hora de andar de bicicleta</sub-title>
-    <desc lang="pt"> - Acompanhe o dia a dia e as aventuras de Jojô e sua amada Vovó!</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.21.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250103082322 -0300" stop="20250103083444 -0300" channel="Criança">
-    <title lang="pt">Jojô e a Vovó</title>
-    <sub-title lang="pt">23. É hora das folhas de outono</sub-title>
-    <desc lang="pt"> - Acompanhe o dia a dia e as aventuras de Jojô e sua amada Vovó!</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.22.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250103083749 -0300" stop="20250103084918 -0300" channel="Criança">
-    <title lang="pt">Peixonauta</title>
-    <sub-title lang="pt">18. O caso da frutinha vermelha</sub-title>
-    <desc lang="pt"> - Junte-se ao agente secreto Peixonauta para, com muito ritmo, desvendar pistas e solucionar  casos.  </desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">1.17.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250103085055 -0300" stop="20250103090225 -0300" channel="Criança">
-    <title lang="pt">Peixonauta</title>
-    <sub-title lang="pt">19. O caso do ovóide</sub-title>
-    <desc lang="pt"> - Junte-se ao agente secreto Peixonauta para, com muito ritmo, desvendar pistas e solucionar  casos.  </desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">1.18.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250103090402 -0300" stop="20250103091557 -0300" channel="Criança">
-    <title lang="pt">Peixonauta</title>
-    <sub-title lang="pt">20. O caso do primo do Zico</sub-title>
-    <desc lang="pt"> - Junte-se ao agente secreto Peixonauta para, com muito ritmo, desvendar pistas e solucionar  casos.  </desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">1.19.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250103091953 -0300" stop="20250103092633 -0300" channel="Criança">
-    <title lang="pt">Shaun, o Carneiro</title>
-    <sub-title lang="pt">7. Em forma com o Shaun</sub-title>
-    <desc lang="pt"> - Prepare-se para muita diversão e confusão com as aventuras de Shaun, o Carneiro!</desc>
+  <programme start="20250103075825 -0300" stop="20250103080528 -0300" channel="Criança">
+    <title lang="pt">Oi, Duggee</title>
+    <sub-title lang="pt">7. Duggee e o distintivo da geleia</sub-title>
+    <desc lang="pt"> - Duggee é um cachorrão que atua como o líder de um clubinho chamado "Os Esquilos".</desc>
     <category lang="en">cartoons/puppets</category>
     <episode-num system="xmltv_ns">0.6.</episode-num>
     <rating system="Brazil">
       <value>[AL]</value>
     </rating>
   </programme>
-  <programme start="20250103092810 -0300" stop="20250103093450 -0300" channel="Criança">
+  <programme start="20250103080839 -0300" stop="20250103081906 -0300" channel="Criança">
+    <title lang="pt">Jojô e a Vovó</title>
+    <sub-title lang="pt">24. É hora de fazer um filme</sub-title>
+    <desc lang="pt"> - Acompanhe o dia a dia e as aventuras de Jojô e sua amada Vovó!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.23.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250103082043 -0300" stop="20250103083205 -0300" channel="Criança">
+    <title lang="pt">Jojô e a Vovó</title>
+    <sub-title lang="pt">25. É hora de construir uma cabana</sub-title>
+    <desc lang="pt"> - Acompanhe o dia a dia e as aventuras de Jojô e sua amada Vovó!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.24.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250103083510 -0300" stop="20250103084640 -0300" channel="Criança">
+    <title lang="pt">Peixonauta</title>
+    <sub-title lang="pt">21. O caso da chuva de pedra</sub-title>
+    <desc lang="pt"> - Junte-se ao agente secreto Peixonauta para, com muito ritmo, desvendar pistas e solucionar  casos.  </desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">1.20.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250103084817 -0300" stop="20250103085947 -0300" channel="Criança">
+    <title lang="pt">Peixonauta</title>
+    <sub-title lang="pt">22. O caso do peixe esquisito</sub-title>
+    <desc lang="pt"> - Junte-se ao agente secreto Peixonauta para, com muito ritmo, desvendar pistas e solucionar  casos.  </desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">1.21.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250103090124 -0300" stop="20250103091319 -0300" channel="Criança">
+    <title lang="pt">Peixonauta</title>
+    <sub-title lang="pt">23. O caso do navio pirata</sub-title>
+    <desc lang="pt"> - Junte-se ao agente secreto Peixonauta para, com muito ritmo, desvendar pistas e solucionar  casos.  </desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250103091715 -0300" stop="20250103092355 -0300" channel="Criança">
     <title lang="pt">Shaun, o Carneiro</title>
-    <sub-title lang="pt">8. Xô, abelhas!</sub-title>
+    <sub-title lang="pt">10. O devorador de grama</sub-title>
     <desc lang="pt"> - Prepare-se para muita diversão e confusão com as aventuras de Shaun, o Carneiro!</desc>
     <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
     <rating system="Brazil">
       <value>[AL]</value>
     </rating>
   </programme>
-  <programme start="20250103093627 -0300" stop="20250103094327 -0300" channel="Criança">
+  <programme start="20250103092532 -0300" stop="20250103093212 -0300" channel="Criança">
     <title lang="pt">Shaun, o Carneiro</title>
-    <sub-title lang="pt">9. Timmy triste</sub-title>
+    <sub-title lang="pt">11. Vontade de pizza</sub-title>
     <desc lang="pt"> - Prepare-se para muita diversão e confusão com as aventuras de Shaun, o Carneiro!</desc>
     <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
     <rating system="Brazil">
       <value>[AL]</value>
     </rating>
   </programme>
-  <programme start="20250103094639 -0300" stop="20250103095619 -0300" channel="Criança">
-    <title lang="pt">Timmy e Seus Amigos</title>
-    <sub-title lang="pt">12. Timmy quer esconder-se</sub-title>
-    <desc lang="pt"> - Acompanhe Timmy, um adorável carneirinho, e seus amigos numa grande aventura!</desc>
+  <programme start="20250103093349 -0300" stop="20250103094049 -0300" channel="Criança">
+    <title lang="pt">Shaun, o Carneiro</title>
+    <sub-title lang="pt">12. A toupeira</sub-title>
+    <desc lang="pt"> - Prepare-se para muita diversão e confusão com as aventuras de Shaun, o Carneiro!</desc>
     <category lang="en">cartoons/puppets</category>
     <episode-num system="xmltv_ns">0.11.</episode-num>
     <rating system="Brazil">
       <value>[AL]</value>
     </rating>
   </programme>
-  <programme start="20250103095756 -0300" stop="20250103100756 -0300" channel="Criança">
+  <programme start="20250103094401 -0300" stop="20250103095341 -0300" channel="Criança">
     <title lang="pt">Timmy e Seus Amigos</title>
-    <sub-title lang="pt">13. Andar de triciclo</sub-title>
+    <sub-title lang="pt">14. A fotografia do Timmy</sub-title>
     <desc lang="pt"> - Acompanhe Timmy, um adorável carneirinho, e seus amigos numa grande aventura!</desc>
     <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.12.</episode-num>
+    <episode-num system="xmltv_ns">0.13.</episode-num>
     <rating system="Brazil">
       <value>[AL]</value>
     </rating>
   </programme>
-  <programme start="20250103101101 -0300" stop="20250103102141 -0300" channel="Criança">
+  <programme start="20250103095518 -0300" stop="20250103100518 -0300" channel="Criança">
+    <title lang="pt">Timmy e Seus Amigos</title>
+    <sub-title lang="pt">15. Timmy e os barulhos</sub-title>
+    <desc lang="pt"> - Acompanhe Timmy, um adorável carneirinho, e seus amigos numa grande aventura!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
+    <rating system="Brazil">
+      <value>[AL]</value>
+    </rating>
+  </programme>
+  <programme start="20250103100823 -0300" stop="20250103101905 -0300" channel="Criança">
     <title lang="pt">Rua do Zoo 64</title>
-    <sub-title lang="pt">9. A história do visitante importante</sub-title>
+    <sub-title lang="pt">11. A história do Ricardo e da Rosa</sub-title>
     <desc lang="pt"> - Faça como a Lucy, se divirta com as histórias de vida dos animais da Rua do Zoo!</desc>
     <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">1.8.</episode-num>
+    <episode-num system="xmltv_ns">1.10.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250103102318 -0300" stop="20250103103430 -0300" channel="Criança">
+  <programme start="20250103102042 -0300" stop="20250103103150 -0300" channel="Criança">
     <title lang="pt">Rua do Zoo 64</title>
-    <sub-title lang="pt">10. A história dos pinguins da baía do musgo</sub-title>
+    <sub-title lang="pt">12. A história dos novos vizinhos de Anita</sub-title>
     <desc lang="pt"> - Faça como a Lucy, se divirta com as histórias de vida dos animais da Rua do Zoo!</desc>
     <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">1.9.</episode-num>
+    <episode-num system="xmltv_ns">1.11.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241230154409 -0300" stop="20241230162903 -0300" channel="Cinema">
-    <title lang="pt">Uma Vida Sem Limites</title>
-    <desc lang="pt"> - A febre reumática quase matou Bobby Darin na infância, mas isso não abalou seu sonho de ser artista.</desc>
-    <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">.0.</episode-num>
+  <programme start="20250103103157 -0300" stop="20250103105447 -0300" channel="Criança">
+    <title lang="pt">O Picapau Amarelo</title>
+    <sub-title lang="pt">1. O Marquês de Rabicó</sub-title>
+    <desc lang="pt"> - Muita diversão e aprendizados te esperam nessa versão da obra de Monteiro Lobato, O Picapau Amarelo.</desc>
+    <category lang="en">entertainment programmes for 6 to 14</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <rating system="Brazil">
+      <value>[AL]</value>
+    </rating>
+  </programme>
+  <programme start="20250103105759 -0300" stop="20250103110425 -0300" channel="Criança">
+    <title lang="pt">30. Louie, desenhe um bolo</title>
+    <desc lang="pt"> - Embarque no mundo da criatividade e aprenda a desenhar com Louie e Yoko!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.29.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20241230162928 -0300" stop="20241230181240 -0300" channel="Cinema">
+  <programme start="20250103110602 -0300" stop="20250103111224 -0300" channel="Criança">
+    <title lang="pt">31. Louie, desenhe um castelo</title>
+    <desc lang="pt"> - Embarque no mundo da criatividade e aprenda a desenhar com Louie e Yoko!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.30.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250103111401 -0300" stop="20250103112056 -0300" channel="Criança">
+    <title lang="pt">32. Louie, desenhe um leão</title>
+    <desc lang="pt"> - Embarque no mundo da criatividade e aprenda a desenhar com Louie e Yoko!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.31.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250103114715 -0300" stop="20250103115811 -0300" channel="Criança">
+    <title lang="pt">Ziggy e o Trenzinho do Zoológico</title>
+    <sub-title lang="pt">13. O jogo dos sonhos de Brian</sub-title>
+    <desc lang="pt"> - Embarque nesse trem e se aventure com Ziggy e seus amigos!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">1.12.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250103115948 -0300" stop="20250103121049 -0300" channel="Criança">
+    <title lang="pt">Ziggy e o Trenzinho do Zoológico</title>
+    <sub-title lang="pt">14. A pedra</sub-title>
+    <desc lang="pt"> - Embarque nesse trem e se aventure com Ziggy e seus amigos!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">1.13.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250103121354 -0300" stop="20250103122426 -0300" channel="Criança">
+    <title lang="pt">Dot.</title>
+    <sub-title lang="pt">13. Uma canção para todos</sub-title>
+    <desc lang="pt"> - Está a procura de uma aventura tecnológica? Dot. pode te levar pra uma!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.12.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250103122603 -0300" stop="20250103123705 -0300" channel="Criança">
+    <title lang="pt">Dot.</title>
+    <sub-title lang="pt">14. A árvore de Natal</sub-title>
+    <desc lang="pt"> - Está a procura de uma aventura tecnológica? Dot. pode te levar pra uma!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.13.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250103124101 -0300" stop="20250103124746 -0300" channel="Criança">
+    <title lang="pt">Oi, Duggee</title>
+    <sub-title lang="pt">5. Duggee e o distintivo de resgate</sub-title>
+    <desc lang="pt"> - Duggee é um cachorrão que atua como o líder de um clubinho chamado "Os Esquilos".</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <rating system="Brazil">
+      <value>[AL]</value>
+    </rating>
+  </programme>
+  <programme start="20250103124923 -0300" stop="20250103125608 -0300" channel="Criança">
+    <title lang="pt">Oi, Duggee</title>
+    <sub-title lang="pt">6. Duggee e o distintivo de super escoteiro</sub-title>
+    <desc lang="pt"> - Duggee é um cachorrão que atua como o líder de um clubinho chamado "Os Esquilos".</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <rating system="Brazil">
+      <value>[AL]</value>
+    </rating>
+  </programme>
+  <programme start="20250103125745 -0300" stop="20250103130448 -0300" channel="Criança">
+    <title lang="pt">Oi, Duggee</title>
+    <sub-title lang="pt">7. Duggee e o distintivo da geleia</sub-title>
+    <desc lang="pt"> - Duggee é um cachorrão que atua como o líder de um clubinho chamado "Os Esquilos".</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <rating system="Brazil">
+      <value>[AL]</value>
+    </rating>
+  </programme>
+  <programme start="20250103130759 -0300" stop="20250103131826 -0300" channel="Criança">
+    <title lang="pt">Jojô e a Vovó</title>
+    <sub-title lang="pt">24. É hora de fazer um filme</sub-title>
+    <desc lang="pt"> - Acompanhe o dia a dia e as aventuras de Jojô e sua amada Vovó!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.23.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250103132003 -0300" stop="20250103133125 -0300" channel="Criança">
+    <title lang="pt">Jojô e a Vovó</title>
+    <sub-title lang="pt">25. É hora de construir uma cabana</sub-title>
+    <desc lang="pt"> - Acompanhe o dia a dia e as aventuras de Jojô e sua amada Vovó!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.24.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250103133430 -0300" stop="20250103134600 -0300" channel="Criança">
+    <title lang="pt">Peixonauta</title>
+    <sub-title lang="pt">21. O caso da chuva de pedra</sub-title>
+    <desc lang="pt"> - Junte-se ao agente secreto Peixonauta para, com muito ritmo, desvendar pistas e solucionar  casos.  </desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">1.20.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250103134737 -0300" stop="20250103135906 -0300" channel="Criança">
+    <title lang="pt">Peixonauta</title>
+    <sub-title lang="pt">22. O caso do peixe esquisito</sub-title>
+    <desc lang="pt"> - Junte-se ao agente secreto Peixonauta para, com muito ritmo, desvendar pistas e solucionar  casos.  </desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">1.21.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250103140044 -0300" stop="20250103141239 -0300" channel="Criança">
+    <title lang="pt">Peixonauta</title>
+    <sub-title lang="pt">23. O caso do navio pirata</sub-title>
+    <desc lang="pt"> - Junte-se ao agente secreto Peixonauta para, com muito ritmo, desvendar pistas e solucionar  casos.  </desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250103141635 -0300" stop="20250103142315 -0300" channel="Criança">
+    <title lang="pt">Shaun, o Carneiro</title>
+    <sub-title lang="pt">10. O devorador de grama</sub-title>
+    <desc lang="pt"> - Prepare-se para muita diversão e confusão com as aventuras de Shaun, o Carneiro!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <rating system="Brazil">
+      <value>[AL]</value>
+    </rating>
+  </programme>
+  <programme start="20250103142452 -0300" stop="20250103143132 -0300" channel="Criança">
+    <title lang="pt">Shaun, o Carneiro</title>
+    <sub-title lang="pt">11. Vontade de pizza</sub-title>
+    <desc lang="pt"> - Prepare-se para muita diversão e confusão com as aventuras de Shaun, o Carneiro!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+    <rating system="Brazil">
+      <value>[AL]</value>
+    </rating>
+  </programme>
+  <programme start="20250103143309 -0300" stop="20250103144009 -0300" channel="Criança">
+    <title lang="pt">Shaun, o Carneiro</title>
+    <sub-title lang="pt">12. A toupeira</sub-title>
+    <desc lang="pt"> - Prepare-se para muita diversão e confusão com as aventuras de Shaun, o Carneiro!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.11.</episode-num>
+    <rating system="Brazil">
+      <value>[AL]</value>
+    </rating>
+  </programme>
+  <programme start="20250103144320 -0300" stop="20250103145300 -0300" channel="Criança">
+    <title lang="pt">Timmy e Seus Amigos</title>
+    <sub-title lang="pt">14. A fotografia do Timmy</sub-title>
+    <desc lang="pt"> - Acompanhe Timmy, um adorável carneirinho, e seus amigos numa grande aventura!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.13.</episode-num>
+    <rating system="Brazil">
+      <value>[AL]</value>
+    </rating>
+  </programme>
+  <programme start="20250103145438 -0300" stop="20250103150438 -0300" channel="Criança">
+    <title lang="pt">Timmy e Seus Amigos</title>
+    <sub-title lang="pt">15. Timmy e os barulhos</sub-title>
+    <desc lang="pt"> - Acompanhe Timmy, um adorável carneirinho, e seus amigos numa grande aventura!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
+    <rating system="Brazil">
+      <value>[AL]</value>
+    </rating>
+  </programme>
+  <programme start="20250103150743 -0300" stop="20250103151825 -0300" channel="Criança">
+    <title lang="pt">Rua do Zoo 64</title>
+    <sub-title lang="pt">11. A história do Ricardo e da Rosa</sub-title>
+    <desc lang="pt"> - Faça como a Lucy, se divirta com as histórias de vida dos animais da Rua do Zoo!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">1.10.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250103152002 -0300" stop="20250103153110 -0300" channel="Criança">
+    <title lang="pt">Rua do Zoo 64</title>
+    <sub-title lang="pt">12. A história dos novos vizinhos de Anita</sub-title>
+    <desc lang="pt"> - Faça como a Lucy, se divirta com as histórias de vida dos animais da Rua do Zoo!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">1.11.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250103153117 -0300" stop="20250103155407 -0300" channel="Criança">
+    <title lang="pt">O Picapau Amarelo</title>
+    <sub-title lang="pt">1. O Marquês de Rabicó</sub-title>
+    <desc lang="pt"> - Muita diversão e aprendizados te esperam nessa versão da obra de Monteiro Lobato, O Picapau Amarelo.</desc>
+    <category lang="en">entertainment programmes for 6 to 14</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <rating system="Brazil">
+      <value>[AL]</value>
+    </rating>
+  </programme>
+  <programme start="20250103155718 -0300" stop="20250103160345 -0300" channel="Criança">
+    <title lang="pt">30. Louie, desenhe um bolo</title>
+    <desc lang="pt"> - Embarque no mundo da criatividade e aprenda a desenhar com Louie e Yoko!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.29.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250103160522 -0300" stop="20250103161144 -0300" channel="Criança">
+    <title lang="pt">31. Louie, desenhe um castelo</title>
+    <desc lang="pt"> - Embarque no mundo da criatividade e aprenda a desenhar com Louie e Yoko!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.30.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250103161321 -0300" stop="20250103162016 -0300" channel="Criança">
+    <title lang="pt">32. Louie, desenhe um leão</title>
+    <desc lang="pt"> - Embarque no mundo da criatividade e aprenda a desenhar com Louie e Yoko!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.31.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250103164635 -0300" stop="20250103165731 -0300" channel="Criança">
+    <title lang="pt">Ziggy e o Trenzinho do Zoológico</title>
+    <sub-title lang="pt">13. O jogo dos sonhos de Brian</sub-title>
+    <desc lang="pt"> - Embarque nesse trem e se aventure com Ziggy e seus amigos!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">1.12.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250103165908 -0300" stop="20250103171008 -0300" channel="Criança">
+    <title lang="pt">Ziggy e o Trenzinho do Zoológico</title>
+    <sub-title lang="pt">14. A pedra</sub-title>
+    <desc lang="pt"> - Embarque nesse trem e se aventure com Ziggy e seus amigos!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">1.13.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250103171314 -0300" stop="20250103172346 -0300" channel="Criança">
+    <title lang="pt">Dot.</title>
+    <sub-title lang="pt">13. Uma canção para todos</sub-title>
+    <desc lang="pt"> - Está a procura de uma aventura tecnológica? Dot. pode te levar pra uma!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.12.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250103172523 -0300" stop="20250103173625 -0300" channel="Criança">
+    <title lang="pt">Dot.</title>
+    <sub-title lang="pt">14. A árvore de Natal</sub-title>
+    <desc lang="pt"> - Está a procura de uma aventura tecnológica? Dot. pode te levar pra uma!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.13.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250103174021 -0300" stop="20250103174706 -0300" channel="Criança">
+    <title lang="pt">Oi, Duggee</title>
+    <sub-title lang="pt">5. Duggee e o distintivo de resgate</sub-title>
+    <desc lang="pt"> - Duggee é um cachorrão que atua como o líder de um clubinho chamado "Os Esquilos".</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <rating system="Brazil">
+      <value>[AL]</value>
+    </rating>
+  </programme>
+  <programme start="20250103174843 -0300" stop="20250103175527 -0300" channel="Criança">
+    <title lang="pt">Oi, Duggee</title>
+    <sub-title lang="pt">6. Duggee e o distintivo de super escoteiro</sub-title>
+    <desc lang="pt"> - Duggee é um cachorrão que atua como o líder de um clubinho chamado "Os Esquilos".</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <rating system="Brazil">
+      <value>[AL]</value>
+    </rating>
+  </programme>
+  <programme start="20241230175507 -0300" stop="20241230181240 -0300" channel="Cinema">
     <title lang="pt">Todas as Formas de Amor</title>
     <desc lang="pt"> - Dois jovens casais se dedicam a administrar seus problemas de relacionamento abrindo a relação.
 </desc>
@@ -51223,13 +52015,22 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250103142457 -0300" stop="20250103155459 -0300" channel="Cinema">
+  <programme start="20250103142457 -0300" stop="20250103162031 -0300" channel="Cinema">
     <title lang="pt">Com Amor, Van Gogh</title>
     <desc lang="pt"> - Um ano após o suicídio de Vincent Van Gogh, uma carta escrita pelo artista é encontrada.</desc>
     <category lang="en">cartoons/puppets</category>
     <episode-num system="xmltv_ns">.0.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250103162056 -0300" stop="20250103175251 -0300" channel="Cinema">
+    <title lang="pt">O Assassino do Alfabeto</title>
+    <desc lang="pt"> - Uma detetive é chamada para investigar um serial killer que escolhe suas vitimas pelo alfabeto.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+    <rating system="Brazil">
+      <value>[16]</value>
     </rating>
   </programme>
   <programme start="20241229233000 -0300" stop="20241230003000 -0300" channel="Canal Educação">
