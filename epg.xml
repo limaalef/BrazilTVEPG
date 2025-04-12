@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2025-04-12 10:45:06" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2025-04-12 12:15:06" generator-info-url="http://limaalef.com">
   <channel id="Claro TV+ 4K">
     <display-name lang="pt">Claro TV+ 4K</display-name>
   </channel>
@@ -104,6 +104,9 @@
   </channel>
   <channel id="tv-globo">
     <display-name lang="pt">tv-globo</display-name>
+  </channel>
+  <channel id="sportv-4-k">
+    <display-name lang="pt">sportv-4-k</display-name>
   </channel>
   <channel id="sportv">
     <display-name lang="pt">sportv</display-name>
@@ -843,12 +846,12 @@
     <desc lang="pt"> - Além dos treinos classificatórios da Fórmula 1, o BandSports transmite as corridas da Fórmula 2 e Fórmula 3. Essas competições são consideradas um grande celeiro de pilotos.</desc>
     <previously-shown />
   </programme>
-  <programme start="20250412063000 -0300" stop="20250412071500 -0300" channel="BAND SPORTS HD">
+  <programme start="20250412063000 -0300" stop="20250412071000 -0300" channel="BAND SPORTS HD">
     <title lang="pt">VT - Fórmula 3: GP do Bahrein: Classificação</title>
     <desc lang="pt"> - Além dos treinos classificatórios da Fórmula 1, o BandSports transmite as corridas da Fórmula 2 e Fórmula 3. Essas competições são consideradas um grande celeiro de pilotos.</desc>
     <previously-shown />
   </programme>
-  <programme start="20250412071500 -0300" stop="20250412080000 -0300" channel="BAND SPORTS HD">
+  <programme start="20250412071000 -0300" stop="20250412080000 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Fórmula 3: GP do Bahrein: Sprint - Ao Vivo</title>
     <desc lang="pt"> - Além dos treinos classificatórios da Fórmula 1, o BandSports transmite as corridas da Fórmula 2 e Fórmula 3. Essas competições são consideradas um grande celeiro de pilotos.</desc>
     <category lang="en">live broadcast</category>
@@ -858,28 +861,22 @@
     <desc lang="pt"> - O jornalista Celso Miranda reúne um time de especialistas para passar a limpo tudo que acontece nas pistas, no mundo dos motores.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250412083000 -0300" stop="20250412093000 -0300" channel="BAND SPORTS HD">
+  <programme start="20250412083000 -0300" stop="20250412092500 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Fórmula E: E-Prix de Miami: Treino Livre 2 - Ao Vivo</title>
     <desc lang="pt"> - Conheça o grid mais competitivo do automobilismo, onde qualquer piloto tem a chance de subir ao degrau mais alto do pódio. É composta por pilotos de classe mundial com habilidades de todo o espectro do automobilismo.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250412093000 -0300" stop="20250412103000 -0300" channel="BAND SPORTS HD">
+  <programme start="20250412092500 -0300" stop="20250412103000 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Fórmula 1: GP do Bahrein: Treino Livre 3 - Ao Vivo</title>
     <desc lang="pt"> - Além dos treinos classificatórios da Fórmula 1, o BandSports transmite as corridas da Fórmula 2 e Fórmula 3. Essas competições são consideradas um grande celeiro de pilotos.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250412103000 -0300" stop="20250412104500 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Drops Bandsports</title>
-    <desc lang="pt"> - Acompanhe as notícias esportivas mais relevantes no Brasil e no mundo em rápido e dinâmico programa.</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20250412103000 -0300" stop="20250412111000 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">Supermotor - Ao Vivo</title>
+    <desc lang="pt"> - O jornalista Celso Miranda reúne um time de especialistas para passar a limpo tudo que acontece nas pistas, no mundo dos motores.</desc>
+    <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250412104500 -0300" stop="20250412111500 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Acelerados</title>
-    <desc lang="pt"> - Rubens Barrichello, Gerson Campos e uma super equipe aceleram superesportivos importados, clássicos do passado e as últimas novidades do mercado nacional, trazendo sempre velocidade, emoção e informação sobre quatro e...</desc>
-  </programme>
-  <programme start="20250412111500 -0300" stop="20250412120000 -0300" channel="BAND SPORTS HD">
+  <programme start="20250412111000 -0300" stop="20250412120000 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Fórmula 2: GP do Bahrein: Sprint - Ao Vivo</title>
     <desc lang="pt"> - Além dos treinos classificatórios da Fórmula 1, o BandSports transmite as corridas da Fórmula 2 e Fórmula 3. Essas competições são consideradas um grande celeiro de pilotos.</desc>
     <category lang="en">live broadcast</category>
@@ -904,15 +901,17 @@
     <desc lang="pt"> - Conheça o grid mais competitivo do automobilismo, onde qualquer piloto tem a chance de subir ao degrau mais alto do pódio. É composta por pilotos de classe mundial com habilidades de todo o espectro do automobilismo.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250412160000 -0300" stop="20250412181500 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Amistoso Ronaldinho na Espanha</title>
-    <desc lang="pt"> - Em breve maiores informações sobre este evento.</desc>
+  <programme start="20250412160000 -0300" stop="20250412182000 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">VT - Circuito Paulista de Beach Tennis: 3ª Etapa Vinhedo</title>
+    <desc lang="pt"> - Acompanhe as emoções do Circuito Paulista de Beach Tennis que nesta etapa ocorre no Pinheirinho Tênis em Vinhedo.</desc>
+    <previously-shown />
   </programme>
-  <programme start="20250412181500 -0300" stop="20250412203000 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Liga Feminina de Futsal</title>
-    <desc lang="pt"> - O principal campeonato de futsal feminino do país agita a tela do Bandsports sempre com jogos emocionantes.</desc>
+  <programme start="20250412182000 -0300" stop="20250412202500 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">Liga Feminina de Futsal: Female/Chapecó x Resenhas FC - Ao Vivo</title>
+    <desc lang="pt"> - As meninas do Chapecó/Female Futsal enfrentam o Resenhas FC de Goiás. Assista essa partidaça ao vivo no BandSports! Já tem a sua torcida?</desc>
+    <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250412203000 -0300" stop="20250412210000 -0300" channel="BAND SPORTS HD">
+  <programme start="20250412202500 -0300" stop="20250412210000 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Esporte Agora - Ao Vivo</title>
     <desc lang="pt"> - Isabella Ayami e Thais Baffini atualizam as principais notícias do universo esportivo. O programa sempre trará os fatos mais quentes do dia, além de muita resenha e análises, mas sem enrolação.</desc>
     <category lang="en">live broadcast</category>
@@ -1480,7 +1479,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250412132500 -0300" stop="20250412143700 -0300" channel="TNT SERIES HD">
+  <programme start="20250412132500 -0300" stop="20250412141500 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <desc lang="pt"> - A equipe reabre um caso de 1978, em que uma patinadora adolescente foi encontrada morta em um vale.</desc>
     <episode-num system="xmltv_ns">5.3.</episode-num>
@@ -1488,7 +1487,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250412143700 -0300" stop="20250412152800 -0300" channel="TNT SERIES HD">
+  <programme start="20250412141500 -0300" stop="20250412150500 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <desc lang="pt"> - A equipe investiga um caso de 1951, quando um marinheiro desapareceu e nunca mais foi chamado para assumir o posto depois do desembarque.</desc>
     <episode-num system="xmltv_ns">5.4.</episode-num>
@@ -1496,7 +1495,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250412152800 -0300" stop="20250412162100 -0300" channel="TNT SERIES HD">
+  <programme start="20250412150500 -0300" stop="20250412155600 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <desc lang="pt"> - O assassinato de uma mãe solteira que desapareceu em 1981 é investigado quando seu corpo é encontrado no porta-malas de um carro. O inquérito revela que a vítima trabalhava em uma revenda de carros falida.</desc>
     <episode-num system="xmltv_ns">5.5.</episode-num>
@@ -1504,7 +1503,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250412162100 -0300" stop="20250412170900 -0300" channel="TNT SERIES HD">
+  <programme start="20250412155600 -0300" stop="20250412164700 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <desc lang="pt"> - A equipe reabre o caso de um garoto de 12 anos que morreu em 1969, quando um detetive aposentado (que originalmente trabalhou no caso) recebe uma nova pista: um foguete de brinquedo com o nome da vítima.</desc>
     <episode-num system="xmltv_ns">5.6.</episode-num>
@@ -1512,7 +1511,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250412170900 -0300" stop="20250412180100 -0300" channel="TNT SERIES HD">
+  <programme start="20250412164700 -0300" stop="20250412173700 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <desc lang="pt"> - A equipe reabre um assassinato de 1989, no qual morreu uma jovem estrela da ópera russa que foi desertada e mandada para os Estados Unidos. Ela e sua família procuraram asilo na delegacia de polícia onde Nick Vera trabalhou.</desc>
     <episode-num system="xmltv_ns">5.7.</episode-num>
@@ -1520,7 +1519,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250412180100 -0300" stop="20250412181000 -0300" channel="TNT SERIES HD">
+  <programme start="20250412173700 -0300" stop="20250412174700 -0300" channel="TNT SERIES HD">
     <title lang="pt">Buzum</title>
     <sub-title lang="pt">Amores Passageiros</sub-title>
     <desc lang="pt"> - Ivo é um jovem despojado que viaja no Buzum ouvindo funk nas alturas. Alguns passageiros se incomodam com a atitude invasiva, mas Mariana parece se identificar com o gosto musical do rapaz.</desc>
@@ -1529,7 +1528,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250412181000 -0300" stop="20250412184000 -0300" channel="TNT SERIES HD">
+  <programme start="20250412174700 -0300" stop="20250412181500 -0300" channel="TNT SERIES HD">
     <title lang="pt">Mapa do Pop</title>
     <sub-title lang="pt">Filmes de Et</sub-title>
     <desc lang="pt"> - Um passeio pelo mundo do entretenimento através de locais icônicos da cultura pop. Locações, personagens, cenas inesquecíveis, hits de sucesso e filmes que atravessam gerações. Tudo isso é assunto para o Map...</desc>
@@ -1538,7 +1537,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250412184000 -0300" stop="20250412191200 -0300" channel="TNT SERIES HD">
+  <programme start="20250412181500 -0300" stop="20250412184600 -0300" channel="TNT SERIES HD">
     <title lang="pt">Mapa do Pop</title>
     <sub-title lang="pt">Filmes de Terror</sub-title>
     <desc lang="pt"> - Perseguições, monstros, situações aterrorizantes... É difícil entender, mas a gente adora filmes para tomar susto e morrer de medo.</desc>
@@ -1547,7 +1546,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250412191200 -0300" stop="20250412192200 -0300" channel="TNT SERIES HD">
+  <programme start="20250412184600 -0300" stop="20250412185600 -0300" channel="TNT SERIES HD">
     <title lang="pt">Buzum</title>
     <sub-title lang="pt">Você Por Aqui</sub-title>
     <desc lang="pt"> - Buzum é uma série de ficção inspirada nas incríveis histórias (sur)reais que ocorrem constantemente nos surpreendentes transportes públicos das metrópoles brasileiras.</desc>
@@ -1556,7 +1555,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250412192200 -0300" stop="20250412201100 -0300" channel="TNT SERIES HD">
+  <programme start="20250412185600 -0300" stop="20250412194800 -0300" channel="TNT SERIES HD">
     <title lang="pt">Um Dia Qualquer</title>
     <desc lang="pt"> - Numa festa do alto escalão de criminosos da contravenção, Maciel é cooptado por Menezes a expandir o projeto de caça-níqueis na favela de Penha e aproveitar a legalização temporária das maquininhas.</desc>
     <episode-num system="xmltv_ns">1.0.</episode-num>
@@ -1564,7 +1563,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250412201100 -0300" stop="20250412204400 -0300" channel="TNT SERIES HD">
+  <programme start="20250412194800 -0300" stop="20250412203200 -0300" channel="TNT SERIES HD">
     <title lang="pt">Um Dia Qualquer</title>
     <desc lang="pt"> - Codorna recebe a dura missão de Maciel para queimar os corpos dos porteiros e fica totalmente atordoado. Penha recebe no seu QG, Jéssica, a mãe do menino morto e o líder comunitário.</desc>
     <episode-num system="xmltv_ns">1.1.</episode-num>
@@ -1572,7 +1571,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250412204400 -0300" stop="20250412211700 -0300" channel="TNT SERIES HD">
+  <programme start="20250412203200 -0300" stop="20250412211700 -0300" channel="TNT SERIES HD">
     <title lang="pt">Um Dia Qualquer</title>
     <desc lang="pt"> - Codorna recebe a dura missão de Maciel para queimar os corpos dos porteiros e fica totalmente atordoado. Penha recebe no seu QG, Jéssica, a mãe do menino morto e o líder comunitário.</desc>
     <episode-num system="xmltv_ns">1.1.</episode-num>
@@ -1598,7 +1597,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250412215900 -0300" stop="20250412224900 -0300" channel="TNT SERIES HD">
+  <programme start="20250412215900 -0300" stop="20250412224800 -0300" channel="TNT SERIES HD">
     <title lang="pt">Pagan Peak</title>
     <desc lang="pt"> - O assassinato de sua colega Yela Antic perturba Ellie. Enquanto isso, Gedeon investiga mais a fundo o próprio passado.</desc>
     <episode-num system="xmltv_ns">2.0.</episode-num>
@@ -1606,7 +1605,7 @@
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250412224900 -0300" stop="20250412233500 -0300" channel="TNT SERIES HD">
+  <programme start="20250412224800 -0300" stop="20250412233600 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person Of Interest</title>
     <desc lang="pt"> - A equipe deverá proteger um pesquisador que tem facilidade com números e não faz a menor ideia de que seu número acaba de aparecer na Máquina.</desc>
     <episode-num system="xmltv_ns">3.4.</episode-num>
@@ -1614,7 +1613,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250412233500 -0300" stop="20250413002400 -0300" channel="TNT SERIES HD">
+  <programme start="20250412233600 -0300" stop="20250413002400 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person Of Interest</title>
     <desc lang="pt"> - Reese encontra seu maior fã quando um homem despretensioso que finge ser um detetive se depara com uma conspiração perigosa.</desc>
     <episode-num system="xmltv_ns">3.5.</episode-num>
@@ -1631,7 +1630,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250412002100 -0300" stop="20250412005900 -0300" channel="TNT HD">
+  <programme start="20250412002100 -0300" stop="20250412004200 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia Greg</sub-title>
     <desc lang="pt"> - Cansado de sempre ser culpado pelas estripulias da Tonya, Chris decide jogar video game depois da escola na casa de Greg.</desc>
@@ -1640,7 +1639,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250412005900 -0300" stop="20250412012000 -0300" channel="TNT HD">
+  <programme start="20250412004200 -0300" stop="20250412010300 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia Halloween</sub-title>
     <desc lang="pt"> - É Dia das Bruxas e Chris se anima quando outra garota o convida para uma festa a fantasia. Mas pode ser que Caruso já tenha planos para ele.</desc>
@@ -1649,7 +1648,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250412012000 -0300" stop="20250412014400 -0300" channel="TNT HD">
+  <programme start="20250412010300 -0300" stop="20250412012600 -0300" channel="TNT HD">
     <title lang="pt">Um Maluco no Pedaço</title>
     <sub-title lang="pt">Conversa de vendedor</sub-title>
     <desc lang="pt"> - O poder persuasivo de Will faz com que ele seja contratado como vendedor de carros em uma loja. Ao ver que consegue ter muito êxito neste meio, Will resolve deixar a faculdade para se dedicar exclusivamente à sua nova carreira.</desc>
@@ -1658,7 +1657,7 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250412014400 -0300" stop="20250412020900 -0300" channel="TNT HD">
+  <programme start="20250412012600 -0300" stop="20250412014900 -0300" channel="TNT HD">
     <title lang="pt">Um Maluco no Pedaço</title>
     <sub-title lang="pt">Juntando as escovas de dentes</sub-title>
     <desc lang="pt"> - Jazz anuncia que irá se casar com sua namorada, uma mulher que acaba de sair da prisão. Porém, ela dá em cima de Will várias vezes, e agora Will não sabe como alertar seu amigo sobre o comportamento duvidoso de sua no...</desc>
@@ -1667,7 +1666,7 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250412020900 -0300" stop="20250412023400 -0300" channel="TNT HD">
+  <programme start="20250412014900 -0300" stop="20250412021200 -0300" channel="TNT HD">
     <title lang="pt">Um Maluco no Pedaço</title>
     <sub-title lang="pt">Quanto maior a altura, maior o tombo</sub-title>
     <desc lang="pt"> - O pai superprotetor da Lisa quer assustar o Will para que eles não namorem.</desc>
@@ -1676,7 +1675,7 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250412023400 -0300" stop="20250412025600 -0300" channel="TNT HD">
+  <programme start="20250412021200 -0300" stop="20250412023400 -0300" channel="TNT HD">
     <title lang="pt">Um Maluco no Pedaço</title>
     <sub-title lang="pt">O passado bate à porta</sub-title>
     <desc lang="pt"> - Um antigo amor da faculdade de Philip, Janice, está de visita pela mansão, e Vivian fica com ciúmes. Will se interessa pela filha de Janice, Wendy, e dá em cima dela. Porém, é Janice quem flerta com o Will.</desc>
@@ -1685,46 +1684,40 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250412025600 -0300" stop="20250412044900 -0300" channel="TNT HD">
+  <programme start="20250412023400 -0300" stop="20250412041900 -0300" channel="TNT HD">
     <title lang="pt">O Vingador</title>
     <desc lang="pt"> - Dois policiais atuam na fronteira dos EUA com o México, no combate às drogas. Eles conseguem prender Memo Lucero, famoso líder do Cartel de Baja, o principal grupo traficante local.</desc>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250412044900 -0300" stop="20250412060000 -0300" channel="TNT HD">
-    <title lang="pt">Hellboy</title>
-    <desc lang="pt"> - No fim da 2ª Guerra Mundial, os nazistas usam magia negra. Em um ritual interrompido pelas forças aliadas, um garoto com aparência de demônio é encontrado. O garoto passa a ser chamado de Hellboy.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20250412060000 -0300" stop="20250412064300 -0300" channel="TNT HD">
-    <title lang="pt">Para Sempre Alice</title>
-    <desc lang="pt"> - Alice é uma linguista de sucesso, bem casada e mãe de três filhos. Mas de repente, um diagnóstico médico muda sua vida: tem Alzheimer precoce. Cada dia se transforma em uma luta, pessoal e familiar.</desc>
+  <programme start="20250412041900 -0300" stop="20250412071200 -0300" channel="TNT HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt"> - Entrevistas com grandes astros, além de curiosidades e tudo mais o que acontece por trás das cenas dos campeões de bilheteria e dos filmes mais comentados da atualidade.</desc>
+    <episode-num system="xmltv_ns">3.101.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250412064300 -0300" stop="20250412083700 -0300" channel="TNT HD">
+  <programme start="20250412071200 -0300" stop="20250412090200 -0300" channel="TNT HD">
     <title lang="pt">Tiras em Apuros</title>
     <desc lang="pt"> - Dois parceiros policiais de longa data investigam o roubo de um raro cartão de beisebol de 1952, realizado por um gângster impiedoso.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250412083700 -0300" stop="20250412091400 -0300" channel="TNT HD">
+  <programme start="20250412090200 -0300" stop="20250412093800 -0300" channel="TNT HD">
     <title lang="pt">De Olho Na Liga</title>
     <desc lang="pt"> - O De Olho na Liga é um resumo do que aconteceu de mais importante na semana na Liga dos Campeões da Europa. Os bastidores dos grandes jogos, os personagens mais marcantes das partidas, a festa das torcidas e as histórias.</desc>
   </programme>
-  <programme start="20250412091400 -0300" stop="20250412112300 -0300" channel="TNT HD">
+  <programme start="20250412093800 -0300" stop="20250412113900 -0300" channel="TNT HD">
     <title lang="pt">Hellboy</title>
     <desc lang="pt"> - No fim da 2ª Guerra Mundial, os nazistas usam magia negra. Em um ritual interrompido pelas forças aliadas, um garoto com aparência de demônio é encontrado. O garoto passa a ser chamado de Hellboy.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250412112300 -0300" stop="20250412114400 -0300" channel="TNT HD">
+  <programme start="20250412113900 -0300" stop="20250412120200 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia a Babá</sub-title>
     <desc lang="pt"> - Quando Julius e Rochelle têm uma noite de "encontro especial", eles contratam uma babá. Porém é Chris quem assume o controle quando ela sai para resolver um problema pessoal.</desc>
@@ -1733,7 +1726,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250412114400 -0300" stop="20250412120600 -0300" channel="TNT HD">
+  <programme start="20250412120200 -0300" stop="20250412122400 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia A Lavanderia</sub-title>
     <desc lang="pt"> - Quando Julius e Rochelle decidem comprar uma televisão nova, Chris deve levar seus irmãos em guerra para a lavanderia. As coisas pioram quando Tonya fica furiosa.</desc>
@@ -1742,7 +1735,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250412120600 -0300" stop="20250412122900 -0300" channel="TNT HD">
+  <programme start="20250412122400 -0300" stop="20250412124600 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia Comida de Ticket</sub-title>
     <desc lang="pt"> - Julius encontra 200 dólares em selos de comida, mas Rochelle fica muito envergonhada de que Sheila a veja pagando com os selos, e então ela gasta as economias da família.</desc>
@@ -1751,7 +1744,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250412122900 -0300" stop="20250412125200 -0300" channel="TNT HD">
+  <programme start="20250412124600 -0300" stop="20250412130800 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
     <desc lang="pt"> - Cansado de usar casacos de inverno "doados" por Drew, Chris decide que uma jaqueta de couro vai deixá-lo "ótimo", mas ele aprende o valor de cada dólar quando vai trabalhar com o pai para comprá-lo.</desc>
     <episode-num system="xmltv_ns">.11.</episode-num>
@@ -1759,100 +1752,99 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250412125200 -0300" stop="20250412144700 -0300" channel="TNT HD">
+  <programme start="20250412130800 -0300" stop="20250412145500 -0300" channel="TNT HD">
     <title lang="pt">Operação Sombra - Jack Ryan</title>
     <desc lang="pt"> - As emoções são infindáveis quando Ryan se vê numa perigosa rede de intrigas e espionagem. Jack precisa evoluir  de soldado a analista a detetive graduado, para deter um plano terrorista devastador contra os Estados Unidos.</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250412144700 -0300" stop="20250412173000 -0300" channel="TNT HD">
+  <programme start="20250412145500 -0300" stop="20250412173300 -0300" channel="TNT HD">
     <title lang="pt">Matrix Resurrections</title>
     <desc lang="pt"> - Retorne a um mundo de duas realidades: uma, a vida cotidiana; o outro, o que está por trás dele.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250412173000 -0300" stop="20250412194900 -0300" channel="TNT HD">
+  <programme start="20250412173300 -0300" stop="20250412195500 -0300" channel="TNT HD">
     <title lang="pt">Shazam!</title>
     <desc lang="pt"> - O universo cinematográfico da DC nos apresenta Billy Batson, um jovem órfão que, graças a um misterioso feiticeiro, se torna um super-herói dizendo "Shazam!"</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250412194900 -0300" stop="20250412220000 -0300" channel="TNT HD">
+  <programme start="20250412195500 -0300" stop="20250412220000 -0300" channel="TNT HD">
     <title lang="pt">Liga da Justiça</title>
     <desc lang="pt"> - Impulsionado pela restauração de sua fé na humanidade, Bruce Wayne convoca sua nova aliada Diana Prince para o combate contra um inimigo ainda maior, recém-despertado.</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250412220000 -0300" stop="20250413001200 -0300" channel="TNT HD">
+  <programme start="20250412220000 -0300" stop="20250413000500 -0300" channel="TNT HD">
     <title lang="pt">Adão Negro</title>
     <desc lang="pt"> - Quase 5.000 anos após ser agraciado com os poderes onipotentes dos deuses egípcios e preso com a mesma rapidez, Adão Negro alcança a liberdade de sua tumba terrena, pronto para liberar sua justiça no mundo moderno.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250411235200 -0300" stop="20250412013100 -0300" channel="SPACE HD">
+  <programme start="20250411235000 -0300" stop="20250412012900 -0300" channel="SPACE HD">
     <title lang="pt">A Freira</title>
     <desc lang="pt"> - Presa em um convento na Romênia, uma freira comete suicídio. Para investigar o caso, o Vaticano envia um padre  e uma noviça.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250412013100 -0300" stop="20250412030800 -0300" channel="SPACE HD">
+  <programme start="20250412012900 -0300" stop="20250412030300 -0300" channel="SPACE HD">
     <title lang="pt">Zumbilândia: Atire Duas Vezes</title>
     <desc lang="pt"> - As regras para sobreviver ao apocalipse zumbi foram atualizadas. Columbus, Tallahassee, Wichita e Little Rock devem enfrentar novos zumbis evoluídos e outros sobreviventes.</desc>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250412030800 -0300" stop="20250412045800 -0300" channel="SPACE HD">
+  <programme start="20250412030300 -0300" stop="20250412045000 -0300" channel="SPACE HD">
     <title lang="pt">Lanterna Verde</title>
     <desc lang="pt"> - Hal Jordan, um vaidoso piloto de provas, recebe um poderoso anel e é recrutado por um esquadrão intergalático chamado "Lanterna Verde" para lutar contra um feroz inimigo que ameaça acabar com o equilibrio do universo.</desc>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250412045800 -0300" stop="20250412060000 -0300" channel="SPACE HD">
-    <title lang="pt">Comando Justiceiro</title>
-    <desc lang="pt"> - Um especialista em grupos de operações especiais é contratado por um bilionário de Hong Kong para formar um grupo implacável que terá uma única missão: eliminar os criminosos mais notórios e perigosos d...</desc>
+  <programme start="20250412045000 -0300" stop="20250412054900 -0300" channel="SPACE HD">
+    <title lang="pt">Cuidado Com Quem Chama</title>
+    <desc lang="pt"> - Seis amigos contratam um médium para fazer uma sessão através de Zoom durante o bloqueio, mas obtêm muito mais do que eles negociaram, já que as coisas correm mal rapidamente.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250412060000 -0300" stop="20250412061500 -0300" channel="SPACE HD">
-    <title lang="pt">Movie Talk</title>
-    <desc lang="pt"> - Apresentado pelo experiente entrevistador,"Movie Talk with Peter Bart" é um exclusivo e aprofundado olhar sobre as carreiras dos atores e cineastas mais reconhecidos de Hollywood.</desc>
-    <episode-num system="xmltv_ns">5.101.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250412061500 -0300" stop="20250412070000 -0300" channel="SPACE HD">
+  <programme start="20250412054900 -0300" stop="20250412061500 -0300" channel="SPACE HD">
     <title lang="pt">Hollywood One on One</title>
     <desc lang="pt"> - Entrevistas com grandes astros, além de curiosidades e tudo mais o que acontece por trás das cenas dos campeões de bilheteria e dos filmes mais comentados da atualidade.</desc>
-    <episode-num system="xmltv_ns">5.101.</episode-num>
+    <episode-num system="xmltv_ns">4.101.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250412070000 -0300" stop="20250412085200 -0300" channel="SPACE HD">
+  <programme start="20250412061500 -0300" stop="20250412073700 -0300" channel="SPACE HD">
+    <title lang="pt">O Sótão</title>
+    <desc lang="pt"> - Um grupo de ex-presidiários, empregados de uma agencia de mudanças é convencido por seu estranho cliente, Vern Muller, a virar noite trabalhando para terminar o trabalho por um generoso bônus.</desc>
+    <rating system="Brazil">
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20250412073700 -0300" stop="20250412092700 -0300" channel="SPACE HD">
     <title lang="pt">10.000 A.C.</title>
     <desc lang="pt"> - As aventuras de um jovem caçador pré-histórico, que lidera um exército no deserto, enfrentando perigos para salvar sua amada das mãos de um maligno e poderoso guerreiro determinado a possuí-la.</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250412085200 -0300" stop="20250412110300 -0300" channel="SPACE HD">
+  <programme start="20250412092700 -0300" stop="20250412113700 -0300" channel="SPACE HD">
     <title lang="pt">Busca Frenética</title>
     <desc lang="pt"> - Após viajarem a Paris para uma conferência, a esposa de um médico desaparece repentinamente. Ele então é forçado a se envolver em uma rede de intrigas para conseguir encontrá-la.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250412110300 -0300" stop="20250412115500 -0300" channel="SPACE HD">
+  <programme start="20250412113700 -0300" stop="20250412122400 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <desc lang="pt"> - Um homem é encontrado num elevador panorâmico, morto com tiros no tórax e na cabeça. No chão do elevador são encontrados uma bituca de cigarro, clipes de papel e a arma do crime.</desc>
     <episode-num system="xmltv_ns">0.14.</episode-num>
@@ -1860,7 +1852,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250412115500 -0300" stop="20250412124300 -0300" channel="SPACE HD">
+  <programme start="20250412122400 -0300" stop="20250412131000 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <desc lang="pt"> - Um homem é baleado pelas costas e é encontrado em seu quintal. Seu vizinho admite que atirou nele, mas alega que foi em legítima defesa.</desc>
     <episode-num system="xmltv_ns">0.15.</episode-num>
@@ -1868,7 +1860,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250412124300 -0300" stop="20250412133400 -0300" channel="SPACE HD">
+  <programme start="20250412131000 -0300" stop="20250412135800 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <desc lang="pt"> - Os proprietários de uma loja que foi saqueada, encontram o corpo de um homem ao lado do cofre. A equipe do CSI chega para iniciar as investigações e encontra a vítima, de 40 anos, morta com vários golpes na cabeça.</desc>
     <episode-num system="xmltv_ns">0.16.</episode-num>
@@ -1876,7 +1868,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250412133400 -0300" stop="20250412142500 -0300" channel="SPACE HD">
+  <programme start="20250412135800 -0300" stop="20250412144500 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <desc lang="pt"> - Os corpos de um homem e de uma mulher, bem vestidos, são encontrados próximos a um estacionamento vazio, numa rua escura. A mulher está com o rosto na calçada, numa poça de sangue, ao lado de uma embalagem    com comida.</desc>
     <episode-num system="xmltv_ns">0.17.</episode-num>
@@ -1884,7 +1876,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250412142500 -0300" stop="20250412151800 -0300" channel="SPACE HD">
+  <programme start="20250412144500 -0300" stop="20250412153300 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <desc lang="pt"> - Grissom tem dificuldades em controlar suas emoções ao investigar o suposto sequestro de um bebê de uma rica família de Las Vegas, especialmente quando as evidências apontam para membros da família.</desc>
     <episode-num system="xmltv_ns">0.18.</episode-num>
@@ -1892,7 +1884,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250412151800 -0300" stop="20250412160700 -0300" channel="SPACE HD">
+  <programme start="20250412153300 -0300" stop="20250412162100 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <desc lang="pt"> - A equipe do CSI investiga um fatal acidente de carro envolvendo um homem surdo e tentam descobrir se o ocorrido realmente foi um acidente ou se foi um assassinato.</desc>
     <episode-num system="xmltv_ns">0.19.</episode-num>
@@ -1900,7 +1892,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250412160700 -0300" stop="20250412165700 -0300" channel="SPACE HD">
+  <programme start="20250412162100 -0300" stop="20250412170700 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <desc lang="pt"> - Grissom, Nick e Warrick investigam a brutal morte de um corredor que aparentemente foi morto por um leão das montanhas ou por um grande cachorro, e que teve todos os seus órgãos removidos com um bisturi.</desc>
     <episode-num system="xmltv_ns">0.20.</episode-num>
@@ -1908,7 +1900,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250412165700 -0300" stop="20250412174700 -0300" channel="SPACE HD">
+  <programme start="20250412170700 -0300" stop="20250412175500 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <desc lang="pt"> - Uma perseguição a um carro em alta velocidade termina com a polícia de Las Vegas encontrando duas garotas andando nuas pelas ruas, com uma cabeça decapitada em seu caminhão.</desc>
     <episode-num system="xmltv_ns">0.21.</episode-num>
@@ -1916,7 +1908,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250412174700 -0300" stop="20250412183500 -0300" channel="SPACE HD">
+  <programme start="20250412175500 -0300" stop="20250412184200 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <desc lang="pt"> - Grissom e sua equipe investigam o caso de uma mulher que foi estrangulada em sua casa, e que, aparentemente, é a terceira vítima de um serial-killer.</desc>
     <episode-num system="xmltv_ns">0.22.</episode-num>
@@ -1924,7 +1916,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250412183500 -0300" stop="20250412192500 -0300" channel="SPACE HD">
+  <programme start="20250412184200 -0300" stop="20250412192800 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <desc lang="pt"> - Grissom e sua equipe são chamados após o rei dos cassinos de Las Vegas, Tony Braun, um conhecido viciado em drogas, ser encontrado morto em sua casa por um jardineiro.</desc>
     <episode-num system="xmltv_ns">1.0.</episode-num>
@@ -1932,7 +1924,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250412192500 -0300" stop="20250412201200 -0300" channel="SPACE HD">
+  <programme start="20250412192800 -0300" stop="20250412201400 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <desc lang="pt"> - Quando uma aluna de uma faculdade desaparece sem deixar nenhuma pista, após arrumar suas malas para retornar para sua casa, a equipe do CSI corre contra o tempo na tentativa de descobrir o que aconteceu com ela.</desc>
     <episode-num system="xmltv_ns">1.1.</episode-num>
@@ -1940,7 +1932,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250412201200 -0300" stop="20250412210000 -0300" channel="SPACE HD">
+  <programme start="20250412201400 -0300" stop="20250412210000 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <desc lang="pt"> - Grissom investiga um possível suicídio numa construção. Contra a vontade do xerife local, Grissom insiste em tentar descobrir a verdade.</desc>
     <episode-num system="xmltv_ns">1.2.</episode-num>
@@ -1948,7 +1940,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250412210000 -0300" stop="20250412214700 -0300" channel="SPACE HD">
+  <programme start="20250412210000 -0300" stop="20250412214500 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <desc lang="pt"> - Quando um arrogante jogador de futebol é encontrado morto no colégio local, a equipe do CSI é chamada para investigar o caso.</desc>
     <episode-num system="xmltv_ns">1.3.</episode-num>
@@ -1956,7 +1948,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250412214700 -0300" stop="20250412223200 -0300" channel="SPACE HD">
+  <programme start="20250412214500 -0300" stop="20250412222900 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <desc lang="pt"> - A equipe do CSI fica perplexa com dois casos bizarros, num episódio complexo. Um caso envolve um apartamento abandonado que tem gotas de sangue pelas paredes.</desc>
     <episode-num system="xmltv_ns">1.4.</episode-num>
@@ -1964,7 +1956,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250412223200 -0300" stop="20250413002700 -0300" channel="SPACE HD">
+  <programme start="20250412222900 -0300" stop="20250413001600 -0300" channel="SPACE HD">
     <title lang="pt">Miss Bala</title>
     <desc lang="pt"> - Após presenciar o sequestro de sua amiga Suzu, Gloria, uma maquiadora de Los Angeles que acaba envolvida nas disputas entre cartéis na fronteira com o México.</desc>
     <rating system="Brazil">
@@ -3505,7 +3497,8 @@
   </programme>
   <programme start="20250412023000 -0300" stop="20250412033000 -0300" channel="TV BRASIL">
     <title lang="pt">Guardiões da Vida Selvagem</title>
-    <desc lang="pt"> - Vamos acompanhar aqueles que se dedicam a proteger e aprender sobre algumas das espécies mais icônicas da África. Seguindo os desafios do dia a dia, descobrimos mais sobre o comportamento dos animais selvagens.</desc>
+    <sub-title lang="pt">O Retorno dos Caçadores</sub-title>
+    <desc lang="pt"> - O Parque Nacional da Planície de Liuwa é uma grande reserva localizada na África do Sul. Remota e selvagem, é lar de enormes manadas de gnus e zebras, com predadores como leões e guepardos espiando sob a grama.</desc>
     <episode-num system="xmltv_ns">1.101.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
@@ -3529,7 +3522,8 @@
   </programme>
   <programme start="20250412050000 -0300" stop="20250412053000 -0300" channel="TV BRASIL">
     <title lang="pt">Brasil Visto de Cima</title>
-    <desc lang="pt"> - Através de imagens feitas em helicópteros e drones, surgem ângulos, visões e reflexões sobre os encantos, as belezas, as curiosidades e as contradições de um país imenso e cheio de surpresas.</desc>
+    <sub-title lang="pt">Caribe Brasileiro - Maceió/Alagoas</sub-title>
+    <desc lang="pt"> - O país tem muitas praias lindas e cristalinas, mas poucos locais podem ser chamados de "caribe brasileiro". Aqui tudo é sempre muito verde e azul, um paraíso com muitas praias e incríveis piscinas naturais.</desc>
     <episode-num system="xmltv_ns">4.101.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
@@ -3537,7 +3531,8 @@
   </programme>
   <programme start="20250412053000 -0300" stop="20250412060000 -0300" channel="TV BRASIL">
     <title lang="pt">Brasil Visto de Cima</title>
-    <desc lang="pt"> - Através de imagens feitas em helicópteros e drones, surgem ângulos, visões e reflexões sobre os encantos, as belezas, as curiosidades e as contradições de um país imenso e cheio de surpresas.</desc>
+    <sub-title lang="pt">Serra Gaúcha</sub-title>
+    <desc lang="pt"> - Uma das regiões mais visitadas, e lugar de clima temperado mas povo quente, a Serra Gaúcha é ainda mais bela vista de cima, especialmente se voarmos sobre as duas principais atrações da região.</desc>
     <episode-num system="xmltv_ns">4.101.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
@@ -3776,15 +3771,18 @@
     </rating>
   </programme>
   <programme start="20250412133000 -0300" stop="20250412140000 -0300" channel="TV BRASIL">
-    <title lang="pt">Meu Pedaço do Brasil</title>
-    <desc lang="pt"> - A cada episódio, uma cidade turística do país e suas principais atrações são apresentados através do olhar de moradores e guias de turismo locais.</desc>
+    <title lang="pt">Meu Pedaço Do Brasil</title>
+    <sub-title lang="pt">Teresina</sub-title>
+    <desc lang="pt"> - O Meu Pedaço do Brasil viaja para Teresina, capital do Piauí. O programa visita locais históricos, como o Museu do Piauí, que conta com um importante acervo da arte produzida no estado.</desc>
+    <episode-num system="xmltv_ns">12.101.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
   <programme start="20250412140000 -0300" stop="20250412143000 -0300" channel="TV BRASIL">
     <title lang="pt">Brasil Visto de Cima</title>
-    <desc lang="pt"> - Através de imagens feitas em helicópteros e drones, surgem ângulos, visões e reflexões sobre os encantos, as belezas, as curiosidades e as contradições de um país imenso e cheio de surpresas.</desc>
+    <sub-title lang="pt">Costa dos Coqueiros - Litoral Norte da Bahia e Divisa com Sergipe</sub-title>
+    <desc lang="pt"> - Praias, rios, Mata Atlântica e muitas histórias pelo caminho. O Brasil Visto de Cima te leva à Costa dos Coqueiros, entre os estados da Bahia e Sergipe.</desc>
     <episode-num system="xmltv_ns">13.101.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
@@ -19627,6 +19625,22 @@
       <value>[12]</value>
     </rating>
   </programme>
+  <programme start="20250412130000 -0300" stop="20250412152959 -0300" channel="sportv-4-k">
+    <title lang="pt">Bundesliga: Bayern De Munique x Borussia Dortmund - ao vivo</title>
+    <sub-title lang="pt">29ª Rodada</sub-title>
+    <desc lang="pt">Acompanhe todos os incríveis jogos da Bundesliga, o maior torneio alemão tá no sportv!</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20250412200000 -0300" stop="20250412205959 -0300" channel="sportv-4-k">
+    <title lang="pt">Aquecimento sportv - ao vivo</title>
+    <desc lang="pt"> - Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes, aqui no sportv!</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20250412210000 -0300" stop="20250412225959 -0300" channel="sportv-4-k">
+    <title lang="pt">Brasileirão: Vasco x Sport - ao vivo</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
   <programme start="20250411230035 -0300" stop="20250412000121 -0300" channel="sportv">
     <title lang="pt">Campeonato Brasileiro Feminino De Futebol: Sport x Flamengo</title>
     <desc lang="pt">Assista mais um jogão do Brasileirão Feminino! Tem muita torcida e bola na rede. Venha torcer aqui no sportv
@@ -19716,7 +19730,7 @@
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250412090810 -0300" stop="20250412102957 -0300" channel="sportv">
+  <programme start="20250412090810 -0300" stop="20250412103000 -0300" channel="sportv">
     <title lang="pt">Troca de Passes</title>
     <desc lang="pt"> - Felipe Diniz, Carlos Eduardo Mansur e Alex Meschini troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada. Veja os melhores momentos, tire as dúvidas daquele lance polêmico acompanhe a repercussão com jogadores e treinadores no calor do jogo. Aqui ninguém fica em cima do muro.</desc>
     <category lang="en">sports (general)</category>
@@ -19743,7 +19757,7 @@
     <desc lang="pt">Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes, aqui no sportv!</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250412182159 -0300" stop="20250412184559 -0300" channel="sportv">
+  <programme start="20250412182159 -0300" stop="20250412192059 -0300" channel="sportv">
     <title lang="pt">VT - Brasileirão: Vitória x Flamengo</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <category lang="en">football/soccer</category>
@@ -19806,20 +19820,20 @@
     <desc lang="pt"> - Acompanhe como está indo os Jogos de Los Angeles em 2028. toda semana, o programa traz entrevistas, atualidades, termômetro de competições e informações do mundo Olímpico com Marcelo Barreto e Fabi Alvim</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250412080858 -0300" stop="20250412095445 -0300" channel="sportv-2">
+  <programme start="20250412080858 -0300" stop="20250412100159 -0300" channel="sportv-2">
     <title lang="pt">VT - NBB: Franca x Vasco</title>
     <desc lang="pt">É o maior e melhor basquete do mundo aqui no sportv! Tá na NBB, tá no sportv!  
 </desc>
     <category lang="en">team sports</category>
     <previously-shown />
   </programme>
-  <programme start="20250412095451 -0300" stop="20250412135405 -0300" channel="sportv-2">
+  <programme start="20250412100206 -0300" stop="20250412140630 -0300" channel="sportv-2">
     <title lang="pt">Copa do Mundo Ginástica Artística - ao vivo</title>
     <sub-title lang="pt">Final - Osijek, Cro</sub-title>
     <desc lang="pt">As maiores atletas da Ginástica se encontram na Copa do mundo de Ginástica e você acompanha aqui no sportv!</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250412135407 -0300" stop="20250412150424 -0300" channel="sportv-2">
+  <programme start="20250412140635 -0300" stop="20250412163325 -0300" channel="sportv-2">
     <title lang="pt">VT - Superliga Feminina: Fluminense x Sesi-Bauru</title>
     <sub-title lang="pt">Quartas de Final - Jogo 3</sub-title>
     <desc lang="pt">O sportv é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa, tá no sportv! 
@@ -19827,18 +19841,18 @@
     <category lang="en">team sports</category>
     <previously-shown />
   </programme>
-  <programme start="20250412163000 -0300" stop="20250412172959 -0300" channel="sportv-2">
+  <programme start="20250412163327 -0300" stop="20250412174537 -0300" channel="sportv-2">
     <title lang="pt">Hello LA</title>
     <desc lang="pt"> - Acompanhe como está indo os Jogos de Los Angeles em 2028. toda semana, o programa traz entrevistas, atualidades, termômetro de competições e informações do mundo Olímpico com Marcelo Barreto e Fabi Alvim</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250412173000 -0300" stop="20250412175459 -0300" channel="sportv-2">
+  <programme start="20250412174540 -0300" stop="20250412180820 -0300" channel="sportv-2">
     <title lang="pt">Super Vôlei - 2025 - ao vivo</title>
     <desc lang="pt"> - Aqui a competição é fora de quadra! As grandes estrelas competem no mini-game aqui no sportv!
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250412175500 -0300" stop="20250412202959 -0300" channel="sportv-2">
+  <programme start="20250412180821 -0300" stop="20250412202959 -0300" channel="sportv-2">
     <title lang="pt">Superliga Masculina: Guarulhos x Cruzeiro - ao vivo</title>
     <sub-title lang="pt">Quartas de Final - Jogo 2</sub-title>
     <desc lang="pt">O sportv é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa, tá no sportv! </desc>
@@ -19959,7 +19973,7 @@ de artes marciais</desc>
 </desc>
     <previously-shown />
   </programme>
-  <programme start="20250412090311 -0300" stop="20250412095509 -0300" channel="sportv-3">
+  <programme start="20250412090311 -0300" stop="20250412095506 -0300" channel="sportv-3">
     <title lang="pt">VT - STU Pro Tour: Final Street Masculino - Porto Alegre-RS</title>
     <sub-title lang="pt">Final</sub-title>
     <desc lang="pt">As feras do skate estão aqui no sportv! Tá no STU, tá no sportv!
@@ -19967,13 +19981,13 @@ de artes marciais</desc>
 </desc>
     <previously-shown />
   </programme>
-  <programme start="20250412095510 -0300" stop="20250412175724 -0300" channel="sportv-3">
+  <programme start="20250412095510 -0300" stop="20250412165544 -0300" channel="sportv-3">
     <title lang="pt">WSL: Etapa Punta Roca - ao vivo</title>
     <sub-title lang="pt">La Libertad, El Savador</sub-title>
     <desc lang="pt">As maiores emoções do Circuito Mundial de Skate, você acompanha aqui no sportv!</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250412175726 -0300" stop="20250412185740 -0300" channel="sportv-3">
+  <programme start="20250412165547 -0300" stop="20250412175601 -0300" channel="sportv-3">
     <title lang="pt">Circuito Mundial Vôlei de Praia: Saquarema-RJ - ao vivo</title>
     <sub-title lang="pt">Semifinal Feminina</sub-title>
     <desc lang="pt">Os grandes nomes do Vôlei de Praia Mundial estão no Circuito Mundial de Vôlei de Praia! Assista os melhores jogos, aqui no sportv. Tá no Circuito Mundial de Vôlei de Praia, tá no sportv!
@@ -19981,7 +19995,7 @@ de artes marciais</desc>
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250412185741 -0300" stop="20250412200240 -0300" channel="sportv-3">
+  <programme start="20250412175602 -0300" stop="20250412190431 -0300" channel="sportv-3">
     <title lang="pt">Circuito Mundial Vôlei de Praia: Saquarema-RJ - ao vivo</title>
     <sub-title lang="pt">Semifinal Feminina</sub-title>
     <desc lang="pt">Os grandes nomes do Vôlei de Praia Mundial estão no Circuito Mundial de Vôlei de Praia! Assista os melhores jogos, aqui no sportv. Tá no Circuito Mundial de Vôlei de Praia, tá no sportv!
@@ -19989,7 +20003,7 @@ de artes marciais</desc>
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250412200000 -0300" stop="20250412202959 -0300" channel="sportv-3">
+  <programme start="20250412190433 -0300" stop="20250412192909 -0300" channel="sportv-3">
     <title lang="pt">Baú do Esporte: Lendas - Marta</title>
     <desc lang="pt">Quer reviver aquele jogo inesquecível? Saber o que seu ídolo sentiu na hora do gol decisivo? O Baú do Esporte traz diariamente os grandes momentos e personagens que marcaram a história esportiva do Brasil e do mundo.</desc>
     <category lang="en">sports (general)</category>
@@ -20288,7 +20302,7 @@ de artes marciais</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250412111732 -0300" stop="20250412114737 -0300" channel="multishow">
+  <programme start="20250412111732 -0300" stop="20250412114736 -0300" channel="multishow">
     <title lang="pt">Tô de Graça</title>
     <sub-title lang="pt">Prova de Amor Também Dói</sub-title>
     <desc lang="pt"> - Graça quer fazer uma surpresa para Moreira e faz uma tatuagem com o nome dele no alto do glúteo, mas na hora H descobre que errou e tatuou o nome de Moacir.</desc>
@@ -20296,7 +20310,7 @@ de artes marciais</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250412114739 -0300" stop="20250412121730 -0300" channel="multishow">
+  <programme start="20250412114739 -0300" stop="20250412121732 -0300" channel="multishow">
     <title lang="pt">Reclame</title>
     <desc lang="pt"> - Tudo sobre o mundo da comunicação: entrevistas com grandes publicitários, pensadores, criativos, cobertura dos maiores festivais de comunicação e muito mais.</desc>
     <episode-num system="xmltv_ns">18..</episode-num>
@@ -20344,7 +20358,7 @@ de artes marciais</desc>
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250412144441 -0300" stop="20250412151242 -0300" channel="multishow">
+  <programme start="20250412144441 -0300" stop="20250412151804 -0300" channel="multishow">
     <title lang="pt">Bar do Gogó</title>
     <sub-title lang="pt">Salgadinho</sub-title>
     <desc lang="pt"> - Paulinho Gogó e o astro do pagode falam sobre projetos, perrengues na estrada e óculos na testa. Além disso, Salgadinho empolga a plateia cantando seus grandes sucessos.</desc>
@@ -20352,7 +20366,7 @@ de artes marciais</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250412152100 -0300" stop="20250412153859 -0300" channel="multishow">
+  <programme start="20250412151807 -0300" stop="20250412153900 -0300" channel="multishow">
     <title lang="pt">Big Brother Brasil 25 - Rede B - ao vivo</title>
     <sub-title lang="pt">Big Brother Brasil 25 – Rede BBB</sub-title>
     <desc lang="pt"> - Big Brother Brasil 25 – Rede BBB</desc>
@@ -20361,7 +20375,7 @@ de artes marciais</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250412154000 -0300" stop="20250412161059 -0300" channel="multishow">
+  <programme start="20250412153902 -0300" stop="20250412160957 -0300" channel="multishow">
     <title lang="pt">Tô de Graça</title>
     <sub-title lang="pt">Que Falta!</sub-title>
     <desc lang="pt"> - Sentindo falta dos filhos que não a visitam mais, Graça finge estar doente para que eles apareçam.</desc>
@@ -20369,7 +20383,7 @@ de artes marciais</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250412161100 -0300" stop="20250412164059 -0300" channel="multishow">
+  <programme start="20250412160959 -0300" stop="20250412164012 -0300" channel="multishow">
     <title lang="pt">Tô de Graça</title>
     <sub-title lang="pt">De Volta Pro Passado</sub-title>
     <desc lang="pt"> - Em seu aniversário, Graça fica presa no funicular da comunidade durante uma tempestade e seu assento é atingido por um raio.</desc>
@@ -20377,7 +20391,7 @@ de artes marciais</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250412164100 -0300" stop="20250412171159 -0300" channel="multishow">
+  <programme start="20250412164015 -0300" stop="20250412171106 -0300" channel="multishow">
     <title lang="pt">Tô de Graça</title>
     <sub-title lang="pt">Ninguém Entra e Ninguém Sai</sub-title>
     <desc lang="pt"> - Após descobrir que Sonaira a traiu, Marraia descredita das mulheres e decide se jogar nos braços de um rapaz, Maranhão. Graça o conhece e desconfia de seu caráter.</desc>
@@ -20385,7 +20399,7 @@ de artes marciais</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250412171200 -0300" stop="20250412174259 -0300" channel="multishow">
+  <programme start="20250412171108 -0300" stop="20250412173204 -0300" channel="multishow">
     <title lang="pt">Tô de Graça</title>
     <sub-title lang="pt">Passando O Pano</sub-title>
     <desc lang="pt"> - Irritada que todos os filhos foram embora mas continuam usando sua máquina de lavar roupa, Graça resolve fazer a roupa dos filhos de pano de chão e vender no sinal.</desc>
@@ -20737,7 +20751,7 @@ de artes marciais</desc>
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250412165248 -0300" stop="20250412171543 -0300" channel="gnt">
+  <programme start="20250412165248 -0300" stop="20250412171408 -0300" channel="gnt">
     <title lang="pt">Avisa Lá Que Eu Vou</title>
     <sub-title lang="pt">Uruana</sub-title>
     <desc lang="pt"> - Paulo vai até Uruana, em Goiás, participar da Festa da Melancia, a festa anual que celebra o sucesso da colheita da melancia.</desc>
@@ -20960,7 +20974,7 @@ de artes marciais</desc>
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250412102602 -0300" stop="20250412111223 -0300" channel="viva">
+  <programme start="20250412102602 -0300" stop="20250412111224 -0300" channel="viva">
     <title lang="pt">O Segredo De Feriha</title>
     <desc lang="pt"> - Yavuz leva Sanem para sua casa e bola plano para ter ações do hotel. Emir e Feriha colocam em pratos limpos a última noite juntos. Aysun fala com Feriha e mexe com seu coração.</desc>
     <episode-num system="xmltv_ns">.172.</episode-num>
@@ -21005,7 +21019,7 @@ de artes marciais</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250412152700 -0300" stop="20250412161459 -0300" channel="viva">
+  <programme start="20250412152700 -0300" stop="20250412161727 -0300" channel="viva">
     <title lang="pt">Caras &amp; Bocas</title>
     <sub-title lang="pt">Caras E Bocas</sub-title>
     <desc lang="pt"> - Dafne e Gabriel têm seus caminhos cruzados novamente, 15 anos após serem separados por uma armação do avô dela.  A reaproximação, porém, põe em risco os planos da megera Judith.</desc>
@@ -21013,7 +21027,7 @@ de artes marciais</desc>
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250412161500 -0300" stop="20250412164459 -0300" channel="viva">
+  <programme start="20250412161732 -0300" stop="20250412165240 -0300" channel="viva">
     <title lang="pt">Tapas e Beijos</title>
     <sub-title lang="pt">Um Suposto Aniversário Estremece A Amizade De Armane E Jorge</sub-title>
     <desc lang="pt"> - A série Tapas &amp; Beijos mostra as aventuras da conturbada vida amorosa de Fátima e Sueli. Elas trabalham na Djalma Noivas, em Copacabana, e sonham com seus príncipes.</desc>
@@ -21021,7 +21035,7 @@ de artes marciais</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250412165000 -0300" stop="20250412171959 -0300" channel="viva">
+  <programme start="20250412165244 -0300" stop="20250412172259 -0300" channel="viva">
     <title lang="pt">Tapas e Beijos</title>
     <sub-title lang="pt">Fátima E Sueli Viram Vítimas De Seus Amores</sub-title>
     <desc lang="pt"> - A série Tapas &amp; Beijos mostra as aventuras da conturbada vida amorosa de Fátima e Sueli. Elas trabalham na Djalma Noivas, em Copacabana, e sonham com seus príncipes.</desc>
@@ -21301,7 +21315,7 @@ de artes marciais</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250412150045 -0300" stop="20250412162959 -0300" channel="canal-brasil">
+  <programme start="20250412150045 -0300" stop="20250412163148 -0300" channel="canal-brasil">
     <title lang="pt">Democracia em Preto e Branco</title>
     <desc lang="pt"> - 1982. A MPB sofria com a censura, o rock brasileiro florescia e o clube Corinthians passava por um período turbulento. O filme mostra como música, esporte e política se encontraram para mudar a história do país.</desc>
     <rating system="Brazil">
@@ -21525,7 +21539,7 @@ de artes marciais</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250412104148 -0300" stop="20250412111004 -0300" channel="canal-off">
+  <programme start="20250412104148 -0300" stop="20250412111005 -0300" channel="canal-off">
     <title lang="pt">Europa Por Elas</title>
     <sub-title lang="pt">O Início da viagem</sub-title>
     <desc lang="pt"> - As meninas aterrizam na Europa e prometem que será uma aventura espetacular. Esse episódio é um resumo de tudo que viverão na temporada, saindo de Figueira da Foz, Portugal, com destino a Hossegor, França.</desc>
@@ -21582,7 +21596,7 @@ de artes marciais</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250412145016 -0300" stop="20250412152259 -0300" channel="canal-off">
+  <programme start="20250412145016 -0300" stop="20250412152348 -0300" channel="canal-off">
     <title lang="pt">Off Docs</title>
     <sub-title lang="pt">Meu Nome É João Chianca</sub-title>
     <desc lang="pt"> - Um brasileiro que chegou como um meteoro à elite do surfe, experimentou altos e baixos, lutou e conseguiu se levantar. O nome dele é João Chianca.</desc>
@@ -21590,7 +21604,7 @@ de artes marciais</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250412152300 -0300" stop="20250412155259 -0300" channel="canal-off">
+  <programme start="20250412152349 -0300" stop="20250412155332 -0300" channel="canal-off">
     <title lang="pt">Off Docs</title>
     <sub-title lang="pt">3 Days</sub-title>
     <desc lang="pt"> - Documentário sobre o surfista Luke Dillon e um historico swell na Ilha de Nias, Indonésia.</desc>
@@ -21598,7 +21612,7 @@ de artes marciais</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250412155300 -0300" stop="20250412162159 -0300" channel="canal-off">
+  <programme start="20250412155334 -0300" stop="20250412162322 -0300" channel="canal-off">
     <title lang="pt">Off Docs</title>
     <sub-title lang="pt">Between Rivers</sub-title>
     <desc lang="pt"> - A lenda colombiana do salto de penhasco Orlando Duque volta depois de 20 anos à sua terra natal para uma viagem cultural através do Vale do Cauca, com o objetivo de conscientizar sobre a necessidade de conservar os tesouros naturais da região.</desc>
@@ -21606,7 +21620,7 @@ de artes marciais</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250412162200 -0300" stop="20250412164359 -0300" channel="canal-off">
+  <programme start="20250412162324 -0300" stop="20250412164457 -0300" channel="canal-off">
     <title lang="pt">Off Docs</title>
     <sub-title lang="pt">The Filer Creek Expedition</sub-title>
     <desc lang="pt"> - Um time liderdo por Ed Muggridge faz a primeira descida da Filer Creek, uma corredeira canadense de 66 km que vai to topo da montanha ao oceano Pacífico.</desc>
@@ -21614,7 +21628,7 @@ de artes marciais</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250412164400 -0300" stop="20250412170659 -0300" channel="canal-off">
+  <programme start="20250412164459 -0300" stop="20250412170752 -0300" channel="canal-off">
     <title lang="pt">Off Docs</title>
     <sub-title lang="pt">Pushing Mzanzi</sub-title>
     <desc lang="pt"> - Leticia Bufoni e Aldana Bertran exploram a emergente cena de skate feminino da África do Sul, e conhecem a lenda Melissa Williams e uma nova onda de riders.</desc>
@@ -21622,7 +21636,7 @@ de artes marciais</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250412170700 -0300" stop="20250412174659 -0300" channel="canal-off">
+  <programme start="20250412170754 -0300" stop="20250412174659 -0300" channel="canal-off">
     <title lang="pt">Off Docs</title>
     <sub-title lang="pt">Beyond The Noise</sub-title>
     <desc lang="pt"> - Os surfistas Noah Lane e Harrison Roach se aventuram pelas ondas do mar do norte em uma jornada de autodesconhecimento.
@@ -21982,7 +21996,7 @@ de artes marciais</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250412153924 -0300" stop="20250412163659 -0300" channel="bis">
+  <programme start="20250412153924 -0300" stop="20250412163721 -0300" channel="bis">
     <title lang="pt">Multishow Ao Vivo - Ivete Sangalo 20 Anos</title>
     <sub-title lang="pt">Palco Principal</sub-title>
     <desc lang="pt"> - A toda poderosa celebra 20 anos de história com muito axé e alegria na sua cidade. Música pra pular!
@@ -21991,7 +22005,7 @@ de artes marciais</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250412163700 -0300" stop="20250412172459 -0300" channel="bis">
+  <programme start="20250412163724 -0300" stop="20250412172459 -0300" channel="bis">
     <title lang="pt">Sensation, Angels &amp; Demons</title>
     <sub-title lang="pt">Palco Principal Rebatida Terça</sub-title>
     <desc lang="pt"> - Apresentação de EDM com David Guetta, Sam Feldt, Don Diablo, Yellow Claw e Nicky Romero.</desc>
@@ -22293,7 +22307,7 @@ instagramáveis na região e dos melhores lugares para comer e fazer compras.</d
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250412113150 -0300" stop="20250412115755 -0300" channel="modo-viagem">
+  <programme start="20250412113150 -0300" stop="20250412115756 -0300" channel="modo-viagem">
     <title lang="pt">A Vida É Uma Passagem</title>
     <sub-title lang="pt">Grécia – Míconos</sub-title>
     <desc lang="pt"> - Neste episódio, Anne Bueno conhece Míconos e faz uma visita a um Beach Club, onde dá dicas de espaços
@@ -22381,7 +22395,7 @@ com uma diversidade paisagística impressionante.
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250412155845 -0300" stop="20250412160832 -0300" channel="modo-viagem">
+  <programme start="20250412155845 -0300" stop="20250412163320 -0300" channel="modo-viagem">
     <title lang="pt">Hotéis Incríveis-T11</title>
     <sub-title lang="pt">Fazenda do Serrote, Nanii Hotel e Grande Hotel Termas de Araxá</sub-title>
     <desc lang="pt"> - Iniciamos a temporada em Minas Gerais, na Fazenda do Serrote. Depois seguimos para o litoral do Rio Grande do Norte, no Nanii Hotel. E finalizamos no Grande Hotel Termas de Araxá.</desc>
@@ -22390,7 +22404,7 @@ com uma diversidade paisagística impressionante.
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250412163300 -0300" stop="20250412170559 -0300" channel="modo-viagem">
+  <programme start="20250412163323 -0300" stop="20250412170632 -0300" channel="modo-viagem">
     <title lang="pt">Hotéis Incríveis-T11</title>
     <sub-title lang="pt">Hotel Carroção, Castelo Saint Andrews e Rancho do Peixe</sub-title>
     <desc lang="pt"> - Iniciamos em Tatuí, no Hotel Carroção. Depois seguimos para Gramado, no Castelo Saint Andrews. E finalizamos a rota na Vila do Preá, no Rancho do Peixe que fica no Ceará.</desc>
@@ -22399,7 +22413,7 @@ com uma diversidade paisagística impressionante.
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250412170600 -0300" stop="20250412173659 -0300" channel="modo-viagem">
+  <programme start="20250412170637 -0300" stop="20250412173738 -0300" channel="modo-viagem">
     <title lang="pt">Hotéis Incríveis-T11</title>
     <sub-title lang="pt">BA’RA Hotel, Confraria Colonial Hotel Boutique e MaPlage Hotel - île</sub-title>
     <desc lang="pt"> - Viajando até a região litorânea de João Pessoa, vamos conhecer o
@@ -22409,7 +22423,7 @@ BA’RA Hotel. Em seguida, vamos à Confraria Colonial Hotel Boutique. E finaliz
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250412173700 -0300" stop="20250412181259 -0300" channel="modo-viagem">
+  <programme start="20250412173741 -0300" stop="20250412181259 -0300" channel="modo-viagem">
     <title lang="pt">Hotéis Incríveis-T11</title>
     <sub-title lang="pt">Grand Amazon Expedition, HCM Hotel e Hotel Boutique Quebra-Noz</sub-title>
     <desc lang="pt"> - Iniciamos na Floresta Amazônica, no Grand Amazon Expedition. Depois vamos até João Pessoa, conhecer o HCM Hotel. Finalizamos em Campos do Jordão, no Hotel Boutique Quebra-Noz.</desc>
@@ -22821,19 +22835,19 @@ BA’RA Hotel. Em seguida, vamos à Confraria Colonial Hotel Boutique. E finaliz
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250412082832 -0300" stop="20250412092854 -0300" channel="premiere">
+  <programme start="20250412082832 -0300" stop="20250412092850 -0300" channel="premiere">
     <title lang="pt">VT - Brasileirão: Vitória x Flamengo</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250412092855 -0300" stop="20250412102943 -0300" channel="premiere">
+  <programme start="20250412092855 -0300" stop="20250412102942 -0300" channel="premiere">
     <title lang="pt">VT - Brasileirão: Sport x Palmeiras</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250412102946 -0300" stop="20250412112928 -0300" channel="premiere">
+  <programme start="20250412102946 -0300" stop="20250412112927 -0300" channel="premiere">
     <title lang="pt">VT - Brasileirão: Internacional x Cruzeiro</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <category lang="en">football/soccer</category>
@@ -22863,14 +22877,14 @@ BA’RA Hotel. Em seguida, vamos à Confraria Colonial Hotel Boutique. E finaliz
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250412153628 -0300" stop="20250412160350 -0300" channel="premiere">
+  <programme start="20250412153628 -0300" stop="20250412163038 -0300" channel="premiere">
     <title lang="pt">Retrô - Brasileirão 2017: Corinthians x Palmeiras</title>
     <desc lang="pt">Reveja partidas históricas do seu esporte favorito!
 
 </desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250412163000 -0300" stop="20250412172959 -0300" channel="premiere">
+  <programme start="20250412163040 -0300" stop="20250412172959 -0300" channel="premiere">
     <title lang="pt">Retrô - Brasileirão 2016: Corinthians x Palmeiras</title>
     <sub-title lang="pt">26ª Rodada, realizado em 17/09/2016</sub-title>
     <desc lang="pt">Reveja partidas históricas do seu esporte favorito!
@@ -22982,13 +22996,13 @@ de artes marciais</desc>
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250412061206 -0300" stop="20250412090046 -0300" channel="combate">
+  <programme start="20250412061206 -0300" stop="20250412090043 -0300" channel="combate">
     <title lang="pt">VT - One Fight Night 30</title>
     <desc lang="pt"> - Terceira maior franquia de MMA mundial e a principal da Ásia, presente em mais de 170 países, o One é a liga esportiva de diferentes modalidades além do MMA como: Grappling, Muay Thai, Kickboxing.</desc>
     <category lang="en">sports (general)</category>
     <previously-shown />
   </programme>
-  <programme start="20250412090047 -0300" stop="20250412114318 -0300" channel="combate">
+  <programme start="20250412090047 -0300" stop="20250412114317 -0300" channel="combate">
     <title lang="pt">VT - Pfl World Tournament</title>
     <desc lang="pt"> - PFL é a liga esportiva mais inovadora e de crescimento mais rápido. A PFL é a única com o formato de temporada esportiva em que lutadores individuais competem na Temporada Regular, Playoffs e Campeonato pelo prêmio de 1 milhão de dólares.</desc>
     <category lang="en">sports (general)</category>
@@ -23000,25 +23014,25 @@ de artes marciais</desc>
     <category lang="en">sports (general)</category>
     <previously-shown />
   </programme>
-  <programme start="20250412143356 -0300" stop="20250412154836 -0300" channel="combate">
+  <programme start="20250412143356 -0300" stop="20250412163915 -0300" channel="combate">
     <title lang="pt">Boxe: Richard Torrez Jr. Vs Guido Vianello</title>
     <desc lang="pt"> - Top Rank, é uma das maiores promotora de lutas de boxe do mundo. Fundada em 1973, e por quase meio século, promove as lutas mais importantes de algumas lendas do boxe, como Muhammad Ali, Sugar Ray Leonard, Oscar de La Hoya, Floyd Mayweather, Tyson Fury e Manny Pacquiao.
 A top rank conta com a participação de grandes nobres da nobre arte da atualidade, entre eles os brasileiros e medalhistas olímpicos Robson Conceição e Esquiva Falcão.
 </desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250412165000 -0300" stop="20250412183459 -0300" channel="combate">
+  <programme start="20250412163917 -0300" stop="20250412182612 -0300" channel="combate">
     <title lang="pt">VT - Centurion FC 26</title>
     <desc lang="pt"> - Centurion Fc 26</desc>
     <category lang="en">sports (general)</category>
     <previously-shown />
   </programme>
-  <programme start="20250412183500 -0300" stop="20250412192959 -0300" channel="combate">
+  <programme start="20250412182615 -0300" stop="20250412191853 -0300" channel="combate">
     <title lang="pt">Baú Do Combate: Baú Emanuel Navarrete x Robson Conceição</title>
     <desc lang="pt">Baú Emanuel Navarrete X Robson Conceição</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250412193000 -0300" stop="20250412211459 -0300" channel="combate">
+  <programme start="20250412191855 -0300" stop="20250412210444 -0300" channel="combate">
     <title lang="pt">Boxe: Mikaela Mayer Vs Sandy Ryan</title>
     <desc lang="pt"> - Top Rank, é uma das maiores promotora de lutas de boxe do mundo. Fundada em 1973, e por quase meio século, promove as lutas mais importantes de algumas lendas do boxe, como Muhammad Ali, Sugar Ray Leonard, Oscar de La Hoya, Floyd Mayweather, Tyson Fury e Manny Pacquiao.
 A top rank conta com a participação de grandes nobres da nobre arte da atualidade, entre eles os brasileiros e medalhistas olímpicos Robson Conceição e Esquiva Falcão.
@@ -33779,6 +33793,520 @@ de artes marciais</desc>
     <desc lang="pt">PFL é a liga esportiva mais inovadora e de crescimento mais rápido. A PFL é a única com o formato de temporada esportiva em que lutadores individuais competem na Temporada Regular, Playoffs e Campeonato pelo prêmio de 1 milhão de dólares.</desc>
     <category lang="en">sports (general)</category>
   </programme>
+  <programme start="20250416000000 -0300" stop="20250416005959 -0300" channel="multishow">
+    <title lang="pt">Big Brother Brasil 25 – Ao Vivo - ao vivo</title>
+    <desc lang="pt"> - Big Brother Brasil 25 – Ao Vivo</desc>
+    <category lang="en">live broadcast</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416010000 -0300" stop="20250416012959 -0300" channel="multishow">
+    <title lang="pt">Tô de Graça</title>
+    <sub-title lang="pt">Festa Surpresa</sub-title>
+    <desc lang="pt"> - Graça está ficando surda, mas se recusa a ir ao médico.</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416013000 -0300" stop="20250416022759 -0300" channel="multishow">
+    <title lang="pt">Vai que Cola</title>
+    <sub-title lang="pt">Será Que Maicol É</sub-title>
+    <desc lang="pt"> - Ferdinando está muito animado com a vinda de Brito, seu affair, mas que ainda não saiu do armário. Ele tem um campeonato de futevolei em Cabo Frio e o concierge vai de "assessor". Enquanto isso, Jessica está com sérias dúvidas sobre a masculinidade de Maicol.</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416022800 -0300" stop="20250416024759 -0300" channel="multishow">
+    <title lang="pt">Big Brother Brasil 25 - Rede B - ao vivo</title>
+    <sub-title lang="pt">Big Brother Brasil 25 – Rede BBB</sub-title>
+    <desc lang="pt"> - Big Brother Brasil 25 – Rede BBB</desc>
+    <category lang="en">live broadcast</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416024800 -0300" stop="20250416034759 -0300" channel="multishow">
+    <title lang="pt">Big Brother Brasil 25 – Big Show</title>
+    <desc lang="pt"> - Big Brother Brasil 25 - Big Show</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416034800 -0300" stop="20250416035759 -0300" channel="multishow">
+    <title lang="pt">Humor Multishow</title>
+    <sub-title lang="pt">A Festa de Inauguração</sub-title>
+    <desc lang="pt"> - A família finalmente chega à mansão de Sid! Dona Jô se torna a gerente do Sofrência Bar e propõe uma grande festa de inauguração, mas nem tudo sai como o esperado.</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416035900 -0300" stop="20250416040159 -0300" channel="multishow">
+    <title lang="pt">TVZ</title>
+    <sub-title lang="pt">Usher Feat. Alicia Keys - My Boo</sub-title>
+    <desc lang="pt"> - Usher &amp; Alicia Keys - My Boo (Sony Music)</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416040200 -0300" stop="20250416040459 -0300" channel="multishow">
+    <title lang="pt">TVZ</title>
+    <sub-title lang="pt">Os Garotin - Queda Livre</sub-title>
+    <desc lang="pt"> - OS GAROTIN - QUEDA LIVRE (MANGOMUSIK)</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416040800 -0300" stop="20250416041059 -0300" channel="multishow">
+    <title lang="pt">TVZ</title>
+    <sub-title lang="pt">Zé Neto &amp; Cristiano - Oi Balde</sub-title>
+    <desc lang="pt"> - ZÉ NETO &amp; CRISTIANO - OI BALDE (SOM LIVRE)</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416041100 -0300" stop="20250416041359 -0300" channel="multishow">
+    <title lang="pt">TVZ</title>
+    <sub-title lang="pt">Simone Mendes - Me Ama Ou Me Larga</sub-title>
+    <desc lang="pt"> - SIMONE MENDES - ME AMA OU ME LARGA (UNIVERSAL MUSIC)</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416041400 -0300" stop="20250416041659 -0300" channel="multishow">
+    <title lang="pt">TVZ</title>
+    <sub-title lang="pt">Justin Bieber Feat. Daniel Caesar &amp; Giveon - Peaches</sub-title>
+    <desc lang="pt"> - JUSTIN BIEBER FEAT. DANIEL CAESAR &amp; GIVEON - PEACHES (UNIVERSAL MUSIC)</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416042300 -0300" stop="20250416042559 -0300" channel="multishow">
+    <title lang="pt">TVZ</title>
+    <sub-title lang="pt">Ferrugem E Sorriso Maroto - Apaguei Pra Todos</sub-title>
+    <desc lang="pt"> - FERRUGEM E SORRISO MAROTO - APAGUEI PRA TODOS (WARNER MUSIC)</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416042600 -0300" stop="20250416042859 -0300" channel="multishow">
+    <title lang="pt">TVZ</title>
+    <sub-title lang="pt">Lady Gaga - Love Game</sub-title>
+    <desc lang="pt"> - (UNIVERSAL MUSIC) - LADY GAGA - LOVE GAME</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416042900 -0300" stop="20250416045859 -0300" channel="multishow">
+    <title lang="pt">Os Suburbanos</title>
+    <sub-title lang="pt">Ellen Rocche</sub-title>
+    <desc lang="pt"> - Ellen Rocche desfila pelo palco e se envolve na polêmica sobre passas na comida no quadro “Vem que Trem”. Ao lado de Jefinho, é jurada dos jogos “Coreogracilda” e “Embromokê”.</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416045900 -0300" stop="20250416052859 -0300" channel="multishow">
+    <title lang="pt">Baby E Rose</title>
+    <desc lang="pt"> - Rose vai a um açougue de bairro e faz um teste para saber se as pessoas sabem identificar carne de “primeira” e “segunda”. Baby dá dicas de sedução e recebe a visita de sua avó Cida, do interior. Rose fica incomodada com a chegada de seu ex-marido Gilmar e o expulsa.</desc>
+    <episode-num system="xmltv_ns">.4.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250416052900 -0300" stop="20250416055859 -0300" channel="multishow">
+    <title lang="pt">Baby E Rose</title>
+    <desc lang="pt"> - Baby apresenta as diferentes etapas de passar um perfume. Silvia Salles, a diretora do programa Baby &amp; Rose, interrompe a gravação para dar umas dicas de dicção à Baby. Seu Zico, o pai de Rose, chega para consertar qualquer coisa que precisar no cenário.</desc>
+    <episode-num system="xmltv_ns">.3.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250416055900 -0300" stop="20250416062859 -0300" channel="multishow">
+    <title lang="pt">Truque De Humor</title>
+    <sub-title lang="pt">Apertando O Cinto</sub-title>
+    <desc lang="pt"> - Neste episódio de Truque de Humor, o comediante e mágico Gabriel Louchard fala sobre os tempos difíceis de crise para o brasileiro com muito humor, truqes de mágica e pegadinhas.</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416062900 -0300" stop="20250416065959 -0300" channel="multishow">
+    <title lang="pt">Truque De Humor</title>
+    <sub-title lang="pt">Amigos, Amigos, Risadas À Parte</sub-title>
+    <desc lang="pt"> - Gabriel fala sobre amizade no Truque de Humor, o apresentador faz uma mágica encomendada com dois amigos, se passa por um atendente em uma livraria e faz truques com passantes pelo Centro do Rio de Janeiro.</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416070000 -0300" stop="20250416073059 -0300" channel="multishow">
+    <title lang="pt">O Dono do Bar</title>
+    <sub-title lang="pt">Frango Assado</sub-title>
+    <desc lang="pt"> - Luciana acorda com desejo de jantar algo diferente e lembra Américo de um frango esquecido no freezer. Américo precisa dar seu jeito de preparar o tal frango e ainda por cima consertar o fogão da casa.</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416073100 -0300" stop="20250416075959 -0300" channel="multishow">
+    <title lang="pt">Central de Bicos</title>
+    <sub-title lang="pt">Uma luz no fim do tour</sub-title>
+    <desc lang="pt"> - Dalvanira apresenta Juan, amigo argentino e colecionador de antiguidades, que está querendo conhecer a cidade e contrata a Central de Bicos para serviço de guia turístico.	</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416080000 -0300" stop="20250416085959 -0300" channel="multishow">
+    <title lang="pt">Big Brother Brasil 25 – Big Show</title>
+    <desc lang="pt"> - Big Brother Brasil 25 - Big Show</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416090000 -0300" stop="20250416092959 -0300" channel="multishow">
+    <title lang="pt">Baby E Rose</title>
+    <desc lang="pt"> - Rose vai a um supermercado mostrar ao público que é um lugar cheio de oportunidades. Baby dá dicas de defesa pessoal na boate e recebe a visita de seu admirador Vilso. Rose recebe mais uma vez sua amiga Bernardete, que conta causos da sua vida de doméstica. 
+</desc>
+    <episode-num system="xmltv_ns">.5.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250416093000 -0300" stop="20250416093259 -0300" channel="multishow">
+    <title lang="pt">TVZ</title>
+    <sub-title lang="pt">Usher Feat. Alicia Keys - My Boo</sub-title>
+    <desc lang="pt"> - Usher &amp; Alicia Keys - My Boo (Sony Music)</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416093300 -0300" stop="20250416093559 -0300" channel="multishow">
+    <title lang="pt">TVZ</title>
+    <sub-title lang="pt">Os Garotin - Queda Livre</sub-title>
+    <desc lang="pt"> - OS GAROTIN - QUEDA LIVRE (MANGOMUSIK)</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416093900 -0300" stop="20250416094159 -0300" channel="multishow">
+    <title lang="pt">TVZ</title>
+    <sub-title lang="pt">Zé Neto &amp; Cristiano - Oi Balde</sub-title>
+    <desc lang="pt"> - ZÉ NETO &amp; CRISTIANO - OI BALDE (SOM LIVRE)</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416094200 -0300" stop="20250416094459 -0300" channel="multishow">
+    <title lang="pt">TVZ</title>
+    <sub-title lang="pt">Simone Mendes - Me Ama Ou Me Larga</sub-title>
+    <desc lang="pt"> - SIMONE MENDES - ME AMA OU ME LARGA (UNIVERSAL MUSIC)</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416094500 -0300" stop="20250416094759 -0300" channel="multishow">
+    <title lang="pt">TVZ</title>
+    <sub-title lang="pt">Justin Bieber Feat. Daniel Caesar &amp; Giveon - Peaches</sub-title>
+    <desc lang="pt"> - JUSTIN BIEBER FEAT. DANIEL CAESAR &amp; GIVEON - PEACHES (UNIVERSAL MUSIC)</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416095400 -0300" stop="20250416095659 -0300" channel="multishow">
+    <title lang="pt">TVZ</title>
+    <sub-title lang="pt">Ferrugem E Sorriso Maroto - Apaguei Pra Todos</sub-title>
+    <desc lang="pt"> - FERRUGEM E SORRISO MAROTO - APAGUEI PRA TODOS (WARNER MUSIC)</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416095700 -0300" stop="20250416095959 -0300" channel="multishow">
+    <title lang="pt">TVZ</title>
+    <sub-title lang="pt">Lady Gaga - Love Game</sub-title>
+    <desc lang="pt"> - (UNIVERSAL MUSIC) - LADY GAGA - LOVE GAME</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416100000 -0300" stop="20250416102959 -0300" channel="multishow">
+    <title lang="pt">Os Suburbanos</title>
+    <sub-title lang="pt">Reinaldo do Terra Samba</sub-title>
+    <desc lang="pt"> - Jefinho recebe Reinaldo, do Terra Samba. Ele participa do “Crossfit Suburbano” e passa seus ensinamentos de capoeirista para Jefinho no “Sabonete Menage".</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416103000 -0300" stop="20250416111759 -0300" channel="multishow">
+    <title lang="pt">Vila, A</title>
+    <sub-title lang="pt">Vila Fitness</sub-title>
+    <desc lang="pt"> - Rique resolve entrar no ramo de personal trainners inspirado em Isabela, que tem ido muito bem nesse mercado. Violeta se empolga e resolve se lançar como guru da alimentação saudável. Em pouco tempo, toda a Vila está mudando seus hábitos e sofrendo os "efeitos" desta grande mudança.</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416111800 -0300" stop="20250416114759 -0300" channel="multishow">
+    <title lang="pt">Uma Vila De Novela</title>
+    <sub-title lang="pt">Diretas Já!</sub-title>
+    <desc lang="pt"> - A instalação de uma placa na entrada da Vila gera polêmica e explode em uma eleição direta para prefeito do bairro. Da campanha eleitoral e boca de urna à presença VIP de Val Marchiori e um resultado inusitado, a vila se movimenta para escolher sua nova liderança.</desc>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250416114800 -0300" stop="20250416120759 -0300" channel="multishow">
+    <title lang="pt">Big Brother Brasil 25 - Rede B - ao vivo</title>
+    <sub-title lang="pt">Big Brother Brasil 25 – Rede BBB</sub-title>
+    <desc lang="pt"> - Big Brother Brasil 25 – Rede BBB</desc>
+    <category lang="en">live broadcast</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416120800 -0300" stop="20250416123659 -0300" channel="multishow">
+    <title lang="pt">Central de Bicos</title>
+    <sub-title lang="pt">Uma luz no fim do tour</sub-title>
+    <desc lang="pt"> - Dalvanira apresenta Juan, amigo argentino e colecionador de antiguidades, que está querendo conhecer a cidade e contrata a Central de Bicos para serviço de guia turístico.	</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416123700 -0300" stop="20250416130659 -0300" channel="multishow">
+    <title lang="pt">Os Suburbanos</title>
+    <sub-title lang="pt">Ellen Rocche</sub-title>
+    <desc lang="pt"> - Ellen Rocche desfila pelo palco e se envolve na polêmica sobre passas na comida no quadro “Vem que Trem”. Ao lado de Jefinho, é jurada dos jogos “Coreogracilda” e “Embromokê”.</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416130700 -0300" stop="20250416133659 -0300" channel="multishow">
+    <title lang="pt">O Dono do Bar</title>
+    <sub-title lang="pt">Segura meu Cajuzinho</sub-title>
+    <desc lang="pt"> - Américo está fazendo um bico e vendendo cajuzinhos pra fora, mas a gula da família é tanta que eles acabam comendo os ingredientes de Américo e ele precisa se virar com o que tem.</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416133700 -0300" stop="20250416142259 -0300" channel="multishow">
+    <title lang="pt">Vila, A</title>
+    <sub-title lang="pt">Rip</sub-title>
+    <desc lang="pt"> - RIQUE CONSEGUIU UM FREELA DE MOTORISTA DE UM DEPUTADO MUITO RICO E FAMOSO, CANÁRIO NETO, MAS UM DIA ANTES DE COMEÇAR O TRABALHO SAI NO JORNAL QUE ELE FALECEU. ENTÃO RIQUE COMEÇA A TRATAR TUDO COM A VIÚVA, CLAUDIA CANÁRIO, A QUAL CONTRATA RIQUE PARA CUIDAR DO TRANSPORTE DO CORPO.</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416142300 -0300" stop="20250416145259 -0300" channel="multishow">
+    <title lang="pt">Tô de Graça</title>
+    <sub-title lang="pt">Larga Meu Bofe</sub-title>
+    <desc lang="pt"> - Graça está preocupada com Maico, que apesar de ter finalmente engatado um romance com Pará, anda muito desanimado.</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416145300 -0300" stop="20250416152259 -0300" channel="multishow">
+    <title lang="pt">Tô de Graça</title>
+    <sub-title lang="pt">Prejuízo Em Dobro</sub-title>
+    <desc lang="pt"> - Graça decide investir nela mesma e compra um equipamento para malhar parcelado em 10 vezes. Ela coloca o aparelho no antigo quarto de Maico e doa tudo que o filho deixou por lá.</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416152300 -0300" stop="20250416154259 -0300" channel="multishow">
+    <title lang="pt">Big Brother Brasil 25 - Rede B - ao vivo</title>
+    <sub-title lang="pt">Big Brother Brasil 25 – Rede BBB</sub-title>
+    <desc lang="pt"> - Big Brother Brasil 25 – Rede BBB</desc>
+    <category lang="en">live broadcast</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416154300 -0300" stop="20250416155359 -0300" channel="multishow">
+    <title lang="pt">Humor Multishow</title>
+    <sub-title lang="pt">A Festa de Inauguração</sub-title>
+    <desc lang="pt"> - A família finalmente chega à mansão de Sid! Dona Jô se torna a gerente do Sofrência Bar e propõe uma grande festa de inauguração, mas nem tudo sai como o esperado.</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416155400 -0300" stop="20250416165059 -0300" channel="multishow">
+    <title lang="pt">Vai que Cola</title>
+    <sub-title lang="pt">Felizes Para Sempre</sub-title>
+    <desc lang="pt"> - Valdomiro e Sanderson resolvem leiloar algumas peças da oficina dizendo que são dos carros de pessoas famosas. Eles chamam Amin Kahder para convidar outros famosos para o leilão.</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416165100 -0300" stop="20250416173959 -0300" channel="multishow">
+    <title lang="pt">Vai que Cola</title>
+    <sub-title lang="pt">O Wi-fi do seu Al-Fi!</sub-title>
+    <desc lang="pt"> - A família Vai Que Cola enfrenta um de seus maiores desafios, ficar sem wifi em casa. Quando descobrem que Terezinha é a única com sinal, todos viram reféns das vontades dela.</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416174000 -0300" stop="20250416175959 -0300" channel="multishow">
+    <title lang="pt">Big Brother Brasil 25 - Rede B - ao vivo</title>
+    <sub-title lang="pt">Big Brother Brasil 25 – Rede BBB</sub-title>
+    <desc lang="pt"> - Big Brother Brasil 25 – Rede BBB</desc>
+    <category lang="en">live broadcast</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416180000 -0300" stop="20250416180259 -0300" channel="multishow">
+    <title lang="pt">TVZ</title>
+    <sub-title lang="pt">Belo – Pura Adrenalina</sub-title>
+    <desc lang="pt"> - Belo – Pura Adrenalina (Sony Music)</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416180300 -0300" stop="20250416180559 -0300" channel="multishow">
+    <title lang="pt">TVZ</title>
+    <sub-title lang="pt">Gloria Groove - Nosso Primeiro Beijo</sub-title>
+    <desc lang="pt"> - GLORIA GROOVE - NOSSO PRIMEIRO BEIJO (SB MUSIC)</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416180600 -0300" stop="20250416180859 -0300" channel="multishow">
+    <title lang="pt">TVZ</title>
+    <sub-title lang="pt">Thiaguinho - Domingando</sub-title>
+    <desc lang="pt"> - Thiaguinho - Domingando (Som Livre)</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416180900 -0300" stop="20250416181159 -0300" channel="multishow">
+    <title lang="pt">TVZ</title>
+    <sub-title lang="pt">Menos É Mais - Coração Partido</sub-title>
+    <desc lang="pt"> - MENOS É MAIS - CORAÇÃO PARTIDO (SOM LIVRE)</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416181200 -0300" stop="20250416181459 -0300" channel="multishow">
+    <title lang="pt">TVZ</title>
+    <sub-title lang="pt">Exaltasamba - Me Apaixonei Pela Pessoa Errada</sub-title>
+    <desc lang="pt"> - OS MELHORES CLIPES NACIONAIS E INTERNACIONAIS LEGENDADOS E DIVERSOS QUADROS SOBRE MÚSICA. TODAS AS SEGUNDAS E QUARTAS-FEIRAS LEXA RECEBE UM CONVIDADO, AO LADO DE THAYNARA OG, PARA BATER UM PAPO SOBRE AS NOVIDADES DO MUNDO POP. ÀS SEXTAS, LEXA E THAYNARA COMENTAM AS ESTREIAS DA SEMANA</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416181500 -0300" stop="20250416181759 -0300" channel="multishow">
+    <title lang="pt">TVZ</title>
+    <sub-title lang="pt">Mumuzinho - Eu Mereço Ser Feliz</sub-title>
+    <desc lang="pt"> - MUMUZINHO - EU MEREÇO SER FELIZ (UNIVERSAL MUSIC)</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416182700 -0300" stop="20250416182959 -0300" channel="multishow">
+    <title lang="pt">TVZ</title>
+    <sub-title lang="pt">Turma Do Pagode – Lancinho</sub-title>
+    <desc lang="pt"> - Turma Do Pagode – Lancinho (Sony Music)
+</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416183000 -0300" stop="20250416183659 -0300" channel="multishow">
+    <title lang="pt">Big Brother Brasil 25 - Rede B - ao vivo</title>
+    <sub-title lang="pt">Big Brother Brasil 25 – Rede BBB</sub-title>
+    <desc lang="pt"> - Big Brother Brasil 25 – Rede BBB</desc>
+    <category lang="en">live broadcast</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416183700 -0300" stop="20250416190659 -0300" channel="multishow">
+    <title lang="pt">Melhores Momentos Lollapalooza</title>
+    <sub-title lang="pt">Inhaler</sub-title>
+    <desc lang="pt"> - Confira a transmissão ao vivo do festival "Lollapalooza 2025" nos dias 28, 29 e 30 de março, diretamente do Autódromo de Interlagos/SP, no Multishow.</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416190700 -0300" stop="20250416191359 -0300" channel="multishow">
+    <title lang="pt">Big Brother Brasil 25 - Rede B - ao vivo</title>
+    <sub-title lang="pt">Big Brother Brasil 25 – Rede BBB</sub-title>
+    <desc lang="pt"> - Big Brother Brasil 25 – Rede BBB</desc>
+    <category lang="en">live broadcast</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416191500 -0300" stop="20250416194459 -0300" channel="multishow">
+    <title lang="pt">O Dono do Bar</title>
+    <sub-title lang="pt">Frango Assado</sub-title>
+    <desc lang="pt"> - Luciana acorda com desejo de jantar algo diferente e lembra Américo de um frango esquecido no freezer. Américo precisa dar seu jeito de preparar o tal frango e ainda por cima consertar o fogão da casa.</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416194500 -0300" stop="20250416195959 -0300" channel="multishow">
+    <title lang="pt">Big Brother Brasil 25 - Rede B - ao vivo</title>
+    <sub-title lang="pt">Big Brother Brasil 25 – Rede BBB</sub-title>
+    <desc lang="pt"> - Big Brother Brasil 25 – Rede BBB</desc>
+    <category lang="en">live broadcast</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416200000 -0300" stop="20250416205959 -0300" channel="multishow">
+    <title lang="pt">Mesacast BBB - ao vivo</title>
+    <sub-title lang="pt">Big Brother Brasil 25 – Mesacast</sub-title>
+    <desc lang="pt"> - O Mesacast BBB volta com exibição exclusiva no Multishow, de segunda a sábado, de 20h às 21h. Ed Gama, Vitor diCastro e Pitel se revezam no comando da atração.
+</desc>
+    <category lang="en">live broadcast</category>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250416210000 -0300" stop="20250416211959 -0300" channel="multishow">
+    <title lang="pt">Big Brother Brasil 25 - Rede B - ao vivo</title>
+    <sub-title lang="pt">Big Brother Brasil 25 – Rede BBB</sub-title>
+    <desc lang="pt"> - Big Brother Brasil 25 – Rede BBB</desc>
+    <category lang="en">live broadcast</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416212000 -0300" stop="20250416220859 -0300" channel="multishow">
+    <title lang="pt">Vai que Cola</title>
+    <sub-title lang="pt">Juninho Play</sub-title>
+    <desc lang="pt"> - Uma amiga de Ferdinando, Susan, aparece na pensão para malhar com o concierge e fugir de um cara que a está perseguindo. Esse cara é  Juninho Play. Ele chega a pensão, mas a morena está disfarçada do travesti mais famoso do Meier.</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416220900 -0300" stop="20250416225759 -0300" channel="multishow">
+    <title lang="pt">Vai que Cola</title>
+    <sub-title lang="pt">Arábias Fasion Week</sub-title>
+    <desc lang="pt"> - A família decide participar do Arábias Fashion Week, o festival de moda mais famoso da região. Alejandro e Ferdinando aproveitam para mostrar parte do acervo da "Bixa Comeu".</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416225800 -0300" stop="20250416232759 -0300" channel="multishow">
+    <title lang="pt">Tô de Graça</title>
+    <sub-title lang="pt">Pra Gringo É Mais Caro</sub-title>
+    <desc lang="pt"> - Com a notícia de uma excursão de turistas gringos no teleférico da comunidade, Graça prepara uma venda especial para ganhar dólares.</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416232800 -0300" stop="20250416235759 -0300" channel="multishow">
+    <title lang="pt">Tô de Graça</title>
+    <sub-title lang="pt">Garota Funicular</sub-title>
+    <desc lang="pt"> - Um concurso irá escolher a “Garota Funicular”, que fará uma campanha para atrair mais turistas para a comunidade. Graça e seus filhos se agitam para participar.</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250416235800 -0300" stop="20250417000959 -0300" channel="multishow">
+    <title lang="pt">Humor Multishow</title>
+    <sub-title lang="pt">Feliz Aniversário, Dona Jô</sub-title>
+    <desc lang="pt"> - É um dia feliz! Pera aí... é o dia do quê mesmo? Ninguém se lembra da data mais importante do ano para Dona Jô. Agora, vão ter que correr atrás do prejuízo antes que ela perceba!</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
   <programme start="20250415235500 -0300" stop="20250416004259 -0300" channel="gnt">
     <title lang="pt">Avisa Lá Que Eu Vou</title>
     <sub-title lang="pt">Amazônia Brasileira</sub-title>
@@ -36923,25 +37451,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
     <desc lang="pt"> - Acompanhe as principais notícias do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
-  <programme start="20250412102357 -0300" stop="20250412104802 -0300" channel="Novelas">
-    <title lang="pt">A Dona</title>
-    <desc lang="pt"> - Valentina é uma jovem que tem tudo para ser feliz e um noivo a quem ama intensamente. </desc>
-    <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">4.86.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250412105132 -0300" stop="20250412114356 -0300" channel="Novelas">
-    <title lang="pt">A Dona</title>
-    <desc lang="pt"> - Valentina é uma jovem que tem tudo para ser feliz e um noivo a quem ama intensamente. </desc>
-    <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">4.87.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250412114711 -0300" stop="20250412123933 -0300" channel="Novelas">
+  <programme start="20250412120250 -0300" stop="20250412123933 -0300" channel="Novelas">
     <title lang="pt">A Dona</title>
     <desc lang="pt"> - Valentina é uma jovem que tem tudo para ser feliz e um noivo a quem ama intensamente. </desc>
     <category lang="en">movie/drama (general)</category>
@@ -38471,7 +38981,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250419094304 -0300" stop="20250419102546 -0300" channel="Novelas">
+  <programme start="20250419094304 -0300" stop="20250419103514 -0300" channel="Novelas">
     <title lang="pt">A Dona</title>
     <desc lang="pt"> - Valentina é uma jovem que tem tudo para ser feliz e um noivo a quem ama intensamente. </desc>
     <category lang="en">movie/drama (general)</category>
@@ -38480,7 +38990,25 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250412102249 -0300" stop="20250412125423 -0300" channel="Silvio Santos">
+  <programme start="20250419103844 -0300" stop="20250419113108 -0300" channel="Novelas">
+    <title lang="pt">A Dona</title>
+    <desc lang="pt"> - Valentina é uma jovem que tem tudo para ser feliz e um noivo a quem ama intensamente. </desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">4.87.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250419113423 -0300" stop="20250419120833 -0300" channel="Novelas">
+    <title lang="pt">A Dona</title>
+    <desc lang="pt"> - Valentina é uma jovem que tem tudo para ser feliz e um noivo a quem ama intensamente. </desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">4.88.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250412114954 -0300" stop="20250412125423 -0300" channel="Silvio Santos">
     <title lang="pt">Programa Silvio Santos</title>
     <sub-title lang="pt">realizado em 12/10/2008</sub-title>
     <desc lang="pt">Um clássico da TV brasileira! Aviõezinhos, calouros, artistas e, claro, o patrão Silvio Santos!</desc>
@@ -39883,7 +40411,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[AL]</value>
     </rating>
   </programme>
-  <programme start="20250419095737 -0300" stop="20250419104057 -0300" channel="Silvio Santos">
+  <programme start="20250419095737 -0300" stop="20250419115828 -0300" channel="Silvio Santos">
     <title lang="pt">Programa Silvio Santos</title>
     <sub-title lang="pt">realizado em 05/10/2008</sub-title>
     <desc lang="pt">Um clássico da TV brasileira! Aviõezinhos, calouros, artistas e, claro, o patrão Silvio Santos!</desc>
@@ -39892,16 +40420,6 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
     <episode-num system="xmltv_ns">0.4.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250412101358 -0300" stop="20250412113641 -0300" channel="Pop">
-    <title lang="pt">Jogos Virtuais: O Início</title>
-    <sub-title lang="pt">Filme</sub-title>
-    <desc lang="pt"> - Cenk, um jovem gamer habilidoso, descoberto por um time profissional para enfrentar um campeonato.</desc>
-    <category lang="en">detective/thriller</category>
-    <episode-num system="xmltv_ns">.0.</episode-num>
-    <rating system="Brazil">
-      <value>[A12]</value>
     </rating>
   </programme>
   <programme start="20250412113806 -0300" stop="20250412132434 -0300" channel="Pop">
@@ -41286,7 +41804,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250419101451 -0300" stop="20250419103551 -0300" channel="Pop">
+  <programme start="20250419101451 -0300" stop="20250419121218 -0300" channel="Pop">
     <title lang="pt">Um Verão Inesquecível</title>
     <sub-title lang="pt">Filme</sub-title>
     <desc lang="pt"> - O acidente durante um rodeio envolve o pai de Kathy e interfere no seu maior sonho: a montaria.</desc>
@@ -41296,25 +41814,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[AL]</value>
     </rating>
   </programme>
-  <programme start="20250412102252 -0300" stop="20250412104814 -0300" channel="TV Zyn">
-    <title lang="pt">Beyblade X</title>
-    <desc lang="pt"> - Robin Kazami quer se tornar jogador profissional de Beyblade e chegar no topo da Torre X.</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20250412104817 -0300" stop="20250412111343 -0300" channel="TV Zyn">
-    <title lang="pt">Beyblade X</title>
-    <desc lang="pt"> - Robin Kazami quer se tornar jogador profissional de Beyblade e chegar no topo da Torre X.</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-  </programme>
-  <programme start="20250412111348 -0300" stop="20250412113926 -0300" channel="TV Zyn">
-    <title lang="pt">Beyblade X</title>
-    <desc lang="pt"> - Robin Kazami quer se tornar jogador profissional de Beyblade e chegar no topo da Torre X.</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-  </programme>
-  <programme start="20250412113933 -0300" stop="20250412120446 -0300" channel="TV Zyn">
+  <programme start="20250412115316 -0300" stop="20250412120446 -0300" channel="TV Zyn">
     <title lang="pt">Beyblade X</title>
     <sub-title lang="pt">4. Patrocínio bey</sub-title>
     <desc lang="pt"> - Robin Kazami quer se tornar jogador profissional de Beyblade e chegar no topo da Torre X.</desc>
@@ -45296,7 +45796,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250419101106 -0300" stop="20250419103351 -0300" channel="TV Zyn">
+  <programme start="20250419101106 -0300" stop="20250419104615 -0300" channel="TV Zyn">
     <title lang="pt">Beyblade X</title>
     <sub-title lang="pt">7. Time Zooganic</sub-title>
     <desc lang="pt"> - Robin Kazami quer se tornar jogador profissional de Beyblade e chegar no topo da Torre X.</desc>
@@ -45306,34 +45806,37 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250412101811 -0300" stop="20250412105139 -0300" channel="Saudade">
-    <title lang="pt">+Risadas</title>
-    <sub-title lang="pt">Especial Jô Soares</sub-title>
-    <desc lang="pt"> - No Dia Nacional do Humor, uma maratona de risoterapia com os grandes talentos da comédia brasileira!</desc>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
+  <programme start="20250419104620 -0300" stop="20250419111142 -0300" channel="TV Zyn">
+    <title lang="pt">Beyblade X</title>
+    <sub-title lang="pt">8. A máscara e a coroa</sub-title>
+    <desc lang="pt"> - Robin Kazami quer se tornar jogador profissional de Beyblade e chegar no topo da Torre X.</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
     <rating system="Brazil">
-      <value>[12]</value>
+      <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250412105404 -0300" stop="20250412111125 -0300" channel="Saudade">
-    <title lang="pt">+Risadas</title>
-    <sub-title lang="pt">Especial Nany People</sub-title>
-    <desc lang="pt"> - No Dia Nacional do Humor, uma maratona de risoterapia com os grandes talentos da comédia brasileira!</desc>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
+  <programme start="20250419111149 -0300" stop="20250419113702 -0300" channel="TV Zyn">
+    <title lang="pt">Beyblade X</title>
+    <sub-title lang="pt">9. ForjaBeys</sub-title>
+    <desc lang="pt"> - Robin Kazami quer se tornar jogador profissional de Beyblade e chegar no topo da Torre X.</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
     <rating system="Brazil">
-      <value>[14]</value>
+      <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250412111508 -0300" stop="20250412114258 -0300" channel="Saudade">
-    <title lang="pt">+Risadas</title>
-    <sub-title lang="pt">Especial Sylvia Massari</sub-title>
-    <desc lang="pt"> - No Dia Nacional do Humor, uma maratona de risoterapia com os grandes talentos da comédia brasileira!</desc>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
+  <programme start="20250419113705 -0300" stop="20250419120217 -0300" channel="TV Zyn">
+    <title lang="pt">Beyblade X</title>
+    <sub-title lang="pt">10. O mundo profissional</sub-title>
+    <desc lang="pt"> - Robin Kazami quer se tornar jogador profissional de Beyblade e chegar no topo da Torre X.</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
     <rating system="Brazil">
-      <value>[14]</value>
+      <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250412114258 -0300" stop="20250412120104 -0300" channel="Saudade">
+  <programme start="20250412115311 -0300" stop="20250412120104 -0300" channel="Saudade">
     <title lang="pt">+Risadas</title>
     <sub-title lang="pt">Especial Zé Vasconcelos</sub-title>
     <desc lang="pt"> - No Dia Nacional do Humor, uma maratona de risoterapia com os grandes talentos da comédia brasileira!</desc>
@@ -48137,13 +48640,24 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250419095205 -0300" stop="20250419102552 -0300" channel="Saudade">
+  <programme start="20250419095205 -0300" stop="20250419105550 -0300" channel="Saudade">
     <title lang="pt">Casa da Angélica</title>
     <sub-title lang="pt">realizado em 19/08/1993</sub-title>
     <desc lang="pt">Toda criançada tem um convite especial para uma visita mágica na “Casa da Angélica”!</desc>
     <category lang="en">entertainment programmes for 6 to 14</category>
     <date>19/08/1993</date>
     <episode-num system="xmltv_ns">0.8.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250419105600 -0300" stop="20250419120001 -0300" channel="Saudade">
+    <title lang="pt">Show Maravilha</title>
+    <sub-title lang="pt">realizado em 02/05/1992</sub-title>
+    <desc lang="pt">Mara vem em seu trenzinho para mostrar como é uma maravilha ser criança, no Show Maravilha!</desc>
+    <category lang="en">entertainment programmes for 6 to 14</category>
+    <date>02/05/1992</date>
+    <episode-num system="xmltv_ns">5.1255.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
