@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2025-04-12 15:40:03" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2025-04-12 16:45:04" generator-info-url="http://limaalef.com">
   <channel id="Claro TV+ 4K">
     <display-name lang="pt">Claro TV+ 4K</display-name>
   </channel>
@@ -143,6 +143,9 @@
   </channel>
   <channel id="premiere">
     <display-name lang="pt">premiere</display-name>
+  </channel>
+  <channel id="premiere-2">
+    <display-name lang="pt">premiere-2</display-name>
   </channel>
   <channel id="premiere-3">
     <display-name lang="pt">premiere-3</display-name>
@@ -18704,11 +18707,6 @@
     <desc lang="pt"> - </desc>
     <category lang="en">serious music/classical music</category>
   </programme>
-  <programme start="20250413000000 -0300" stop="20250413003000 -0300" channel="1765">
-    <title lang="pt">Repórter Eco</title>
-    <desc lang="pt"> - </desc>
-    <category lang="en">movie/drama (general)</category>
-  </programme>
   <programme start="20250412000000 -0300" stop="20250412003000 -0300" channel="1779">
     <title lang="pt">Senadoc: Libertárixs - Território e Brasilidade</title>
     <desc lang="pt"> - </desc>
@@ -18892,12 +18890,6 @@
     <desc lang="pt"> - </desc>
     <category lang="en">documentary</category>
   </programme>
-  <programme start="20250413000000 -0300" stop="20250413003000 -0300" channel="1779">
-    <title lang="pt">Tela Brasil: Guerras do Brasil.doc - A Guerra do Paraguai</title>
-    <desc lang="pt"> - </desc>
-    <category lang="en">documentary</category>
-    <episode-num system="xmltv_ns">.2.</episode-num>
-  </programme>
   <programme start="20250412000000 -0300" stop="20250412003000 -0300" channel="2302">
     <title lang="pt">Mulheres pela Independência</title>
     <desc lang="pt"> - </desc>
@@ -19055,11 +19047,6 @@
   </programme>
   <programme start="20250412233000 -0300" stop="20250413000000 -0300" channel="2302">
     <title lang="pt">Fala MDS</title>
-    <desc lang="pt"> - </desc>
-    <category lang="en">variety show</category>
-  </programme>
-  <programme start="20250413000000 -0300" stop="20250413003000 -0300" channel="2302">
-    <title lang="pt">Me conta Brasil</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
@@ -19532,7 +19519,7 @@
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20250412075000 -0300" stop="20250412082959 -0300" channel="tv-globo">
-    <title lang="pt">Pequenas Empresas &amp; Grandes Negócios</title>
+    <title lang="pt">Pequenas Empresas &amp;amp; Grandes Negócios</title>
     <desc lang="pt"> - Novidades e informação para quem quer investir e empreender no Brasil.</desc>
   </programme>
   <programme start="20250412083000 -0300" stop="20250412114459 -0300" channel="tv-globo">
@@ -19583,7 +19570,7 @@
   </programme>
   <programme start="20250412184000 -0300" stop="20250412192459 -0300" channel="tv-globo">
     <title lang="pt">Garota do Momento</title>
-    <desc lang="pt"> - No final da década de 1950, Beatriz chega ao Rio de Janeiro com o objetivo de reencontrar a mãe, Clarice. Seu caminho acaba cruzando com o da mimada Bia, jovem que foi criada como se fosse filha de Clarice graças a uma trama de armações e segredos. Novela de Alessandra Poggi, com direção artística de Natalia Grimberg.
+    <desc lang="pt"> - Carmem acolhe Beatriz. Tavinho avisa a Lígia que ela estreará na TV como garota-propaganda. A apresentação de Verônica Queen é um sucesso, mas Carlito desdenha do pai. Raimundo sabota a apresentação de Lígia. Lígia e Raimundo se beijam. Clarice pede que Beto a leve até Petrópolis para conversar com Beatriz.
 </desc>
     <rating system="Brazil">
       <value>[12]</value>
@@ -19596,7 +19583,8 @@
   </programme>
   <programme start="20250412194500 -0300" stop="20250412202959 -0300" channel="tv-globo">
     <title lang="pt">Volta Por Cima</title>
-    <desc lang="pt"> - Madá e Jão são os protagonistas da obra escrita por Claudia Souto, retratos dos brasileiros que não deixam a peteca cair, driblando as adversidades da vida com resiliência e coragem de seguir em frente.</desc>
+    <desc lang="pt"> - Osmar se apavora ao ver Marco. Gerson pega o celular de Roxelle. Aquiles avisa a Violeta sobre Osmar. Marco se surpreende com uma descoberta sobre o ex-marido de Violeta. Belisa pede para Marco perdoar Rodolfo. O jardineiro fala com Ruth sobre a ameaça que ela fez para Rodolfo anos atrás. Gigi comenta com Bernardo que denunciará Gerson à polícia. Alberto conta para Madalena que o estado de saúde de Doralice piorou. Violeta pede a ajuda de Rodolfo para salvar Osmar. Chico recebe uma proposta para sair do Rio de Janeiro. Gerson manda mensagem para Gigi e Neuza fingindo ser Roxelle. Osmar surpreende Violeta. 
+</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -19608,7 +19596,8 @@
   </programme>
   <programme start="20250412212000 -0300" stop="20250412222459 -0300" channel="tv-globo">
     <title lang="pt">Vale Tudo</title>
-    <desc lang="pt"> - Raquel é uma mulher batalhadora, típica mãe brasileira, que acredita que é possível ganhar a vida com integridade e de forma honesta. Já Maria de Fátima, sua filha, se dispõe a fazer qualquer coisa para alcançar o sucesso. A relação entre mãe e filha, com visões opostas sobre o caminho para se vencer na vida, desencadeia um embate: vale tudo para ser bem-sucedido? Escrita por Manuela Dias, baseada na obra de Gilberto Braga, Aguinaldo Silva e Leonor Bassères.</desc>
+    <desc lang="pt"> - Claudia pede explicações a Marco Aurélio. Helena conversa com Celina sobre Marco Aurélio. Solange tem um desentendimento com Afonso. Maria de Fátima diz a Solange que ela não prioriza o namoro. Maria de Fátima procura Rubinho para pedir ao pai que convença Raquel a parar de vender sanduíches. Raquel discute com Maria de Fátima. André convida Tiago para seu aniversário. Afonso se surpreende com Solange. Renato reencontra Rubinho. Maria de Fátima surpreende Sardinha e Solange quando eles comentam sobre ela.
+</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -19728,40 +19717,40 @@
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250412131122 -0300" stop="20250412152731 -0300" channel="sportv">
+  <programme start="20250412131122 -0300" stop="20250412155707 -0300" channel="sportv">
     <title lang="pt">Bundesliga: Bayern De Munique x Borussia Dortmund - ao vivo</title>
     <sub-title lang="pt">29ª Rodada</sub-title>
     <desc lang="pt">Acompanhe todos os incríveis jogos da Bundesliga, o maior torneio alemão tá no sportv!</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250412152735 -0300" stop="20250412172834 -0300" channel="sportv">
+  <programme start="20250412155708 -0300" stop="20250412175807 -0300" channel="sportv">
     <title lang="pt">Sportvnews: sportv News - ao vivo</title>
     <desc lang="pt">Inicie o dia atualizado com as notícias do mundo do esporte. Cada detalhe sobre o seu esporte preferido,  Os gols da rodada, as últimas do seu time, o que é notícia no Brasil e no Mundo contado de forma dinâmica por Mariana Fontes e André Loffredo</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250412172836 -0300" stop="20250412182610 -0300" channel="sportv">
+  <programme start="20250412175809 -0300" stop="20250412185543 -0300" channel="sportv">
     <title lang="pt">Pré-Jogo: Palmeiras x Corinthians - ao vivo</title>
     <desc lang="pt">Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes, aqui no sportv!</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250412182612 -0300" stop="20250412192557 -0300" channel="sportv">
+  <programme start="20250412185545 -0300" stop="20250412195530 -0300" channel="sportv">
     <title lang="pt">VT - Brasileirão: Vitória x Flamengo</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250412192600 -0300" stop="20250412194337 -0300" channel="sportv">
+  <programme start="20250412195533 -0300" stop="20250412201310 -0300" channel="sportv">
     <title lang="pt">Giro da Rodada: Brasileirão Feminino</title>
     <sub-title lang="pt">3ª Rodada</sub-title>
     <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol aqui o sportv!</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250412194339 -0300" stop="20250412204740 -0300" channel="sportv">
+  <programme start="20250412201312 -0300" stop="20250412211713 -0300" channel="sportv">
     <title lang="pt">Aquecimento sportv - ao vivo</title>
     <desc lang="pt"> - Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes, aqui no sportv!</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250412204742 -0300" stop="20250412223951 -0300" channel="sportv">
+  <programme start="20250412211715 -0300" stop="20250412225959 -0300" channel="sportv">
     <title lang="pt">Brasileirão: Vasco x Sport - ao vivo</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <category lang="en">live broadcast</category>
@@ -19968,13 +19957,43 @@ de artes marciais</desc>
 </desc>
     <previously-shown />
   </programme>
-  <programme start="20250412095510 -0300" stop="20250412150232 -0300" channel="sportv-3">
+  <programme start="20250412095510 -0300" stop="20250412145218 -0300" channel="sportv-3">
     <title lang="pt">WSL: Etapa Punta Roca - ao vivo</title>
     <sub-title lang="pt">La Libertad, El Savador</sub-title>
     <desc lang="pt">As maiores emoções do Circuito Mundial de Skate, você acompanha aqui no sportv!</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250412150236 -0300" stop="20250412160250 -0300" channel="sportv-3">
+  <programme start="20250412145222 -0300" stop="20250412152253 -0300" channel="sportv-3">
+    <title lang="pt">1/1 ONDA - 2023, A 0</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20250412152255 -0300" stop="20250412162904 -0300" channel="sportv-3">
+    <title lang="pt">1/1 ONDA, A 0</title>
+    <sub-title lang="pt">realizado em 09/09/2023</sub-title>
+    <category lang="en">sports (general)</category>
+    <date>09/09/2023</date>
+    <episode-num system="xmltv_ns">.1.</episode-num>
+  </programme>
+  <programme start="20250412162908 -0300" stop="20250412165754 -0300" channel="sportv-3">
+    <title lang="pt">1/1 ONDA - 2023, A 0</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">.3.</episode-num>
+  </programme>
+  <programme start="20250412165755 -0300" stop="20250412174318 -0300" channel="sportv-3">
+    <title lang="pt">1/1 AMAZING RIDERS 0</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20250412174320 -0300" stop="20250412175155 -0300" channel="sportv-3">
+    <title lang="pt">1/1 FERNANDO SCHERER CONTA SAGA DE LESÃO A MEDALHA EM SIDNEY2000</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250412175157 -0300" stop="20250412185211 -0300" channel="sportv-3">
     <title lang="pt">Circuito Mundial Vôlei de Praia: Saquarema-RJ - ao vivo</title>
     <sub-title lang="pt">Semifinal Feminina</sub-title>
     <desc lang="pt">Os grandes nomes do Vôlei de Praia Mundial estão no Circuito Mundial de Vôlei de Praia! Assista os melhores jogos, aqui no sportv. Tá no Circuito Mundial de Vôlei de Praia, tá no sportv!
@@ -19982,7 +20001,7 @@ de artes marciais</desc>
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250412160251 -0300" stop="20250412171120 -0300" channel="sportv-3">
+  <programme start="20250412185212 -0300" stop="20250412200041 -0300" channel="sportv-3">
     <title lang="pt">Circuito Mundial Vôlei de Praia: Saquarema-RJ - ao vivo</title>
     <sub-title lang="pt">Semifinal Feminina</sub-title>
     <desc lang="pt">Os grandes nomes do Vôlei de Praia Mundial estão no Circuito Mundial de Vôlei de Praia! Assista os melhores jogos, aqui no sportv. Tá no Circuito Mundial de Vôlei de Praia, tá no sportv!
@@ -19990,27 +20009,21 @@ de artes marciais</desc>
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250412171122 -0300" stop="20250412173843 -0300" channel="sportv-3">
+  <programme start="20250412200043 -0300" stop="20250412202804 -0300" channel="sportv-3">
     <title lang="pt">Baú do Esporte: Lendas - Marta</title>
     <desc lang="pt">Quer reviver aquele jogo inesquecível? Saber o que seu ídolo sentiu na hora do gol decisivo? O Baú do Esporte traz diariamente os grandes momentos e personagens que marcaram a história esportiva do Brasil e do mundo.</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250412173845 -0300" stop="20250412200424 -0300" channel="sportv-3">
+  <programme start="20250412202806 -0300" stop="20250412225345 -0300" channel="sportv-3">
     <title lang="pt">Campeonato Sul-Americano Sub-17: Colômbia x Brasil - ao vivo</title>
     <sub-title lang="pt">Final</sub-title>
     <desc lang="pt">Acompanhe aqui no sportv o Campeonato Sul-Americano  de Futebol Sub-17. As maiores seleções em busca da classificação para a Copa do Mundo de  Feminino Sub-17. 
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250412200427 -0300" stop="20250412223838 -0300" channel="sportv-3">
+  <programme start="20250412225348 -0300" stop="20250413012759 -0300" channel="sportv-3">
     <title lang="pt">VT - Grand Slam de Judô</title>
     <sub-title lang="pt">Finais - Tbilisi,Geórgia</sub-title>
-    <desc lang="pt">Veja as grandes estrelas internacionais do Judô aqui no sportv!</desc>
-    <previously-shown />
-  </programme>
-  <programme start="20250412223839 -0300" stop="20250413001756 -0300" channel="sportv-3">
-    <title lang="pt">VT - Grand Slam de Judô</title>
-    <sub-title lang="pt">Finais - Tbilisi, Geórgia</sub-title>
     <desc lang="pt">Veja as grandes estrelas internacionais do Judô aqui no sportv!</desc>
     <previously-shown />
   </programme>
@@ -20451,7 +20464,7 @@ de artes marciais</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250412200101 -0300" stop="20250412210105 -0300" channel="multishow">
+  <programme start="20250412200101 -0300" stop="20250412205959 -0300" channel="multishow">
     <title lang="pt">Mesacast BBB - ao vivo</title>
     <sub-title lang="pt">Big Brother Brasil 25 – Mesacast</sub-title>
     <desc lang="pt"> - O Mesacast BBB volta com exibição exclusiva no Multishow, de segunda a sábado, de 20h às 21h. Ed Gama, Vitor diCastro e Pitel se revezam no comando da atração.
@@ -20461,7 +20474,7 @@ de artes marciais</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250412210108 -0300" stop="20250412211738 -0300" channel="multishow">
+  <programme start="20250412210000 -0300" stop="20250412211859 -0300" channel="multishow">
     <title lang="pt">Big Brother Brasil 25 - Rede B - ao vivo</title>
     <sub-title lang="pt">Big Brother Brasil 25 – Rede BBB</sub-title>
     <desc lang="pt"> - Big Brother Brasil 25 – Rede BBB</desc>
@@ -20470,7 +20483,7 @@ de artes marciais</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250412211740 -0300" stop="20250412215444 -0300" channel="multishow">
+  <programme start="20250412211900 -0300" stop="20250412221059 -0300" channel="multishow">
     <title lang="pt">Vai que Cola</title>
     <sub-title lang="pt">Roninho Bill, O Galã Mágico</sub-title>
     <desc lang="pt"> - Eloísa está de volta a pensão. Ela conhece Zélio, o cobrador de ônibus com Narcolepsia. São inimigos na profissão, mas sentem uma atração muito forte um pelo o outro. Jessica e Terezinha estão muito animadas porque está chegando um novo morador a pensão. E esse novo morador é famoso, mas elas só não sabem pelo que.</desc>
@@ -20548,10 +20561,15 @@ de artes marciais</desc>
     <desc lang="pt"> - Notícias da manhã, debates interativos, previsão do tempo, prestação de serviços e colunas: consumidor, tecnologia, profissões, cultura e as datas marcantes.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250412120000 -0300" stop="20250412145959 -0300" channel="globonews">
+  <programme start="20250412120000 -0300" stop="20250412142959 -0300" channel="globonews">
     <title lang="pt">Jornal GloboNews - Edição do Meio-Dia - ao vivo</title>
     <desc lang="pt"> - As principais notícias do Brasil e do mundo.</desc>
     <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20250412143000 -0300" stop="20250412145959 -0300" channel="globonews">
+    <title lang="pt">Cidades e Soluções</title>
+    <desc lang="pt"> - Iniciativas bem-sucedidas no Brasil e no mundo que promovem a qualidade de vida e o uso inteligente dos recursos naturais.</desc>
+    <category lang="en">news/current affairs (general)</category>
   </programme>
   <programme start="20250412150000 -0300" stop="20250412172959 -0300" channel="globonews">
     <title lang="pt">Jornal GloboNews - Edição das 15h - ao vivo</title>
@@ -20560,13 +20578,20 @@ de artes marciais</desc>
   </programme>
   <programme start="20250412173000 -0300" stop="20250412175959 -0300" channel="globonews">
     <title lang="pt">Liderança S/A GloboNews</title>
-    <desc lang="pt"> - Presidentes de empresas e CEOs compartilham experiências, dificuldades e aprendizados sobre liderança. E contam como chegaram ao maior cargo da empresa.</desc>
+    <sub-title lang="pt">Liderança S/A - Luiza Helena Trajano e Fred Trajano - Magazine Luiza</sub-title>
+    <desc lang="pt"> - Luiza Helena Trajano e Fred Trajano falam sobre a história do Magazine Luiza. Eles contam também como se deu a transição de comando na empresa.</desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
-  <programme start="20250412180000 -0300" stop="20250412195959 -0300" channel="globonews">
+  <programme start="20250412180000 -0300" stop="20250412192959 -0300" channel="globonews">
     <title lang="pt">Jornal GloboNews - Edição das 18h - ao vivo</title>
     <desc lang="pt"> - Cobertura completa de tudo o que foi destaque ao longo do dia, no Brasil e no Mundo.</desc>
     <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20250412193000 -0300" stop="20250412195959 -0300" channel="globonews">
+    <title lang="pt">Balaio GloboNews</title>
+    <sub-title lang="pt">Balaio - Museu de Arte Moderna do Rio</sub-title>
+    <desc lang="pt"> - Elisabete Pacheco visita o Museu de Arte Moderna do Rio e conversa com diretores e artistas sobre as preciosidades do acervo.</desc>
+    <category lang="en">news/current affairs (general)</category>
   </programme>
   <programme start="20250412200000 -0300" stop="20250412212959 -0300" channel="globonews">
     <title lang="pt">Jornal GloboNews - Edição das 20h - ao vivo</title>
@@ -20574,8 +20599,8 @@ de artes marciais</desc>
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20250412213000 -0300" stop="20250412215959 -0300" channel="globonews">
-    <title lang="pt">Cidades e Soluções</title>
-    <desc lang="pt"> - Iniciativas bem-sucedidas no Brasil e no mundo que promovem a qualidade de vida e o uso inteligente dos recursos naturais.</desc>
+    <title lang="pt">Cidades e Soluções - A riqueza do lixo 2</title>
+    <desc lang="pt"> - O programa mostra o impacto da reciclagem na economia da cidade.</desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
   <programme start="20250412220000 -0300" stop="20250412225959 -0300" channel="globonews">
@@ -20784,7 +20809,7 @@ de artes marciais</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250412195044 -0300" stop="20250412202529 -0300" channel="gnt">
+  <programme start="20250412195044 -0300" stop="20250412203746 -0300" channel="gnt">
     <title lang="pt">Que Marravilha!</title>
     <sub-title lang="pt">Maria Beatriz</sub-title>
     <desc lang="pt"> - Maria Beatriz  não sabe se cursa gastronomia ou vai atrás do sonho de ser médica. Para ajudá-la a fazer sua escolha, Claude vai desafiar suas habilidades com uma receita de coxa de frango recheada. 
@@ -20793,7 +20818,7 @@ de artes marciais</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250412204100 -0300" stop="20250412212559 -0300" channel="gnt">
+  <programme start="20250412203750 -0300" stop="20250412212135 -0300" channel="gnt">
     <title lang="pt">Que Marravilha!</title>
     <sub-title lang="pt">Joaquim Lopes</sub-title>
     <desc lang="pt"> - Uma lista, duas receitas. O ator Joaquim Lopes prepara um bolo de carne em homenagem à sua avó. Já a receita preparada por Claude e Batista é um filé-mignon em crosta de dendê.</desc>
@@ -20801,7 +20826,7 @@ de artes marciais</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250412212600 -0300" stop="20250412221259 -0300" channel="gnt">
+  <programme start="20250412212137 -0300" stop="20250412220429 -0300" channel="gnt">
     <title lang="pt">Admiráveis Conselheiras</title>
     <sub-title lang="pt">Alcione</sub-title>
     <desc lang="pt"> - Astrid encontra Alcione e conhece de perto os segredos de alegria, sucesso e beleza da Rainha do Samba. Atenção: a Marrom não economiza em sabedoria de bem-viver.</desc>
@@ -21005,14 +21030,14 @@ de artes marciais</desc>
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250412144335 -0300" stop="20250412152656 -0300" channel="viva">
+  <programme start="20250412144335 -0300" stop="20250412152657 -0300" channel="viva">
     <title lang="pt">Plumas E Paetês</title>
     <desc lang="pt"> - Marcela disfarça sua tristeza com o noivado de Marcela e Renato. Kurlan se interessa por Melina. Raul conta para Lídia sobre o boato de Ângelo. Marcela atende à ligação de Renato</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250412152700 -0300" stop="20250412161727 -0300" channel="viva">
+  <programme start="20250412152700 -0300" stop="20250412161731 -0300" channel="viva">
     <title lang="pt">Caras &amp; Bocas</title>
     <sub-title lang="pt">Caras E Bocas</sub-title>
     <desc lang="pt"> - Dafne e Gabriel têm seus caminhos cruzados novamente, 15 anos após serem separados por uma armação do avô dela.  A reaproximação, porém, põe em risco os planos da megera Judith.</desc>
@@ -21076,7 +21101,7 @@ de artes marciais</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250412204901 -0300" stop="20250412211559 -0300" channel="viva">
+  <programme start="20250412204901 -0300" stop="20250412211817 -0300" channel="viva">
     <title lang="pt">Grande Família, A</title>
     <sub-title lang="pt">Os Malas</sub-title>
     <desc lang="pt"> - Bebel e Agostinho vão ao médico pela primeira vez para ver o bebê. Tuco acredita não ser o pai biológico de Nelsinho. Gina propõe namorar Fumaça e Tuco ao mesmo tempo.</desc>
@@ -21084,7 +21109,7 @@ de artes marciais</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250412211600 -0300" stop="20250412220059 -0300" channel="viva">
+  <programme start="20250412211821 -0300" stop="20250412215526 -0300" channel="viva">
     <title lang="pt">Grande Família, A</title>
     <sub-title lang="pt">Solteirinhos Da Silva</sub-title>
     <desc lang="pt"> - Agostinho e Bebel fazem a primeiro ultrassom do bebê. Tuco desconfia se é mesmo pai do Nelsinho. Lineu se diverte com a suposta vida de solteiro, aflorando os nervos de Nenê.</desc>
@@ -21092,7 +21117,7 @@ de artes marciais</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250412215400 -0300" stop="20250412223859 -0300" channel="viva">
+  <programme start="20250412215530 -0300" stop="20250412222659 -0300" channel="viva">
     <title lang="pt">Grande Família, A</title>
     <sub-title lang="pt">Corra que o bebê vem aí!</sub-title>
     <desc lang="pt"> - Bebel teme pelas mudanças que seu corpo terá após a gravidez. Nenê entra em alerta após receber previsão de uma Cartomante. Lineu desconfia de Nenê. Bebel viaja com Agostinho.</desc>
@@ -21322,14 +21347,14 @@ de artes marciais</desc>
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250412193500 -0300" stop="20250412212429 -0300" channel="canal-brasil">
+  <programme start="20250412193500 -0300" stop="20250412212425 -0300" channel="canal-brasil">
     <title lang="pt">Alemão 2</title>
     <desc lang="pt"> - No complexo do Alemão, o policial civil Machado e seus comandados executam uma missão secreta. Supervisionados pela delegada Amanda e seguindo as pistas de um informante, a ação sofre uma emboscada.</desc>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250412212430 -0300" stop="20250412212759 -0300" channel="canal-brasil">
+  <programme start="20250412212427 -0300" stop="20250412213009 -0300" channel="canal-brasil">
     <title lang="pt">Guard Dog &amp; Bill Plympton No Brasil</title>
     <sub-title lang="pt">Perdido em... Copacabana (como sobreviver na praia)</sub-title>
     <desc lang="pt"> - “Guard Dog e Bill Plympton no Brasil” é uma série de animação que nasce da premissa de apresentar o Brasil pelo olhar do lendário animador norte-americano Bill Plympton.</desc>
@@ -21337,7 +21362,7 @@ de artes marciais</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250412213000 -0300" stop="20250412231159 -0300" channel="canal-brasil">
+  <programme start="20250412213011 -0300" stop="20250412231459 -0300" channel="canal-brasil">
     <title lang="pt">Malu</title>
     <desc lang="pt"> - Malu, uma mulher de meia idade com um passado glorioso, se vê presa em um caos existencial. A complexa relação com sua mãe conservadora e com sua filha adulta torna a crise ainda mais aguda.</desc>
     <rating system="Brazil">
@@ -21687,7 +21712,7 @@ de artes marciais</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250412202709 -0300" stop="20250412205359 -0300" channel="canal-off">
+  <programme start="20250412202709 -0300" stop="20250412205447 -0300" channel="canal-off">
     <title lang="pt">Voo De Cinema</title>
     <sub-title lang="pt">Gustavo Cabana</sub-title>
     <desc lang="pt"> - Gustavo Cabana é o personagem deste episódio. Ele é argentino, voa a mais de 200km/h, tem mais de 22 mil saltos com câmera e muito comprometimento e paixão pelo que faz.</desc>
@@ -21695,7 +21720,7 @@ de artes marciais</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250412205400 -0300" stop="20250412212159 -0300" channel="canal-off">
+  <programme start="20250412205449 -0300" stop="20250412212159 -0300" channel="canal-off">
     <title lang="pt">Aéreas</title>
     <sub-title lang="pt">O Outro Lado de Mauí</sub-title>
     <desc lang="pt"> - Buscando lugares para poderem voar na ilha de Maui, Kester consegue levantar voo enquanto Sylvestre é impedido de decolar pelos moradores locais. A dupla se reencontra e seguem para um novo local, enfrentando as condições adversas de fortes ventos.</desc>
@@ -21973,7 +21998,7 @@ de artes marciais</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250412133319 -0300" stop="20250412144725 -0300" channel="bis">
+  <programme start="20250412133319 -0300" stop="20250412144718 -0300" channel="bis">
     <title lang="pt">Suicidal Tendencies - Hellfest 2024</title>
     <sub-title lang="pt">Palco Principal</sub-title>
     <desc lang="pt"> - Com Suicidal Tendencies, o Hellfest traz os pesos pesados ​​do crossover e do thrash metal para Clisson. Que melhor maneira de fazer a multidão do Warzone rugir!</desc>
@@ -22030,7 +22055,7 @@ de artes marciais</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250412200033 -0300" stop="20250412205959 -0300" channel="bis">
+  <programme start="20250412200033 -0300" stop="20250412210028 -0300" channel="bis">
     <title lang="pt">Palco Eletrônico</title>
     <sub-title lang="pt">Gabe</sub-title>
     <desc lang="pt"> - Transmissão ao vivo do Rock in Rio 2024 celebrando os 40 anos do festival, nos dias 13, 14, 15, 19, 20, 21 e 22 de setembro, diretamente da Cidade do Rock, no Rio de Janeiro.</desc>
@@ -22038,7 +22063,7 @@ de artes marciais</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250412210000 -0300" stop="20250412215959 -0300" channel="bis">
+  <programme start="20250412210029 -0300" stop="20250412220028 -0300" channel="bis">
     <title lang="pt">Garimpeiros do Rock</title>
     <desc lang="pt"> - Este episódio destaca a perseverança na busca pelo talento, a superação de diferenças pessoais e a influência de mentores na trajetória musical.</desc>
     <episode-num system="xmltv_ns">.6.</episode-num>
@@ -22046,7 +22071,7 @@ de artes marciais</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250412220000 -0300" stop="20250412222959 -0300" channel="bis">
+  <programme start="20250412220030 -0300" stop="20250412222959 -0300" channel="bis">
     <title lang="pt">Video Killed The Radio Star.</title>
     <sub-title lang="pt">Video Killed The Radio Star: Pink Floyd</sub-title>
     <desc lang="pt"> - Video Killed The Radio Star explora os impactos dos videoclipes de alguns dos artistas mais icônicos da indústria musical. Neste episódio: Pink Floyd.</desc>
@@ -22470,7 +22495,7 @@ BA’RA Hotel. Em seguida, vamos à Confraria Colonial Hotel Boutique. E finaliz
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250412202810 -0300" stop="20250412205559 -0300" channel="modo-viagem">
+  <programme start="20250412202810 -0300" stop="20250412205640 -0300" channel="modo-viagem">
     <title lang="pt">Casas Que Valem A Viagem</title>
     <sub-title lang="pt">Casa Alvor, Casa do Enseada e Cabana Lume</sub-title>
     <desc lang="pt"> - Entre mar e serra, visite a Casa Alvor em Praia Grande, a Casa do Enseada na Praia do Forte e a aconchegante Cabana Lume, em Alto Paraíso de Goiás.</desc>
@@ -22478,7 +22503,7 @@ BA’RA Hotel. Em seguida, vamos à Confraria Colonial Hotel Boutique. E finaliz
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250412205600 -0300" stop="20250412212459 -0300" channel="modo-viagem">
+  <programme start="20250412205643 -0300" stop="20250412212601 -0300" channel="modo-viagem">
     <title lang="pt">Brasil Visto De Cima À Noite</title>
     <sub-title lang="pt">Zona Sul Do Rio De Janeiro</sub-title>
     <desc lang="pt"> - Um sobrevoo noturno por tradicionais bairros da Zona Sul carioca: Laranjeiras, Catete, Largo do Machado, Flamengo e Santa Teresa. O Rio de Janeiro à noite também continua lindo!</desc>
@@ -22486,7 +22511,7 @@ BA’RA Hotel. Em seguida, vamos à Confraria Colonial Hotel Boutique. E finaliz
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250412212500 -0300" stop="20250412215159 -0300" channel="modo-viagem">
+  <programme start="20250412212604 -0300" stop="20250412215318 -0300" channel="modo-viagem">
     <title lang="pt">Brasil Visto De Cima À Noite</title>
     <sub-title lang="pt">Centro Do Rio De Janeiro</sub-title>
     <desc lang="pt"> - Prepare-se para um lindo voo pelo coração da Cidade Maravilhosa! Vamos explorar a magia e a beleza do Centro do Rio de Janeiro depois que o sol se põe.</desc>
@@ -22494,7 +22519,7 @@ BA’RA Hotel. Em seguida, vamos à Confraria Colonial Hotel Boutique. E finaliz
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250412215200 -0300" stop="20250412221759 -0300" channel="modo-viagem">
+  <programme start="20250412215320 -0300" stop="20250412221922 -0300" channel="modo-viagem">
     <title lang="pt">Mergulhando</title>
     <sub-title lang="pt">Bonito - Praia da Figueira e Pantana</sub-title>
     <desc lang="pt"> - Continuamos em Bonito-MS e dessa vez, vamos mergulhar na Praia da Figueira, nas águas do Rio Formoso e depois seguimos para o Pantanal, onde mergulhamos com as “piranhas”.</desc>
@@ -22502,7 +22527,7 @@ BA’RA Hotel. Em seguida, vamos à Confraria Colonial Hotel Boutique. E finaliz
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250412221800 -0300" stop="20250412224359 -0300" channel="modo-viagem">
+  <programme start="20250412221925 -0300" stop="20250412224359 -0300" channel="modo-viagem">
     <title lang="pt">Expedições</title>
     <sub-title lang="pt">Travessia Serra Do Papagaio</sub-title>
     <desc lang="pt"> - A equipe do Expedições vai explorar o Parque Estadual da Serra do Papagaio, que abrange quatro municípios mineiros: Aiuruoca, Alagoa, Itamonte, Pouso Alto e Baependi.</desc>
@@ -22864,7 +22889,7 @@ BA’RA Hotel. Em seguida, vamos à Confraria Colonial Hotel Boutique. E finaliz
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250412143612 -0300" stop="20250412153625 -0300" channel="premiere">
+  <programme start="20250412143612 -0300" stop="20250412153624 -0300" channel="premiere">
     <title lang="pt">VT - Brasileirão: Botafogo x Juventude</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <category lang="en">football/soccer</category>
@@ -22877,7 +22902,7 @@ BA’RA Hotel. Em seguida, vamos à Confraria Colonial Hotel Boutique. E finaliz
 </desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250412163040 -0300" stop="20250412173114 -0300" channel="premiere">
+  <programme start="20250412163040 -0300" stop="20250412173014 -0300" channel="premiere">
     <title lang="pt">Retrô - Brasileirão 2016: Corinthians x Palmeiras</title>
     <sub-title lang="pt">26ª Rodada, realizado em 17/09/2016</sub-title>
     <desc lang="pt">Reveja partidas históricas do seu esporte favorito!
@@ -22886,32 +22911,37 @@ BA’RA Hotel. Em seguida, vamos à Confraria Colonial Hotel Boutique. E finaliz
     <category lang="en">sports (general)</category>
     <date>17/09/2016</date>
   </programme>
-  <programme start="20250412173116 -0300" stop="20250412183025 -0300" channel="premiere">
+  <programme start="20250412173016 -0300" stop="20250412182925 -0300" channel="premiere">
     <title lang="pt">Pré-Jogo: Palmeiras x Corinthians - ao vivo</title>
     <desc lang="pt">Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes, aqui no sportv!</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250412183027 -0300" stop="20250412203006 -0300" channel="premiere">
+  <programme start="20250412182927 -0300" stop="20250412202736 -0300" channel="premiere">
     <title lang="pt">Brasileirão: Palmeiras x Corinthians - ao vivo</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250412203008 -0300" stop="20250412204614 -0300" channel="premiere">
+  <programme start="20250412202738 -0300" stop="20250412204344 -0300" channel="premiere">
     <title lang="pt">Giro da Rodada: Brasileirão</title>
     <sub-title lang="pt">2ª Rodada</sub-title>
     <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol aqui o sportv!</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250412204617 -0300" stop="20250412225959 -0300" channel="premiere">
+  <programme start="20250412204347 -0300" stop="20250412225826 -0300" channel="premiere">
     <title lang="pt">Brasileirão: Vasco x Sport - ao vivo</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250412230000 -0300" stop="20250412235959 -0300" channel="premiere">
+  <programme start="20250412225828 -0300" stop="20250412232857 -0300" channel="premiere">
     <title lang="pt">VT - Brasileirão: Palmeiras x Corinthians</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
+  </programme>
+  <programme start="20250412180000 -0300" stop="20250412205959 -0300" channel="premiere-2">
+    <title lang="pt">Charla No Premiere: Palmeiras x Corinthians - ao vivo</title>
+    <desc lang="pt">O Premiere traz a transmissão mais humorada da internet brasileira, Bruno Cantarelli e Beto Junior assumem o controle de mais um jogão.</desc>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20250412154000 -0300" stop="20250412175959 -0300" channel="premiere-3">
     <title lang="pt">Brasileirão: Bragantino x Botafogo - ao vivo</title>
@@ -23042,9 +23072,15 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
 </desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250412210521 -0300" stop="20250412234832 -0300" channel="combate">
+  <programme start="20250412210521 -0300" stop="20250412234837 -0300" channel="combate">
     <title lang="pt">VT - Pfl World Tournament</title>
     <desc lang="pt"> - PFL é a liga esportiva mais inovadora e de crescimento mais rápido. A PFL é a única com o formato de temporada esportiva em que lutadores individuais competem na Temporada Regular, Playoffs e Campeonato pelo prêmio de 1 milhão de dólares.</desc>
+    <category lang="en">sports (general)</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250412234840 -0300" stop="20250413013500 -0300" channel="combate">
+    <title lang="pt">VT - Centurion FC 26</title>
+    <desc lang="pt"> - Centurion Fc 26</desc>
     <category lang="en">sports (general)</category>
     <previously-shown />
   </programme>
@@ -23065,7 +23101,8 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
   </programme>
   <programme start="20250413024000 -0300" stop="20250413031959 -0300" channel="tv-globo">
     <title lang="pt">Volta Por Cima</title>
-    <desc lang="pt"> - Madá e Jão são os protagonistas da obra escrita por Claudia Souto, retratos dos brasileiros que não deixam a peteca cair, driblando as adversidades da vida com resiliência e coragem de seguir em frente.</desc>
+    <desc lang="pt"> - Osmar se apavora ao ver Marco. Gerson pega o celular de Roxelle. Aquiles avisa a Violeta sobre Osmar. Marco se surpreende com uma descoberta sobre o ex-marido de Violeta. Belisa pede para Marco perdoar Rodolfo. O jardineiro fala com Ruth sobre a ameaça que ela fez para Rodolfo anos atrás. Gigi comenta com Bernardo que denunciará Gerson à polícia. Alberto conta para Madalena que o estado de saúde de Doralice piorou. Violeta pede a ajuda de Rodolfo para salvar Osmar. Chico recebe uma proposta para sair do Rio de Janeiro. Gerson manda mensagem para Gigi e Neuza fingindo ser Roxelle. Osmar surpreende Violeta. 
+</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -23077,6 +23114,15 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
 </desc>
     <rating system="Brazil">
       <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250413043500 -0300" stop="20250413054959 -0300" channel="tv-globo">
+    <title lang="pt">Corujão II</title>
+    <sub-title lang="pt">Patrick</sub-title>
+    <desc lang="pt"> - Sarah é uma jovem cuja vida é um desastre. A última coisa que precisa é ter um animal para cuidar, mas sua avó deixa seu cachorro travesso Patrick como legado.
+</desc>
+    <rating system="Brazil">
+      <value>[10]</value>
     </rating>
   </programme>
   <programme start="20250413043500 -0300" stop="20250413054959 -0300" channel="tv-globo">
@@ -23389,7 +23435,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
     <category lang="en">team sports</category>
     <previously-shown />
   </programme>
-  <programme start="20250412230000 -0300" stop="20250413013459 -0300" channel="sportv-3">
+  <programme start="20250412225348 -0300" stop="20250413012729 -0300" channel="sportv-3">
     <title lang="pt">VT - Grand Slam de Judô</title>
     <sub-title lang="pt">Finais - Tbilisi,Geórgia</sub-title>
     <desc lang="pt">Veja as grandes estrelas internacionais do Judô aqui no sportv!</desc>
@@ -24078,18 +24124,22 @@ de artes marciais</desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
   <programme start="20250413023000 -0300" stop="20250413025959 -0300" channel="globonews">
-    <title lang="pt">Cidades e Soluções</title>
-    <desc lang="pt"> - Iniciativas bem-sucedidas no Brasil e no mundo que promovem a qualidade de vida e o uso inteligente dos recursos naturais.</desc>
+    <title lang="pt">Cidades e Soluções - A riqueza do lixo 2</title>
+    <desc lang="pt"> - O programa mostra o impacto da reciclagem na economia da cidade.</desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
   <programme start="20250413030000 -0300" stop="20250413042959 -0300" channel="globonews">
-    <title lang="pt">Jornal GloboNews - Edição das 03h - ao vivo</title>
-    <desc lang="pt"> - As principais notícias do Brasil e do mundo.</desc>
-    <category lang="en">live broadcast</category>
+    <title lang="pt">GloboNews Documentário</title>
+    <desc lang="pt"> - As histórias de fiscais e agentes policiais designados para patrulhar as fronteiras brasileiras colocando suas vidas em risco diariamente.</desc>
+    <category lang="en">news/current affairs (general)</category>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
   </programme>
   <programme start="20250413043000 -0300" stop="20250413045959 -0300" channel="globonews">
     <title lang="pt">Liderança S/A GloboNews</title>
-    <desc lang="pt"> - Presidentes de empresas e CEOs compartilham experiências, dificuldades e aprendizados sobre liderança. E contam como chegaram ao maior cargo da empresa.</desc>
+    <sub-title lang="pt">Liderança S/A - Luiza Helena Trajano e Fred Trajano - Magazine Luiza</sub-title>
+    <desc lang="pt"> - Luiza Helena Trajano e Fred Trajano falam sobre a história do Magazine Luiza. Eles contam também como se deu a transição de comando na empresa.</desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
   <programme start="20250413050000 -0300" stop="20250413055959 -0300" channel="globonews">
@@ -24113,10 +24163,15 @@ de artes marciais</desc>
     <desc lang="pt"> - As principais notícias do Brasil e do mundo.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250413080000 -0300" stop="20250413095959 -0300" channel="globonews">
+  <programme start="20250413080000 -0300" stop="20250413092959 -0300" channel="globonews">
     <title lang="pt">Jornal GloboNews - Edição das 08h - ao vivo</title>
     <desc lang="pt"> - As principais notícias do Brasil e do mundo.</desc>
     <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20250413093000 -0300" stop="20250413095959 -0300" channel="globonews">
+    <title lang="pt">Liderança S/A GloboNews</title>
+    <desc lang="pt"> - Presidentes de empresas e CEOs compartilham experiências, dificuldades e aprendizados sobre liderança. E contam como chegaram ao maior cargo da empresa.</desc>
+    <category lang="en">news/current affairs (general)</category>
   </programme>
   <programme start="20250413100000 -0300" stop="20250413105959 -0300" channel="globonews">
     <title lang="pt">Jornal GloboNews - Edição das 10h - ao vivo</title>
@@ -24144,7 +24199,7 @@ de artes marciais</desc>
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20250413172000 -0300" stop="20250413175959 -0300" channel="globonews">
-    <title lang="pt">Pequenas Empresas &amp; Grandes Negócios</title>
+    <title lang="pt">Pequenas Empresas &amp;amp; Grandes Negócios</title>
     <desc lang="pt"> - Histórias de sucesso no mundo das pequenas e médias empresas.</desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
@@ -26396,6 +26451,11 @@ com uma diversidade paisagística impressionante.
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
+  <programme start="20250413172000 -0300" stop="20250413192959 -0300" channel="premiere-2">
+    <title lang="pt">Transmissão Patrocinada Betano: Grêmio x Flamengo - ao vivo</title>
+    <desc lang="pt">Brasileirão de uma forma diferente! Assista a um jogo por rodada com a Transmissão Patrocinada Betano.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
   <programme start="20250413144000 -0300" stop="20250413150959 -0300" channel="premiere-3">
     <title lang="pt">Giro da Rodada: Brasileirão</title>
     <sub-title lang="pt">2ª Rodada</sub-title>
@@ -26435,7 +26495,7 @@ com uma diversidade paisagística impressionante.
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250413001500 -0300" stop="20250413015959 -0300" channel="combate">
+  <programme start="20250412234840 -0300" stop="20250413005415 -0300" channel="combate">
     <title lang="pt">VT - Centurion FC 26</title>
     <desc lang="pt"> - Centurion Fc 26</desc>
     <category lang="en">sports (general)</category>
@@ -27505,7 +27565,7 @@ Programa exibido em 14 de abril de 2025.</desc>
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20250414032000 -0300" stop="20250414035959 -0300" channel="globonews">
-    <title lang="pt">Pequenas Empresas &amp; Grandes Negócios</title>
+    <title lang="pt">Pequenas Empresas &amp;amp; Grandes Negócios</title>
     <desc lang="pt"> - Histórias de sucesso no mundo das pequenas e médias empresas.</desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
@@ -36732,6 +36792,16 @@ dourado.
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
+  <programme start="20250416184000 -0300" stop="20250416205959 -0300" channel="premiere-2">
+    <title lang="pt">Brasileirão: Mirassol x Grêmio - ao vivo</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20250416211000 -0300" stop="20250416232959 -0300" channel="premiere-2">
+    <title lang="pt">Brasileirão: Flamengo x Juventude - ao vivo</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
   <programme start="20250416182000 -0300" stop="20250416202959 -0300" channel="premiere-3">
     <title lang="pt">Transmissão Patrocinada Betano - ao vivo</title>
     <desc lang="pt"> - </desc>
@@ -37519,24 +37589,6 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
     <title lang="pt">SBT News</title>
     <desc lang="pt"> - Acompanhe as principais notícias do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
-  </programme>
-  <programme start="20250412151323 -0300" stop="20250412152819 -0300" channel="Novelas">
-    <title lang="pt">A Dona</title>
-    <desc lang="pt"> - Valentina é uma jovem que tem tudo para ser feliz e um noivo a quem ama intensamente. </desc>
-    <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">4.91.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250412152844 -0300" stop="20250412162502 -0300" channel="Novelas">
-    <title lang="pt">Camaleões</title>
-    <desc lang="pt"> - Dois jovens roubam joias sob ameaça e, ao se esconderem em um colégio, descobrem segredos.</desc>
-    <category lang="en">soap/melodrama/folkloric</category>
-    <episode-num system="xmltv_ns">2.45.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
   </programme>
   <programme start="20250412162849 -0300" stop="20250412172503 -0300" channel="Novelas">
     <title lang="pt">Camaleões</title>
@@ -39077,7 +39129,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250419151556 -0300" stop="20250419152817 -0300" channel="Novelas">
+  <programme start="20250419151556 -0300" stop="20250419161214 -0300" channel="Novelas">
     <title lang="pt">Camaleões</title>
     <desc lang="pt"> - Dois jovens roubam joias sob ameaça e, ao se esconderem em um colégio, descobrem segredos.</desc>
     <category lang="en">soap/melodrama/folkloric</category>
@@ -39086,7 +39138,16 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250412152939 -0300" stop="20250412190224 -0300" channel="Silvio Santos">
+  <programme start="20250419161601 -0300" stop="20250419162707 -0300" channel="Novelas">
+    <title lang="pt">Camaleões</title>
+    <desc lang="pt"> - Dois jovens roubam joias sob ameaça e, ao se esconderem em um colégio, descobrem segredos.</desc>
+    <category lang="en">soap/melodrama/folkloric</category>
+    <episode-num system="xmltv_ns">2.46.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250412161155 -0300" stop="20250412190224 -0300" channel="Silvio Santos">
     <title lang="pt">Programa Silvio Santos</title>
     <sub-title lang="pt">realizado em 12/10/2008</sub-title>
     <desc lang="pt">Um clássico da TV brasileira! Aviõezinhos, calouros, artistas e, claro, o patrão Silvio Santos!</desc>
@@ -40488,7 +40549,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[A10]</value>
     </rating>
   </programme>
-  <programme start="20250419150600 -0300" stop="20250419154401 -0300" channel="Silvio Santos">
+  <programme start="20250419150600 -0300" stop="20250419155939 -0300" channel="Silvio Santos">
     <title lang="pt">Porta da Esperança</title>
     <sub-title lang="pt">realizado em 13/03/1988</sub-title>
     <desc lang="pt">Participantes enviam pedidos e, se selecionados, realizam seus sonhos com Silvio Santos.</desc>
@@ -40499,7 +40560,18 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[AL]</value>
     </rating>
   </programme>
-  <programme start="20250412153315 -0300" stop="20250412175706 -0300" channel="Pop">
+  <programme start="20250419155949 -0300" stop="20250419161753 -0300" channel="Silvio Santos">
+    <title lang="pt">Programa Silvio Santos</title>
+    <sub-title lang="pt">realizado em 05/10/2008</sub-title>
+    <desc lang="pt">Um clássico da TV brasileira! Aviõezinhos, calouros, artistas e, claro, o patrão Silvio Santos!</desc>
+    <category lang="en">variety show</category>
+    <date>05/10/2008</date>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250412162644 -0300" stop="20250412175706 -0300" channel="Pop">
     <title lang="pt">Três Ladrões e um Bebê</title>
     <sub-title lang="pt">Filme</sub-title>
     <desc lang="pt"> - Três ladrões cuidam de um bebê valioso e enfrentam problemas.</desc>
@@ -41881,7 +41953,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250419135603 -0300" stop="20250419153242 -0300" channel="Pop">
+  <programme start="20250419135603 -0300" stop="20250419155606 -0300" channel="Pop">
     <title lang="pt">A Garota dos Meus Sonhos</title>
     <sub-title lang="pt">Filme</sub-title>
     <desc lang="pt"> - Qual o valor do amor verdadeiro? Fletcher McBracken e Rosalyn Willoughby vão descobrir juntos.</desc>
@@ -41891,16 +41963,17 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250412152519 -0300" stop="20250412155021 -0300" channel="TV Zyn">
-    <title lang="pt">A Pracinha</title>
-    <desc lang="pt"> - A Pracinha é um lugar feito para a família se divertir. Vem você também. A Pracinha é Nossa.</desc>
-    <category lang="en">comedy</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
+  <programme start="20250419155731 -0300" stop="20250419163749 -0300" channel="Pop">
+    <title lang="pt">Life: Um Retrato de James Dean</title>
+    <sub-title lang="pt">Filme</sub-title>
+    <desc lang="pt"> - Em 1955, um fotógrafo registra James Dean e cria laços com o astro semanas antes de uma tragédia.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">.0.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250412155328 -0300" stop="20250412164726 -0300" channel="TV Zyn">
+  <programme start="20250412162157 -0300" stop="20250412164726 -0300" channel="TV Zyn">
     <title lang="pt">Patrulha Salvadora</title>
     <desc lang="pt"> - As crianças mais amadas de Carrossel agora são super heróis que lutam contra o crime!</desc>
     <category lang="en">comedy</category>
@@ -45898,23 +45971,11 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
     <category lang="en">comedy</category>
     <episode-num system="xmltv_ns">1.24.</episode-num>
   </programme>
-  <programme start="20250412151203 -0300" stop="20250412152102 -0300" channel="Saudade">
-    <title lang="pt">+Risadas</title>
-    <sub-title lang="pt">Especial Pedro Bismarck</sub-title>
-    <desc lang="pt"> - No Dia Nacional do Humor, uma maratona de risoterapia com os grandes talentos da comédia brasileira!</desc>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20250412152325 -0300" stop="20250412160959 -0300" channel="Saudade">
-    <title lang="pt">+Risadas</title>
-    <sub-title lang="pt"> Especial Maria Teresa</sub-title>
-    <desc lang="pt"> - No Dia Nacional do Humor, uma maratona de risoterapia com os grandes talentos da comédia brasileira!</desc>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
+  <programme start="20250419153942 -0300" stop="20250419162141 -0300" channel="TV Zyn">
+    <title lang="pt">Patrulha Salvadora</title>
+    <desc lang="pt"> - As crianças mais amadas de Carrossel agora são super heróis que lutam contra o crime!</desc>
+    <category lang="en">comedy</category>
+    <episode-num system="xmltv_ns">1.25.</episode-num>
   </programme>
   <programme start="20250412161342 -0300" stop="20250412164553 -0300" channel="Saudade">
     <title lang="pt">+Risadas</title>
@@ -48724,13 +48785,24 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250419145233 -0300" stop="20250419151938 -0300" channel="Saudade">
+  <programme start="20250419145233 -0300" stop="20250419154849 -0300" channel="Saudade">
     <title lang="pt">Curtindo com Reais</title>
     <sub-title lang="pt">realizado em 04/05/2007</sub-title>
     <desc lang="pt">Duas equipes e um só objetivo: ganhar o máximo de dinheiro possível a cada desafio!</desc>
     <category lang="en">variety show</category>
     <date>04/05/2007</date>
     <episode-num system="xmltv_ns">0.4.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250419155324 -0300" stop="20250419162815 -0300" channel="Saudade">
+    <title lang="pt">Canta e Dança Minha Gente</title>
+    <sub-title lang="pt">realizado em 01/01/2000</sub-title>
+    <desc lang="pt">Carla Perez comanda o programa com muita música e dança junto da plateia e convidados.</desc>
+    <category lang="en">show/game show (general)</category>
+    <date>01/01/2000</date>
+    <episode-num system="xmltv_ns">1.0.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
