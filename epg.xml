@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2025-04-17 18:15:06" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2025-04-17 19:45:04" generator-info-url="http://limaalef.com">
   <channel id="Claro TV+ 4K">
     <display-name lang="pt">Claro TV+ 4K</display-name>
   </channel>
@@ -107,6 +107,9 @@
   </channel>
   <channel id="tv-globo">
     <display-name lang="pt">tv-globo</display-name>
+  </channel>
+  <channel id="sportv-4-k">
+    <display-name lang="pt">sportv-4-k</display-name>
   </channel>
   <channel id="sportv">
     <display-name lang="pt">sportv</display-name>
@@ -18850,6 +18853,11 @@
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
+  <programme start="20250418000000 -0300" stop="20250418023000 -0300" channel="1682">
+    <title lang="pt">Reapresentação de Comissão</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
   <programme start="20250417000000 -0300" stop="20250417003000 -0300" channel="1765">
     <title lang="pt">Repórter Eco</title>
     <desc lang="pt"> - </desc>
@@ -18999,6 +19007,11 @@
     <title lang="pt">Jornal da Justiça</title>
     <desc lang="pt"> - </desc>
     <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250418000000 -0300" stop="20250418003000 -0300" channel="1765">
+    <title lang="pt">Repórter Eco</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">movie/drama (general)</category>
   </programme>
   <programme start="20250417000000 -0300" stop="20250417013500 -0300" channel="1779">
     <title lang="pt">Senadoc: Cidadão Boilesen</title>
@@ -19319,6 +19332,11 @@
   </programme>
   <programme start="20250417213000 -0300" stop="20250418000000 -0300" channel="2302">
     <title lang="pt">Atos do Executivo</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250418000000 -0300" stop="20250418003000 -0300" channel="2302">
+    <title lang="pt">Mulheres pela Independência</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
@@ -20795,6 +20813,11 @@
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
+  <programme start="20250421000000 -0300" stop="20250421003000 -0300" channel="1765">
+    <title lang="pt">Repórter Eco</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">movie/drama (general)</category>
+  </programme>
   <programme start="20250420000500 -0300" stop="20250420003000 -0300" channel="1779">
     <title lang="pt">Tela Brasil: O Caminho da Água - Os Guardiões da Água</title>
     <desc lang="pt"> - </desc>
@@ -20955,6 +20978,11 @@
     <desc lang="pt"> - </desc>
     <category lang="en">documentary</category>
   </programme>
+  <programme start="20250421000000 -0300" stop="20250421003000 -0300" channel="1779">
+    <title lang="pt">Tela Brasil: O Caminho da Água - O Rio Magdalena</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
   <programme start="20250420000000 -0300" stop="20250420003000 -0300" channel="2302">
     <title lang="pt">Meu Pedaço do Brasil</title>
     <desc lang="pt"> - </desc>
@@ -21109,6 +21137,11 @@
     <title lang="pt">Meu Pedaço do Brasil</title>
     <desc lang="pt"> - </desc>
     <category lang="en">documentary</category>
+  </programme>
+  <programme start="20250421000000 -0300" stop="20250421003000 -0300" channel="2302">
+    <title lang="pt">Nossos Biomas</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
   </programme>
   <programme start="20250421020000 -0300" stop="20250421070000 -0300" channel="1682">
     <title lang="pt">Reapresentação da Sessão Plenária</title>
@@ -21813,6 +21846,16 @@
       <value>[L]</value>
     </rating>
   </programme>
+  <programme start="20250417200000 -0300" stop="20250417205959 -0300" channel="sportv-4-k">
+    <title lang="pt">Aquecimento sportv: Cruzeiro x Bahia - ao vivo</title>
+    <desc lang="pt">Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes, aqui no sportv!</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20250417210000 -0300" stop="20250417225959 -0300" channel="sportv-4-k">
+    <title lang="pt">Brasileirão: Cruzeiro x Bahia - ao vivo</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
   <programme start="20250416231910 -0300" stop="20250417011929 -0300" channel="sportv">
     <title lang="pt">Troca de Passes - ao vivo</title>
     <desc lang="pt"> - Felipe Diniz, Carlos Eduardo Mansur e Alex Meschini troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada. Veja os melhores momentos, tire as dúvidas daquele lance polêmico acompanhe a repercussão com jogadores e treinadores no calor do jogo. Aqui ninguém fica em cima do muro.</desc>
@@ -21900,7 +21943,7 @@
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250417173235 -0300" stop="20250417183012 -0300" channel="sportv">
+  <programme start="20250417173235 -0300" stop="20250417183011 -0300" channel="sportv">
     <title lang="pt">VT - Brasileirão: Flamengo x Juventude</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <category lang="en">football/soccer</category>
@@ -21921,7 +21964,7 @@
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250417232931 -0300" stop="20250418003829 -0300" channel="sportv">
+  <programme start="20250417232931 -0300" stop="20250418005719 -0300" channel="sportv">
     <title lang="pt">Troca de Passes - ao vivo</title>
     <desc lang="pt"> - Felipe Diniz, Carlos Eduardo Mansur e Alex Meschini troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada. Veja os melhores momentos, tire as dúvidas daquele lance polêmico acompanhe a repercussão com jogadores e treinadores no calor do jogo. Aqui ninguém fica em cima do muro.</desc>
     <category lang="en">live broadcast</category>
@@ -22014,25 +22057,17 @@
     <category lang="en">team sports</category>
     <previously-shown />
   </programme>
-  <programme start="20250417173014 -0300" stop="20250417203244 -0300" channel="sportv-2">
+  <programme start="20250417173014 -0300" stop="20250417210956 -0300" channel="sportv-2">
     <title lang="pt">Superliga Masculina: Sesi-Bauru x Praia Clube - ao vivo</title>
     <sub-title lang="pt">Quartas de Final - Jogo 3</sub-title>
     <desc lang="pt">O sportv é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa, tá no sportv! </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250417203247 -0300" stop="20250417233519 -0300" channel="sportv-2">
+  <programme start="20250417210959 -0300" stop="20250418001231 -0300" channel="sportv-2">
     <title lang="pt">Superliga Masculina: Campinas x Joinville - ao vivo</title>
     <sub-title lang="pt">Quartas de Final - Jogo 3</sub-title>
     <desc lang="pt">O sportv é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa, tá no sportv! </desc>
     <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20250417233521 -0300" stop="20250418012959 -0300" channel="sportv-2">
-    <title lang="pt">WSL: Melhores Momentos - Etapa De Punta Roca - Inédito</title>
-    <sub-title lang="pt">La Libertad, El Salvador</sub-title>
-    <desc lang="pt">As maiores emoções do Circuito Mundial de Skate, você acompanha aqui no sportv!</desc>
-    <category lang="en">water sports</category>
-    <episode-num system="xmltv_ns">.1.</episode-num>
-    <new />
   </programme>
   <programme start="20250416234020 -0300" stop="20250417014854 -0300" channel="sportv-3">
     <title lang="pt">Faixa Combate: PFL World Tournament</title>
@@ -22074,14 +22109,14 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250417122958 -0300" stop="20250417161816 -0300" channel="sportv-3">
+  <programme start="20250417122958 -0300" stop="20250417161812 -0300" channel="sportv-3">
     <title lang="pt">VT - Copa do Mundo Ginástica Artística</title>
     <sub-title lang="pt">Final - Osijek, Cro</sub-title>
     <desc lang="pt">As maiores atletas da Ginástica se encontram na Copa do mundo de Ginástica e você acompanha aqui no sportv!</desc>
     <category lang="en">team sports</category>
     <previously-shown />
   </programme>
-  <programme start="20250417161817 -0300" stop="20250417191000 -0300" channel="sportv-3">
+  <programme start="20250417161817 -0300" stop="20250417190959 -0300" channel="sportv-3">
     <title lang="pt">Faixa Combate: One Fight Night 30</title>
     <desc lang="pt">Terceira maior franquia de MMA mundial e a principal da Ásia, presente em mais de 170 países, o One é a liga esportiva de diferentes modalidades além do MMA como: Grappling, Muay Thai, Kickboxing.</desc>
     <category lang="en">sports (general)</category>
@@ -22128,7 +22163,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250417234650 -0300" stop="20250418001526 -0300" channel="sportv-3">
+  <programme start="20250417234650 -0300" stop="20250418001626 -0300" channel="sportv-3">
     <title lang="pt">Sessão sportv: Cine Marcial - Nico Acima Da Lei</title>
     <desc lang="pt">Nos últimos cinquenta anos, os filmes de luta arrebataram bilheterias, revelaram superestrelas e criaram um segmento extremamente lucrativo. Pelas telas do cinema ou da Sessão da Tarde, gerações de brasileiros, muitos dos quais futuros lutadores, tiveram em Hollywood o - seu primeiro contato com as artes marciais. Nossa proposta é destrinchar este fenômeno mergulhando em dez grandes clássicos. Ao revelar bastidores inéditos das gravações, vamos investigando, de forma irreverente, como esses filmes, no passado, influenciaram nossas estrelas do MMA e porque até hoje são parte da memória afetiva de todo brasileiro</desc>
     <category lang="en">sports (general)</category>
@@ -22501,7 +22536,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250417180006 -0300" stop="20250417190059 -0300" channel="multishow">
+  <programme start="20250417180006 -0300" stop="20250417190307 -0300" channel="multishow">
     <title lang="pt">VT - TVZ Ao Vivo com MC Daniel e Gominho</title>
     <sub-title lang="pt">Luan Pereira (ao vivo)</sub-title>
     <desc lang="pt"> - Tvz com MC Daniel e Gominho - Luan Pereira (ao vivo)
@@ -22511,7 +22546,7 @@ Programa exibido em 17 de abril de 2025</desc>
     </rating>
     <previously-shown />
   </programme>
-  <programme start="20250417190101 -0300" stop="20250417191417 -0300" channel="multishow">
+  <programme start="20250417191347 -0300" stop="20250417192703 -0300" channel="multishow">
     <title lang="pt">Big Brother Brasil 25 - Rede B - ao vivo</title>
     <sub-title lang="pt">Big Brother Brasil 25 – Rede BBB</sub-title>
     <desc lang="pt"> - Big Brother Brasil 25 – Rede BBB</desc>
@@ -22520,7 +22555,7 @@ Programa exibido em 17 de abril de 2025</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250417191418 -0300" stop="20250417194632 -0300" channel="multishow">
+  <programme start="20250417192704 -0300" stop="20250417195918 -0300" channel="multishow">
     <title lang="pt">Melhores Momentos Lollapalooza</title>
     <sub-title lang="pt">Nessa Barrett</sub-title>
     <desc lang="pt"> - Confira a transmissão ao vivo do festival "Lollapalooza 2025" nos dias 28, 29 e 30 de março, diretamente do Autódromo de Interlagos/SP, no Multishow.</desc>
@@ -22528,7 +22563,7 @@ Programa exibido em 17 de abril de 2025</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250417194635 -0300" stop="20250417200010 -0300" channel="multishow">
+  <programme start="20250417195921 -0300" stop="20250417201256 -0300" channel="multishow">
     <title lang="pt">Big Brother Brasil 25 - Rede B - ao vivo</title>
     <sub-title lang="pt">Big Brother Brasil 25 – Rede BBB</sub-title>
     <desc lang="pt"> - Big Brother Brasil 25 – Rede BBB</desc>
@@ -22537,7 +22572,7 @@ Programa exibido em 17 de abril de 2025</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250417200012 -0300" stop="20250417210259 -0300" channel="multishow">
+  <programme start="20250417201258 -0300" stop="20250417211545 -0300" channel="multishow">
     <title lang="pt">Mesacast BBB - ao vivo</title>
     <sub-title lang="pt">Big Brother Brasil 25 – Mesacast</sub-title>
     <desc lang="pt"> - O Mesacast BBB volta com exibição exclusiva no Multishow, de segunda a sábado, de 20h às 21h. Ed Gama, Vitor diCastro e Pitel se revezam no comando da atração.
@@ -22547,7 +22582,7 @@ Programa exibido em 17 de abril de 2025</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250417210302 -0300" stop="20250417212345 -0300" channel="multishow">
+  <programme start="20250417211548 -0300" stop="20250417213631 -0300" channel="multishow">
     <title lang="pt">Big Brother Brasil 25 - Rede B - ao vivo</title>
     <sub-title lang="pt">Big Brother Brasil 25 – Rede BBB</sub-title>
     <desc lang="pt"> - Big Brother Brasil 25 – Rede BBB</desc>
@@ -22556,7 +22591,7 @@ Programa exibido em 17 de abril de 2025</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250417212346 -0300" stop="20250417221133 -0300" channel="multishow">
+  <programme start="20250417213632 -0300" stop="20250417222419 -0300" channel="multishow">
     <title lang="pt">Vai que Cola</title>
     <sub-title lang="pt">Sonho De Uma Noite No Méier</sub-title>
     <desc lang="pt"> - Labareda está tentando mais uma vez conquistar Dona Jô. Para isso, ele traz para pensão uma garrafa de um licor diferente. Quem toma se apaixona loucamente pela primeira pessoa que vê pela frente. Ferdinando separa um pouquinho para dar para o boy mais lindo do Lins. Dona Jô se engasga e Roninho oferece a ela um pouquinho do licor. E a confusão não vai parar por aí.</desc>
@@ -22564,7 +22599,7 @@ Programa exibido em 17 de abril de 2025</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250417221136 -0300" stop="20250417230051 -0300" channel="multishow">
+  <programme start="20250417222422 -0300" stop="20250417231337 -0300" channel="multishow">
     <title lang="pt">Vai que Cola</title>
     <sub-title lang="pt">Bodas de Purpurina</sub-title>
     <desc lang="pt"> - Ferdinando e Alejandro comemoram suas bodas de 7 meses de casados, as famosas bodas de purpurina.</desc>
@@ -22572,7 +22607,7 @@ Programa exibido em 17 de abril de 2025</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250417230054 -0300" stop="20250417232959 -0300" channel="multishow">
+  <programme start="20250417231340 -0300" stop="20250417234619 -0300" channel="multishow">
     <title lang="pt">O Dono do Bar</title>
     <sub-title lang="pt">Corpo Marcado</sub-title>
     <desc lang="pt"> - Américo esquece a data do aniversário de casamento e mente para Luciana dizendo que comprou um presente. Sem dinheiro, precisa resolver a situação de qualquer jeito. Só que certas soluções acabam sendo permanentes.
@@ -22581,7 +22616,7 @@ Programa exibido em 17 de abril de 2025</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250417233000 -0300" stop="20250417233959 -0300" channel="multishow">
+  <programme start="20250417234621 -0300" stop="20250417235310 -0300" channel="multishow">
     <title lang="pt">Humor Multishow</title>
     <sub-title lang="pt">Golpólatras Anônimos</sub-title>
     <desc lang="pt"> - Dona Jô decide fazer uma reunião para ajudar a família a admitir os golpes que aplicam na vida, porém a reunião acaba virando uma disputa pelo prêmio de maior golpista da casa.</desc>
@@ -22589,7 +22624,7 @@ Programa exibido em 17 de abril de 2025</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250417234000 -0300" stop="20250418003959 -0300" channel="multishow">
+  <programme start="20250417235312 -0300" stop="20250418003959 -0300" channel="multishow">
     <title lang="pt">Big Brother Brasil 25 – Ao Vivo - ao vivo</title>
     <desc lang="pt"> - Big Brother Brasil 25 – Ao Vivo</desc>
     <category lang="en">live broadcast</category>
@@ -22842,14 +22877,14 @@ Programa exibido em 17 de abril de 2025</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250417171255 -0300" stop="20250417174455 -0300" channel="gnt">
+  <programme start="20250417171255 -0300" stop="20250417174454 -0300" channel="gnt">
     <title lang="pt">Marisa Ono</title>
     <desc lang="pt"> - Neste episódio Rodrigo recebe a especialista em culinária japonesa, Marisa Ono, para aprender sobre um dos ingredientes mais importantes da culinária japonesa, o missô. Juntos eles vão preparar a pasta, o missôshiro, um porco marinado no missô e o bolinho de resíduo de soja. Além de fazer as receitas, Rodrigo e Marisa conversam sobre o Mottianai, filosofia japonesa que fala de desperdício e valorização dos alimentos e da vida.</desc>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250417174458 -0300" stop="20250417182705 -0300" channel="gnt">
+  <programme start="20250417174458 -0300" stop="20250417182704 -0300" channel="gnt">
     <title lang="pt">Que Marravilha!</title>
     <sub-title lang="pt">Pedro</sub-title>
     <desc lang="pt"> - Pedro tem 11 anos e pediu ajuda ao Claude para quer fazer uma homenagem ao irmão mais velho que se casou e saiu de casa. Como o irmão é vegetariano, Claude escolheu o Big Ravióli de Cogumelos.</desc>
@@ -22898,7 +22933,7 @@ Programa exibido em 17 de abril de 2025</desc>
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250417223301 -0300" stop="20250417233145 -0300" channel="gnt">
+  <programme start="20250417223301 -0300" stop="20250417234145 -0300" channel="gnt">
     <title lang="pt">Que História É Essa, Porchat?</title>
     <sub-title lang="pt">Bela Gil + Leonardo Brício + Bia Guedes</sub-title>
     <desc lang="pt"> - Porchat recebe Bela Gil, Leonardo Brício e Bia Guedes. Na plateia, Carla e um objeto inusitado dentro de um corpo humano e Paulo e um date aprisionado.</desc>
@@ -22906,7 +22941,7 @@ Programa exibido em 17 de abril de 2025</desc>
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250417233900 -0300" stop="20250418002859 -0300" channel="gnt">
+  <programme start="20250417234149 -0300" stop="20250418003022 -0300" channel="gnt">
     <title lang="pt">Avisa Lá Que Eu Vou</title>
     <sub-title lang="pt">São Thomé Das Letras</sub-title>
     <desc lang="pt"> - Paulo visita São Thomé das Letras e ouve histórias de lobisomem, ETs, fadas, duendes e bruxas. Ele conhece o cantor Ventania e aprende uma poção mágica com Tião Amador.</desc>
@@ -23195,19 +23230,11 @@ Programa exibido em 17 de abril de 2025</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250417230100 -0300" stop="20250417235459 -0300" channel="viva">
+  <programme start="20250417230100 -0300" stop="20250418000054 -0300" channel="viva">
     <title lang="pt">Celebridade</title>
     <desc lang="pt"> - Corina consegue emprego para Nelito. Laura arma e cilada e Claudionor é demitido. Eliete convence Maria Paula de jantar com Fernando.</desc>
     <rating system="Brazil">
       <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20250417235500 -0300" stop="20250418003959 -0300" channel="viva">
-    <title lang="pt">Caras &amp; Bocas</title>
-    <sub-title lang="pt">Caras E Bocas</sub-title>
-    <desc lang="pt"> - Dafne e Gabriel têm seus caminhos cruzados novamente, 15 anos após serem separados por uma armação do avô dela.  A reaproximação, porém, põe em risco os planos da megera Judith.</desc>
-    <rating system="Brazil">
-      <value>[10]</value>
     </rating>
   </programme>
   <programme start="20250416225521 -0300" stop="20250417002020 -0300" channel="canal-brasil">
@@ -23366,7 +23393,7 @@ Programa exibido em 17 de abril de 2025</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250417171520 -0300" stop="20250417173059 -0300" channel="canal-brasil">
+  <programme start="20250417171520 -0300" stop="20250417173100 -0300" channel="canal-brasil">
     <title lang="pt">Curta Na Tela</title>
     <sub-title lang="pt">Ilha Das Flores</sub-title>
     <desc lang="pt"> - Ficção e realidade esmiúçam, de maneira ácida, a sociedade de consumo. A partir de um tomate, o filme revela o drama dos moradores de Ilha das Flores, que procuram alimento no lixo.</desc>
@@ -23420,7 +23447,7 @@ Programa exibido em 17 de abril de 2025</desc>
       <value>[18]</value>
     </rating>
   </programme>
-  <programme start="20250417230540 -0300" stop="20250418004959 -0300" channel="canal-brasil">
+  <programme start="20250417230540 -0300" stop="20250418005003 -0300" channel="canal-brasil">
     <title lang="pt">Maratona Louise Cardoso</title>
     <sub-title lang="pt">Matou A Família e Foi ao Cinema (1991)</sub-title>
     <desc lang="pt"> - O filme traz cinco histórias: um rapaz que mata os pais e vai ao cinema; uma mulher que recebe uma amiga; um casal à beira da destruição; duas jovens que vivem um amor não-aceito e um homem que rouba calcinhas.</desc>
@@ -23648,7 +23675,7 @@ Programa exibido em 17 de abril de 2025</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250417163921 -0300" stop="20250417170622 -0300" channel="canal-off">
+  <programme start="20250417163921 -0300" stop="20250417170619 -0300" channel="canal-off">
     <title lang="pt">Morando Na Estrada</title>
     <sub-title lang="pt">A Despedida</sub-title>
     <desc lang="pt"> - Nesse episódio, Marcela Witt e Nelson Pinto estão chegando ao destino final da viagem: Sydney. Antes de chegarem na cidade, o casal relembra os melhores momentos dos 2 meses que passaram morando na estrada. Para se despedirem da natureza, o casal passeia de stand up paddle em um lugar lindo e isolado enquanto Nelsinho fala sobre o que “A Busca” representa pra ele. Quando chegam em Sydney, eles estranham estarem de volta à cidade grande, com transito e muitas pessoas ao redor. Ao fim do episódio, o casal reflete sobre o que levam de mais importante dessas viagens para a vida na cidade.</desc>
@@ -23746,7 +23773,7 @@ Programa exibido em 17 de abril de 2025</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250417230113 -0300" stop="20250417235059 -0300" channel="canal-off">
+  <programme start="20250417230113 -0300" stop="20250417235111 -0300" channel="canal-off">
     <title lang="pt">Expedition Kayak</title>
     <desc lang="pt"> - Localizado a 150 km de Sept-Îles, o rio Caopacho encerra em um dos maiores cânions de Quebec. Na expedição, a galera conta com Nouria Newman, a campeã mundial de caiaque freestyle.</desc>
     <episode-num system="xmltv_ns">.2.</episode-num>
@@ -23754,7 +23781,7 @@ Programa exibido em 17 de abril de 2025</desc>
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250417235100 -0300" stop="20250417235959 -0300" channel="canal-off">
+  <programme start="20250417235113 -0300" stop="20250418000028 -0300" channel="canal-off">
     <title lang="pt">Curtas Do Off</title>
     <sub-title lang="pt">Bike Under The Lights</sub-title>
     <desc lang="pt"> - No meio de uma floresta, os bikers armam uma estrutura de luzes neon para uma sessão noturna dominada por performance e cores. Andar em uma pista colorida a noite é como fazer parte de um quadro enquanto ele está sendo pintado.</desc>
@@ -24075,7 +24102,7 @@ Programa exibido em 17 de abril de 2025</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250417145737 -0300" stop="20250417163024 -0300" channel="bis">
+  <programme start="20250417145737 -0300" stop="20250417163033 -0300" channel="bis">
     <title lang="pt">Genesis: Sum Of The Parts</title>
     <sub-title lang="pt">Arquivo Musical</sub-title>
     <desc lang="pt"> - Documentário sobre a lendária banda inglesa de rock progressivo Genesis, que vendeu mais de 100 milhões de discos no mundo. O filme aborda todas as épocas da banda e é narrado pelos seus membros, incluindo os icônicos Peter Gabriel e Phil Collins.</desc>
@@ -24114,7 +24141,7 @@ Programa exibido em 17 de abril de 2025</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250417183735 -0300" stop="20250417184351 -0300" channel="bis">
+  <programme start="20250417183735 -0300" stop="20250417184352 -0300" channel="bis">
     <title lang="pt">Thiaguinho - Vencedor</title>
     <sub-title lang="pt">Setlist</sub-title>
     <desc lang="pt"> - THIAGUINHO - VENCEDOR (VIRGIN MUSIC)</desc>
@@ -24249,7 +24276,7 @@ pensar a formação de uma estética Pop negra, a partir do protagonismo feminin
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250417220024 -0300" stop="20250417230059 -0300" channel="bis">
+  <programme start="20250417220024 -0300" stop="20250417230123 -0300" channel="bis">
     <title lang="pt">Nx Zero</title>
     <sub-title lang="pt">Palco Principal</sub-title>
     <desc lang="pt"> - Transmissão ao vivo do Rock in Rio 2024 celebrando os 40 anos do festival, nos dias 13, 14, 15, 19, 20, 21 e 22 de setembro, diretamente da Cidade do Rock, no Rio de Janeiro.</desc>
@@ -24257,7 +24284,7 @@ pensar a formação de uma estética Pop negra, a partir do protagonismo feminin
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250417230100 -0300" stop="20250418000459 -0300" channel="bis">
+  <programme start="20250417230128 -0300" stop="20250418000529 -0300" channel="bis">
     <title lang="pt">Melhores Momentos Lollapalooza</title>
     <sub-title lang="pt">Zerb</sub-title>
     <desc lang="pt"> - Confira a transmissão ao vivo do festival "Lollapalooza 2025" nos dias 28, 29 e 30 de março, diretamente do Autódromo de Interlagos/SP, no Multishow.</desc>
@@ -24703,7 +24730,7 @@ dourado.
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250417231128 -0300" stop="20250417233659 -0300" channel="modo-viagem">
+  <programme start="20250417231128 -0300" stop="20250417233739 -0300" channel="modo-viagem">
     <title lang="pt">Mundo Visto De Cima</title>
     <sub-title lang="pt">Irlanda</sub-title>
     <desc lang="pt"> - Mundo Visto de Cima nos oferece um ponto de vista diferente do nosso planeta. Em cada episódio, um lugar diferente, cada um com uma história para contar e uma bela paisagem para ser apreciada.</desc>
@@ -24711,7 +24738,7 @@ dourado.
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250417233700 -0300" stop="20250418002959 -0300" channel="modo-viagem">
+  <programme start="20250417233741 -0300" stop="20250418002959 -0300" channel="modo-viagem">
     <title lang="pt">As Maravilhas Do Mundo</title>
     <sub-title lang="pt">Suíça: No Coração Dos Alpes</sub-title>
     <desc lang="pt"> - Além dos Alpes suíços, tão apreciados pelos esquiadores, a Suíça oferece uma cultura nacional muito rica e diversa, com nada menos que três influências: alemã, italiana e francesa. 
@@ -25043,7 +25070,7 @@ dourado.
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250417181048 -0300" stop="20250417191146 -0300" channel="premiere">
+  <programme start="20250417181048 -0300" stop="20250417191145 -0300" channel="premiere">
     <title lang="pt">VT - Brasileirão: Santos x Atlético-MG</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <category lang="en">football/soccer</category>
@@ -25066,7 +25093,7 @@ dourado.
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250417233150 -0300" stop="20250418002959 -0300" channel="premiere">
+  <programme start="20250417233150 -0300" stop="20250418003212 -0300" channel="premiere">
     <title lang="pt">VT - Brasileirão: Vitória x Fortaleza</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <category lang="en">football/soccer</category>
@@ -25162,7 +25189,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">.46.</episode-num>
   </programme>
-  <programme start="20250417151700 -0300" stop="20250417174757 -0300" channel="combate">
+  <programme start="20250417151700 -0300" stop="20250417174759 -0300" channel="combate">
     <title lang="pt">VT - Kickboxing: WGP 79</title>
     <desc lang="pt">Não perca o maior evento de kickboxing.</desc>
     <category lang="en">sports (general)</category>
@@ -25336,12 +25363,12 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
     <title lang="pt">Globo Repórter</title>
     <desc lang="pt"> - Com apresentação de Sandra Annenberg, o ‘Globo Repórter’ é o jornalístico documental que vai ao ar nas noites de sexta-feira. </desc>
   </programme>
-  <programme start="20250417232931 -0300" stop="20250418003829 -0300" channel="sportv">
+  <programme start="20250417232931 -0300" stop="20250418005719 -0300" channel="sportv">
     <title lang="pt">Troca de Passes - ao vivo</title>
     <desc lang="pt"> - Felipe Diniz, Carlos Eduardo Mansur e Alex Meschini troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada. Veja os melhores momentos, tire as dúvidas daquele lance polêmico acompanhe a repercussão com jogadores e treinadores no calor do jogo. Aqui ninguém fica em cima do muro.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250418010000 -0300" stop="20250418015959 -0300" channel="sportv">
+  <programme start="20250418005722 -0300" stop="20250418012547 -0300" channel="sportv">
     <title lang="pt">Giro da Rodada: Brasileirão - Inédito</title>
     <sub-title lang="pt">4ª Rodada</sub-title>
     <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol aqui o sportv!</desc>
@@ -25459,7 +25486,13 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
     <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol aqui o sportv!</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250417233521 -0300" stop="20250418013159 -0300" channel="sportv-2">
+  <programme start="20250417210245 -0300" stop="20250418000517 -0300" channel="sportv-2">
+    <title lang="pt">Superliga Masculina: Campinas x Joinville - ao vivo</title>
+    <sub-title lang="pt">Quartas de Final - Jogo 3</sub-title>
+    <desc lang="pt">O sportv é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa, tá no sportv! </desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20250418000529 -0300" stop="20250418020207 -0300" channel="sportv-2">
     <title lang="pt">WSL: Melhores Momentos - Etapa De Punta Roca - Inédito</title>
     <sub-title lang="pt">La Libertad, El Salvador</sub-title>
     <desc lang="pt">As maiores emoções do Circuito Mundial de Skate, você acompanha aqui no sportv!</desc>
@@ -25467,17 +25500,10 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
     <episode-num system="xmltv_ns">.1.</episode-num>
     <new />
   </programme>
-  <programme start="20250418013201 -0300" stop="20250418015959 -0300" channel="sportv-2">
+  <programme start="20250418020210 -0300" stop="20250418042959 -0300" channel="sportv-2">
     <title lang="pt">Galeria sportv: Vozes - Galvão Bueno - Ouros Olímpicos</title>
     <desc lang="pt">Neste episódio do Vozes, do Baú do Esporte, Galvão Bueno se recorda de cada uma das 7 medalhas de ouro olímpicas brasileiras que narrou em sua carreira, destacando ainda um momento especial envolvendo o atleta olímpico mais vitorioso de todos os tempos: Michael Phelps. Galvão se permite rir de si mesmo ao lembrar que, em meio a tantos ouros de Phelps, quase "tirou" uma vitória do americano: perdeu... ganhou!, e faz uma reflexão importante sobre o momento delicado pelo qual a humanidade passa, com a pandemia de Covid-19.</desc>
     <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20250418020000 -0300" stop="20250418042959 -0300" channel="sportv-2">
-    <title lang="pt">VT - Superliga Masculina: Campinas x Joinville</title>
-    <sub-title lang="pt">Quartas de Final - Jogo 3</sub-title>
-    <desc lang="pt">O sportv é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa, tá no sportv! </desc>
-    <category lang="en">team sports</category>
-    <previously-shown />
   </programme>
   <programme start="20250418043000 -0300" stop="20250418065959 -0300" channel="sportv-2">
     <title lang="pt">VT - Superliga Masculina: Sesi-Bauru x Praia Clube</title>
@@ -25558,7 +25584,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
     <category lang="en">sports (general)</category>
     <new />
   </programme>
-  <programme start="20250417234650 -0300" stop="20250418001526 -0300" channel="sportv-3">
+  <programme start="20250417234650 -0300" stop="20250418001626 -0300" channel="sportv-3">
     <title lang="pt">Sessão sportv: Cine Marcial - Nico Acima Da Lei</title>
     <desc lang="pt">Nos últimos cinquenta anos, os filmes de luta arrebataram bilheterias, revelaram superestrelas e criaram um segmento extremamente lucrativo. Pelas telas do cinema ou da Sessão da Tarde, gerações de brasileiros, muitos dos quais futuros lutadores, tiveram em Hollywood o - seu primeiro contato com as artes marciais. Nossa proposta é destrinchar este fenômeno mergulhando em dez grandes clássicos. Ao revelar bastidores inéditos das gravações, vamos investigando, de forma irreverente, como esses filmes, no passado, influenciaram nossas estrelas do MMA e porque até hoje são parte da memória afetiva de todo brasileiro</desc>
     <category lang="en">sports (general)</category>
@@ -25567,7 +25593,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250418002000 -0300" stop="20250418052959 -0300" channel="sportv-3">
+  <programme start="20250418001628 -0300" stop="20250418015002 -0300" channel="sportv-3">
     <title lang="pt">Seletiva De Judô: São Paulo-SP</title>
     <desc lang="pt">As grandes estrelas do Judô estão aqui no sportv! Acompanhe o Seletiva De Judô.</desc>
     <category lang="en">sports (general)</category>
@@ -25827,7 +25853,7 @@ de artes marciais</desc>
     <category lang="en">team sports</category>
     <previously-shown />
   </programme>
-  <programme start="20250417234000 -0300" stop="20250418003959 -0300" channel="multishow">
+  <programme start="20250417235312 -0300" stop="20250418003959 -0300" channel="multishow">
     <title lang="pt">Big Brother Brasil 25 – Ao Vivo - ao vivo</title>
     <desc lang="pt"> - Big Brother Brasil 25 – Ao Vivo</desc>
     <category lang="en">live broadcast</category>
@@ -26337,11 +26363,12 @@ E Jessica quer criar uma fama retroativa. Quer fingir que foi uma estrela mirim,
   </programme>
   <programme start="20250418233000 -0300" stop="20250418235959 -0300" channel="globonews">
     <title lang="pt">VT - Diálogos com Mario Sergio Conti</title>
-    <desc lang="pt"> - Programa de entrevistas, sobre temas políticos, culturais, artísticos, científicos e sociais, sempre da atualidade.</desc>
+    <sub-title lang="pt">Diálogos - Othon Bastos, ator</sub-title>
+    <desc lang="pt"> - Mario Sergio Conti conversa com o ator Othon Bastos sobre os mais de setenta anos de carreira.</desc>
     <category lang="en">news/current affairs (general)</category>
     <previously-shown />
   </programme>
-  <programme start="20250417234149 -0300" stop="20250418002859 -0300" channel="gnt">
+  <programme start="20250417234149 -0300" stop="20250418003022 -0300" channel="gnt">
     <title lang="pt">Avisa Lá Que Eu Vou</title>
     <sub-title lang="pt">São Thomé Das Letras</sub-title>
     <desc lang="pt"> - Paulo visita São Thomé das Letras e ouve histórias de lobisomem, ETs, fadas, duendes e bruxas. Ele conhece o cantor Ventania e aprende uma poção mágica com Tião Amador.</desc>
@@ -26349,7 +26376,7 @@ E Jessica quer criar uma fama retroativa. Quer fingir que foi uma estrela mirim,
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250418002900 -0300" stop="20250418011459 -0300" channel="gnt">
+  <programme start="20250418003024 -0300" stop="20250418011543 -0300" channel="gnt">
     <title lang="pt">Equalizer, The</title>
     <sub-title lang="pt">Bum</sub-title>
     <desc lang="pt"> - Após a captura de McCall, as margens entre sua família e a vida como Protetora continuam a convergir conforme as pessoas mais próximas a ela se unem pela primeira vez para salvá-la.</desc>
@@ -26357,7 +26384,7 @@ E Jessica quer criar uma fama retroativa. Quer fingir que foi uma estrela mirim,
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250418011500 -0300" stop="20250418014759 -0300" channel="gnt">
+  <programme start="20250418011545 -0300" stop="20250418014759 -0300" channel="gnt">
     <title lang="pt">Diogo Na Cozinha</title>
     <sub-title lang="pt">Paolla Oliveira e Criolo</sub-title>
     <desc lang="pt"> - Diogo recebe em sua casa Paolla Oliveira e Criolo para uma tarde repleta de música, sabores e boas risadas. O anfitrião faz duas receitas de massa e uma irresistível sobremesa.</desc>
@@ -26577,7 +26604,14 @@ E Jessica quer criar uma fama retroativa. Quer fingir que foi uma estrela mirim,
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250417235500 -0300" stop="20250418003959 -0300" channel="viva">
+  <programme start="20250417230100 -0300" stop="20250418000054 -0300" channel="viva">
+    <title lang="pt">Celebridade</title>
+    <desc lang="pt"> - Corina consegue emprego para Nelito. Laura arma e cilada e Claudionor é demitido. Eliete convence Maria Paula de jantar com Fernando.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250418000059 -0300" stop="20250418004903 -0300" channel="viva">
     <title lang="pt">Caras &amp; Bocas</title>
     <sub-title lang="pt">Caras E Bocas</sub-title>
     <desc lang="pt"> - Dafne e Gabriel têm seus caminhos cruzados novamente, 15 anos após serem separados por uma armação do avô dela.  A reaproximação, porém, põe em risco os planos da megera Judith.</desc>
@@ -26585,7 +26619,7 @@ E Jessica quer criar uma fama retroativa. Quer fingir que foi uma estrela mirim,
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250418004400 -0300" stop="20250418012859 -0300" channel="viva">
+  <programme start="20250418004908 -0300" stop="20250418012559 -0300" channel="viva">
     <title lang="pt">Plumas E Paetês</title>
     <desc lang="pt"> - Dorinha revela a Francis que sabe que Luísa e Edgar têm um caso. Francis confirma a relação dos dois. Kurlan diz a Rebeca que Jorginho está montando um apartamento para Veroca.</desc>
     <rating system="Brazil">
@@ -26652,7 +26686,14 @@ E Jessica quer criar uma fama retroativa. Quer fingir que foi uma estrela mirim,
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250418064500 -0300" stop="20250418071459 -0300" channel="viva">
+  <programme start="20250418063000 -0300" stop="20250418071459 -0300" channel="viva">
+    <title lang="pt">Chapa Quente</title>
+    <desc lang="pt"> - Marlene e Genésio vivem às turras. Moradores de São Gonçalo, Genésio está desempregado e Marlene é dona de um salão de beleza. Ela não perde a esperança do marido conseguir um emprego.</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250418065600 -0300" stop="20250418072559 -0300" channel="viva">
     <title lang="pt">Tapas e Beijos</title>
     <sub-title lang="pt">Miá Melo É A Noiva Do Ano Das Vendedoras De Copacabana</sub-title>
     <desc lang="pt"> - A série Tapas &amp; Beijos mostra as aventuras da conturbada vida amorosa de Fátima e Sueli. Elas trabalham na Djalma Noivas, em Copacabana, e sonham com seus príncipes.</desc>
@@ -26660,7 +26701,7 @@ E Jessica quer criar uma fama retroativa. Quer fingir que foi uma estrela mirim,
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250418073000 -0300" stop="20250418075959 -0300" channel="viva">
+  <programme start="20250418073600 -0300" stop="20250418080559 -0300" channel="viva">
     <title lang="pt">Tapas e Beijos</title>
     <sub-title lang="pt">Cada Um Tem A Dor De Cotovelo Que Merece</sub-title>
     <desc lang="pt"> - A série Tapas &amp; Beijos mostra as aventuras da conturbada vida amorosa de Fátima e Sueli. Elas trabalham na Djalma Noivas, em Copacabana, e sonham com seus príncipes.</desc>
@@ -26676,7 +26717,7 @@ E Jessica quer criar uma fama retroativa. Quer fingir que foi uma estrela mirim,
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250418091500 -0300" stop="20250418095459 -0300" channel="viva">
+  <programme start="20250418090400 -0300" stop="20250418094359 -0300" channel="viva">
     <title lang="pt">Toma Lá, Dá Cá</title>
     <sub-title lang="pt">Quem Canta, Seus Males Espanta</sub-title>
     <desc lang="pt"> - Arnaldo ganha um karaokê de uma marca desconhecida. Isadora decide dar uma festa no Jambalaia para os moradores do Porco Fumado. Bozena faz um almoço típico de aniversário.</desc>
@@ -26736,14 +26777,14 @@ E Jessica quer criar uma fama retroativa. Quer fingir que foi uma estrela mirim,
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250418143000 -0300" stop="20250418151459 -0300" channel="viva">
+  <programme start="20250418143700 -0300" stop="20250418152159 -0300" channel="viva">
     <title lang="pt">Plumas E Paetês</title>
     <desc lang="pt"> - Luísa tenta se aproximar de Marcela e decide ajudá-la a repaginar seu visual. Jorge diz a Rebeca que está apaixonado. Yara e Raul sofrem com um problema no apartamento.</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250418151500 -0300" stop="20250418155959 -0300" channel="viva">
+  <programme start="20250418152400 -0300" stop="20250418160859 -0300" channel="viva">
     <title lang="pt">Caras &amp; Bocas</title>
     <sub-title lang="pt">Caras E Bocas</sub-title>
     <desc lang="pt"> - Dafne e Gabriel têm seus caminhos cruzados novamente, 15 anos após serem separados por uma armação do avô dela.  A reaproximação, porém, põe em risco os planos da megera Judith.</desc>
@@ -27061,7 +27102,15 @@ E Jessica quer criar uma fama retroativa. Quer fingir que foi uma estrela mirim,
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250418000000 -0300" stop="20250418002659 -0300" channel="canal-off">
+  <programme start="20250417235113 -0300" stop="20250418000028 -0300" channel="canal-off">
+    <title lang="pt">Curtas Do Off</title>
+    <sub-title lang="pt">Bike Under The Lights</sub-title>
+    <desc lang="pt"> - No meio de uma floresta, os bikers armam uma estrutura de luzes neon para uma sessão noturna dominada por performance e cores. Andar em uma pista colorida a noite é como fazer parte de um quadro enquanto ele está sendo pintado.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250418000029 -0300" stop="20250418002728 -0300" channel="canal-off">
     <title lang="pt">Off Docs</title>
     <sub-title lang="pt">Chancla Video</sub-title>
     <desc lang="pt"> - Atravessando o Brasil com uma emocionante corrida de quilômetros por hora, a equipe do Chancla, com os maiores nomes do skate nacional, faz manobras em 15 dias de viagem.</desc>
@@ -27069,7 +27118,7 @@ E Jessica quer criar uma fama retroativa. Quer fingir que foi uma estrela mirim,
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250418002700 -0300" stop="20250418004559 -0300" channel="canal-off">
+  <programme start="20250418002729 -0300" stop="20250418004642 -0300" channel="canal-off">
     <title lang="pt">Off Docs</title>
     <sub-title lang="pt">Across The Atlantic - Chancla Lisboa 2022</sub-title>
     <desc lang="pt"> - Atravessando o Brasil com uma emocionante corrida de quilômetros por hora, a equipe do Chancla, com os maiores nomes do skate nacional, faz manobras em 15 dias de viagem.</desc>
@@ -27077,7 +27126,7 @@ E Jessica quer criar uma fama retroativa. Quer fingir que foi uma estrela mirim,
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250418004600 -0300" stop="20250418010259 -0300" channel="canal-off">
+  <programme start="20250418004644 -0300" stop="20250418010338 -0300" channel="canal-off">
     <title lang="pt">Off Docs</title>
     <sub-title lang="pt">Init-Y C-Xrw Project</sub-title>
     <desc lang="pt"> - Eles tiveram um final de semana para cumprir essa missão: 2 stack crucifixos, 2 velames e 3 wingsuiters. Fizeram tudo e muito mais. Esta é a história de como conseguiram!</desc>
@@ -27085,7 +27134,7 @@ E Jessica quer criar uma fama retroativa. Quer fingir que foi uma estrela mirim,
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250418010300 -0300" stop="20250418013159 -0300" channel="canal-off">
+  <programme start="20250418010339 -0300" stop="20250418013159 -0300" channel="canal-off">
     <title lang="pt">Kaiak</title>
     <sub-title lang="pt">Umauma Falls, Havaí</sub-title>
     <desc lang="pt"> - Em Umauma Falls, no Havaí,  Pedro Oliva, Ben Stokesberry e Chris Korbulic assinam um termo de responsabilidade para se aventurarem nas cachoeiras de uma ilha privada.</desc>
@@ -27430,7 +27479,7 @@ E Jessica quer criar uma fama retroativa. Quer fingir que foi uma estrela mirim,
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250417230100 -0300" stop="20250418000459 -0300" channel="bis">
+  <programme start="20250417230128 -0300" stop="20250418000529 -0300" channel="bis">
     <title lang="pt">Melhores Momentos Lollapalooza</title>
     <sub-title lang="pt">Zerb</sub-title>
     <desc lang="pt"> - Confira a transmissão ao vivo do festival "Lollapalooza 2025" nos dias 28, 29 e 30 de março, diretamente do Autódromo de Interlagos/SP, no Multishow.</desc>
@@ -27438,7 +27487,7 @@ E Jessica quer criar uma fama retroativa. Quer fingir que foi uma estrela mirim,
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250418000500 -0300" stop="20250418010859 -0300" channel="bis">
+  <programme start="20250418000532 -0300" stop="20250418010929 -0300" channel="bis">
     <title lang="pt">How Streaming Ate Music</title>
     <sub-title lang="pt">Arquivo Musical</sub-title>
     <desc lang="pt"> - Uma história que muitos viveram sem perceber que era uma revolução, a da transformação digital do mundo da música, do surgimento do mp3 à instalação das plataformas de streaming.</desc>
@@ -27446,7 +27495,7 @@ E Jessica quer criar uma fama retroativa. Quer fingir que foi uma estrela mirim,
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250418010900 -0300" stop="20250418013659 -0300" channel="bis">
+  <programme start="20250418010934 -0300" stop="20250418013659 -0300" channel="bis">
     <title lang="pt">Inesquecíveis Bossa Nova 4</title>
     <desc lang="pt"> - Olivia Hime e Francis Hime homenageiam grandes músicas que marcaram a Bossa Nova.No programa de hoje sucessos como "Desafinado" , "Coração Vagabundo" e "Não Existo Sem Você".</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
@@ -28001,7 +28050,7 @@ pensar a formação de uma estética Pop negra, a partir do protagonismo feminin
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250417233700 -0300" stop="20250418002959 -0300" channel="modo-viagem">
+  <programme start="20250417233741 -0300" stop="20250418003012 -0300" channel="modo-viagem">
     <title lang="pt">As Maravilhas Do Mundo</title>
     <sub-title lang="pt">Suíça: No Coração Dos Alpes</sub-title>
     <desc lang="pt"> - Além dos Alpes suíços, tão apreciados pelos esquiadores, a Suíça oferece uma cultura nacional muito rica e diversa, com nada menos que três influências: alemã, italiana e francesa. 
@@ -28010,7 +28059,7 @@ pensar a formação de uma estética Pop negra, a partir do protagonismo feminin
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250418003000 -0300" stop="20250418005559 -0300" channel="modo-viagem">
+  <programme start="20250418003014 -0300" stop="20250418005609 -0300" channel="modo-viagem">
     <title lang="pt">Vinícolas Ao Redor Do Mundo</title>
     <sub-title lang="pt">Japão</sub-title>
     <desc lang="pt"> - Na Terra do Sol Nascente, a região montanhosa de Yamanashi esconde um verdadeiro tesouro: o koshu, uma variedade de uva única e exclusivamente japonesa.</desc>
@@ -28018,7 +28067,7 @@ pensar a formação de uma estética Pop negra, a partir do protagonismo feminin
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250418005600 -0300" stop="20250418012559 -0300" channel="modo-viagem">
+  <programme start="20250418005611 -0300" stop="20250418012559 -0300" channel="modo-viagem">
     <title lang="pt">Hotéis Incríveis-T11</title>
     <sub-title lang="pt">Juma Amazon Lodge, L’Hotel PortoBay e Hotel Pico 16</sub-title>
     <desc lang="pt"> - Iniciamos o episódio de hoje na Amazônia, no Juma Amazon Lodge. Na capital paulista, vamos conhecer o L’Hotel PortoBay, e finalizamos em Monte Verde, no Hotel Pico 16.</desc>
@@ -28674,13 +28723,13 @@ de dar dicas sobre o destino e hospedagem, Anne visita a cidade romana de Jerash
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250417233150 -0300" stop="20250418002959 -0300" channel="premiere">
+  <programme start="20250417233150 -0300" stop="20250418003212 -0300" channel="premiere">
     <title lang="pt">VT - Brasileirão: Vitória x Fortaleza</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250418003000 -0300" stop="20250418012959 -0300" channel="premiere">
+  <programme start="20250418003214 -0300" stop="20250418012959 -0300" channel="premiere">
     <title lang="pt">VT - Brasileirão: Sport x Bragantino</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <category lang="en">football/soccer</category>
@@ -28835,13 +28884,13 @@ de dar dicas sobre o destino e hospedagem, Anne visita a cidade romana de Jerash
     <desc lang="pt">Baú Do Combate: Allycia Hellen</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250418015802 -0300" stop="20250418031959 -0300" channel="combate">
+  <programme start="20250418015802 -0300" stop="20250418034412 -0300" channel="combate">
     <title lang="pt">VT - Centurion FC 26</title>
     <desc lang="pt"> - Centurion Fc 26</desc>
     <category lang="en">sports (general)</category>
     <previously-shown />
   </programme>
-  <programme start="20250418032000 -0300" stop="20250418041459 -0300" channel="combate">
+  <programme start="20250418034414 -0300" stop="20250418042459 -0300" channel="combate">
     <title lang="pt">Baú Do Combate: Baú Emanuel Navarrete x Robson Conceição</title>
     <desc lang="pt">Baú Emanuel Navarrete X Robson Conceição</desc>
     <category lang="en">sports (general)</category>
@@ -29193,6 +29242,16 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
+  </programme>
+  <programme start="20250419200000 -0300" stop="20250419205959 -0300" channel="sportv-4-k">
+    <title lang="pt">Aquecimento sportv: Grêmio x Internacional - ao vivo</title>
+    <desc lang="pt">Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes, aqui no sportv!</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20250419210000 -0300" stop="20250419225959 -0300" channel="sportv-4-k">
+    <title lang="pt">Brasileirão: Grêmio x Internacional - ao vivo</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20250418234500 -0300" stop="20250419002959 -0300" channel="sportv">
     <title lang="pt">Giro da Rodada: Brasileirão</title>
@@ -30074,7 +30133,8 @@ Merchan: Itaipava</desc>
   </programme>
   <programme start="20250419040000 -0300" stop="20250419042959 -0300" channel="globonews">
     <title lang="pt">VT - Diálogos com Mario Sergio Conti</title>
-    <desc lang="pt"> - Programa de entrevistas, sobre temas políticos, culturais, artísticos, científicos e sociais, sempre da atualidade.</desc>
+    <sub-title lang="pt">Diálogos - Othon Bastos, ator</sub-title>
+    <desc lang="pt"> - Mario Sergio Conti conversa com o ator Othon Bastos sobre os mais de setenta anos de carreira.</desc>
     <category lang="en">news/current affairs (general)</category>
     <previously-shown />
   </programme>
@@ -38764,6 +38824,9 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
     <title lang="pt">Sábado Animado</title>
     <desc lang="pt"> - Seu fim de semana começa com muito mais alegria no Sábado Animado. Os desenhos que fazem sucesso entre a garotada de todas as idades estão reunidos aqui.</desc>
     <category lang="en">film/cinema</category>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20250419113000 -0300" stop="20250419120000 -0300" channel="SBT">
     <title lang="pt">A Pracinha</title>
@@ -38914,6 +38977,9 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
     <title lang="pt">The Chosen - Os Escolhidos</title>
     <desc lang="pt"> - A segunda temporada começa em Samaria e se move para regiões próximas, onde Jesus continua atraindo mais discípulos e discípulas.</desc>
     <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
   </programme>
   <programme start="20250421013000 -0300" stop="20250421044500 -0300" channel="SBT">
     <title lang="pt">SBT News</title>
@@ -38925,16 +38991,762 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
     <desc lang="pt"> - Acompanhe as principais notícias do Brasil e do mundo.</desc>
     <category lang="en">variety show</category>
   </programme>
-  <programme start="20250417174907 -0300" stop="20250417184954 -0300" channel="Novelas">
-    <title lang="pt">Amor Secreto </title>
-    <desc lang="pt"> - Irene, uma secretária inteligente, eficiente e confiável, se apaixona por seu chefe, Leonardo.</desc>
-    <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
+  <programme start="20250421044500 -0300" stop="20250421073000 -0300" channel="SBT">
+    <title lang="pt">SBT News Manhã</title>
+    <desc lang="pt"> - Acompanhe as principais notícias do Brasil e do mundo.</desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250421073000 -0300" stop="20250421110000 -0300" channel="SBT">
+    <title lang="pt">Primeiro Impacto</title>
+    <desc lang="pt"> - Trânsito, política, saúde, esporte, mercado de trabalho, educação e os assuntos que são destaque no Brasil e no mundo.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250421110000 -0300" stop="20250421130000 -0300" channel="SBT">
+    <title lang="pt">Primeiro Impacto</title>
+    <desc lang="pt"> - Trânsito, política, saúde, esporte, mercado de trabalho, educação e os assuntos que são destaque no Brasil e no mundo.</desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250421130000 -0300" stop="20250421134500 -0300" channel="SBT">
+    <title lang="pt">Chaves</title>
+    <desc lang="pt"> - Na vila mais famosa, Chaves e seus amigos aprontam diversas travessuras em seus vizinhos.</desc>
+    <category lang="en">variety show</category>
     <rating system="Brazil">
-      <value>[A14]</value>
+      <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250417185316 -0300" stop="20250417195330 -0300" channel="Novelas">
+  <programme start="20250421134500 -0300" stop="20250421143000 -0300" channel="SBT">
+    <title lang="pt">Quando Me Apaixono</title>
+    <desc lang="pt"> - "Quando Me Apaixono" conta a história de Renata e Jerônimo. Um amor sincero e profundo condenado ao sofrimento pelo rancor e a vingança de um ódio implacável provocado por uma terrível mentira.</desc>
+    <category lang="en">soap/melodrama/folkloric</category>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250421143000 -0300" stop="20250421153000 -0300" channel="SBT">
+    <title lang="pt">A Usurpadora</title>
+    <desc lang="pt"> - Paulina, uma jovem humilde encontra com sua irmã gêmea Paola, uma mulher rica e casada após adulta. Elas decidem trocar de identidade para que uma viva a vida da outra por um ano.</desc>
+    <category lang="en">soap/melodrama/folkloric</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250421153000 -0300" stop="20250421164500 -0300" channel="SBT">
+    <title lang="pt">Fofocalizando</title>
+    <desc lang="pt"> - O Fofocalizando empolga suas tardes com notícias dos famosos, muita fofoca e os diversos assuntos mais comentados do mundo.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250421164500 -0300" stop="20250421194500 -0300" channel="SBT">
+    <title lang="pt">Tá na Hora</title>
+    <desc lang="pt"> - Datena comanda o "Tá na Hora", levando informação e prestação de serviço durante a sua volta para casa.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250421194500 -0300" stop="20250421204500 -0300" channel="SBT">
+    <title lang="pt">SBT Brasil</title>
+    <desc lang="pt"> - Cesar Filho leva ao telespectador as notícias mais importantes do dia, ao vivo, com liberdade editorial e credibilidade.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250421204500 -0300" stop="20250421210500 -0300" channel="SBT">
+    <title lang="pt">Chaves</title>
+    <desc lang="pt"> - Na vila mais famosa, Chaves e seus amigos aprontam diversas travessuras em seus vizinhos.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250421210500 -0300" stop="20250421220000 -0300" channel="SBT">
+    <title lang="pt">A Caverna Encantada</title>
+    <desc lang="pt"> - "A Caverna Encantada" é uma história de amizade, coragem e descobertas, onde Anna e seus amigos aprendem valiosas lições sobre confiança, trabalho em equipe e a importância de seguir seus sonhos.</desc>
+    <category lang="en">soap/melodrama/folkloric</category>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250421220000 -0300" stop="20250421222000 -0300" channel="SBT">
+    <title lang="pt">Chapolin</title>
+    <desc lang="pt"> - Com seu traje vermelho e sua famosa marreta, Chapolin Colorado, o super-herói desajeitado e bem-intencionado, resolve os problemas e sai de situações absurdas, sem com bom humor.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250421222000 -0300" stop="20250421233000 -0300" channel="SBT">
+    <title lang="pt">Programa do Ratinho</title>
+    <desc lang="pt"> - Ratinho, preocupado com as questões da população, traz as principais notícias do dia com muito dinamismo, convidados especiais e muito mais!</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250421233000 -0300" stop="20250422003000 -0300" channel="SBT">
+    <title lang="pt">The Noite com Danilo Gentili</title>
+    <desc lang="pt"> - Talk-show apresentado por Danilo Gentili, com atrações como a banda Utraje a Rigor, Diguinho Coruja e Igor Guimarães.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250422003000 -0300" stop="20250422010000 -0300" channel="SBT">
+    <title lang="pt">Operação Mesquita</title>
+    <desc lang="pt"> - Operação Mesquita é um programa inusitado, onde a entrevista é pretexto para Otávio Mesquita descobrir o lado B dos famosos, que mostram o seu cotidiano de forma curiosa e divertida.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250422010000 -0300" stop="20250422014500 -0300" channel="SBT">
+    <title lang="pt">SBT Podnight</title>
+    <desc lang="pt"> - Acompanhe entrevistas com grandes nomes da mídia no SBT PODNIGHT.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250422014500 -0300" stop="20250422044500 -0300" channel="SBT">
+    <title lang="pt">SBT News</title>
+    <desc lang="pt"> - Acompanhe as principais notícias do Brasil e do mundo.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250422044500 -0300" stop="20250422073000 -0300" channel="SBT">
+    <title lang="pt">SBT News Manhã</title>
+    <desc lang="pt"> - Acompanhe as principais notícias do Brasil e do mundo.</desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250422073000 -0300" stop="20250422110000 -0300" channel="SBT">
+    <title lang="pt">Primeiro Impacto</title>
+    <desc lang="pt"> - Trânsito, política, saúde, esporte, mercado de trabalho, educação e os assuntos que são destaque no Brasil e no mundo.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250422110000 -0300" stop="20250422130000 -0300" channel="SBT">
+    <title lang="pt">Primeiro Impacto</title>
+    <desc lang="pt"> - Trânsito, política, saúde, esporte, mercado de trabalho, educação e os assuntos que são destaque no Brasil e no mundo.</desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250422130000 -0300" stop="20250422134500 -0300" channel="SBT">
+    <title lang="pt">Chaves</title>
+    <desc lang="pt"> - Na vila mais famosa, Chaves e seus amigos aprontam diversas travessuras em seus vizinhos.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250422134500 -0300" stop="20250422143000 -0300" channel="SBT">
+    <title lang="pt">Quando Me Apaixono</title>
+    <desc lang="pt"> - "Quando Me Apaixono" conta a história de Renata e Jerônimo. Um amor sincero e profundo condenado ao sofrimento pelo rancor e a vingança de um ódio implacável provocado por uma terrível mentira.</desc>
+    <category lang="en">soap/melodrama/folkloric</category>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250422143000 -0300" stop="20250422153000 -0300" channel="SBT">
+    <title lang="pt">A Usurpadora</title>
+    <desc lang="pt"> - Paulina, uma jovem humilde encontra com sua irmã gêmea Paola, uma mulher rica e casada após adulta. Elas decidem trocar de identidade para que uma viva a vida da outra por um ano.</desc>
+    <category lang="en">soap/melodrama/folkloric</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250422153000 -0300" stop="20250422164500 -0300" channel="SBT">
+    <title lang="pt">Fofocalizando</title>
+    <desc lang="pt"> - O Fofocalizando empolga suas tardes com notícias dos famosos, muita fofoca e os diversos assuntos mais comentados do mundo.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250422164500 -0300" stop="20250422194500 -0300" channel="SBT">
+    <title lang="pt">Tá na Hora</title>
+    <desc lang="pt"> - Datena comanda o "Tá na Hora", levando informação e prestação de serviço durante a sua volta para casa.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250422194500 -0300" stop="20250422204500 -0300" channel="SBT">
+    <title lang="pt">SBT Brasil</title>
+    <desc lang="pt"> - Cesar Filho leva ao telespectador as notícias mais importantes do dia, ao vivo, com liberdade editorial e credibilidade.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250422204500 -0300" stop="20250422211500 -0300" channel="SBT">
+    <title lang="pt">A Caverna Encantada</title>
+    <desc lang="pt"> - "A Caverna Encantada" é uma história de amizade, coragem e descobertas, onde Anna e seus amigos aprendem valiosas lições sobre confiança, trabalho em equipe e a importância de seguir seus sonhos.</desc>
+    <category lang="en">soap/melodrama/folkloric</category>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250422211500 -0300" stop="20250422231500 -0300" channel="SBT">
+    <title lang="pt">CONMEBOL Sul-americana</title>
+    <desc lang="pt"> - América de Cali (COL) x Corinthians</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250422231500 -0300" stop="20250423001500 -0300" channel="SBT">
+    <title lang="pt">Programa do Ratinho</title>
+    <desc lang="pt"> - Ratinho, preocupado com as questões da população, traz as principais notícias do dia com muito dinamismo, convidados especiais e muito mais!</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250423001500 -0300" stop="20250423011500 -0300" channel="SBT">
+    <title lang="pt">The Noite com Danilo Gentili</title>
+    <desc lang="pt"> - Talk-show apresentado por Danilo Gentili, com atrações como a banda Utraje a Rigor, Diguinho Coruja e Igor Guimarães.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250423011500 -0300" stop="20250423014500 -0300" channel="SBT">
+    <title lang="pt">Operação Mesquita</title>
+    <desc lang="pt"> - Operação Mesquita é um programa inusitado, onde a entrevista é pretexto para Otávio Mesquita descobrir o lado B dos famosos, que mostram o seu cotidiano de forma curiosa e divertida.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250423014500 -0300" stop="20250423023000 -0300" channel="SBT">
+    <title lang="pt">SBT Podnight</title>
+    <desc lang="pt"> - Acompanhe entrevistas com grandes nomes da mídia no SBT PODNIGHT.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250423023000 -0300" stop="20250423044500 -0300" channel="SBT">
+    <title lang="pt">SBT News</title>
+    <desc lang="pt"> - Acompanhe as principais notícias do Brasil e do mundo.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250423044500 -0300" stop="20250423073000 -0300" channel="SBT">
+    <title lang="pt">SBT News Manhã</title>
+    <desc lang="pt"> - Acompanhe as principais notícias do Brasil e do mundo.</desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250423073000 -0300" stop="20250423110000 -0300" channel="SBT">
+    <title lang="pt">Primeiro Impacto</title>
+    <desc lang="pt"> - Trânsito, política, saúde, esporte, mercado de trabalho, educação e os assuntos que são destaque no Brasil e no mundo.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250423110000 -0300" stop="20250423130000 -0300" channel="SBT">
+    <title lang="pt">Primeiro Impacto 3</title>
+    <desc lang="pt"> - Trânsito, política, saúde, esporte, mercado de trabalho, educação e os assuntos que são destaque no Brasil e no mundo.</desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250423130000 -0300" stop="20250423134500 -0300" channel="SBT">
+    <title lang="pt">Chaves</title>
+    <desc lang="pt"> - Na vila mais famosa, Chaves e seus amigos aprontam diversas travessuras em seus vizinhos.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250423134500 -0300" stop="20250423143000 -0300" channel="SBT">
+    <title lang="pt">Quando Me Apaixono</title>
+    <desc lang="pt"> - "Quando Me Apaixono" conta a história de Renata e Jerônimo. Um amor sincero e profundo condenado ao sofrimento pelo rancor e a vingança de um ódio implacável provocado por uma terrível mentira.</desc>
+    <category lang="en">soap/melodrama/folkloric</category>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250423143000 -0300" stop="20250423153000 -0300" channel="SBT">
+    <title lang="pt">A Usurpadora</title>
+    <desc lang="pt"> - Paulina, uma jovem humilde encontra com sua irmã gêmea Paola, uma mulher rica e casada após adulta. Elas decidem trocar de identidade para que uma viva a vida da outra por um ano.</desc>
+    <category lang="en">soap/melodrama/folkloric</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250423153000 -0300" stop="20250423164500 -0300" channel="SBT">
+    <title lang="pt">Fofocalizando</title>
+    <desc lang="pt"> - O Fofocalizando empolga suas tardes com notícias dos famosos, muita fofoca e os diversos assuntos mais comentados do mundo.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250423164500 -0300" stop="20250423194500 -0300" channel="SBT">
+    <title lang="pt">Tá na Hora</title>
+    <desc lang="pt"> - Datena comanda o "Tá na Hora", levando informação e prestação de serviço durante a sua volta para casa.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250423194500 -0300" stop="20250423204500 -0300" channel="SBT">
+    <title lang="pt">SBT Brasil</title>
+    <desc lang="pt"> - Cesar Filho leva ao telespectador as notícias mais importantes do dia, ao vivo, com liberdade editorial e credibilidade.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250423204500 -0300" stop="20250423210500 -0300" channel="SBT">
+    <title lang="pt">Chaves</title>
+    <desc lang="pt"> - Na vila mais famosa, Chaves e seus amigos aprontam diversas travessuras em seus vizinhos.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250423210500 -0300" stop="20250423220000 -0300" channel="SBT">
+    <title lang="pt">A Caverna Encantada</title>
+    <desc lang="pt"> - "A Caverna Encantada" é uma história de amizade, coragem e descobertas, onde Anna e seus amigos aprendem valiosas lições sobre confiança, trabalho em equipe e a importância de seguir seus sonhos.</desc>
+    <category lang="en">soap/melodrama/folkloric</category>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250423220000 -0300" stop="20250423222000 -0300" channel="SBT">
+    <title lang="pt">Chapolin</title>
+    <desc lang="pt"> - Com seu traje vermelho e sua famosa marreta, Chapolin Colorado, o super-herói desajeitado e bem-intencionado, resolve os problemas e sai de situações absurdas, sem com bom humor.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250423222000 -0300" stop="20250423231500 -0300" channel="SBT">
+    <title lang="pt">Programa do Ratinho</title>
+    <desc lang="pt"> - Ratinho, preocupado com as questões da população, traz as principais notícias do dia com muito dinamismo, convidados especiais e muito mais!</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250423231500 -0300" stop="20250424003000 -0300" channel="SBT">
+    <title lang="pt">Arena SBT</title>
+    <desc lang="pt"> - O Arena SBT é palco de debates sobre a paixão dos brasileiros: o futebol! Muitas discussões, com um time de peso analisando os principais acontecimentos do esporte mais popular do mundo.</desc>
+    <category lang="en">sports (general)</category>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250424003000 -0300" stop="20250424013000 -0300" channel="SBT">
+    <title lang="pt">The Noite com Danilo Gentili</title>
+    <desc lang="pt"> - Talk-show apresentado por Danilo Gentili, com atrações como a banda Utraje a Rigor, Diguinho Coruja e Igor Guimarães.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250424013000 -0300" stop="20250424020000 -0300" channel="SBT">
+    <title lang="pt">Operação Mesquita</title>
+    <desc lang="pt"> - Operação Mesquita é um programa inusitado, onde a entrevista é pretexto para Otávio Mesquita descobrir o lado B dos famosos, que mostram o seu cotidiano de forma curiosa e divertida.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250424020000 -0300" stop="20250424024500 -0300" channel="SBT">
+    <title lang="pt">SBT Podnight</title>
+    <desc lang="pt"> - Acompanhe entrevistas com grandes nomes da mídia no SBT PODNIGHT.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250424024500 -0300" stop="20250424044500 -0300" channel="SBT">
+    <title lang="pt">SBT News</title>
+    <desc lang="pt"> - Acompanhe as principais notícias do Brasil e do mundo.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250424044500 -0300" stop="20250424073000 -0300" channel="SBT">
+    <title lang="pt">SBT News - Manhã</title>
+    <desc lang="pt"> - Acompanhe as principais notícias do Brasil e do mundo.</desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250424073000 -0300" stop="20250424110000 -0300" channel="SBT">
+    <title lang="pt">Primeiro Impacto</title>
+    <desc lang="pt"> - Trânsito, política, saúde, esporte, mercado de trabalho, educação e os assuntos que são destaque no Brasil e no mundo.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250424110000 -0300" stop="20250424130000 -0300" channel="SBT">
+    <title lang="pt">Primeiro Impacto 3</title>
+    <desc lang="pt"> - Trânsito, política, saúde, esporte, mercado de trabalho, educação e os assuntos que são destaque no Brasil e no mundo.</desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250424130000 -0300" stop="20250424134500 -0300" channel="SBT">
+    <title lang="pt">Chaves</title>
+    <desc lang="pt"> - Na vila mais famosa, Chaves e seus amigos aprontam diversas travessuras em seus vizinhos.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250424134500 -0300" stop="20250424143000 -0300" channel="SBT">
+    <title lang="pt">Quando Me Apaixono</title>
+    <desc lang="pt"> - "Quando Me Apaixono" conta a história de Renata e Jerônimo. Um amor sincero e profundo condenado ao sofrimento pelo rancor e a vingança de um ódio implacável provocado por uma terrível mentira.</desc>
+    <category lang="en">soap/melodrama/folkloric</category>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250424143000 -0300" stop="20250424153000 -0300" channel="SBT">
+    <title lang="pt">A Usurpadora</title>
+    <desc lang="pt"> - Paulina, uma jovem humilde encontra com sua irmã gêmea Paola, uma mulher rica e casada após adulta. Elas decidem trocar de identidade para que uma viva a vida da outra por um ano.</desc>
+    <category lang="en">soap/melodrama/folkloric</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250424153000 -0300" stop="20250424164500 -0300" channel="SBT">
+    <title lang="pt">Fofocalizando</title>
+    <desc lang="pt"> - O Fofocalizando empolga suas tardes com notícias dos famosos, muita fofoca e os diversos assuntos mais comentados do mundo.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250424164500 -0300" stop="20250424194500 -0300" channel="SBT">
+    <title lang="pt">Tá na Hora</title>
+    <desc lang="pt"> - Datena comanda o "Tá na Hora", levando informação e prestação de serviço durante a sua volta para casa.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250424194500 -0300" stop="20250424204500 -0300" channel="SBT">
+    <title lang="pt">SBT Brasil</title>
+    <desc lang="pt"> - Cesar Filho leva ao telespectador as notícias mais importantes do dia, ao vivo, com liberdade editorial e credibilidade.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250424204500 -0300" stop="20250424210500 -0300" channel="SBT">
+    <title lang="pt">Chaves</title>
+    <desc lang="pt"> - Na vila mais famosa, Chaves e seus amigos aprontam diversas travessuras em seus vizinhos.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250424210500 -0300" stop="20250424220000 -0300" channel="SBT">
+    <title lang="pt">A Caverna Encantada</title>
+    <desc lang="pt"> - "A Caverna Encantada" é uma história de amizade, coragem e descobertas, onde Anna e seus amigos aprendem valiosas lições sobre confiança, trabalho em equipe e a importância de seguir seus sonhos.</desc>
+    <category lang="en">soap/melodrama/folkloric</category>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250424220000 -0300" stop="20250424222000 -0300" channel="SBT">
+    <title lang="pt">Chapolin</title>
+    <desc lang="pt"> - Com seu traje vermelho e sua famosa marreta, Chapolin Colorado, o super-herói desajeitado e bem-intencionado, resolve os problemas e sai de situações absurdas, sem com bom humor.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250424222000 -0300" stop="20250424232000 -0300" channel="SBT">
+    <title lang="pt">Programa do Ratinho</title>
+    <desc lang="pt"> - Ratinho, preocupado com as questões da população, traz as principais notícias do dia com muito dinamismo, convidados especiais e muito mais!</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250424232000 -0300" stop="20250425004500 -0300" channel="SBT">
+    <title lang="pt">A Praça é Nossa</title>
+    <desc lang="pt"> - Carlos Alberto de Nóbrega comanda a praça mais irreverente e em seu famoso banco, os mais divertidos humoristas, que conquistam os brasileiros há mais de 20 anos.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250425004500 -0300" stop="20250425014500 -0300" channel="SBT">
+    <title lang="pt">The Noite com Danilo Gentili</title>
+    <desc lang="pt"> - Talk-show apresentado por Danilo Gentili, com atrações como a banda Utraje a Rigor, Diguinho Coruja e Igor Guimarães.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250425014500 -0300" stop="20250425021500 -0300" channel="SBT">
+    <title lang="pt">Operação Mesquita</title>
+    <desc lang="pt"> - Operação Mesquita é um programa inusitado, onde a entrevista é pretexto para Otávio Mesquita descobrir o lado B dos famosos, que mostram o seu cotidiano de forma curiosa e divertida.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250425021500 -0300" stop="20250425030000 -0300" channel="SBT">
+    <title lang="pt">SBT Podnight</title>
+    <desc lang="pt"> - Acompanhe entrevistas com grandes nomes da mídia no SBT PODNIGHT.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250425030000 -0300" stop="20250425044500 -0300" channel="SBT">
+    <title lang="pt">SBT News</title>
+    <desc lang="pt"> - Acompanhe as principais notícias do Brasil e do mundo.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250425044500 -0300" stop="20250425073000 -0300" channel="SBT">
+    <title lang="pt">SBT News - Manhã</title>
+    <desc lang="pt"> - Acompanhe as principais notícias do Brasil e do mundo.</desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250425073000 -0300" stop="20250425110000 -0300" channel="SBT">
+    <title lang="pt">Primeiro Impacto</title>
+    <desc lang="pt"> - Trânsito, política, saúde, esporte, mercado de trabalho, educação e os assuntos que são destaque no Brasil e no mundo.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250425110000 -0300" stop="20250425130000 -0300" channel="SBT">
+    <title lang="pt">Primeiro Impacto 3</title>
+    <desc lang="pt"> - Trânsito, política, saúde, esporte, mercado de trabalho, educação e os assuntos que são destaque no Brasil e no mundo.</desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250425130000 -0300" stop="20250425134500 -0300" channel="SBT">
+    <title lang="pt">Chaves</title>
+    <desc lang="pt"> - Na vila mais famosa, Chaves e seus amigos aprontam diversas travessuras em seus vizinhos.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250425134500 -0300" stop="20250425143000 -0300" channel="SBT">
+    <title lang="pt">Quando Me Apaixono</title>
+    <desc lang="pt"> - "Quando Me Apaixono" conta a história de Renata e Jerônimo. Um amor sincero e profundo condenado ao sofrimento pelo rancor e a vingança de um ódio implacável provocado por uma terrível mentira.</desc>
+    <category lang="en">soap/melodrama/folkloric</category>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250425143000 -0300" stop="20250425153000 -0300" channel="SBT">
+    <title lang="pt">A Usurpadora</title>
+    <desc lang="pt"> - Paulina, uma jovem humilde encontra com sua irmã gêmea Paola, uma mulher rica e casada após adulta. Elas decidem trocar de identidade para que uma viva a vida da outra por um ano.</desc>
+    <category lang="en">soap/melodrama/folkloric</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250425153000 -0300" stop="20250425164500 -0300" channel="SBT">
+    <title lang="pt">Fofocalizando</title>
+    <desc lang="pt"> - O Fofocalizando empolga suas tardes com notícias dos famosos, muita fofoca e os diversos assuntos mais comentados do mundo.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250425164500 -0300" stop="20250425194500 -0300" channel="SBT">
+    <title lang="pt">Tá na Hora</title>
+    <desc lang="pt"> - Datena comanda o "Tá na Hora", levando informação e prestação de serviço durante a sua volta para casa.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250425194500 -0300" stop="20250425204500 -0300" channel="SBT">
+    <title lang="pt">SBT Brasil</title>
+    <desc lang="pt"> - Cesar Filho leva ao telespectador as notícias mais importantes do dia, ao vivo, com liberdade editorial e credibilidade.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250425204500 -0300" stop="20250425210500 -0300" channel="SBT">
+    <title lang="pt">Chaves</title>
+    <desc lang="pt"> - Na vila mais famosa, Chaves e seus amigos aprontam diversas travessuras em seus vizinhos.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250425210500 -0300" stop="20250425220000 -0300" channel="SBT">
+    <title lang="pt">A Caverna Encantada</title>
+    <desc lang="pt"> - "A Caverna Encantada" é uma história de amizade, coragem e descobertas, onde Anna e seus amigos aprendem valiosas lições sobre confiança, trabalho em equipe e a importância de seguir seus sonhos.</desc>
+    <category lang="en">soap/melodrama/folkloric</category>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250425220000 -0300" stop="20250425222000 -0300" channel="SBT">
+    <title lang="pt">Chapolin</title>
+    <desc lang="pt"> - Com seu traje vermelho e sua famosa marreta, Chapolin Colorado, o super-herói desajeitado e bem-intencionado, resolve os problemas e sai de situações absurdas, sem com bom humor.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250425222000 -0300" stop="20250425232000 -0300" channel="SBT">
+    <title lang="pt">Programa do Ratinho</title>
+    <desc lang="pt"> - Ratinho, preocupado com as questões da população, traz as principais notícias do dia com muito dinamismo, convidados especiais e muito mais!</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250425232000 -0300" stop="20250426010000 -0300" channel="SBT">
+    <title lang="pt">Tela de Sucessos</title>
+    <desc lang="pt"> - Após um trauma familiar, o policial Bill se tornou uma pessoa amarga. Enquanto o filho tenta se aproximar dele sem sucesso, o sargento e pastor encara a frieza de Bill como uma missão de Deus.</desc>
+    <category lang="en">film/cinema</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250426010000 -0300" stop="20250426020000 -0300" channel="SBT">
+    <title lang="pt">The Noite com Danilo Gentili</title>
+    <desc lang="pt"> - Talk-show apresentado por Danilo Gentili, com atrações como a banda Utraje a Rigor, Diguinho Coruja e Igor Guimarães.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250426020000 -0300" stop="20250426023000 -0300" channel="SBT">
+    <title lang="pt">Operação Mesquita</title>
+    <desc lang="pt"> - Operação Mesquita é um programa inusitado, onde a entrevista é pretexto para Otávio Mesquita descobrir o lado B dos famosos, que mostram o seu cotidiano de forma curiosa e divertida.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250426023000 -0300" stop="20250426031500 -0300" channel="SBT">
+    <title lang="pt">SBT Podnight</title>
+    <desc lang="pt"> - Acompanhe entrevistas com grandes nomes da mídia no SBT PODNIGHT.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250426031500 -0300" stop="20250426060000 -0300" channel="SBT">
+    <title lang="pt">SBT News</title>
+    <desc lang="pt"> - Acompanhe as principais notícias do Brasil e do mundo.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250426060000 -0300" stop="20250426064500 -0300" channel="SBT">
+    <title lang="pt">SBT Apresenta: Luccas Toon</title>
+    <desc lang="pt"> - Luccas Toon traz diversão e inspira crianças e adultos a soltarem a imaginação e se aventurarem em um mundo cheio de histórias animadas e valiosos aprendizados.</desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250426064500 -0300" stop="20250426113000 -0300" channel="SBT">
+    <title lang="pt">Sábado Animado</title>
+    <desc lang="pt"> - Seu fim de semana começa com muito mais alegria no Sábado Animado. Os desenhos que fazem sucesso entre a garotada de todas as idades estão reunidos aqui.</desc>
+    <category lang="en">film/cinema</category>
+  </programme>
+  <programme start="20250426113000 -0300" stop="20250426120000 -0300" channel="SBT">
+    <title lang="pt">A Pracinha</title>
+    <desc lang="pt"> - Tio Marcelo de Nóbrega apresenta: A PRACINHA - É a nova geração trazendo alegria!</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250426120000 -0300" stop="20250426140000 -0300" channel="SBT">
+    <title lang="pt">Sábado Séries</title>
+    <desc lang="pt"> - A diversão é garantida com as séries no SBT.</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250426140000 -0300" stop="20250426153000 -0300" channel="SBT">
+    <title lang="pt">Cinema em Casa</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">film/cinema</category>
+  </programme>
+  <programme start="20250426153000 -0300" stop="20250426161500 -0300" channel="SBT">
+    <title lang="pt">Eita Lucas</title>
+    <desc lang="pt"> - Lucas Guimarães chega para trazer ainda mais diversão e entretenimento para o seu sábado!</desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250426161500 -0300" stop="20250426180000 -0300" channel="SBT">
+    <title lang="pt">Cinema em Casa 2</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">film/cinema</category>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250426180000 -0300" stop="20250426194500 -0300" channel="SBT">
+    <title lang="pt">Tá na Hora - Edição de Sábado</title>
+    <desc lang="pt"> - Datena comanda o "Tá na Hora", levando informação e prestação de serviço durante a sua volta para casa.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250426194500 -0300" stop="20250426204500 -0300" channel="SBT">
+    <title lang="pt">SBT Brasil</title>
+    <desc lang="pt"> - Cesar Filho leva ao telespectador as notícias mais importantes do dia, ao vivo, com liberdade editorial e credibilidade.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250426204500 -0300" stop="20250426221500 -0300" channel="SBT">
+    <title lang="pt">Esquadrão da Moda</title>
+    <desc lang="pt"> - Renata Kuerten, Dudu Bertholini, Rodrigo Cintra e a Fabiana Gomes, dão dicas essenciais para ensinar a participante do dia a usar a moda a seu favor.</desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250426221500 -0300" stop="20250427000000 -0300" channel="SBT">
+    <title lang="pt">Sabadou com Virginia</title>
+    <desc lang="pt"> - O "Sabadou com Virginia" é um programa de entretenimento que combina entrevistas, muita interação e brincadeiras com a plateia, proporcionando um final de noite mais leve e cheio de diversão..</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250427000000 -0300" stop="20250427020000 -0300" channel="SBT">
+    <title lang="pt">Notícias Impressionantes</title>
+    <desc lang="pt"> - O Notícias Impressionantes te informa sobre os diversos assuntos mais espetaculares do mundo.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250427020000 -0300" stop="20250427050000 -0300" channel="SBT">
+    <title lang="pt">SBT News</title>
+    <desc lang="pt"> - Acompanhe as principais notícias do Brasil e do mundo.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250427050000 -0300" stop="20250427070000 -0300" channel="SBT">
+    <title lang="pt">SBT News - Manhã</title>
+    <desc lang="pt"> - Acompanhe as principais notícias do Brasil e do mundo.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250427070000 -0300" stop="20250427073000 -0300" channel="SBT">
+    <title lang="pt">Pé na Estrada</title>
+    <desc lang="pt"> - Com apresentação de Pedro Trucão, o programa Pé na Estrada é dedicado ao transporte rodoviário com objetivo de valorizar o profissional da estrada.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250427073000 -0300" stop="20250427080000 -0300" channel="SBT">
+    <title lang="pt">SBT Agro</title>
+    <desc lang="pt"> - Notícias sobre o agronegócio brasileiro. Uma conexão direta entre os produtores rurais e a população urbana.</desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250427080000 -0300" stop="20250427090000 -0300" channel="SBT">
+    <title lang="pt">SBT Sports</title>
+    <desc lang="pt"> - O SBT Sports mostra tudo sobre os principais campeonatos do país e do mundo, traz análises dos jogos e comentários do elenco esportivo da emissora, além de informações exclusivas.</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250427090000 -0300" stop="20250427110000 -0300" channel="SBT">
+    <title lang="pt">Notícias Impressionantes</title>
+    <desc lang="pt"> - O Notícias Impressionantes te informa sobre os diversos assuntos mais espetaculares do mundo.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250427110000 -0300" stop="20250427111500 -0300" channel="SBT">
+    <title lang="pt">Sorteio da Tele Sena</title>
+    <desc lang="pt"> - Sorteio da Tele Sena.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250427111500 -0300" stop="20250427151500 -0300" channel="SBT">
+    <title lang="pt">Domingo Legal</title>
+    <desc lang="pt"> - Domingo Legal, comandado por Celso Portiolli, traz sempre um programa especial com música, reportagens, celebridades e quadros de sucesso.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250427151500 -0300" stop="20250427164500 -0300" channel="SBT">
+    <title lang="pt">Domingo Legal</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250427164500 -0300" stop="20250427181500 -0300" channel="SBT">
+    <title lang="pt">Domingo Legal</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250427181500 -0300" stop="20250427190000 -0300" channel="SBT">
+    <title lang="pt">Roda a Roda</title>
+    <desc lang="pt"> - Já imaginou ganhar prêmios e até 1 milhão de reais? Isso é realidade para quem compra ou vende produtos Jequiti.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250427190000 -0300" stop="20250428000000 -0300" channel="SBT">
+    <title lang="pt">Programa Silvio Santos</title>
+    <desc lang="pt"> - O mais divertido programa da televisão, com "Jogo dos Pontinhos", "Câmeras Escondidas", "Gincanas" e muito mais!</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250428000000 -0300" stop="20250428013000 -0300" channel="SBT">
+    <title lang="pt">The Chosen - Os Escolhidos</title>
+    <desc lang="pt"> - A segunda temporada começa em Samaria e se move para regiões próximas, onde Jesus continua atraindo mais discípulos e discípulas.</desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250428013000 -0300" stop="20250428044500 -0300" channel="SBT">
+    <title lang="pt">SBT News</title>
+    <desc lang="pt"> - Acompanhe as principais notícias do Brasil e do mundo.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250428044500 -0300" stop="20250428073000 -0300" channel="SBT">
+    <title lang="pt">SBT News</title>
+    <desc lang="pt"> - Acompanhe as principais notícias do Brasil e do mundo.</desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250417193201 -0300" stop="20250417195330 -0300" channel="Novelas">
     <title lang="pt">Para Te Ver Melhor</title>
     <desc lang="pt"> - Um prédio, seis apartamentos, uma cobertura, uma portaria e muitas histórias de amor e suspense.</desc>
     <category lang="en">movie/drama (general)</category>
@@ -40464,29 +41276,25 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250417175801 -0300" stop="20250417183721 -0300" channel="Silvio Santos">
-    <title lang="pt">Em Nome do Amor</title>
-    <sub-title lang="pt">realizado em 16/04/1995</sub-title>
-    <desc lang="pt">A cada história uma nova emoção. Tudo é lindo com Silvio Santos no Em Nome do Amor! </desc>
-    <category lang="en">variety show</category>
-    <date>16/04/1995</date>
-    <episode-num system="xmltv_ns">1.9.</episode-num>
+  <programme start="20250424180654 -0300" stop="20250424191035 -0300" channel="Novelas">
+    <title lang="pt">Amor Secreto </title>
+    <desc lang="pt"> - Irene, uma secretária inteligente, eficiente e confiável, se apaixona por seu chefe, Leonardo.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">0.13.</episode-num>
     <rating system="Brazil">
-      <value>[A12]</value>
+      <value>[A14]</value>
     </rating>
   </programme>
-  <programme start="20250417183726 -0300" stop="20250417191216 -0300" channel="Silvio Santos">
-    <title lang="pt">Show do Milhão</title>
-    <sub-title lang="pt">realizado em 31/05/2000</sub-title>
-    <desc lang="pt">Silvio Santos convida participantes para testarem seus conhecimentos valendo um milhão de reais.</desc>
-    <category lang="en">variety show</category>
-    <date>31/05/2000</date>
-    <episode-num system="xmltv_ns">2.3.</episode-num>
+  <programme start="20250424191356 -0300" stop="20250424193934 -0300" channel="Novelas">
+    <title lang="pt">Para Te Ver Melhor</title>
+    <desc lang="pt"> - Um prédio, seis apartamentos, uma cobertura, uma portaria e muitas histórias de amor e suspense.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">0.13.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[A14]</value>
     </rating>
   </programme>
-  <programme start="20250417191219 -0300" stop="20250417200549 -0300" channel="Silvio Santos">
+  <programme start="20250417192942 -0300" stop="20250417200549 -0300" channel="Silvio Santos">
     <title lang="pt">Porta da Esperança</title>
     <sub-title lang="pt">realizado em 13/03/1988</sub-title>
     <desc lang="pt">Participantes enviam pedidos e, se selecionados, realizam seus sonhos com Silvio Santos.</desc>
@@ -42063,7 +42871,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[A10]</value>
     </rating>
   </programme>
-  <programme start="20250424175803 -0300" stop="20250424180424 -0300" channel="Silvio Santos">
+  <programme start="20250424175803 -0300" stop="20250424184834 -0300" channel="Silvio Santos">
     <title lang="pt">Porta da Esperança</title>
     <sub-title lang="pt">realizado em 20/10/1985</sub-title>
     <desc lang="pt">Participantes enviam pedidos e, se selecionados, realizam seus sonhos com Silvio Santos.</desc>
@@ -42074,14 +42882,24 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[AL]</value>
     </rating>
   </programme>
-  <programme start="20250417175401 -0300" stop="20250417191949 -0300" channel="Pop">
-    <title lang="pt">Como Casar Com Um Milionário?</title>
-    <sub-title lang="pt">Filme</sub-title>
-    <desc lang="pt"> - Já imaginou fazer um curso para aprender como conquistar um milionário? Alicja está empenhada nisso.</desc>
-    <category lang="en">comedy</category>
-    <episode-num system="xmltv_ns">.0.</episode-num>
+  <programme start="20250424184850 -0300" stop="20250424190658 -0300" channel="Silvio Santos">
+    <title lang="pt">Momentos Inesquecíveis</title>
+    <sub-title lang="pt">Topa Tudo por Dinheiro com Gloria Pires</sub-title>
+    <desc lang="pt"> - Relembre momentos marcantes do maior comunicador do Brasil</desc>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
     <rating system="Brazil">
-      <value>[12]</value>
+      <value>[A10]</value>
+    </rating>
+  </programme>
+  <programme start="20250424190708 -0300" stop="20250424193405 -0300" channel="Silvio Santos">
+    <title lang="pt">Show de Calouros</title>
+    <sub-title lang="pt">Programa</sub-title>
+    <desc lang="pt">realizado em 07/03/1986 - O clássico dos clássicos! Nos anos 80, todo aspirante a artista queria estar no Show de Calouros!</desc>
+    <category lang="en">variety show</category>
+    <date>07/03/1986</date>
+    <episode-num system="xmltv_ns">1985.1.</episode-num>
+    <rating system="Brazil">
+      <value>[A12]</value>
     </rating>
   </programme>
   <programme start="20250417192114 -0300" stop="20250417205943 -0300" channel="Pop">
@@ -43439,7 +44257,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250424173317 -0300" stop="20250424181520 -0300" channel="Pop">
+  <programme start="20250424173317 -0300" stop="20250424191523 -0300" channel="Pop">
     <title lang="pt">Golpe Arriscado</title>
     <sub-title lang="pt">Filme</sub-title>
     <desc lang="pt"> - Ron e Dina, grávidos e sem dinheiro, colocam seu filho que ainda nem nasceu para adoção na internet.</desc>
@@ -43447,34 +44265,13 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250417180059 -0300" stop="20250417182718 -0300" channel="TV Zyn">
-    <title lang="pt">Minha Amiga Nokotan é um Cervo</title>
-    <sub-title lang="pt">10. É tudo culpa da primavera</sub-title>
-    <desc lang="pt"> - Torako Koshi encontra uma garota presa nos postes de energia por causa de seus... Chifres?</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
+  <programme start="20250424191648 -0300" stop="20250424193358 -0300" channel="Pop">
+    <title lang="pt">Alucinações do Passado 2</title>
+    <sub-title lang="pt">Filme</sub-title>
+    <desc lang="pt"> - Jacob Singer luta para manter a sanidade após o retorno do irmão da guerra.</desc>
+    <episode-num system="xmltv_ns">.0.</episode-num>
     <rating system="Brazil">
-      <value>[A14]</value>
-    </rating>
-  </programme>
-  <programme start="20250417182725 -0300" stop="20250417185303 -0300" channel="TV Zyn">
-    <title lang="pt">Beyblade X</title>
-    <sub-title lang="pt">9. ForjaBeys</sub-title>
-    <desc lang="pt"> - Robin Kazami quer se tornar jogador profissional de Beyblade e chegar no topo da Torre X.</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250417185308 -0300" stop="20250417192020 -0300" channel="TV Zyn">
-    <title lang="pt">Os Cavaleiros do Zodíaco: A Tela Perdida</title>
-    <sub-title lang="pt">5. Rosa venenosa</sub-title>
-    <desc lang="pt"> - Atena e Hades se enfrentam a cada dois séculos em uma batalha chamada Guerra Santa.</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
+      <value>[A16]</value>
     </rating>
   </programme>
   <programme start="20250417192030 -0300" stop="20250417201535 -0300" channel="TV Zyn">
@@ -47475,18 +48272,46 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[AL]</value>
     </rating>
   </programme>
-  <programme start="20250417175854 -0300" stop="20250417181041 -0300" channel="Saudade">
-    <title lang="pt">Programa Livre</title>
-    <sub-title lang="pt">realizado em 27/01/1992</sub-title>
-    <desc lang="pt">Na década de 90, a juventude se encontrava com seus ídolos no palco de Serginho Groisman!</desc>
-    <category lang="en">variety show</category>
-    <date>27/01/1992</date>
-    <episode-num system="xmltv_ns">1.11.</episode-num>
+  <programme start="20250424180234 -0300" stop="20250424182838 -0300" channel="TV Zyn">
+    <title lang="pt">Minha Amiga Nokotan é um Cervo</title>
+    <sub-title lang="pt">12. Adeus Nokotan!? Vida longa ao clube dos cervos!</sub-title>
+    <desc lang="pt"> - Torako Koshi encontra uma garota presa nos postes de energia por causa de seus... Chifres?</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.11.</episode-num>
+    <rating system="Brazil">
+      <value>[A14]</value>
+    </rating>
+  </programme>
+  <programme start="20250424182843 -0300" stop="20250424185403 -0300" channel="TV Zyn">
+    <title lang="pt">Beyblade X</title>
+    <sub-title lang="pt">14. Jax-exercício</sub-title>
+    <desc lang="pt"> - Robin Kazami quer se tornar jogador profissional de Beyblade e chegar no topo da Torre X.</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.13.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250417181251 -0300" stop="20250417194005 -0300" channel="Saudade">
+  <programme start="20250424185410 -0300" stop="20250424192119 -0300" channel="TV Zyn">
+    <title lang="pt">Os Cavaleiros do Zodíaco: A Tela Perdida</title>
+    <sub-title lang="pt">7. Os frutos de Mokurenji</sub-title>
+    <desc lang="pt"> - Atena e Hades se enfrentam a cada dois séculos em uma batalha chamada Guerra Santa.</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250424192126 -0300" stop="20250424193414 -0300" channel="TV Zyn">
+    <title lang="pt">Cúmplices de Um Resgate</title>
+    <desc lang="pt"> - Gêmeas que foram separadas ao nascer e se reencontram na adolescência. E se tornam cúmplices na vida.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">10.216.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250417191825 -0300" stop="20250417194005 -0300" channel="Saudade">
     <title lang="pt">A Praça é Nossa</title>
     <sub-title lang="pt">realizado em 28/04/1989</sub-title>
     <desc lang="pt">A mesma praça, o mesmo banco e as risadas que sempre se renovam.</desc>
@@ -50471,6 +51296,28 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
     <episode-num system="xmltv_ns">1990..</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250424180110 -0300" stop="20250424191953 -0300" channel="Saudade">
+    <title lang="pt">A Praça é Nossa</title>
+    <sub-title lang="pt">realizado em 04/08/1989</sub-title>
+    <desc lang="pt">A mesma praça, o mesmo banco e as risadas que sempre se renovam.</desc>
+    <category lang="en">comedy</category>
+    <date>04/08/1989</date>
+    <episode-num system="xmltv_ns">1988.6.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250424192003 -0300" stop="20250424193044 -0300" channel="Saudade">
+    <title lang="pt">Veja o Gordo</title>
+    <sub-title lang="pt">realizado em 06/05/1988</sub-title>
+    <desc lang="pt">Jô Soares vai tirar seu fôlego com as piadas e histórias hilárias em Veja o Gordo. </desc>
+    <category lang="en">comedy</category>
+    <date>06/05/1988</date>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <rating system="Brazil">
+      <value>[A14]</value>
     </rating>
   </programme>
   <programme start="20250417033000 -0300" stop="20250417040000 -0300" channel="Canal Educação">
