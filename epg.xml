@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2025-04-18 10:45:06" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2025-04-18 12:15:05" generator-info-url="http://limaalef.com">
   <channel id="Claro TV+ 4K">
     <display-name lang="pt">Claro TV+ 4K</display-name>
   </channel>
@@ -140,9 +140,6 @@
   </channel>
   <channel id="modo-viagem">
     <display-name lang="pt">modo-viagem</display-name>
-  </channel>
-  <channel id="viva-fast">
-    <display-name lang="pt">viva-fast</display-name>
   </channel>
   <channel id="premiere">
     <display-name lang="pt">premiere</display-name>
@@ -898,9 +895,8 @@
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20250418200000 -0300" stop="20250418210000 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Tour da Bola - Ao Vivo</title>
+    <title lang="pt">Tour da Bola</title>
     <desc lang="pt"> - Raí Monteiro e Leonardo Jens analisam tudo sobre os principais campeonatos ao redor do planeta.</desc>
-    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20250418210000 -0300" stop="20250418220000 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Esporte Agora - Ao Vivo</title>
@@ -1672,11 +1668,20 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250418213000 -0300" stop="20250419000800 -0300" channel="TNT HD">
+  <programme start="20250418213000 -0300" stop="20250418235400 -0300" channel="TNT HD">
     <title lang="pt">Transformers: A Vingança Dos Derrotados</title>
     <desc lang="pt"> - Sam Witwicky quer recuperar o controle sobre a sua vida. Depois de salvar o universo da destruição em uma guerra entre duas raças de extraterrestres rivais, ele quer aproveitar o tempo com a namorada, Mikaela</desc>
     <rating system="Brazil">
       <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250418235400 -0300" stop="20250419001700 -0300" channel="TNT HD">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+    <sub-title lang="pt">Todo Mundo Odeia Promessas</sub-title>
+    <desc lang="pt"> - Depois que Julius empresta a Chris um par de meias da sorte, Chris começa a perceber que ele não pode fazer nada de errado. Drew e Tonya decidem jogar seus pais, Rochelle e Julius, um contra o outro.</desc>
+    <episode-num system="xmltv_ns">1.6.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
     </rating>
   </programme>
   <programme start="20250417235200 -0300" stop="20250418012400 -0300" channel="SPACE HD">
@@ -4718,22 +4723,22 @@
     <desc lang="pt"> - Uma nova categoria exclusivamente feminina que prepara pilotos para competições de elite.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250419100000 -0300" stop="20250419103000 -0300" channel="BAND SPORTS HD">
+  <programme start="20250419100000 -0300" stop="20250419102000 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Supermotor - Ao Vivo</title>
     <desc lang="pt"> - O jornalista Celso Miranda reúne um time de especialistas para passar a limpo tudo que acontece nas pistas, no mundo dos motores.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250419103000 -0300" stop="20250419113000 -0300" channel="BAND SPORTS HD">
+  <programme start="20250419102000 -0300" stop="20250419113000 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Fórmula 1: GP da Arábia Saudita: Treino Livre 3 - Ao Vivo</title>
     <desc lang="pt"> - Além dos treinos classificatórios da Fórmula 1, o BandSports transmite as corridas da Fórmula 2 e Fórmula 3. Essas competições são consideradas um grande celeiro de pilotos.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250419113000 -0300" stop="20250419121500 -0300" channel="BAND SPORTS HD">
+  <programme start="20250419113000 -0300" stop="20250419121000 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Supermotor - Ao Vivo</title>
     <desc lang="pt"> - O jornalista Celso Miranda reúne um time de especialistas para passar a limpo tudo que acontece nas pistas, no mundo dos motores.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250419121500 -0300" stop="20250419131500 -0300" channel="BAND SPORTS HD">
+  <programme start="20250419121000 -0300" stop="20250419131500 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Fórmula 2: GP da Arábia Saudita: Sprint - Ao Vivo</title>
     <desc lang="pt"> - Além dos treinos classificatórios da Fórmula 1, o BandSports transmite as corridas da Fórmula 2 e Fórmula 3. Essas competições são consideradas um grande celeiro de pilotos.</desc>
     <category lang="en">live broadcast</category>
@@ -4743,12 +4748,12 @@
     <desc lang="pt"> - O jornalista Celso Miranda reúne um time de especialistas para passar a limpo tudo que acontece nas pistas, no mundo dos motores.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250419133000 -0300" stop="20250419150000 -0300" channel="BAND SPORTS HD">
+  <programme start="20250419133000 -0300" stop="20250419151500 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Fórmula 1: GP da Arábia Saudita: Classificação - Ao Vivo</title>
     <desc lang="pt"> - Além dos treinos classificatórios da Fórmula 1, o BandSports transmite as corridas da Fórmula 2 e Fórmula 3. Essas competições são consideradas um grande celeiro de pilotos.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250419150000 -0300" stop="20250419160000 -0300" channel="BAND SPORTS HD">
+  <programme start="20250419151500 -0300" stop="20250419160000 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Supermotor - Ao Vivo</title>
     <desc lang="pt"> - O jornalista Celso Miranda reúne um time de especialistas para passar a limpo tudo que acontece nas pistas, no mundo dos motores.</desc>
     <category lang="en">live broadcast</category>
@@ -4763,9 +4768,14 @@
     <desc lang="pt"> - As meninas do Londrina Futsal enfrentam o Chapecó/Female Futsal. Assista essa partidaça ao vivo no BandSports! Já tem a sua torcida?</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250419184500 -0300" stop="20250419203000 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">VT - Al-Qadsiah x Al-Nassr</title>
-    <desc lang="pt"> - O BandSports vai transmitir a temporada 2024/2025 da Liga Saudita de Futebol. O principal torneio da Arábia Saudita contará com estrelas como Cristiano Ronaldo, Karim Benzema, Sadio Mané, Roberto Firmino, entre outros.</desc>
+  <programme start="20250419184500 -0300" stop="20250419200000 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">VT - Fórmula 1: GP da Arábia Saudita: Classificação</title>
+    <desc lang="pt"> - Além dos treinos classificatórios da Fórmula 1, o BandSports transmite as corridas da Fórmula 2 e Fórmula 3. Essas competições são consideradas um grande celeiro de pilotos.</desc>
+    <previously-shown />
+  </programme>
+  <programme start="20250419200000 -0300" stop="20250419203000 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">Acelerados</title>
+    <desc lang="pt"> - Rubens Barrichello, Gerson Campos e uma super equipe aceleram superesportivos importados, clássicos do passado e as últimas novidades do mercado nacional, trazendo sempre velocidade, emoção e informação sobre quatro e...</desc>
   </programme>
   <programme start="20250419203000 -0300" stop="20250419213000 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Esporte Agora - Ao Vivo</title>
@@ -5481,14 +5491,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250418213000 -0300" stop="20250419000800 -0300" channel="TNT HD">
-    <title lang="pt">Transformers: A Vingança Dos Derrotados</title>
-    <desc lang="pt"> - Sam Witwicky quer recuperar o controle sobre a sua vida. Depois de salvar o universo da destruição em uma guerra entre duas raças de extraterrestres rivais, ele quer aproveitar o tempo com a namorada, Mikaela</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20250419000800 -0300" stop="20250419003100 -0300" channel="TNT HD">
+  <programme start="20250418235400 -0300" stop="20250419001700 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia Promessas</sub-title>
     <desc lang="pt"> - Depois que Julius empresta a Chris um par de meias da sorte, Chris começa a perceber que ele não pode fazer nada de errado. Drew e Tonya decidem jogar seus pais, Rochelle e Julius, um contra o outro.</desc>
@@ -5497,7 +5500,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250419003100 -0300" stop="20250419005300 -0300" channel="TNT HD">
+  <programme start="20250419001700 -0300" stop="20250419004000 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia Superstição</sub-title>
     <desc lang="pt"> - Depois que Julius empresta suas meias da sorte para Chris, ele começa a perceber que nada pode dar errado.</desc>
@@ -5506,16 +5509,16 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250419005300 -0300" stop="20250419011600 -0300" channel="TNT HD">
+  <programme start="20250419004000 -0300" stop="20250419010200 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia O Dia De Ação De Graças</sub-title>
     <desc lang="pt"> - Quando o bem-sucedido irmão de Julius junta-se à família para o Dia de Ação de Graças, Julius entra em espírito competitivo, determinado a preparar a refeição perfeita.</desc>
     <episode-num system="xmltv_ns">1.7.</episode-num>
     <rating system="Brazil">
-      <value>[10]</value>
+      <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250419011600 -0300" stop="20250419014100 -0300" channel="TNT HD">
+  <programme start="20250419010200 -0300" stop="20250419012500 -0300" channel="TNT HD">
     <title lang="pt">Um Maluco no Pedaço</title>
     <sub-title lang="pt">Três é Demais</sub-title>
     <desc lang="pt"> - Hilary comprou uma casa. O Will e o Carlton estão fazendo a sua viagem de esqui anual e as coisas não vão como o planejado.</desc>
@@ -5524,7 +5527,7 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250419014100 -0300" stop="20250419020600 -0300" channel="TNT HD">
+  <programme start="20250419012500 -0300" stop="20250419014900 -0300" channel="TNT HD">
     <title lang="pt">Um Maluco no Pedaço</title>
     <sub-title lang="pt">Uma Mentira Inocente</sub-title>
     <desc lang="pt"> - Lisa diz que o Will pode sair com os amigos dele à noite enquanto ela sai com as amigas dela. Os dois mentem sobre o que vão fazer, e acabam se encontrando na mesma festa. E o que é pior, eles encontram a Ashley nessa festa.</desc>
@@ -5533,7 +5536,7 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250419020600 -0300" stop="20250419023000 -0300" channel="TNT HD">
+  <programme start="20250419014900 -0300" stop="20250419021100 -0300" channel="TNT HD">
     <title lang="pt">Um Maluco no Pedaço</title>
     <sub-title lang="pt">Tiros em Bel-Air</sub-title>
     <desc lang="pt"> - Will e o Carlton estão tirando dinheiro e alguém tenta matar o Carlton para roubá-lo, mas o Will recebe a bala por ele.</desc>
@@ -5542,7 +5545,7 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250419023000 -0300" stop="20250419025300 -0300" channel="TNT HD">
+  <programme start="20250419021100 -0300" stop="20250419023300 -0300" channel="TNT HD">
     <title lang="pt">Um Maluco no Pedaço</title>
     <sub-title lang="pt">Uma Proposta do Coração</sub-title>
     <desc lang="pt"> - Ainda no hospital após ser baleado, o Will pensa no seu futuro. Ele pede a Lisa em casamento.</desc>
@@ -5551,21 +5554,21 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250419025300 -0300" stop="20250419043700 -0300" channel="TNT HD">
+  <programme start="20250419023300 -0300" stop="20250419040600 -0300" channel="TNT HD">
     <title lang="pt">Eu Sou a Lenda</title>
     <desc lang="pt"> - A população de Nova York foi dizimada por um vírus mortal. Um brilhante cientista é imune ao vírus e tenta encontrar outros sobreviventes, ao mesmo tempo em que busca um antídoto.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250419043700 -0300" stop="20250419060000 -0300" channel="TNT HD">
-    <title lang="pt">O Grande Herói</title>
-    <desc lang="pt"> - Durante a guerra no Afeganistão, uma equipe de elite das forças especiais SEAL, liderada por Marcus Luttrell, tem a missão de capturar o líder talibã Ahmad Shah, enquanto luta por suas vidas.</desc>
+  <programme start="20250419040600 -0300" stop="20250419060000 -0300" channel="TNT HD">
+    <title lang="pt">Magnatas do Crime</title>
+    <desc lang="pt"> - Mickey Pearson construiu um império da maconha extremamente lucrativo em Londres. Quando a notícia de que ele pretende vendê-lo se espalha, uma série de intrigas e esquemas agitam o submundo do crime.</desc>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250419060000 -0300" stop="20250419072300 -0300" channel="TNT HD">
+  <programme start="20250419060000 -0300" stop="20250419072400 -0300" channel="TNT HD">
     <title lang="pt">Hollywood One on One</title>
     <desc lang="pt"> - Entrevistas com grandes astros, além de curiosidades e tudo mais o que acontece por trás das cenas dos campeões de bilheteria e dos filmes mais comentados da atualidade.</desc>
     <episode-num system="xmltv_ns">5.108.</episode-num>
@@ -5573,7 +5576,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250419072300 -0300" stop="20250419080000 -0300" channel="TNT HD">
+  <programme start="20250419072400 -0300" stop="20250419080000 -0300" channel="TNT HD">
     <title lang="pt">De Olho Na Liga</title>
     <desc lang="pt"> - O De Olho na Liga é um resumo do que aconteceu de mais importante na semana na Liga dos Campeões da Europa. Os bastidores dos grandes jogos, os personagens mais marcantes das partidas, a festa das torcidas e as histórias.</desc>
   </programme>
@@ -5581,18 +5584,19 @@
     <title lang="pt">Pré-jogo UEFA Women's Champions League</title>
     <desc lang="pt"> - A melhor cobertura dos jogos da UEFA CHAMPIONS LEAGUE e o melhor futebol do mundo, na programação da TNT Brasil.</desc>
   </programme>
-  <programme start="20250419083000 -0300" stop="20250419103000 -0300" channel="TNT HD">
-    <title lang="pt">Champions Feminina</title>
-    <desc lang="pt"> - A melhor cobretura dos jogos da UEFA CHAMPIONS LEAGUE e o melhor futebol do mundo, agora na programação da TNT Brasil.</desc>
+  <programme start="20250419083000 -0300" stop="20250419104200 -0300" channel="TNT HD">
+    <title lang="pt">Arsenal (ING) x Lyon (FRA) - Ao Vivo</title>
+    <desc lang="pt"> - Arsenal (ING) e Lyon (FRA) jogam pela 1ª rodada da Semifinal da Champions League Feminina.</desc>
+    <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250419103000 -0300" stop="20250419121600 -0300" channel="TNT HD">
+  <programme start="20250419104200 -0300" stop="20250419122700 -0300" channel="TNT HD">
     <title lang="pt">Brian Banks: Um Sonho Interrompido</title>
     <desc lang="pt"> - Brian Banks, astro do futebol americano estudantil, luta para se livrar de uma condenação injusta e realizar seu sonho de jogar na NFL.</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250419121600 -0300" stop="20250419123800 -0300" channel="TNT HD">
+  <programme start="20250419122700 -0300" stop="20250419125000 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia Natal</sub-title>
     <desc lang="pt"> - É Natal e Julius e Rochelle têm dificuldades em dar a notícia de que não poderão comprar presentes por causa de um aquecedor danificado. Chris fica surpreso ao descobrir para quem é a doação de comida enlatada.</desc>
@@ -5601,7 +5605,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250419123800 -0300" stop="20250419130200 -0300" channel="TNT HD">
+  <programme start="20250419125000 -0300" stop="20250419131300 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia Ovos</sub-title>
     <desc lang="pt"> - Para uma aula sobre as responsabilidades que os pais devem ter, Chris e Greg recebem um ovo cada um para cuidarem como se fossem seus próprios filhos, mas a tarefa se mostra bastante difícil.</desc>
@@ -5610,7 +5614,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250419130200 -0300" stop="20250419132500 -0300" channel="TNT HD">
+  <programme start="20250419131300 -0300" stop="20250419133700 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia O Substituto</sub-title>
     <desc lang="pt"> - O professor substituto inferniza a vida de Chris ao exigir mais dele do que dos seus colegas de turma. Tonya percebe que sempre pode conseguir o que quer acusando Drew de bater nela.</desc>
@@ -5619,7 +5623,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250419132500 -0300" stop="20250419134700 -0300" channel="TNT HD">
+  <programme start="20250419133700 -0300" stop="20250419140000 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia DJ's</sub-title>
     <desc lang="pt"> - Quando o DJ do bairro é preso no meio de uma festa, Chris fica no lugar dele e mostra que faz enorme sucesso com o público.</desc>
@@ -5628,21 +5632,21 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250419134700 -0300" stop="20250419155200 -0300" channel="TNT HD">
+  <programme start="20250419140000 -0300" stop="20250419160200 -0300" channel="TNT HD">
     <title lang="pt">As Panteras</title>
     <desc lang="pt"> - O mais famoso trio de agentes especiais volta à tela sob a direção de Elizabeth Banks com um olhar mais fresco e atual.</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250419155200 -0300" stop="20250419173300 -0300" channel="TNT HD">
+  <programme start="20250419160200 -0300" stop="20250419173900 -0300" channel="TNT HD">
     <title lang="pt">Eu Sou a Lenda</title>
     <desc lang="pt"> - A população de Nova York foi dizimada por um vírus mortal. Um brilhante cientista é imune ao vírus e tenta encontrar outros sobreviventes, ao mesmo tempo em que busca um antídoto.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250419173300 -0300" stop="20250419190800 -0300" channel="TNT HD">
+  <programme start="20250419173900 -0300" stop="20250419190800 -0300" channel="TNT HD">
     <title lang="pt">Shrek</title>
     <desc lang="pt"> - Após ter seu pântano invadido por criaturas a mando de um lorde, o ogro Shrek deve resgatar a princesa Fiona para ter sua paz de volta. Acompanhado também de Burro, os três vivem uma grande aventura.</desc>
     <rating system="Brazil">
@@ -5656,14 +5660,14 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250419204100 -0300" stop="20250419221900 -0300" channel="TNT HD">
+  <programme start="20250419204100 -0300" stop="20250419221500 -0300" channel="TNT HD">
     <title lang="pt">Shrek Terceiro</title>
     <desc lang="pt"> - Com a morte do pai de Fiona, Shrek assume como Rei Tão Tão Distante. Infeliz com a situação, ele contará com a ajuda de seus amigos para encontrar um substituto.</desc>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250419221900 -0300" stop="20250420002800 -0300" channel="TNT HD">
+  <programme start="20250419221500 -0300" stop="20250420002800 -0300" channel="TNT HD">
     <title lang="pt">Jurassic World: O Mundo dos Dinossauros</title>
     <desc lang="pt"> - O Jurassic Park enfim está aberto ao público. Entretanto, a equipe chefiada pela doutora Claire passa a fazer experiências genéticas, de forma a criar novas espécies.</desc>
     <rating system="Brazil">
@@ -9166,7 +9170,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250419221900 -0300" stop="20250420002800 -0300" channel="TNT HD">
+  <programme start="20250419221500 -0300" stop="20250420002800 -0300" channel="TNT HD">
     <title lang="pt">Jurassic World: O Mundo dos Dinossauros</title>
     <desc lang="pt"> - O Jurassic Park enfim está aberto ao público. Entretanto, a equipe chefiada pela doutora Claire passa a fazer experiências genéticas, de forma a criar novas espécies.</desc>
     <rating system="Brazil">
@@ -9314,8 +9318,9 @@
     <desc lang="pt"> - A melhor cobertura dos jogos da UEFA CHAMPIONS LEAGUE e o melhor futebol do mundo, na programação da TNT Brasil.</desc>
   </programme>
   <programme start="20250420130000 -0300" stop="20250420150000 -0300" channel="TNT HD">
-    <title lang="pt">Champions Feminina</title>
-    <desc lang="pt"> - A melhor cobretura dos jogos da UEFA CHAMPIONS LEAGUE e o melhor futebol do mundo, agora na programação da TNT Brasil.</desc>
+    <title lang="pt">Barcelona (ESP) x Chelsea (ING) - Ao Vivo</title>
+    <desc lang="pt"> - Barcelona (ESP) e Chelsea (ING) jogam pela 1ª rodada da Semifinal Champions League Feminina.</desc>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20250420150000 -0300" stop="20250420162800 -0300" channel="TNT HD">
     <title lang="pt">Hollywood One on One</title>
@@ -21684,54 +21689,54 @@
     <desc lang="pt"> - Felipe Diniz, Carlos Eduardo Mansur e Alex Meschini troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada. Veja os melhores momentos, tire as dúvidas daquele lance polêmico acompanhe a repercussão com jogadores e treinadores no calor do jogo. Aqui ninguém fica em cima do muro.</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250418083000 -0300" stop="20250418100008 -0300" channel="sportv">
+  <programme start="20250418083000 -0300" stop="20250418100005 -0300" channel="sportv">
     <title lang="pt">sportv News - ao vivo</title>
     <desc lang="pt"> - Inicie o dia atualizado com as notícias do mundo do esporte. Cada detalhe sobre o seu esporte preferido,  Os gols da rodada, as últimas do seu time, o que é notícia no Brasil e no Mundo contado de forma dinâmica por Mariana Fontes e André Loffredo</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250418100009 -0300" stop="20250418115912 -0300" channel="sportv">
+  <programme start="20250418100009 -0300" stop="20250418120042 -0300" channel="sportv">
     <title lang="pt">Redação SporTV - ao vivo</title>
     <desc lang="pt"> - Acompanhe as informações diárias de uma maneira descontraída sobre o esporte no Brasil e no mundo, jornalistas convidados no estúdio e conta com a participação de correspondentes internacionais com Marcelo Barreto.
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250418115915 -0300" stop="20250418122914 -0300" channel="sportv">
+  <programme start="20250418120244 -0300" stop="20250418123243 -0300" channel="sportv">
     <title lang="pt">Tá On - ao vivo</title>
     <desc lang="pt"> - Confira o que está acontecendo nos esportes de maneira breve e bem-humorada, esteja ligado nos memes, trends, e tudo sobre o esporte com Luiz Teixeira.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250418122916 -0300" stop="20250418150114 -0300" channel="sportv">
+  <programme start="20250418123244 -0300" stop="20250418150442 -0300" channel="sportv">
     <title lang="pt">Seleção SporTV - ao vivo</title>
     <desc lang="pt"> - Os principais comentaristas da Globo e do sportv formam uma seleção de craques, recebidos por André Rizek para debater os assuntos que são notícia no mundo do futebol. 
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250418150117 -0300" stop="20250418153121 -0300" channel="sportv">
+  <programme start="20250418150500 -0300" stop="20250418153504 -0300" channel="sportv">
     <title lang="pt">Globo Esporte - Inédito</title>
     <desc lang="pt"> - Um pouquinho de cada Globo Esporte espalhado pelo Brasil. As principais histórias, notícias, num mosaico leve e informativo. 
 </desc>
     <category lang="en">sports (general)</category>
     <new />
   </programme>
-  <programme start="20250418153122 -0300" stop="20250418163221 -0300" channel="sportv">
+  <programme start="20250418153506 -0300" stop="20250418163605 -0300" channel="sportv">
     <title lang="pt">VT - Brasileirão: Cruzeiro x Bahia</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250418163225 -0300" stop="20250418165942 -0300" channel="sportv">
+  <programme start="20250418163621 -0300" stop="20250418173739 -0300" channel="sportv">
     <title lang="pt">VT - Brasileirão: Botafogo x São Paulo</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250418180000 -0300" stop="20250418185959 -0300" channel="sportv">
+  <programme start="20250418173754 -0300" stop="20250418183616 -0300" channel="sportv">
     <title lang="pt">VT - Brasileirão: Flamengo x Juventude</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250418190000 -0300" stop="20250418205459 -0300" channel="sportv">
+  <programme start="20250418183619 -0300" stop="20250418202553 -0300" channel="sportv">
     <title lang="pt">Tá Na Área - ao vivo</title>
     <desc lang="pt"> - Aproveite o finalzinho da tarde para relaxar e de maneira divertida fique por dentro de todos os assuntos em alta do esporte com Camila Carelli e Thiago Benevenutte</desc>
     <category lang="en">live broadcast</category>
@@ -21769,7 +21774,7 @@
     <category lang="en">team sports</category>
     <previously-shown />
   </programme>
-  <programme start="20250418065203 -0300" stop="20250418092250 -0300" channel="sportv-2">
+  <programme start="20250418065203 -0300" stop="20250418092247 -0300" channel="sportv-2">
     <title lang="pt">VT - Superliga Masculina: Minas x Suzano</title>
     <sub-title lang="pt">Quartas de Final - Jogo 3</sub-title>
     <desc lang="pt">O sportv é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa, tá no sportv! </desc>
@@ -21785,7 +21790,7 @@
     <category lang="en">team sports</category>
     <previously-shown />
   </programme>
-  <programme start="20250418102444 -0300" stop="20250418110931 -0300" channel="sportv-2">
+  <programme start="20250418102444 -0300" stop="20250418110930 -0300" channel="sportv-2">
     <title lang="pt">VT - Circuito Mundial Vôlei de Praia: Saquarema-RJ</title>
     <sub-title lang="pt">Final Masculina</sub-title>
     <desc lang="pt">Os grandes nomes do Vôlei de Praia Mundial estão no Circuito Mundial de Vôlei de Praia! Assista os melhores jogos, aqui no sportv. Tá no Circuito Mundial de Vôlei de Praia, tá no sportv!
@@ -21801,14 +21806,14 @@
     <category lang="en">team sports</category>
     <previously-shown />
   </programme>
-  <programme start="20250418134745 -0300" stop="20250418163213 -0300" channel="sportv-2">
+  <programme start="20250418134745 -0300" stop="20250418163333 -0300" channel="sportv-2">
     <title lang="pt">VT - Superliga Masculina: Sesi-Bauru x Praia Clube</title>
     <sub-title lang="pt">Quartas de Final - Jogo 3</sub-title>
     <desc lang="pt">O sportv é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa, tá no sportv! </desc>
     <category lang="en">team sports</category>
     <previously-shown />
   </programme>
-  <programme start="20250418163000 -0300" stop="20250418172959 -0300" channel="sportv-2">
+  <programme start="20250418163338 -0300" stop="20250418175952 -0300" channel="sportv-2">
     <title lang="pt">VT - Circuito Mundial Vôlei de Praia: Saquarema-RJ</title>
     <sub-title lang="pt">Final Masculina</sub-title>
     <desc lang="pt">Os grandes nomes do Vôlei de Praia Mundial estão no Circuito Mundial de Vôlei de Praia! Assista os melhores jogos, aqui no sportv. Tá no Circuito Mundial de Vôlei de Praia, tá no sportv!
@@ -21817,12 +21822,7 @@
     <category lang="en">team sports</category>
     <previously-shown />
   </programme>
-  <programme start="20250418173000 -0300" stop="20250418175959 -0300" channel="sportv-2">
-    <title lang="pt">Baú do Esporte: Lendas Oscar Schmidt</title>
-    <desc lang="pt">Quer reviver aquele jogo inesquecível? Saber o que seu ídolo sentiu na hora do gol decisivo? O Baú do Esporte traz diariamente os grandes momentos e personagens que marcaram a história esportiva do Brasil e do mundo.</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20250418180000 -0300" stop="20250418202959 -0300" channel="sportv-2">
+  <programme start="20250418175956 -0300" stop="20250418192055 -0300" channel="sportv-2">
     <title lang="pt">Liga Dos Campeões Da América De Basquete: Boca Juniors (ARG) x Instituto (AR) - Rio De Janeiro - ao vivo</title>
     <sub-title lang="pt">Semifinal</sub-title>
     <desc lang="pt">Acompanhe as emoções da Liga Dos Campeões Da América De Basquete! Aqui no sportv.</desc>
@@ -21866,18 +21866,18 @@
     <desc lang="pt">Terceira maior franquia de MMA mundial e a principal da Ásia, presente em mais de 170 países, o One é a liga esportiva de diferentes modalidades além do MMA como: Grappling, Muay Thai, Kickboxing.</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250418095304 -0300" stop="20250418100002 -0300" channel="sportv-3">
+  <programme start="20250418095304 -0300" stop="20250418100001 -0300" channel="sportv-3">
     <title lang="pt">1/1 ESPORTES BIZARROS - SPEED BALL - DIFÍCIL DE ACOMPANHAR</title>
     <desc lang="pt"> - </desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250418100004 -0300" stop="20250418135633 -0300" channel="sportv-3">
+  <programme start="20250418100004 -0300" stop="20250418125138 -0300" channel="sportv-3">
     <title lang="pt">Copa do Mundo Ginástica Artística - ao vivo</title>
     <sub-title lang="pt">Finais - Doha,Catar</sub-title>
     <desc lang="pt">As maiores atletas da Ginástica se encontram na Copa do mundo de Ginástica e você acompanha aqui no sportv!</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250418135636 -0300" stop="20250418143002 -0300" channel="sportv-3">
+  <programme start="20250418125141 -0300" stop="20250418132507 -0300" channel="sportv-3">
     <title lang="pt">Sessão sportv: Papo Cruzado - Murilo Bustamante</title>
     <desc lang="pt">“Papo Cruzado” é um programa de entrevistas em estúdio, no formato
 talk-show, onde um elenco fixo de 3 entrevistadores recebe, a cada episódio, um
@@ -21904,7 +21904,7 @@ de artes marciais</desc>
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250418143003 -0300" stop="20250418150322 -0300" channel="sportv-3">
+  <programme start="20250418132509 -0300" stop="20250418135828 -0300" channel="sportv-3">
     <title lang="pt">Sessão sportv: Papo Cruzado - Dede Perderneiras</title>
     <desc lang="pt">“Papo Cruzado” é um programa de entrevistas em estúdio, no formato
 talk-show, onde um elenco fixo de 3 entrevistadores recebe, a cada episódio, um
@@ -21931,7 +21931,7 @@ de artes marciais</desc>
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250418150324 -0300" stop="20250418154451 -0300" channel="sportv-3">
+  <programme start="20250418135830 -0300" stop="20250418143957 -0300" channel="sportv-3">
     <title lang="pt">Sessão sportv: Papo Cruzado - Cara De Sapato</title>
     <desc lang="pt">“Papo Cruzado” é um programa de entrevistas em estúdio, no formato
 talk-show, onde um elenco fixo de 3 entrevistadores recebe, a cada episódio, um
@@ -21958,7 +21958,7 @@ de artes marciais</desc>
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250418154455 -0300" stop="20250418162111 -0300" channel="sportv-3">
+  <programme start="20250418144000 -0300" stop="20250418151616 -0300" channel="sportv-3">
     <title lang="pt">Sessão sportv: Papo Cruzado - July Poca</title>
     <desc lang="pt">“Papo Cruzado” é um programa de entrevistas em estúdio, no formato
 talk-show, onde um elenco fixo de 3 entrevistadores recebe, a cada episódio, um
@@ -21985,7 +21985,7 @@ de artes marciais</desc>
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250418162000 -0300" stop="20250418164959 -0300" channel="sportv-3">
+  <programme start="20250418151619 -0300" stop="20250418154805 -0300" channel="sportv-3">
     <title lang="pt">Sessão sportv: Papo Cruzado - Sergio Mallandro</title>
     <desc lang="pt">“Papo Cruzado” é um programa de entrevistas em estúdio, no formato
 talk-show, onde um elenco fixo de 3 entrevistadores recebe, a cada episódio, um
@@ -22012,7 +22012,7 @@ de artes marciais</desc>
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250418165000 -0300" stop="20250418172459 -0300" channel="sportv-3">
+  <programme start="20250418154806 -0300" stop="20250418163114 -0300" channel="sportv-3">
     <title lang="pt">Sessão sportv: Papo Cruzado - Marcelo Alonso -</title>
     <desc lang="pt">“Papo Cruzado” é um programa de entrevistas em estúdio, no formato
 talk-show, onde um elenco fixo de 3 entrevistadores recebe, a cada episódio, um
@@ -22039,7 +22039,7 @@ de artes marciais</desc>
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250418172500 -0300" stop="20250418175459 -0300" channel="sportv-3">
+  <programme start="20250418163117 -0300" stop="20250418170150 -0300" channel="sportv-3">
     <title lang="pt">Sessão sportv: Papo Cruzado - Joao Gordo</title>
     <desc lang="pt">“Papo Cruzado” é um programa de entrevistas em estúdio, no formato
 talk-show, onde um elenco fixo de 3 entrevistadores recebe, a cada episódio, um
@@ -22066,10 +22066,38 @@ de artes marciais</desc>
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250418180000 -0300" stop="20250418185959 -0300" channel="sportv-3">
+  <programme start="20250418170151 -0300" stop="20250418174950 -0300" channel="sportv-3">
     <title lang="pt">Pfl World Tournament: Primeiras Lutas - ao vivo</title>
     <desc lang="pt">PFL é a liga esportiva mais inovadora e de crescimento mais rápido. A PFL é a única com o formato de temporada esportiva em que lutadores individuais competem na Temporada Regular, Playoffs e Campeonato pelo prêmio de 1 milhão de dólares.</desc>
     <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20250418174952 -0300" stop="20250418182214 -0300" channel="sportv-3">
+    <title lang="pt">Sessão sportv: Cine Marcial - Operação Dragão</title>
+    <desc lang="pt">Nos últimos cinquenta anos, os filmes de luta arrebataram bilheterias, revelaram superestrelas e criaram um segmento extremamente lucrativo. Pelas telas do cinema ou da Sessão da Tarde, gerações de brasileiros, muitos dos quais futuros lutadores, tiveram em Hollywood o - seu primeiro contato com as artes marciais. Nossa proposta é destrinchar este fenômeno mergulhando em dez grandes clássicos. Ao revelar bastidores inéditos das gravações, vamos investigando, de forma irreverente, como esses filmes, no passado, influenciaram nossas estrelas do MMA e porque até hoje são parte da memória afetiva de todo brasileiro</desc>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250418182216 -0300" stop="20250418185303 -0300" channel="sportv-3">
+    <title lang="pt">Sessão sportv: Cine Marcial</title>
+    <sub-title lang="pt">Rocky, Um Lutador</sub-title>
+    <desc lang="pt">Nos últimos cinquenta anos, os filmes de luta arrebataram bilheterias, revelaram superestrelas e criaram um segmento extremamente lucrativo. Pelas telas do cinema ou da Sessão da Tarde, gerações de brasileiros, muitos dos quais futuros lutadores, tiveram em Hollywood o - seu primeiro contato com as artes marciais. Nossa proposta é destrinchar este fenômeno mergulhando em dez grandes clássicos. Ao revelar bastidores inéditos das gravações, vamos investigando, de forma irreverente, como esses filmes, no passado, influenciaram nossas estrelas do MMA e porque até hoje são parte da memória afetiva de todo brasileiro</desc>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">.1.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250418185304 -0300" stop="20250418185959 -0300" channel="sportv-3">
+    <title lang="pt">Sessão sportv: Cine Marcial - Força Destruidora</title>
+    <desc lang="pt">Nos últimos cinquenta anos, os filmes de luta arrebataram bilheterias, revelaram superestrelas e criaram um segmento extremamente lucrativo. Pelas telas do cinema ou da Sessão da Tarde, gerações de brasileiros, muitos dos quais futuros lutadores, tiveram em Hollywood o - seu primeiro contato com as artes marciais. Nossa proposta é destrinchar este fenômeno mergulhando em dez grandes clássicos. Ao revelar bastidores inéditos das gravações, vamos investigando, de forma irreverente, como esses filmes, no passado, influenciaram nossas estrelas do MMA e porque até hoje são parte da memória afetiva de todo brasileiro</desc>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">.2.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
   </programme>
   <programme start="20250418190000 -0300" stop="20250418192959 -0300" channel="sportv-3">
     <title lang="pt">Sessão sportv: Cine Marcial - Operação Dragão</title>
@@ -22272,7 +22300,7 @@ Programa exibido em 17 de abril de 2025</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250418105356 -0300" stop="20250418113915 -0300" channel="multishow">
+  <programme start="20250418105356 -0300" stop="20250418113918 -0300" channel="multishow">
     <title lang="pt">Vila, A</title>
     <sub-title lang="pt">Doença Contagiosa</sub-title>
     <desc lang="pt"> - RIQUE ACORDA MUITO ESTRANHO, SE SENTINDO DOENTE, TOSSINDO, ESPIRRANDO, COM TREMEDEIRA, FISGADA NA VIRILHA E FICA DESESPERADO ACHANDO QUE VAI MORRER. EMÍLIO CHEGA COM A NOTÍCIA DE QUE ESTÁ ROLANDO UMA EPIDEMIA NA VILA.</desc>
@@ -22354,7 +22382,7 @@ Programa exibido em 17 de abril de 2025</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250418155046 -0300" stop="20250418160045 -0300" channel="multishow">
+  <programme start="20250418155046 -0300" stop="20250418160050 -0300" channel="multishow">
     <title lang="pt">Humor Multishow</title>
     <sub-title lang="pt">A Festa de Inauguração</sub-title>
     <desc lang="pt"> - A família finalmente chega à mansão de Sid! Dona Jô se torna a gerente do Sofrência Bar e propõe uma grande festa de inauguração, mas nem tudo sai como o esperado.</desc>
@@ -22362,7 +22390,7 @@ Programa exibido em 17 de abril de 2025</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250418160200 -0300" stop="20250418164959 -0300" channel="multishow">
+  <programme start="20250418160052 -0300" stop="20250418164809 -0300" channel="multishow">
     <title lang="pt">Vai que Cola</title>
     <sub-title lang="pt">Sonho De Uma Noite No Méier</sub-title>
     <desc lang="pt"> - Labareda está tentando mais uma vez conquistar Dona Jô. Para isso, ele traz para pensão uma garrafa de um licor diferente. Quem toma se apaixona loucamente pela primeira pessoa que vê pela frente. Ferdinando separa um pouquinho para dar para o boy mais lindo do Lins. Dona Jô se engasga e Roninho oferece a ela um pouquinho do licor. E a confusão não vai parar por aí.</desc>
@@ -22370,7 +22398,7 @@ Programa exibido em 17 de abril de 2025</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250418165000 -0300" stop="20250418173959 -0300" channel="multishow">
+  <programme start="20250418164812 -0300" stop="20250418173834 -0300" channel="multishow">
     <title lang="pt">Vai que Cola</title>
     <sub-title lang="pt">Bodas de Purpurina</sub-title>
     <desc lang="pt"> - Ferdinando e Alejandro comemoram suas bodas de 7 meses de casados, as famosas bodas de purpurina.</desc>
@@ -22378,7 +22406,7 @@ Programa exibido em 17 de abril de 2025</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250418174000 -0300" stop="20250418175959 -0300" channel="multishow">
+  <programme start="20250418173838 -0300" stop="20250418180022 -0300" channel="multishow">
     <title lang="pt">Big Brother Brasil 25 - Rede B - ao vivo</title>
     <sub-title lang="pt">Big Brother Brasil 25 – Rede BBB</sub-title>
     <desc lang="pt"> - Big Brother Brasil 25 – Rede BBB</desc>
@@ -22387,7 +22415,7 @@ Programa exibido em 17 de abril de 2025</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250418180000 -0300" stop="20250418180259 -0300" channel="multishow">
+  <programme start="20250418180023 -0300" stop="20250418180316 -0300" channel="multishow">
     <title lang="pt">TVZ</title>
     <sub-title lang="pt">Luan Santana - Aluga-Se</sub-title>
     <desc lang="pt"> - LUAN SANTANA - ALUGA-SE (SONY MUSIC)</desc>
@@ -22395,7 +22423,7 @@ Programa exibido em 17 de abril de 2025</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250418180600 -0300" stop="20250418180859 -0300" channel="multishow">
+  <programme start="20250418180318 -0300" stop="20250418180559 -0300" channel="multishow">
     <title lang="pt">TVZ</title>
     <sub-title lang="pt">Dilsinho - Diferentão (Ao Vivo)</sub-title>
     <desc lang="pt"> - DILSINHO - DIFERENTÃO (AO VIVO) (SONY MUSIC)</desc>
@@ -22403,7 +22431,7 @@ Programa exibido em 17 de abril de 2025</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250418180900 -0300" stop="20250418181159 -0300" channel="multishow">
+  <programme start="20250418180600 -0300" stop="20250418180850 -0300" channel="multishow">
     <title lang="pt">TVZ</title>
     <sub-title lang="pt">Silva Part. Anitta - Fica Tudo Bem</sub-title>
     <desc lang="pt"> - SILVA PART. ANITTA - FICA TUDO BEM (SOM LIVRE)</desc>
@@ -22722,7 +22750,7 @@ E Jessica quer criar uma fama retroativa. Quer fingir que foi uma estrela mirim,
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250418093147 -0300" stop="20250418100157 -0300" channel="gnt">
+  <programme start="20250418093147 -0300" stop="20250418100154 -0300" channel="gnt">
     <title lang="pt">Casa Brasileira</title>
     <sub-title lang="pt">Miguel Pinto Guimarães</sub-title>
     <desc lang="pt"> - Reveja a mansão de "Avenida Brasil" com o autor João Carneiro e o arquiteto Miguel Pinto Guimarães.</desc>
@@ -22770,7 +22798,7 @@ E Jessica quer criar uma fama retroativa. Quer fingir que foi uma estrela mirim,
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250418135547 -0300" stop="20250418144812 -0300" channel="gnt">
+  <programme start="20250418135547 -0300" stop="20250418145601 -0300" channel="gnt">
     <title lang="pt">Que História É Essa, Porchat?</title>
     <sub-title lang="pt">Mauricio Ferraz + Cristina Pereira + Breno da Matta</sub-title>
     <desc lang="pt"> - Os atores Breno da Matta e Cristina Pereira e o jornalista Maurício Ferraz são os convidados de Fabio Porchat.</desc>
@@ -22778,7 +22806,7 @@ E Jessica quer criar uma fama retroativa. Quer fingir que foi uma estrela mirim,
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250418145900 -0300" stop="20250418155859 -0300" channel="gnt">
+  <programme start="20250418145604 -0300" stop="20250418155504 -0300" channel="gnt">
     <title lang="pt">Que Seja Doce</title>
     <sub-title lang="pt">Bolo De Chá De Bebê</sub-title>
     <desc lang="pt"> - O chá de bebê é uma tradição de muita união. Os confeiteiros farão um lindo e adorável bolo para comemorar esse momento. </desc>
@@ -22786,7 +22814,7 @@ E Jessica quer criar uma fama retroativa. Quer fingir que foi uma estrela mirim,
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250418155800 -0300" stop="20250418164159 -0300" channel="gnt">
+  <programme start="20250418155508 -0300" stop="20250418162728 -0300" channel="gnt">
     <title lang="pt">Que Marravilha!</title>
     <sub-title lang="pt">Mamãe passou Açúcar em Mim</sub-title>
     <desc lang="pt"> - HUGO NASSIF vive como um sultão cercado e mimado pelas mulheres da sua vida: a namorada, a enteada e a mãe. Pra retribuir tanto carinho, ele topou o desafio de aprender com o Claude a preparar uma kafta de cordeiro com babaganush de jiló.</desc>
@@ -23001,7 +23029,7 @@ E Jessica quer criar uma fama retroativa. Quer fingir que foi uma estrela mirim,
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250418102834 -0300" stop="20250418110247 -0300" channel="viva">
+  <programme start="20250418102834 -0300" stop="20250418110248 -0300" channel="viva">
     <title lang="pt">Escolinha do Professor Raimundo</title>
     <desc lang="pt"> - Chico Anysio comanda uma turma da pesada que apronta altas confusões na Escolinha do Professor Raimundo. Em matéria de humor, eles são nota dez.</desc>
     <episode-num system="xmltv_ns">.131.</episode-num>
@@ -23052,7 +23080,7 @@ E Jessica quer criar uma fama retroativa. Quer fingir que foi uma estrela mirim,
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250418152518 -0300" stop="20250418161459 -0300" channel="viva">
+  <programme start="20250418152518 -0300" stop="20250418161755 -0300" channel="viva">
     <title lang="pt">Caras &amp; Bocas</title>
     <sub-title lang="pt">Caras E Bocas</sub-title>
     <desc lang="pt"> - Dafne e Gabriel têm seus caminhos cruzados novamente, 15 anos após serem separados por uma armação do avô dela.  A reaproximação, porém, põe em risco os planos da megera Judith.</desc>
@@ -23060,21 +23088,21 @@ E Jessica quer criar uma fama retroativa. Quer fingir que foi uma estrela mirim,
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250418161500 -0300" stop="20250418164459 -0300" channel="viva">
+  <programme start="20250418161800 -0300" stop="20250418164556 -0300" channel="viva">
     <title lang="pt">Malhação: Casa Cheia</title>
     <desc lang="pt"> - As relações familiares conduzem a trama na nova temporada de 'Malhação'.</desc>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250418164500 -0300" stop="20250418171459 -0300" channel="viva">
+  <programme start="20250418164558 -0300" stop="20250418171605 -0300" channel="viva">
     <title lang="pt">Malhação: Casa Cheia</title>
     <desc lang="pt"> - As relações familiares conduzem a trama na nova temporada de 'Malhação'.</desc>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250418171500 -0300" stop="20250418175959 -0300" channel="viva">
+  <programme start="20250418171609 -0300" stop="20250418175059 -0300" channel="viva">
     <title lang="pt">Chapa Quente</title>
     <desc lang="pt"> - Marlene e Genésio vivem às turras. Moradores de São Gonçalo, Genésio está desempregado e Marlene é dona de um salão de beleza. Ela não perde a esperança do marido conseguir um emprego.</desc>
     <rating system="Brazil">
@@ -23259,7 +23287,7 @@ E Jessica quer criar uma fama retroativa. Quer fingir que foi uma estrela mirim,
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250418073548 -0300" stop="20250418090025 -0300" channel="canal-brasil">
+  <programme start="20250418073548 -0300" stop="20250418090029 -0300" channel="canal-brasil">
     <title lang="pt">Chico Fumaça</title>
     <desc lang="pt"> - Um roceiro passa o tempo observando os trens e paquerando uma professora. Após evitar o descarrilhamento de uma composição, vira herói nacional. Um político desonesto tenta usá-lo para se promover e muda a vida do matuto</desc>
     <rating system="Brazil">
@@ -23334,7 +23362,7 @@ E Jessica quer criar uma fama retroativa. Quer fingir que foi uma estrela mirim,
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250418155708 -0300" stop="20250418172959 -0300" channel="canal-brasil">
+  <programme start="20250418155708 -0300" stop="20250418173348 -0300" channel="canal-brasil">
     <title lang="pt">É Tudo Verdade - 171  7 ANOS</title>
     <sub-title lang="pt">171</sub-title>
     <desc lang="pt"> - Seis pessoas que cumprem pena em presídios em São Paulo por motivos diferentes, mas todas sob o crivo do artigo 171 do Código Penal: estelionato, furtos e golpes financeiros.</desc>
@@ -23342,7 +23370,7 @@ E Jessica quer criar uma fama retroativa. Quer fingir que foi uma estrela mirim,
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250418173000 -0300" stop="20250418185959 -0300" channel="canal-brasil">
+  <programme start="20250418173350 -0300" stop="20250418190459 -0300" channel="canal-brasil">
     <title lang="pt">Durval Discos</title>
     <desc lang="pt"> - O solteirão Durval contrata uma empregada para ajudar a mãe nos serviços domésticos. O salário baixo atrai uma estranha candidata, que desaparece depois de alguns dias, deixando na casa a encantadora filha.</desc>
     <rating system="Brazil">
@@ -23634,7 +23662,7 @@ E Jessica quer criar uma fama retroativa. Quer fingir que foi uma estrela mirim,
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250418155115 -0300" stop="20250418161859 -0300" channel="canal-off">
+  <programme start="20250418155115 -0300" stop="20250418161923 -0300" channel="canal-off">
     <title lang="pt">Nalu E Zay Pelo Mundo</title>
     <sub-title lang="pt">Surfe em família em Waikiki</sub-title>
     <desc lang="pt"> - A ilha de Oahu é repleta de lugares paradisíaco e a família Nalu sai um pouco da rotina e vai em busca de novas ondas e aventuras no lado Leste e Oeste.</desc>
@@ -23642,7 +23670,7 @@ E Jessica quer criar uma fama retroativa. Quer fingir que foi uma estrela mirim,
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250418161900 -0300" stop="20250418164659 -0300" channel="canal-off">
+  <programme start="20250418161925 -0300" stop="20250418164659 -0300" channel="canal-off">
     <title lang="pt">Nalu E Zay Pelo Mundo</title>
     <sub-title lang="pt">Belinha surfando Pipeline</sub-title>
     <desc lang="pt"> - Passeios turísticos, compromissos profissionais e surfe fazem parte da rotina da família. Dias de sol e boas ondas são um convite para Bela superar um desafio: Surfar Pipeline!</desc>
@@ -24588,7 +24616,7 @@ dourado.
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250418154801 -0300" stop="20250418160759 -0300" channel="modo-viagem">
+  <programme start="20250418154801 -0300" stop="20250418161127 -0300" channel="modo-viagem">
     <title lang="pt">Lavando A Alma-T2</title>
     <sub-title lang="pt">Bonito (Parte 02)</sub-title>
     <desc lang="pt"> - Em Bonito, Antonia visita a Fazenda Água Viva, mergulha na Piscina Natural de Peixes e se aventura na tirolesa. No fim do dia, ela conhece a agitada vida noturna do centro de Bonito.</desc>
@@ -24597,7 +24625,7 @@ dourado.
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250418160800 -0300" stop="20250418163059 -0300" channel="modo-viagem">
+  <programme start="20250418161131 -0300" stop="20250418163450 -0300" channel="modo-viagem">
     <title lang="pt">Mundo Muy Loco-T3</title>
     <sub-title lang="pt">Noruega - Oslo</sub-title>
     <desc lang="pt"> - Fernando Muylaert na Noruega finalmente chega em Oslo, a sua capital e explora os principais destinos dessa cidade magnífica.</desc>
@@ -24606,7 +24634,7 @@ dourado.
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250418163000 -0300" stop="20250418165159 -0300" channel="modo-viagem">
+  <programme start="20250418163452 -0300" stop="20250418165653 -0300" channel="modo-viagem">
     <title lang="pt">Mundo Muy Loco-T3</title>
     <sub-title lang="pt">Finlândia - Helsinque</sub-title>
     <desc lang="pt"> - Fernando Muylaert vai até a capital finlandesa, Helsinque para mostrar as curiosidades e explorar seus destinos e chega a fazer StandUp comedy .</desc>
@@ -24615,7 +24643,7 @@ dourado.
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250418165200 -0300" stop="20250418171659 -0300" channel="modo-viagem">
+  <programme start="20250418165656 -0300" stop="20250418172218 -0300" channel="modo-viagem">
     <title lang="pt">A Vida É Uma Passagem</title>
     <sub-title lang="pt">Grécia – Santorini</sub-title>
     <desc lang="pt"> - Anne Bueno visita Santorini - a ilha mais romântica do país. Ela dá dicas de
@@ -24625,7 +24653,7 @@ compras e apresenta o melhor lugar para assistir ao pôr-do-sol.</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250418171700 -0300" stop="20250418174159 -0300" channel="modo-viagem">
+  <programme start="20250418172220 -0300" stop="20250418174159 -0300" channel="modo-viagem">
     <title lang="pt">A Vida É Uma Passagem</title>
     <sub-title lang="pt">Jordânia - Petra</sub-title>
     <desc lang="pt"> - Neste episódio, Anne Bueno visita uma das 7 maravilhas do mundo moderno: Petra. Além
@@ -24745,244 +24773,6 @@ de dar dicas sobre o destino e hospedagem, Anne visita a cidade romana de Jerash
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250417234200 -0300" stop="20250418002659 -0300" channel="viva-fast">
-    <title lang="pt">Pecado Capital</title>
-    <desc lang="pt"> - </desc>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250418002500 -0300" stop="20250418011959 -0300" channel="viva-fast">
-    <title lang="pt">Água Viva</title>
-    <desc lang="pt"> - </desc>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250418012200 -0300" stop="20250418020659 -0300" channel="viva-fast">
-    <title lang="pt">Pecado Capital</title>
-    <desc lang="pt"> - </desc>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250418015800 -0300" stop="20250418025259 -0300" channel="viva-fast">
-    <title lang="pt">Água Viva</title>
-    <desc lang="pt"> - </desc>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250418020500 -0300" stop="20250418025959 -0300" channel="viva-fast">
-    <title lang="pt">Água Viva</title>
-    <desc lang="pt"> - </desc>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250418030200 -0300" stop="20250418034659 -0300" channel="viva-fast">
-    <title lang="pt">Pecado Capital</title>
-    <desc lang="pt"> - </desc>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250418034200 -0300" stop="20250418042659 -0300" channel="viva-fast">
-    <title lang="pt">Pecado Capital</title>
-    <desc lang="pt"> - </desc>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250418041800 -0300" stop="20250418051259 -0300" channel="viva-fast">
-    <title lang="pt">Água Viva</title>
-    <desc lang="pt"> - </desc>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250418042500 -0300" stop="20250418051959 -0300" channel="viva-fast">
-    <title lang="pt">Água Viva</title>
-    <desc lang="pt"> - </desc>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250418052200 -0300" stop="20250418060659 -0300" channel="viva-fast">
-    <title lang="pt">Pecado Capital</title>
-    <desc lang="pt"> - </desc>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250418060000 -0300" stop="20250418064459 -0300" channel="viva-fast">
-    <title lang="pt">Pecado Capital</title>
-    <desc lang="pt"> - </desc>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250418063600 -0300" stop="20250418072059 -0300" channel="viva-fast">
-    <title lang="pt">Pecado Capital</title>
-    <desc lang="pt"> - </desc>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250418064300 -0300" stop="20250418072759 -0300" channel="viva-fast">
-    <title lang="pt">Pecado Capital</title>
-    <desc lang="pt"> - </desc>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250418072300 -0300" stop="20250418080759 -0300" channel="viva-fast">
-    <title lang="pt">Pecado Capital</title>
-    <desc lang="pt"> - </desc>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250418080600 -0300" stop="20250418090059 -0300" channel="viva-fast">
-    <title lang="pt">Água Viva</title>
-    <desc lang="pt"> - </desc>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250418090300 -0300" stop="20250418094759 -0300" channel="viva-fast">
-    <title lang="pt">Pecado Capital</title>
-    <desc lang="pt"> - </desc>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250418094300 -0300" stop="20250418102759 -0300" channel="viva-fast">
-    <title lang="pt">Pecado Capital</title>
-    <desc lang="pt"> - </desc>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250418102600 -0300" stop="20250418112059 -0300" channel="viva-fast">
-    <title lang="pt">Água Viva</title>
-    <desc lang="pt"> - </desc>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250418112300 -0300" stop="20250418120759 -0300" channel="viva-fast">
-    <title lang="pt">Pecado Capital</title>
-    <desc lang="pt"> - </desc>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250418120300 -0300" stop="20250418124759 -0300" channel="viva-fast">
-    <title lang="pt">Pecado Capital</title>
-    <desc lang="pt"> - </desc>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250418124600 -0300" stop="20250418134059 -0300" channel="viva-fast">
-    <title lang="pt">Água Viva</title>
-    <desc lang="pt"> - </desc>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250418134300 -0300" stop="20250418142759 -0300" channel="viva-fast">
-    <title lang="pt">Pecado Capital</title>
-    <desc lang="pt"> - </desc>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250418142700 -0300" stop="20250418151159 -0300" channel="viva-fast">
-    <title lang="pt">Pecado Capital</title>
-    <desc lang="pt"> - </desc>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250418150700 -0300" stop="20250418155159 -0300" channel="viva-fast">
-    <title lang="pt">Pecado Capital</title>
-    <desc lang="pt"> - </desc>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250418155000 -0300" stop="20250418164459 -0300" channel="viva-fast">
-    <title lang="pt">Água Viva</title>
-    <desc lang="pt"> - </desc>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250418164700 -0300" stop="20250418173159 -0300" channel="viva-fast">
-    <title lang="pt">Pecado Capital</title>
-    <desc lang="pt"> - </desc>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250418172700 -0300" stop="20250418181159 -0300" channel="viva-fast">
-    <title lang="pt">Pecado Capital</title>
-    <desc lang="pt"> - </desc>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250418181000 -0300" stop="20250418190459 -0300" channel="viva-fast">
-    <title lang="pt">Água Viva</title>
-    <desc lang="pt"> - </desc>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250418190700 -0300" stop="20250418195159 -0300" channel="viva-fast">
-    <title lang="pt">Pecado Capital</title>
-    <desc lang="pt"> - </desc>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250418194500 -0300" stop="20250418203959 -0300" channel="viva-fast">
-    <title lang="pt">Água Viva</title>
-    <desc lang="pt"> - </desc>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250418210400 -0300" stop="20250418214859 -0300" channel="viva-fast">
-    <title lang="pt">Pecado Capital</title>
-    <desc lang="pt"> - </desc>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250418214200 -0300" stop="20250418222659 -0300" channel="viva-fast">
-    <title lang="pt">Pecado Capital</title>
-    <desc lang="pt"> - </desc>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250418222200 -0300" stop="20250418231659 -0300" channel="viva-fast">
-    <title lang="pt">Água Viva</title>
-    <desc lang="pt"> - </desc>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250418234100 -0300" stop="20250419002559 -0300" channel="viva-fast">
-    <title lang="pt">Pecado Capital</title>
-    <desc lang="pt"> - </desc>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
   <programme start="20250417234049 -0300" stop="20250418004110 -0300" channel="premiere">
     <title lang="pt">VT - Brasileirão: Vitória x Fortaleza</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
@@ -25049,7 +24839,7 @@ de dar dicas sobre o destino e hospedagem, Anne visita a cidade romana de Jerash
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250418100228 -0300" stop="20250418110250 -0300" channel="premiere">
+  <programme start="20250418100228 -0300" stop="20250418110248 -0300" channel="premiere">
     <title lang="pt">VT - Brasileirão: Vitória x Fortaleza</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <category lang="en">football/soccer</category>
@@ -25085,25 +24875,25 @@ de dar dicas sobre o destino e hospedagem, Anne visita a cidade romana de Jerash
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250418160355 -0300" stop="20250418165959 -0300" channel="premiere">
+  <programme start="20250418160355 -0300" stop="20250418170217 -0300" channel="premiere">
     <title lang="pt">Giro da Rodada: Brasileirão</title>
     <sub-title lang="pt">4ª Rodada</sub-title>
     <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol aqui o sportv!</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250418170000 -0300" stop="20250418175959 -0300" channel="premiere">
+  <programme start="20250418170222 -0300" stop="20250418180320 -0300" channel="premiere">
     <title lang="pt">VT - Brasileirão: Santos x Atlético-MG</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250418180000 -0300" stop="20250418185959 -0300" channel="premiere">
+  <programme start="20250418180323 -0300" stop="20250418190251 -0300" channel="premiere">
     <title lang="pt">VT - Brasileirão: Mirassol x Grêmio</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250418190000 -0300" stop="20250418195959 -0300" channel="premiere">
+  <programme start="20250418190253 -0300" stop="20250418195959 -0300" channel="premiere">
     <title lang="pt">VT - Brasileirão: Botafogo x São Paulo</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <category lang="en">football/soccer</category>
@@ -25331,12 +25121,12 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250418175958 -0300" stop="20250418195757 -0300" channel="combate">
+  <programme start="20250418175958 -0300" stop="20250418223242 -0300" channel="combate">
     <title lang="pt">Lutas Ao Vivo: PFL World Tournament - ao vivo</title>
     <desc lang="pt">PFL é a liga esportiva mais inovadora e de crescimento mais rápido. A PFL é a única com o formato de temporada esportiva em que lutadores individuais competem na Temporada Regular, Playoffs e Campeonato pelo prêmio de 1 milhão de dólares.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250418223000 -0300" stop="20250418224459 -0300" channel="combate">
+  <programme start="20250418223244 -0300" stop="20250418224459 -0300" channel="combate">
     <title lang="pt">Baú Do Combate - Fabian Edwards - Inédito</title>
     <desc lang="pt"> - Baú Do Combate - Fabian Edwards</desc>
     <category lang="en">sports (general)</category>
@@ -28334,62 +28124,6 @@ de dar dicas sobre o destino e hospedagem, Anne visita a cidade romana de Jerash
     <episode-num system="xmltv_ns">1..</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250418234100 -0300" stop="20250419002559 -0300" channel="viva-fast">
-    <title lang="pt">Pecado Capital</title>
-    <desc lang="pt"> - </desc>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250419002100 -0300" stop="20250419011559 -0300" channel="viva-fast">
-    <title lang="pt">Água Viva</title>
-    <desc lang="pt"> - </desc>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250419014000 -0300" stop="20250419022459 -0300" channel="viva-fast">
-    <title lang="pt">Pecado Capital</title>
-    <desc lang="pt"> - </desc>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250419021800 -0300" stop="20250419030259 -0300" channel="viva-fast">
-    <title lang="pt">Pecado Capital</title>
-    <desc lang="pt"> - </desc>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250419025800 -0300" stop="20250419034259 -0300" channel="viva-fast">
-    <title lang="pt">Pecado Capital</title>
-    <desc lang="pt"> - </desc>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250419033600 -0300" stop="20250419042059 -0300" channel="viva-fast">
-    <title lang="pt">Pecado Capital</title>
-    <desc lang="pt"> - </desc>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250419041600 -0300" stop="20250419051059 -0300" channel="viva-fast">
-    <title lang="pt">Água Viva</title>
-    <desc lang="pt"> - </desc>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250419053500 -0300" stop="20250419061959 -0300" channel="viva-fast">
-    <title lang="pt">Pecado Capital</title>
-    <desc lang="pt"> - </desc>
-    <rating system="Brazil">
-      <value>[12]</value>
     </rating>
   </programme>
   <programme start="20250419000000 -0300" stop="20250419005959 -0300" channel="premiere">
@@ -36070,6 +35804,272 @@ Primeiro Claude ensina a receita ao mini chef, depois o aprendiz vai cozinhar so
       <value>[12]</value>
     </rating>
   </programme>
+  <programme start="20250422000900 -0300" stop="20250422005359 -0300" channel="viva">
+    <title lang="pt">Caras &amp; Bocas</title>
+    <sub-title lang="pt">Caras E Bocas</sub-title>
+    <desc lang="pt"> - Dafne e Gabriel têm seus caminhos cruzados novamente, 15 anos após serem separados por uma armação do avô dela.  A reaproximação, porém, põe em risco os planos da megera Judith.</desc>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250422005000 -0300" stop="20250422013459 -0300" channel="viva">
+    <title lang="pt">Plumas E Paetês</title>
+    <desc lang="pt"> - Indignado com o comportamento de Cláudia, Cristiano insulta a filha. Dorinha questiona a visita de Luísa e sua aproximação de Marcela. Ângelo faz uma descoberta.</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250422013000 -0300" stop="20250422021459 -0300" channel="viva">
+    <title lang="pt">Cara &amp; Coroa</title>
+    <sub-title lang="pt">Cara e Coroa</sub-title>
+    <desc lang="pt"> - Mauro é preso pela morte de Bruna. Belinha continua desaparecida e é procurada por sua família. Dinda descobre a farsa entre Vivi e Fernanda. Mauro confessa seus crimes.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250422021500 -0300" stop="20250422031459 -0300" channel="viva">
+    <title lang="pt">Roque Santeiro</title>
+    <desc lang="pt"> - Roque tenta provar para Delegado Feijó que é Roque Santeiro. Roque pressiona Sinhozinho a falar sobre a morte de João Ligeiro. Dondinha e Jiló lidam com a morte de João Ligeiro.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250422030500 -0300" stop="20250422033459 -0300" channel="viva">
+    <title lang="pt">Malhação: Casa Cheia</title>
+    <desc lang="pt"> - As relações familiares conduzem a trama na nova temporada de 'Malhação'.</desc>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250422033600 -0300" stop="20250422040559 -0300" channel="viva">
+    <title lang="pt">Malhação: Casa Cheia</title>
+    <desc lang="pt"> - As relações familiares conduzem a trama na nova temporada de 'Malhação'.</desc>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250422040600 -0300" stop="20250422044559 -0300" channel="viva">
+    <title lang="pt">Toma Lá, Dá Cá</title>
+    <sub-title lang="pt">Em Pratos Limpos</sub-title>
+    <desc lang="pt"> - Dona Álvara rouba um terreno de Mário Jorge para comemorar sua futura vitória nas eleições para síndico. Celinha e Arnaldo decidem concorrer e tentam puxar um o tapete do outro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250422045700 -0300" stop="20250422052659 -0300" channel="viva">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+    <desc lang="pt"> - Chico Anysio comanda uma turma da pesada que apronta altas confusões na Escolinha do Professor Raimundo. Em matéria de humor, eles são nota dez.</desc>
+    <episode-num system="xmltv_ns">.135.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250422053000 -0300" stop="20250422055959 -0300" channel="viva">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+    <desc lang="pt"> - Chico Anysio comanda uma turma da pesada que apronta altas confusões na Escolinha do Professor Raimundo. Em matéria de humor, eles são nota dez.</desc>
+    <episode-num system="xmltv_ns">.136.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250422060000 -0300" stop="20250422064459 -0300" channel="viva">
+    <title lang="pt">Chapa Quente</title>
+    <desc lang="pt"> - Marlene e Genésio vivem às turras. Moradores de São Gonçalo, Genésio está desempregado e Marlene é dona de um salão de beleza. Ela não perde a esperança do marido conseguir um emprego.</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250422063500 -0300" stop="20250422070459 -0300" channel="viva">
+    <title lang="pt">Tapas e Beijos</title>
+    <sub-title lang="pt">Laços De Paternidade Ou Amizade?</sub-title>
+    <desc lang="pt"> - A série Tapas &amp; Beijos mostra as aventuras da conturbada vida amorosa de Fátima e Sueli. Elas trabalham na Djalma Noivas, em Copacabana, e sonham com seus príncipes.</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250422071400 -0300" stop="20250422074359 -0300" channel="viva">
+    <title lang="pt">Tapas e Beijos</title>
+    <sub-title lang="pt">Cupidos De Um Amor Bandido</sub-title>
+    <desc lang="pt"> - A série Tapas &amp; Beijos mostra as aventuras da conturbada vida amorosa de Fátima e Sueli. Elas trabalham na Djalma Noivas, em Copacabana, e sonham com seus príncipes.</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250422075400 -0300" stop="20250422083359 -0300" channel="viva">
+    <title lang="pt">Toma Lá, Dá Cá</title>
+    <sub-title lang="pt">Em Pratos Limpos</sub-title>
+    <desc lang="pt"> - Dona Álvara rouba um terreno de Mário Jorge para comemorar sua futura vitória nas eleições para síndico. Celinha e Arnaldo decidem concorrer e tentam puxar um o tapete do outro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250422083600 -0300" stop="20250422091559 -0300" channel="viva">
+    <title lang="pt">Toma Lá, Dá Cá</title>
+    <sub-title lang="pt">Nosso Homem em Malibu</sub-title>
+    <desc lang="pt"> - Mário Jorge recebe a ligação de um antigo amigo milionário que está à beira da morte. De olha na herança, Mário Jorge e Rita trocam de casais e bagunçam as duas casas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250422093200 -0300" stop="20250422100159 -0300" channel="viva">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+    <desc lang="pt"> - Chico Anysio comanda uma turma da pesada que apronta altas confusões na Escolinha do Professor Raimundo. Em matéria de humor, eles são nota dez.</desc>
+    <episode-num system="xmltv_ns">.135.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250422095900 -0300" stop="20250422102859 -0300" channel="viva">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+    <desc lang="pt"> - Chico Anysio comanda uma turma da pesada que apronta altas confusões na Escolinha do Professor Raimundo. Em matéria de humor, eles são nota dez.</desc>
+    <episode-num system="xmltv_ns">.136.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250422102900 -0300" stop="20250422105859 -0300" channel="viva">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+    <desc lang="pt"> - Chico Anysio comanda uma turma da pesada que apronta altas confusões na Escolinha do Professor Raimundo. Em matéria de humor, eles são nota dez.</desc>
+    <episode-num system="xmltv_ns">.139.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250422110000 -0300" stop="20250422112959 -0300" channel="viva">
+    <title lang="pt">Malhação: Casa Cheia</title>
+    <desc lang="pt"> - As relações familiares conduzem a trama na nova temporada de 'Malhação'.</desc>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250422113000 -0300" stop="20250422115959 -0300" channel="viva">
+    <title lang="pt">Malhação: Casa Cheia</title>
+    <desc lang="pt"> - As relações familiares conduzem a trama na nova temporada de 'Malhação'.</desc>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250422120000 -0300" stop="20250422125959 -0300" channel="viva">
+    <title lang="pt">Roque Santeiro</title>
+    <desc lang="pt"> - Ronaldo pede ajuda de Rosaly para se reaproximar de Matilde. Matilde dá conselhos amorosos a Lulu. Sinhozinho Malta convoca uma reunião com as autoridades da cidade.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250422124500 -0300" stop="20250422132959 -0300" channel="viva">
+    <title lang="pt">Cara &amp; Coroa</title>
+    <sub-title lang="pt">Cara e Coroa</sub-title>
+    <desc lang="pt"> - Antenor se reconcilia com Mauro na prisão. Cícero fica livre de todas as acusações da Justiça. Constanza sofre um acidente de carro. Aníbal confessa um segredo do passado.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250422133600 -0300" stop="20250422142059 -0300" channel="viva">
+    <title lang="pt">Celebridade</title>
+    <desc lang="pt"> - Laura mente para Renato. Fernando reata com Beatriz. Marcos começa a trabalhar na produtora. Renato sabota o trabalho de Cristiano. Cristiano volta ao Andaraí.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250422144300 -0300" stop="20250422152759 -0300" channel="viva">
+    <title lang="pt">Plumas E Paetês</title>
+    <desc lang="pt"> - Seduzida, Lídia perdoa Ângelo. Marcela vai à agência de modelos e irrita Edgar. Dorinha não aceita virar informante de Francis. Edgar tem um ataque de ciúmes de Marcela.</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250422152900 -0300" stop="20250422161359 -0300" channel="viva">
+    <title lang="pt">Caras &amp; Bocas</title>
+    <sub-title lang="pt">Caras E Bocas</sub-title>
+    <desc lang="pt"> - Dafne e Gabriel têm seus caminhos cruzados novamente, 15 anos após serem separados por uma armação do avô dela.  A reaproximação, porém, põe em risco os planos da megera Judith.</desc>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250422162300 -0300" stop="20250422165259 -0300" channel="viva">
+    <title lang="pt">Malhação: Casa Cheia</title>
+    <desc lang="pt"> - As relações familiares conduzem a trama na nova temporada de 'Malhação'.</desc>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250422165300 -0300" stop="20250422172259 -0300" channel="viva">
+    <title lang="pt">Malhação: Casa Cheia</title>
+    <desc lang="pt"> - As relações familiares conduzem a trama na nova temporada de 'Malhação'.</desc>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250422172300 -0300" stop="20250422180759 -0300" channel="viva">
+    <title lang="pt">Chapa Quente</title>
+    <desc lang="pt"> - Marlene e Genésio vivem às turras. Moradores de São Gonçalo, Genésio está desempregado e Marlene é dona de um salão de beleza. Ela não perde a esperança do marido conseguir um emprego.</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250422180000 -0300" stop="20250422184459 -0300" channel="viva">
+    <title lang="pt">Os Casais que Amamos</title>
+    <sub-title lang="pt">Paco &amp; Preta / Raquel &amp; Bruno</sub-title>
+    <desc lang="pt"> - Reynaldo Gianecchini e Taís Araújo relembram Paco e Preta, de Da Cor do Pecado, enquanto Erika Januzza e Caio Paduan falam da importância de Raquel e Bruno, de O Outro Lado do Paraíso.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250422185000 -0300" stop="20250422191959 -0300" channel="viva">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+    <desc lang="pt"> - Chico Anysio comanda uma turma da pesada que apronta altas confusões na Escolinha do Professor Raimundo. Em matéria de humor, eles são nota dez.</desc>
+    <episode-num system="xmltv_ns">.138.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250422194300 -0300" stop="20250422202259 -0300" channel="viva">
+    <title lang="pt">Toma Lá, Dá Cá</title>
+    <sub-title lang="pt">Falando Grosso</sub-title>
+    <desc lang="pt"> - Rita e Arnaldo têm sonhos eróticos com o novo casal de vizinhos. Mário Jorge e Arnaldo são acusados de homofobia e racismo respectivamente. Deise impõe condições a Mário Jorge.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250422203000 -0300" stop="20250422210959 -0300" channel="viva">
+    <title lang="pt">Toma Lá, Dá Cá</title>
+    <sub-title lang="pt">Os Bem Casados</sub-title>
+    <desc lang="pt"> - Isadora e Adônis levam um fora dos namorados. Celinha e Rita decidem dar um tempo no casamento. Dona Álvara dá uma Festa do Bolero e os casais vão separados.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250422211500 -0300" stop="20250422214459 -0300" channel="viva">
+    <title lang="pt">Tapas e Beijos</title>
+    <sub-title lang="pt">Fábio Lago Participa Do Programa</sub-title>
+    <desc lang="pt"> - A série Tapas &amp; Beijos mostra as aventuras da conturbada vida amorosa de Fátima e Sueli. Elas trabalham na Djalma Noivas, em Copacabana, e sonham com seus príncipes.</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250422215200 -0300" stop="20250422223659 -0300" channel="viva">
+    <title lang="pt">Grande Família, A</title>
+    <sub-title lang="pt">Quem matou Paulão da Regulagem?</sub-title>
+    <desc lang="pt"> - Agostinho pede dinheiro do aluguel emprestado para Lineu. Paulão rouba vestido favorito de Marilda e dá para esposa. Marilda é acusada de assassinato. Beiçola vira um suspeito.</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250422222400 -0300" stop="20250422230859 -0300" channel="viva">
+    <title lang="pt">Grande Família, A</title>
+    <sub-title lang="pt">Vai que é tua, Lineuzinho!</sub-title>
+    <desc lang="pt"> - O jogador Zico conta em uma entrevista que era reserva do Lineu no Paivense. Tuco se frustra pelo pai ter escondido passado com o futebol. Agostinho quer construir um novo clube.</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250422230000 -0300" stop="20250422234459 -0300" channel="viva">
+    <title lang="pt">Celebridade</title>
+    <desc lang="pt"> - Macedo explica a confusão para Cristiano e Renato consola o cunhado. Salvador reencontra Ubaldo. Cristiano fica tentado a beber e some. Zeca se desespera.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20250422000000 -0300" stop="20250422001459 -0300" channel="canal-brasil">
     <title lang="pt">Cantoras Portuguesas</title>
     <sub-title lang="pt">Susana Travassos - Partir</sub-title>
@@ -38610,16 +38610,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
     <desc lang="pt"> - Acompanhe as principais notícias do Brasil e do mundo.</desc>
     <category lang="en">variety show</category>
   </programme>
-  <programme start="20250418101728 -0300" stop="20250418110102 -0300" channel="Novelas">
-    <title lang="pt">Amor Secreto</title>
-    <desc lang="pt"> - Irene, uma secretária inteligente, eficiente e confiável, se apaixona por seu chefe, Leonardo.</desc>
-    <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
-    <rating system="Brazil">
-      <value>[A14]</value>
-    </rating>
-  </programme>
-  <programme start="20250418110430 -0300" stop="20250418120414 -0300" channel="Novelas">
+  <programme start="20250418115712 -0300" stop="20250418120414 -0300" channel="Novelas">
     <title lang="pt">Para Te Ver Melhor</title>
     <desc lang="pt"> - Um prédio, seis apartamentos, uma cobertura, uma portaria e muitas histórias de amor e suspense.</desc>
     <category lang="en">movie/drama (general)</category>
@@ -40149,7 +40140,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250425101710 -0300" stop="20250425102745 -0300" channel="Novelas">
+  <programme start="20250425101710 -0300" stop="20250425111900 -0300" channel="Novelas">
     <title lang="pt">Amor Secreto </title>
     <desc lang="pt"> - Irene, uma secretária inteligente, eficiente e confiável, se apaixona por seu chefe, Leonardo.</desc>
     <category lang="en">movie/drama (general)</category>
@@ -40158,26 +40149,13 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[A14]</value>
     </rating>
   </programme>
-  <programme start="20250418101008 -0300" stop="20250418105108 -0300" channel="Silvio Santos">
-    <title lang="pt">Programa Silvio Santos</title>
-    <sub-title lang="pt">realizado em 13/07/2008</sub-title>
-    <desc lang="pt">Um clássico da TV brasileira! Aviõezinhos, calouros, artistas e, claro, o patrão Silvio Santos!</desc>
-    <category lang="en">variety show</category>
-    <date>13/07/2008</date>
-    <episode-num system="xmltv_ns">0.10.</episode-num>
+  <programme start="20250425112238 -0300" stop="20250425120040 -0300" channel="Novelas">
+    <title lang="pt">Para Te Ver Melhor</title>
+    <desc lang="pt"> - Um prédio, seis apartamentos, uma cobertura, uma portaria e muitas histórias de amor e suspense.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
     <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250418105111 -0300" stop="20250418114047 -0300" channel="Silvio Santos">
-    <title lang="pt">Nada Além da Verdade</title>
-    <sub-title lang="pt">realizado em 19/08/2008</sub-title>
-    <desc lang="pt">Você enfrentaria um detector de mentiras comandado por Silvio Santos?</desc>
-    <category lang="en">show/game show (general)</category>
-    <date>19/08/2008</date>
-    <episode-num system="xmltv_ns">0.26.</episode-num>
-    <rating system="Brazil">
-      <value>[A10]</value>
+      <value>[A14]</value>
     </rating>
   </programme>
   <programme start="20250418114744 -0300" stop="20250418121453 -0300" channel="Silvio Santos">
@@ -41755,7 +41733,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[A12]</value>
     </rating>
   </programme>
-  <programme start="20250425081644 -0300" stop="20250425101911 -0300" channel="Silvio Santos">
+  <programme start="20250425081644 -0300" stop="20250425103520 -0300" channel="Silvio Santos">
     <title lang="pt">Em Nome do Amor</title>
     <sub-title lang="pt">realizado em 09/07/1995</sub-title>
     <desc lang="pt">A cada história uma nova emoção. Tudo é lindo com Silvio Santos no Em Nome do Amor! </desc>
@@ -41766,24 +41744,39 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[A12]</value>
     </rating>
   </programme>
-  <programme start="20250418102235 -0300" stop="20250418103051 -0300" channel="Pop">
-    <title lang="pt">Câmeras Escondidas</title>
-    <sub-title lang="pt">Ghostbusters: Mais Além Parte 2</sub-title>
-    <desc lang="pt">realizado em 23/01/2022 - </desc>
-    <date>23/01/2022</date>
-    <episode-num system="xmltv_ns">1.22022.</episode-num>
-  </programme>
-  <programme start="20250418103116 -0300" stop="20250418112929 -0300" channel="Pop">
-    <title lang="pt">Saving Hope</title>
-    <sub-title lang="pt">14. Trocando de Lugar</sub-title>
-    <desc lang="pt"> - A médica Alex Reid luta para manter vivo o noivo Charlie, que entrou em coma após um acidente.</desc>
-    <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">2.13.</episode-num>
+  <programme start="20250425103525 -0300" stop="20250425110855 -0300" channel="Silvio Santos">
+    <title lang="pt">Show do Milhão</title>
+    <sub-title lang="pt">realizado em 05/06/2000</sub-title>
+    <desc lang="pt">Silvio Santos convida participantes para testarem seus conhecimentos valendo um milhão de reais.</desc>
+    <category lang="en">variety show</category>
+    <date>05/06/2000</date>
+    <episode-num system="xmltv_ns">2.8.</episode-num>
     <rating system="Brazil">
-      <value>[A14]</value>
+      <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250418112954 -0300" stop="20250418123133 -0300" channel="Pop">
+  <programme start="20250425110911 -0300" stop="20250425113859 -0300" channel="Silvio Santos">
+    <title lang="pt">Momentos Inesquecíveis</title>
+    <sub-title lang="pt">Em Nome do Amor com Thalia</sub-title>
+    <desc lang="pt"> - Relembre momentos marcantes do maior comunicador do Brasil  </desc>
+    <category lang="en">variety show</category>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <rating system="Brazil">
+      <value>[A12]</value>
+    </rating>
+  </programme>
+  <programme start="20250425113912 -0300" stop="20250425120145 -0300" channel="Silvio Santos">
+    <title lang="pt">Porta da Esperança</title>
+    <sub-title lang="pt">realizado em 20/10/1985</sub-title>
+    <desc lang="pt">Participantes enviam pedidos e, se selecionados, realizam seus sonhos com Silvio Santos.</desc>
+    <category lang="en">variety show</category>
+    <date>20/10/1985</date>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <rating system="Brazil">
+      <value>[AL]</value>
+    </rating>
+  </programme>
+  <programme start="20250418115603 -0300" stop="20250418123133 -0300" channel="Pop">
     <title lang="pt">Private Eyes</title>
     <sub-title lang="pt">5. Os Seis</sub-title>
     <desc lang="pt"> - Um ex-jogador de hóquei e uma detetive particular se tornam uma inesperada dupla de investigadores.</desc>
@@ -43128,84 +43121,24 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[AL]</value>
     </rating>
   </programme>
-  <programme start="20250418101954 -0300" stop="20250418103035 -0300" channel="TV Zyn">
-    <title lang="pt">Rua do Zoo 64</title>
-    <sub-title lang="pt">4. A história de Morrise Bigode</sub-title>
-    <desc lang="pt"> - Faça como a Lucy, se divirta com as histórias de vida dos animais da Rua do Zoo!</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">1.3.</episode-num>
+  <programme start="20250425103005 -0300" stop="20250425112741 -0300" channel="Pop">
+    <title lang="pt">Saving Hope</title>
+    <sub-title lang="pt">1. Piloto</sub-title>
+    <desc lang="pt"> - A médica Alex Reid luta para manter vivo o noivo Charlie, que entrou em coma após um acidente.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[A14]</value>
     </rating>
   </programme>
-  <programme start="20250418103149 -0300" stop="20250418104302 -0300" channel="TV Zyn">
-    <title lang="pt">Rua do Zoo 64</title>
-    <sub-title lang="pt">5. A história de Chico, o mágico</sub-title>
-    <desc lang="pt"> - Faça como a Lucy, se divirta com as histórias de vida dos animais da Rua do Zoo!</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">1.4.</episode-num>
+  <programme start="20250425112806 -0300" stop="20250425120535 -0300" channel="Pop">
+    <title lang="pt">Private Eyes</title>
+    <sub-title lang="pt">10. Joias da Família</sub-title>
+    <desc lang="pt"> - Um ex-jogador de hóquei e uma detetive particular se tornam uma inesperada dupla de investigadores.</desc>
+    <category lang="en">comedy</category>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250418104305 -0300" stop="20250418105519 -0300" channel="TV Zyn">
-    <title lang="pt">Dinotrem</title>
-    <sub-title lang="pt">4. Tricerátopos para o almoço</sub-title>
-    <desc lang="pt"> - Quer saber tudo sobre os dinossauros? Embarque no Dinotrem e faça uma viajem no tempo!</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <rating system="Brazil">
-      <value>[AL]</value>
-    </rating>
-  </programme>
-  <programme start="20250418105633 -0300" stop="20250418110918 -0300" channel="TV Zyn">
-    <title lang="pt">Dinotrem</title>
-    <sub-title lang="pt">5. Mas que calor!</sub-title>
-    <desc lang="pt"> - Quer saber tudo sobre os dinossauros? Embarque no Dinotrem e faça uma viajem no tempo!</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <rating system="Brazil">
-      <value>[AL]</value>
-    </rating>
-  </programme>
-  <programme start="20250418111201 -0300" stop="20250418112256 -0300" channel="TV Zyn">
-    <title lang="pt">Ziggy e o Trenzinho do Zoológico</title>
-    <sub-title lang="pt">23. O biscoito salvador</sub-title>
-    <desc lang="pt"> - Embarque nesse trem e se aventure com Ziggy e seus amigos!</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">1.22.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250418112411 -0300" stop="20250418113511 -0300" channel="TV Zyn">
-    <title lang="pt">Ziggy e o Trenzinho do Zoológico</title>
-    <sub-title lang="pt">24. Aranhinha pequenininha</sub-title>
-    <desc lang="pt"> - Embarque nesse trem e se aventure com Ziggy e seus amigos!</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">1.23.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250418113514 -0300" stop="20250418114154 -0300" channel="TV Zyn">
-    <title lang="pt">Shaun, o Carneiro</title>
-    <sub-title lang="pt">28. Caos no acampamento</sub-title>
-    <desc lang="pt"> - Prepare-se para muita diversão e confusão com as aventuras de Shaun, o Carneiro!</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.27.</episode-num>
-    <rating system="Brazil">
-      <value>[AL]</value>
-    </rating>
-  </programme>
-  <programme start="20250418114308 -0300" stop="20250418115008 -0300" channel="TV Zyn">
-    <title lang="pt">Shaun, o Carneiro</title>
-    <sub-title lang="pt">29. Salvem as árvores</sub-title>
-    <desc lang="pt"> - Prepare-se para muita diversão e confusão com as aventuras de Shaun, o Carneiro!</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.28.</episode-num>
-    <rating system="Brazil">
-      <value>[AL]</value>
+      <value>[A14]</value>
     </rating>
   </programme>
   <programme start="20250418115210 -0300" stop="20250418120250 -0300" channel="TV Zyn">
@@ -47166,29 +47099,97 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250418101234 -0300" stop="20250418103656 -0300" channel="Saudade">
-    <title lang="pt">Programa Câmeras Escondidas</title>
-    <sub-title lang="pt">Pegadinhas na Pandemia</sub-title>
-    <desc lang="pt">realizado em 10/10/2021 - Você pediu, torceu e o SBT atendeu! Agora as Câmeras Escondidas passam a ter um programa próprio, exibido no digital do SBT.</desc>
-    <category lang="en">comedy</category>
-    <date>10/10/2021</date>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <rating system="Brazil">
-      <value>[A10]</value>
-    </rating>
-  </programme>
-  <programme start="20250418103906 -0300" stop="20250418112820 -0300" channel="Saudade">
-    <title lang="pt">Mariane</title>
-    <sub-title lang="pt">realizado em 26/05/1990</sub-title>
-    <desc lang="pt">Muita alegria no ar! Mariane agita a criançada com um show contagiante e diversão sem fim.</desc>
-    <category lang="en">entertainment programmes for 6 to 14</category>
-    <date>26/05/1990</date>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
+  <programme start="20250425102429 -0300" stop="20250425103512 -0300" channel="TV Zyn">
+    <title lang="pt">Rua do Zoo 64</title>
+    <sub-title lang="pt">14. A história de Cesar, a cegonha</sub-title>
+    <desc lang="pt"> - Faça como a Lucy, se divirta com as histórias de vida dos animais da Rua do Zoo!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">1.13.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250418112830 -0300" stop="20250418120818 -0300" channel="Saudade">
+  <programme start="20250425103626 -0300" stop="20250425104734 -0300" channel="TV Zyn">
+    <title lang="pt">Rua do Zoo 64</title>
+    <sub-title lang="pt">15. A história do melhor do Daniel</sub-title>
+    <desc lang="pt"> - Faça como a Lucy, se divirta com as histórias de vida dos animais da Rua do Zoo!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">1.14.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250425104737 -0300" stop="20250425105951 -0300" channel="TV Zyn">
+    <title lang="pt">Dinotrem</title>
+    <sub-title lang="pt">14. O folho do tanque</sub-title>
+    <desc lang="pt"> - Quer saber tudo sobre os dinossauros? Embarque no Dinotrem e faça uma viajem no tempo!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.13.</episode-num>
+    <rating system="Brazil">
+      <value>[AL]</value>
+    </rating>
+  </programme>
+  <programme start="20250425110105 -0300" stop="20250425111350 -0300" channel="TV Zyn">
+    <title lang="pt">Dinotrem</title>
+    <sub-title lang="pt">15. Um dinossauro enorme</sub-title>
+    <desc lang="pt"> - Quer saber tudo sobre os dinossauros? Embarque no Dinotrem e faça uma viajem no tempo!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
+    <rating system="Brazil">
+      <value>[AL]</value>
+    </rating>
+  </programme>
+  <programme start="20250425111558 -0300" stop="20250425112653 -0300" channel="TV Zyn">
+    <title lang="pt">Ziggy e o Trenzinho do Zoológico</title>
+    <sub-title lang="pt">7. O acampamento maluco de Lionel</sub-title>
+    <desc lang="pt"> - Embarque nesse trem e se aventure com Ziggy e seus amigos!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250425112807 -0300" stop="20250425113908 -0300" channel="TV Zyn">
+    <title lang="pt">Ziggy e o Trenzinho do Zoológico</title>
+    <sub-title lang="pt">8. Tony levanta voo</sub-title>
+    <desc lang="pt"> - Embarque nesse trem e se aventure com Ziggy e seus amigos!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250425113911 -0300" stop="20250425114551 -0300" channel="TV Zyn">
+    <title lang="pt">Shaun, o Carneiro</title>
+    <sub-title lang="pt">38. O ronco de Shirley</sub-title>
+    <desc lang="pt"> - Prepare-se para muita diversão e confusão com as aventuras de Shaun, o Carneiro!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.37.</episode-num>
+    <rating system="Brazil">
+      <value>[AL]</value>
+    </rating>
+  </programme>
+  <programme start="20250425114705 -0300" stop="20250425115405 -0300" channel="TV Zyn">
+    <title lang="pt">Shaun, o Carneiro</title>
+    <sub-title lang="pt">39. Contatos imediatos do Shaun</sub-title>
+    <desc lang="pt"> - Prepare-se para muita diversão e confusão com as aventuras de Shaun, o Carneiro!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.38.</episode-num>
+    <rating system="Brazil">
+      <value>[AL]</value>
+    </rating>
+  </programme>
+  <programme start="20250425115410 -0300" stop="20250425120510 -0300" channel="TV Zyn">
+    <title lang="pt">O Livro da Selva</title>
+    <sub-title lang="pt">14. O resgate de Darzi na cachoeira</sub-title>
+    <desc lang="pt"> - Mogli foi criado por lobos, mora na selva, tem amigos fiéis mas inimigos ferozes! </desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.13.</episode-num>
+    <rating system="Brazil">
+      <value>[AL]</value>
+    </rating>
+  </programme>
+  <programme start="20250418114759 -0300" stop="20250418120818 -0300" channel="Saudade">
     <title lang="pt">TV Animal</title>
     <sub-title lang="pt">realizado em 25/12/1988</sub-title>
     <desc lang="pt">Aqui os bichos são os astros de uma competição entre famosos!</desc>
@@ -50134,6 +50135,28 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
     <episode-num system="xmltv_ns">0.8.</episode-num>
     <rating system="Brazil">
       <value>[A10]</value>
+    </rating>
+  </programme>
+  <programme start="20250425104351 -0300" stop="20250425111537 -0300" channel="Saudade">
+    <title lang="pt">Mariane</title>
+    <sub-title lang="pt">realizado em 01/01/1991</sub-title>
+    <desc lang="pt">Muita alegria no ar! Mariane agita a criançada com um show contagiante e diversão sem fim.</desc>
+    <category lang="en">entertainment programmes for 6 to 14</category>
+    <date>01/01/1991</date>
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250425111547 -0300" stop="20250425115415 -0300" channel="Saudade">
+    <title lang="pt">TV Animal</title>
+    <sub-title lang="pt">realizado em 01/01/1989</sub-title>
+    <desc lang="pt">Aqui os bichos são os astros de uma competição entre famosos!</desc>
+    <category lang="en">variety show</category>
+    <date>01/01/1989</date>
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
     </rating>
   </programme>
   <programme start="20250418220000 -0300" stop="20250418230000 -0300" channel="Canal Educação">
