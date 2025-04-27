@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2025-04-27 13:45:04" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2025-04-27 15:40:05" generator-info-url="http://limaalef.com">
   <channel id="Claro TV+ 4K">
     <display-name lang="pt">Claro TV+ 4K</display-name>
   </channel>
@@ -143,6 +143,9 @@
   </channel>
   <channel id="premiere">
     <display-name lang="pt">premiere</display-name>
+  </channel>
+  <channel id="premiere-2">
+    <display-name lang="pt">premiere-2</display-name>
   </channel>
   <channel id="combate">
     <display-name lang="pt">combate</display-name>
@@ -18601,6 +18604,11 @@
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
+  <programme start="20250428000000 -0300" stop="20250428050000 -0300" channel="1682">
+    <title lang="pt">Reapresentação de Comissão</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
   <programme start="20250427000000 -0300" stop="20250427003000 -0300" channel="1765">
     <title lang="pt">Repórter Eco</title>
     <desc lang="pt"> - </desc>
@@ -18730,6 +18738,11 @@
     <title lang="pt">Noturno</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250428000000 -0300" stop="20250428003000 -0300" channel="1765">
+    <title lang="pt">Repórter Eco</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">movie/drama (general)</category>
   </programme>
   <programme start="20250427000000 -0300" stop="20250427003000 -0300" channel="1779">
     <title lang="pt">Tela Brasil: O Caminho da Água - O Rio Atoyac</title>
@@ -18878,6 +18891,11 @@
   </programme>
   <programme start="20250427231500 -0300" stop="20250428000000 -0300" channel="1779">
     <title lang="pt">Senadoc: Nas Beiras do Ribeira</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="20250428000000 -0300" stop="20250428003000 -0300" channel="1779">
+    <title lang="pt">Tela Brasil: O Caminho da Água - Os Guardiões da Água</title>
     <desc lang="pt"> - </desc>
     <category lang="en">documentary</category>
   </programme>
@@ -19035,6 +19053,11 @@
     <title lang="pt">Meu Pedaço do Brasil</title>
     <desc lang="pt"> - </desc>
     <category lang="en">documentary</category>
+  </programme>
+  <programme start="20250428000000 -0300" stop="20250428003000 -0300" channel="2302">
+    <title lang="pt">Nossos Biomas</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
   </programme>
   <programme start="20250428000000 -0300" stop="20250428050000 -0300" channel="1682">
     <title lang="pt">Reapresentação de Comissão</title>
@@ -21104,47 +21127,52 @@
     <category lang="en">sports (general)</category>
     <date>04/02/2024</date>
   </programme>
-  <programme start="20250427105322 -0300" stop="20250427130332 -0300" channel="sportv">
+  <programme start="20250427105322 -0300" stop="20250427132244 -0300" channel="sportv">
     <title lang="pt">NBB: Flamengo x Caxias - ao vivo</title>
     <sub-title lang="pt">Oitavas de Final - Jogo 2</sub-title>
     <desc lang="pt">O melhor do basquete nacional tá de volta! É a NBB e você acompanha aqui no sportv
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250427130710 -0300" stop="20250427140728 -0300" channel="sportv">
-    <title lang="pt">VT - Brasileirão: Botafogo x Fluminense</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <category lang="en">football/soccer</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250427140731 -0300" stop="20250427160750 -0300" channel="sportv">
-    <title lang="pt">Pré-Jogo: Flamengo x Corinthians - ao vivo</title>
-    <desc lang="pt">Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes, aqui no sportv!</desc>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20250427160803 -0300" stop="20250427171046 -0300" channel="sportv">
-    <title lang="pt">VT - Brasileirão: Internacional x Juventude</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <category lang="en">football/soccer</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250427171048 -0300" stop="20250427174005 -0300" channel="sportv">
+  <programme start="20250427132248 -0300" stop="20250427135957 -0300" channel="sportv">
     <title lang="pt">Giro da Rodada: Brasileirão</title>
     <sub-title lang="pt">6ª Rodada</sub-title>
     <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol aqui o sportv!</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250427174023 -0300" stop="20250427193117 -0300" channel="sportv">
+  <programme start="20250427140003 -0300" stop="20250427143621 -0300" channel="sportv">
+    <title lang="pt">Pré-Jogo: Flamengo x Corinthians - ao vivo</title>
+    <desc lang="pt">Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes, aqui no sportv!</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20250427143623 -0300" stop="20250427163642 -0300" channel="sportv">
+    <title lang="pt">Pré-Hora - Flamengo X Corinthians - ao vivo</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20250427163644 -0300" stop="20250427173927 -0300" channel="sportv">
+    <title lang="pt">VT - Brasileirão: Internacional x Juventude</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <category lang="en">football/soccer</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250427173929 -0300" stop="20250427180846 -0300" channel="sportv">
+    <title lang="pt">Giro da Rodada: Brasileirão</title>
+    <sub-title lang="pt">6ª Rodada</sub-title>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol aqui o sportv!</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250427180850 -0300" stop="20250427195944 -0300" channel="sportv">
     <title lang="pt">sportv News - ao vivo</title>
     <desc lang="pt"> - Inicie o dia atualizado com as notícias do mundo do esporte. Cada detalhe sobre o seu esporte preferido,  Os gols da rodada, as últimas do seu time, o que é notícia no Brasil e no Mundo contado de forma dinâmica por Mariana Fontes e André Loffredo</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250427193119 -0300" stop="20250427203215 -0300" channel="sportv">
+  <programme start="20250427195946 -0300" stop="20250427202959 -0300" channel="sportv">
     <title lang="pt">Aquecimento sportv: Santos x Bragantino - ao vivo</title>
     <desc lang="pt">Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes, aqui no sportv!</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250427203217 -0300" stop="20250427222959 -0300" channel="sportv">
+  <programme start="20250427203000 -0300" stop="20250427222959 -0300" channel="sportv">
     <title lang="pt">Brasileirão: Santos x Bragantino - ao vivo</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <category lang="en">live broadcast</category>
@@ -21213,7 +21241,7 @@
     <category lang="en">sports (general)</category>
     <previously-shown />
   </programme>
-  <programme start="20250427133905 -0300" stop="20250427140049 -0300" channel="sportv-2">
+  <programme start="20250427133905 -0300" stop="20250427140048 -0300" channel="sportv-2">
     <title lang="pt">Baú do Esporte: Lendas - Kobe Bryant</title>
     <desc lang="pt">Quer reviver aquele jogo inesquecível? Saber o que seu ídolo sentiu na hora do gol decisivo? O Baú do Esporte traz diariamente os grandes momentos e personagens que marcaram a história esportiva do Brasil e do mundo.</desc>
     <category lang="en">sports (general)</category>
@@ -21240,14 +21268,7 @@
     <category lang="en">team sports</category>
     <previously-shown />
   </programme>
-  <programme start="20250427211141 -0300" stop="20250427232114 -0300" channel="sportv-2">
-    <title lang="pt">VT - Diamond League: 1ª Etapa</title>
-    <sub-title lang="pt">Xiamen,China</sub-title>
-    <desc lang="pt">Acompanhe a Diamond League, uma das principais competições de atletismo com grandes nomes do esporte.</desc>
-    <category lang="en">sports (general)</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250427232116 -0300" stop="20250427235959 -0300" channel="sportv-2">
+  <programme start="20250427220000 -0300" stop="20250427235959 -0300" channel="sportv-2">
     <title lang="pt">VT - Copa do Mundo de Escalada: Feminina E Masculina Velocidade</title>
     <sub-title lang="pt">Finais - Wujiang, China</sub-title>
     <desc lang="pt">Fique ligado na Copa do Mundo de Escalada aqui no sportv!</desc>
@@ -21321,13 +21342,13 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250427124637 -0300" stop="20250427133506 -0300" channel="sportv-3">
+  <programme start="20250427124637 -0300" stop="20250427133045 -0300" channel="sportv-3">
     <title lang="pt">Porsche Sprint Challenge: Etapa 3 - Interlagos - 2ª Corrida - ao vivo</title>
     <desc lang="pt">Foi dada a largada: acompanhe as emoções da Porsche aqui no sportv! 
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250427133508 -0300" stop="20250427141053 -0300" channel="sportv-3">
+  <programme start="20250427133048 -0300" stop="20250427140632 -0300" channel="sportv-3">
     <title lang="pt">Sessão sportv: Papo Cruzado - Rodrigo Minotauro - Inédito</title>
     <desc lang="pt">“Papo Cruzado” é um programa de entrevistas em estúdio, no formato
 talk-show, onde um elenco fixo de 3 entrevistadores recebe, a cada episódio, um
@@ -21355,7 +21376,7 @@ de artes marciais</desc>
     </rating>
     <new />
   </programme>
-  <programme start="20250427141054 -0300" stop="20250427144242 -0300" channel="sportv-3">
+  <programme start="20250427140635 -0300" stop="20250427143823 -0300" channel="sportv-3">
     <title lang="pt">Sessão sportv: Cine Marcial - Força Destruidora</title>
     <desc lang="pt">Nos últimos cinquenta anos, os filmes de luta arrebataram bilheterias, revelaram superestrelas e criaram um segmento extremamente lucrativo. Pelas telas do cinema ou da Sessão da Tarde, gerações de brasileiros, muitos dos quais futuros lutadores, tiveram em Hollywood o - seu primeiro contato com as artes marciais. Nossa proposta é destrinchar este fenômeno mergulhando em dez grandes clássicos. Ao revelar bastidores inéditos das gravações, vamos investigando, de forma irreverente, como esses filmes, no passado, influenciaram nossas estrelas do MMA e porque até hoje são parte da memória afetiva de todo brasileiro</desc>
     <category lang="en">sports (general)</category>
@@ -21364,42 +21385,42 @@ de artes marciais</desc>
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250427144244 -0300" stop="20250427173502 -0300" channel="sportv-3">
+  <programme start="20250427143825 -0300" stop="20250427173043 -0300" channel="sportv-3">
     <title lang="pt">Faixa Combate: One Fight Night 30</title>
     <desc lang="pt">Terceira maior franquia de MMA mundial e a principal da Ásia, presente em mais de 170 países, o One é a liga esportiva de diferentes modalidades além do MMA como: Grappling, Muay Thai, Kickboxing.</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250427173505 -0300" stop="20250427181640 -0300" channel="sportv-3">
+  <programme start="20250427173046 -0300" stop="20250427181221 -0300" channel="sportv-3">
     <title lang="pt">1/2 CIRCUITO MUNDIAL DE SURFE - DIA 1 ETAPA PIPELINE - HAVAÍ,EUA</title>
     <desc lang="pt"> - </desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250427181642 -0300" stop="20250427193645 -0300" channel="sportv-3">
+  <programme start="20250427181223 -0300" stop="20250427193226 -0300" channel="sportv-3">
     <title lang="pt">2/2 CIRCUITO MUNDIAL DE SURFE - DIA 1 ETAPA PIPELINE - HAVAÍ,EUA</title>
     <desc lang="pt"> - </desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250427193647 -0300" stop="20250427201447 -0300" channel="sportv-3">
+  <programme start="20250427193228 -0300" stop="20250427201028 -0300" channel="sportv-3">
     <title lang="pt">1/2 CIRCUITO MUNDIAL SURF-MELHORES MOMENTOS-DIA 2-PIPELINE</title>
     <desc lang="pt"> - </desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250427201449 -0300" stop="20250427210840 -0300" channel="sportv-3">
+  <programme start="20250427201030 -0300" stop="20250427210421 -0300" channel="sportv-3">
     <title lang="pt">2/2 CIRCUITO MUNDIAL SURF-MELHORES MOMENTOS-DIA 2-PIPELINE</title>
     <desc lang="pt"> - </desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250427210842 -0300" stop="20250427214934 -0300" channel="sportv-3">
+  <programme start="20250427210423 -0300" stop="20250427214515 -0300" channel="sportv-3">
     <title lang="pt">1/2 Circuito Mundial De Surfe - Melhores Momentos Dia 03</title>
     <desc lang="pt"> - </desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250427214936 -0300" stop="20250427231152 -0300" channel="sportv-3">
+  <programme start="20250427214517 -0300" stop="20250427230733 -0300" channel="sportv-3">
     <title lang="pt">2/2 Circuito Mundial De Surfe - Melhores Momentos Dia 03</title>
     <desc lang="pt"> - </desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250427231154 -0300" stop="20250428032959 -0300" channel="sportv-3">
+  <programme start="20250427230734 -0300" stop="20250428000743 -0300" channel="sportv-3">
     <title lang="pt">1/2 CIRCUITO MUNDIAL DE SURFE - MELHORES MOMENTOS</title>
     <desc lang="pt"> - </desc>
     <category lang="en">sports (general)</category>
@@ -21601,7 +21622,7 @@ de artes marciais</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250427135119 -0300" stop="20250427143520 -0300" channel="multishow">
+  <programme start="20250427135119 -0300" stop="20250427143523 -0300" channel="multishow">
     <title lang="pt">Vila, A</title>
     <sub-title lang="pt">Betes Motel</sub-title>
     <desc lang="pt"> - RIQUE ARRUMOU UM FREELA DE CHARRIOT NUM HOTEL QUE VAI INAUGURAR NA VILA, CUJA PROPRIETÁRIA TEM UM AR MISTERIOSO E SE CHAMA BETES. ELE NÃO SABE NEM O SIGNIFICADO DE CHARRIOT, MAS ACEITA. DONA BETES PEDE À ELE PRA NÃO DEIXAR NINGUÉM ENTRAR NO HOTEL ATÉ SER INAUGURADO.</desc>
@@ -21673,7 +21694,7 @@ de artes marciais</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250427193638 -0300" stop="20250427203259 -0300" channel="multishow">
+  <programme start="20250427193638 -0300" stop="20250427203322 -0300" channel="multishow">
     <title lang="pt">Vai que Cola</title>
     <sub-title lang="pt">Era Uma Vez No Cerol</sub-title>
     <desc lang="pt"> - Dona Jô passará o final de semana em Copacabana com Peggy e deixou seu Wilson encarregado de cuidar da pensão. Jessica está planejando uma festa com Maicol já que a mãe está fora, contrata até um dj, Richard, que encontrou no Tinder. Mas para seu Wilson ela diz estar organizando uma festa beneficente. E o morro do Cerol está dominado por uma facção que está prejudicando a todos. Terezinha resolve então subir o morro pra tirar satisfação e conta com a ajuda de Reginel, Lacraia e Sanderson, que está ameaçado de morte.</desc>
@@ -21681,7 +21702,7 @@ de artes marciais</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250427203300 -0300" stop="20250427212859 -0300" channel="multishow">
+  <programme start="20250427203325 -0300" stop="20250427212906 -0300" channel="multishow">
     <title lang="pt">Vai que Cola</title>
     <sub-title lang="pt">Caverna Do Leão</sub-title>
     <desc lang="pt"> - Dona Jô quer agradar seu Wilson com uma partida de RPG com todos vestidos à caráter. Nem todos ficam satisfeitos com suas fantasias. O único que não participa é o carteiro Reginel. Por diferentes motivos, o jogo é interrompido e o faz-tudo desiste e acaba jogando sozinho.</desc>
@@ -21689,7 +21710,7 @@ de artes marciais</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250427212900 -0300" stop="20250427221959 -0300" channel="multishow">
+  <programme start="20250427212909 -0300" stop="20250427221959 -0300" channel="multishow">
     <title lang="pt">Vai que Cola</title>
     <sub-title lang="pt">O Grande Prêmio Do Méier</sub-title>
     <desc lang="pt"> - Lacraia é o organizador do evento O Grande Prêmio do Meier que acontecerá no Imperator. Quase todos os moradores da pensão concorrem a algum prêmio: Terezinha e Velna a musa do Meier, Dona Jô, melhor cozinheira, Jessica e Valdomiro, moradores mais simpático do bairro. Ferdinando está revoltado com Lacraia pode não ter sido indicado a nada. E ele fará de tudo para mostrar que é uma grande atriz.</desc>
@@ -22001,14 +22022,14 @@ de artes marciais</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250427132033 -0300" stop="20250427135142 -0300" channel="gnt">
+  <programme start="20250427132033 -0300" stop="20250427135141 -0300" channel="gnt">
     <title lang="pt">Walter</title>
     <desc lang="pt"> - O episódio é dedicado a Walter Zoletti, que mora em Santos, tem 91 anos de idade, 67 de casado, 7 filhos, 16 netos e 3 bisnetos. Ufa!</desc>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250427135145 -0300" stop="20250427142352 -0300" channel="gnt">
+  <programme start="20250427135145 -0300" stop="20250427142354 -0300" channel="gnt">
     <title lang="pt">Rosalina</title>
     <desc lang="pt"> - Rodrigo bate um papo com Dona Rosalina Bortolassi, que saiu de uma tristeza profunda quando a neta disse, “vem brincar comigo aqui nesse aplicativo do celular!”.</desc>
     <rating system="Brazil">
@@ -22048,7 +22069,7 @@ de artes marciais</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250427173651 -0300" stop="20250427180559 -0300" channel="gnt">
+  <programme start="20250427173651 -0300" stop="20250427180652 -0300" channel="gnt">
     <title lang="pt">Cozinha Prática Com Rita Lobo</title>
     <sub-title lang="pt">Massa fresca com molho de tomate</sub-title>
     <desc lang="pt"> - Rita Lobo mostra uma receita perfeita para transformar a cozinha em refúgio: massa caseira, em forma de orecchiette, servido com molho de tomate. Para finalizar, tomates assados com parmesão.</desc>
@@ -22056,21 +22077,21 @@ de artes marciais</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250427180600 -0300" stop="20250427183659 -0300" channel="gnt">
+  <programme start="20250427180655 -0300" stop="20250427183641 -0300" channel="gnt">
     <title lang="pt">Camarão Na Moranga</title>
     <desc lang="pt"> - Na nova temporada do Tempero de Família, Rodrigo Hilbert volta ao seu sitio em Teresópolis. Neste episódio, ele prepara um delicioso Camarão na Moranga, acompanhado de farofa de semente de abóbora. A sobremesa é uma deliciosa Torta de limão galego.</desc>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250427183600 -0300" stop="20250427190659 -0300" channel="gnt">
+  <programme start="20250427183646 -0300" stop="20250427190542 -0300" channel="gnt">
     <title lang="pt">Rosti De Coelho</title>
     <desc lang="pt"> - Rodrigo Hilbert começa o dia seguindo a cavalo até a fazenda de seu vizinho Luciano. Lá, ele visita uma plantação de cogumelos e colhe alguns para a receita do dia. Ao chegar em seu sítio, ele prepara uma deliciosa receita de rosti de coelho com molho de cogumelos. A sobremesa é uma torta de maça, que Rodrigo aprendeu com a sua vó Eda.</desc>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250427190200 -0300" stop="20250427195059 -0300" channel="gnt">
+  <programme start="20250427190545 -0300" stop="20250427195237 -0300" channel="gnt">
     <title lang="pt">Casa De Verão Da Eliana</title>
     <sub-title lang="pt">Xuxa Meneghel E Gominho</sub-title>
     <desc lang="pt"> - Eliana recebe seus amigos Xuxa e Gominho para um dia de farofa e funk na praia. Conversas emocionantes sobre o passado, maturidade e amizade completam esse dia no paraíso.</desc>
@@ -22078,7 +22099,7 @@ de artes marciais</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250427195100 -0300" stop="20250427203859 -0300" channel="gnt">
+  <programme start="20250427195239 -0300" stop="20250427203859 -0300" channel="gnt">
     <title lang="pt">Alma De Cozinheira</title>
     <sub-title lang="pt">Pequena Lô e Pedro Bial</sub-title>
     <desc lang="pt"> - Convidados: Pequena Lô e Pedro Bial. Cardápio: aperitivo - massa folheada com tapenade de azeitonas pretas; prato principal - agnolotti clássico; sobremesa -  pudim de cacau.
@@ -22269,7 +22290,7 @@ de artes marciais</desc>
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250427123129 -0300" stop="20250427131954 -0300" channel="viva">
+  <programme start="20250427123129 -0300" stop="20250427131955 -0300" channel="viva">
     <title lang="pt">Cara &amp; Coroa</title>
     <sub-title lang="pt">Cara e Coroa</sub-title>
     <desc lang="pt"> - Constanza admite todos seus pecados a Vivi e faz uma revelação sobre sua origem. Margô sofre pela ausência de Belinha. Aníbal descobre um segredo.</desc>
@@ -22277,7 +22298,7 @@ de artes marciais</desc>
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250427132000 -0300" stop="20250427141414 -0300" channel="viva">
+  <programme start="20250427132000 -0300" stop="20250427141415 -0300" channel="viva">
     <title lang="pt">Cara &amp; Coroa</title>
     <sub-title lang="pt">Cara e Coroa</sub-title>
     <desc lang="pt"> - Heitor se pune por não conseguir salvar a vida de Constanza. Fernanda revela toda a verdade para Pedro. Mobral precisa tomar uma importante decisão sobre Diana e Nadja.</desc>
@@ -22551,14 +22572,14 @@ de artes marciais</desc>
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250427114435 -0300" stop="20250427134940 -0300" channel="canal-brasil">
+  <programme start="20250427114435 -0300" stop="20250427134941 -0300" channel="canal-brasil">
     <title lang="pt">Gonzaga - De Pai Pra Filho</title>
     <desc lang="pt"> - Cinebiografia do Rei do Baião. Após o nascimento do filho, Luiz Gonzaga cai na estrada e deixa o pequeno no RJ. Ele só não imaginava que essa distância entre eles faria crescer uma complicada relação.</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250427134942 -0300" stop="20250427135702 -0300" channel="canal-brasil">
+  <programme start="20250427134942 -0300" stop="20250427135703 -0300" channel="canal-brasil">
     <title lang="pt">Guard Dog &amp; Bill Plympton No Brasil</title>
     <sub-title lang="pt">Perdido em... Itaipu (pássaros pirados)</sub-title>
     <desc lang="pt"> - “Guard Dog e Bill Plympton no Brasil” é uma série de animação que nasce da premissa de apresentar o Brasil pelo olhar do lendário animador norte-americano Bill Plympton.</desc>
@@ -22591,7 +22612,7 @@ de artes marciais</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250427185228 -0300" stop="20250427185959 -0300" channel="canal-brasil">
+  <programme start="20250427185228 -0300" stop="20250427185932 -0300" channel="canal-brasil">
     <title lang="pt">Guard Dog &amp; Bill Plympton No Brasil</title>
     <sub-title lang="pt">Perdido no... amor (cachorra de Ipanema)</sub-title>
     <desc lang="pt"> - “Guard Dog e Bill Plympton no Brasil” é uma série de animação que nasce da premissa de apresentar o Brasil pelo olhar do lendário animador norte-americano Bill Plympton.</desc>
@@ -22599,7 +22620,7 @@ de artes marciais</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250427190000 -0300" stop="20250427204159 -0300" channel="canal-brasil">
+  <programme start="20250427185934 -0300" stop="20250427204148 -0300" channel="canal-brasil">
     <title lang="pt">Malu</title>
     <desc lang="pt"> - Malu, uma mulher de meia idade com um passado glorioso, se vê presa em um caos existencial. A complexa relação com sua mãe conservadora e com sua filha adulta torna a crise ainda mais aguda.</desc>
     <rating system="Brazil">
@@ -22955,7 +22976,7 @@ De fato o melhor do skate underground. O filme desenvolve bem a historia contand
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250427183830 -0300" stop="20250427190559 -0300" channel="canal-off">
+  <programme start="20250427183830 -0300" stop="20250427190618 -0300" channel="canal-off">
     <title lang="pt">Morando Na Estrada</title>
     <sub-title lang="pt">Quanto Mais Frio Melhor</sub-title>
     <desc lang="pt"> - Na falta de uma cafeteira italiana, Nelsinho ensina como improvisar e passar um café com elementos curiosos. Eles apelidam a nova técnica de Café Arábico. Depois do café, o casal segue na estrada na tentativa de achar algum lugar pra surfar.</desc>
@@ -22963,7 +22984,7 @@ De fato o melhor do skate underground. O filme desenvolve bem a historia contand
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250427190600 -0300" stop="20250427193359 -0300" channel="canal-off">
+  <programme start="20250427190621 -0300" stop="20250427193441 -0300" channel="canal-off">
     <title lang="pt">Transamazônica</title>
     <desc lang="pt"> - Reza e Pip fazem uma perigosa viagem até o interior da Amazônia para encontrar florestas virgens, áreas selvagens remotas, madeireiros e criadores de gado, além de tribos isoladas.</desc>
     <episode-num system="xmltv_ns">.4.</episode-num>
@@ -22971,7 +22992,7 @@ De fato o melhor do skate underground. O filme desenvolve bem a historia contand
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250427193400 -0300" stop="20250427202959 -0300" channel="canal-off">
+  <programme start="20250427193443 -0300" stop="20250427203051 -0300" channel="canal-off">
     <title lang="pt">Aventura Em Foco</title>
     <sub-title lang="pt">Pelas Lentes De Cristian Dimitrius</sub-title>
     <desc lang="pt"> - O documentarista de natureza e vencedor do Emmy Cristian Dimitrius embarca para Baía Magdalena, no México, na tentativa de realizar o sonho de registrar a caça dos marlins-azuis.</desc>
@@ -22979,7 +23000,7 @@ De fato o melhor do skate underground. O filme desenvolve bem a historia contand
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250427203000 -0300" stop="20250427205859 -0300" channel="canal-off">
+  <programme start="20250427203053 -0300" stop="20250427205859 -0300" channel="canal-off">
     <title lang="pt">Europa Por Elas</title>
     <sub-title lang="pt">A experiência em Nazaré</sub-title>
     <desc lang="pt"> - As meninas saem de Figueira da Foz e vão para Matosinhos. O motorhome delas fica sem bateria e o da equipe de produção sofre um pequeno acidente. O surf teve um atraso, mas quando chegam na praia aproveitam para pegar altas ondas.</desc>
@@ -23242,7 +23263,7 @@ que resiste às tensões com o Estado.</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250427174118 -0300" stop="20250427184159 -0300" channel="bis">
+  <programme start="20250427174118 -0300" stop="20250427184241 -0300" channel="bis">
     <title lang="pt">Versões</title>
     <sub-title lang="pt">Hiran Canta clássicos do Soul Music</sub-title>
     <desc lang="pt"> - Artistas são convidados para realizarem suas versões de clássicos da música. Uma banda/artista é homenageada por episódio.</desc>
@@ -23250,7 +23271,7 @@ que resiste às tensões com o Estado.</desc>
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250427184200 -0300" stop="20250427191159 -0300" channel="bis">
+  <programme start="20250427184244 -0300" stop="20250427191250 -0300" channel="bis">
     <title lang="pt">Samba Nave-Mãe</title>
     <sub-title lang="pt">Clara Nunes, Áurea Martins, Marvvila</sub-title>
     <desc lang="pt"> - Sessenta anos separam as idades de Áurea Martins e Marvilla que, juntas, celebram Clara Nunes, Clara Guerreira, ícone da diversidade religiosa e musical do Brasil.</desc>
@@ -23258,7 +23279,7 @@ que resiste às tensões com o Estado.</desc>
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250427191200 -0300" stop="20250427194059 -0300" channel="bis">
+  <programme start="20250427191252 -0300" stop="20250427194150 -0300" channel="bis">
     <title lang="pt">Rock Estúdio</title>
     <sub-title lang="pt">Raimundos</sub-title>
     <desc lang="pt"> - Grandes bandas do rock e do pop nacional ensaiam num estúdio com China e Jimmy London. Com performances e histórias surpreendentes, nesse episódio, é a vez dos Raimundos.</desc>
@@ -23266,21 +23287,21 @@ que resiste às tensões com o Estado.</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250427194100 -0300" stop="20250427201159 -0300" channel="bis">
+  <programme start="20250427194152 -0300" stop="20250427201253 -0300" channel="bis">
     <title lang="pt">Mulheres Do Brasil - Vanessa Da Mata</title>
     <desc lang="pt"> - As principais cantoras e compositoras brasileiras performam e falam sobre seus maiores sucessos.</desc>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250427201200 -0300" stop="20250427204159 -0300" channel="bis">
+  <programme start="20250427201255 -0300" stop="20250427204249 -0300" channel="bis">
     <title lang="pt">Hip Hop Machine: Zudizilla e Stefanie</title>
     <desc lang="pt"> - Hip Hop Machine é o encontro do Jazz com o Rap. Leo Gandelman se junta aos artistas em ascensão do Rap nacional para bater um papo com eles e fazer mais performances incríveis nessa segunda temporada!</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250427204200 -0300" stop="20250427211359 -0300" channel="bis">
+  <programme start="20250427204252 -0300" stop="20250427211457 -0300" channel="bis">
     <title lang="pt">Afrofluxo: O Som Da Música Preta</title>
     <sub-title lang="pt">Do Charme ao Funk</sub-title>
     <desc lang="pt"> - Neste episódio, apresentamos o funk e a incorporação de ritmos afro brasileiros ao gênero,
@@ -23289,7 +23310,7 @@ que resiste às tensões com o Estado.</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250427211400 -0300" stop="20250427214259 -0300" channel="bis">
+  <programme start="20250427211459 -0300" stop="20250427214259 -0300" channel="bis">
     <title lang="pt">Lounge</title>
     <desc lang="pt"> - Na 3ª temporada do Lounge, Ana Canãs, Jesuton, Tassia Reis, Mya Machado, Agnes e Mini Lamers cantam sucessos nacionais e internacionais. Em formato intimista, as cantoras interpretam em arranjos de Jazz e de Bossa Nova.</desc>
     <episode-num system="xmltv_ns">2..</episode-num>
@@ -23658,7 +23679,7 @@ que resiste às tensões com o Estado.</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250427190259 -0300" stop="20250427191534 -0300" channel="modo-viagem">
+  <programme start="20250427190259 -0300" stop="20250427193038 -0300" channel="modo-viagem">
     <title lang="pt">Parques Naturais Do Brasil</title>
     <sub-title lang="pt">Foz Do Iguaçu</sub-title>
     <desc lang="pt"> - O episódio mostra a majestade das maiores cataratas do planeta, situadas no segundo parque mais antigo do Brasil. Falaremos das origens do parque, seus passeios e atrações.</desc>
@@ -23666,7 +23687,7 @@ que resiste às tensões com o Estado.</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250427193100 -0300" stop="20250427200459 -0300" channel="modo-viagem">
+  <programme start="20250427193040 -0300" stop="20250427200446 -0300" channel="modo-viagem">
     <title lang="pt">Viagem Dos Livros, A</title>
     <sub-title lang="pt">França - Parte 2</sub-title>
     <desc lang="pt"> - Richard E Grant continua sua jornada pelo sul da França na companhia de alguns dos livros que foram inspirados por suas ricas e variadas paisagens.</desc>
@@ -23674,7 +23695,7 @@ que resiste às tensões com o Estado.</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250427200500 -0300" stop="20250427202759 -0300" channel="modo-viagem">
+  <programme start="20250427200451 -0300" stop="20250427202802 -0300" channel="modo-viagem">
     <title lang="pt">Mundo Muy Loco-T3</title>
     <sub-title lang="pt">Finlândia - Helsinque - Parte 2</sub-title>
     <desc lang="pt"> - Fernando Muylaert continua na Finlândia e nesse episódio para em busca do seu hotel barco, que aparentemente sumiu.</desc>
@@ -23683,7 +23704,7 @@ que resiste às tensões com o Estado.</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250427202800 -0300" stop="20250427205259 -0300" channel="modo-viagem">
+  <programme start="20250427202805 -0300" stop="20250427205309 -0300" channel="modo-viagem">
     <title lang="pt">Mundo Muy Loco-T3</title>
     <sub-title lang="pt">Suécia - Estocolmo</sub-title>
     <desc lang="pt"> - Fernando Muylaert explora a capital da Suécia,Estocolmo, que é considerada uma das cidades mais lindas da Escandinávia.</desc>
@@ -23692,7 +23713,7 @@ que resiste às tensões com o Estado.</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250427205300 -0300" stop="20250427211859 -0300" channel="modo-viagem">
+  <programme start="20250427205312 -0300" stop="20250427211859 -0300" channel="modo-viagem">
     <title lang="pt">Viagem + Vinho</title>
     <sub-title lang="pt">Viña Aliaga, Espanha</sub-title>
     <desc lang="pt"> - Camilla retorna a Tudela, na Espanha, para
@@ -23840,7 +23861,7 @@ mergulhar na rica cultura e na deliciosa gastronomia da região de Navarra.
     <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol aqui o sportv!</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250427120656 -0300" stop="20250427130734 -0300" channel="premiere">
+  <programme start="20250427120656 -0300" stop="20250427125232 -0300" channel="premiere">
     <title lang="pt">Retrô - Brasileirão 2015: Flamengo x Corinthians</title>
     <sub-title lang="pt">realizado em 12/07/2015</sub-title>
     <desc lang="pt">Reveja partidas históricas do seu esporte favorito!
@@ -23849,7 +23870,13 @@ mergulhar na rica cultura e na deliciosa gastronomia da região de Navarra.
     <category lang="en">sports (general)</category>
     <date>12/07/2015</date>
   </programme>
-  <programme start="20250427130738 -0300" stop="20250427135949 -0300" channel="premiere">
+  <programme start="20250427125237 -0300" stop="20250427130748 -0300" channel="premiere">
+    <title lang="pt">Giro da Rodada: Brasileirão</title>
+    <sub-title lang="pt">6ª Rodada</sub-title>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol aqui o sportv!</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250427130750 -0300" stop="20250427140001 -0300" channel="premiere">
     <title lang="pt">Retrô - Brasileirão 2020: Corinthians x Flamengo</title>
     <sub-title lang="pt">realizado em 18/10/2020</sub-title>
     <desc lang="pt">Reveja partidas históricas do seu esporte favorito!
@@ -23858,22 +23885,27 @@ mergulhar na rica cultura e na deliciosa gastronomia da região de Navarra.
     <category lang="en">sports (general)</category>
     <date>18/10/2020</date>
   </programme>
-  <programme start="20250427135952 -0300" stop="20250427160301 -0300" channel="premiere">
+  <programme start="20250427140003 -0300" stop="20250427140102 -0300" channel="premiere">
     <title lang="pt">Pré-Jogo: Flamengo x Corinthians - ao vivo</title>
     <desc lang="pt">Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes, aqui no sportv!</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250427160303 -0300" stop="20250427181957 -0300" channel="premiere">
+  <programme start="20250427140104 -0300" stop="20250427151613 -0300" channel="premiere">
+    <title lang="pt">Campeonato Brasileiro De Futebol - Flamengo X Corinthians - ao vivo</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20250427151615 -0300" stop="20250427173309 -0300" channel="premiere">
     <title lang="pt">Brasileirão: Flamengo x Corinthians - ao vivo</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250427182000 -0300" stop="20250427203649 -0300" channel="premiere">
+  <programme start="20250427173312 -0300" stop="20250427195001 -0300" channel="premiere">
     <title lang="pt">Brasileirão: Cruzeiro x Vasco - ao vivo</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250427203651 -0300" stop="20250427212959 -0300" channel="premiere">
+  <programme start="20250427195003 -0300" stop="20250427205119 -0300" channel="premiere">
     <title lang="pt">Retrô - Brasileirão 2013: Cruzeiro x Vasco</title>
     <sub-title lang="pt">17ª Rodada, realizado em 01/09/2013</sub-title>
     <desc lang="pt">Reveja partidas históricas do seu esporte favorito!
@@ -23882,7 +23914,7 @@ mergulhar na rica cultura e na deliciosa gastronomia da região de Navarra.
     <category lang="en">sports (general)</category>
     <date>01/09/2013</date>
   </programme>
-  <programme start="20250427213000 -0300" stop="20250427222959 -0300" channel="premiere">
+  <programme start="20250427205121 -0300" stop="20250427215054 -0300" channel="premiere">
     <title lang="pt">Retrô - Brasileirão 2011: Cruzeiro x Vasco</title>
     <sub-title lang="pt">realizado em 25/09/2011</sub-title>
     <desc lang="pt">Reveja partidas históricas do seu esporte favorito!
@@ -23902,6 +23934,11 @@ mergulhar na rica cultura e na deliciosa gastronomia da região de Navarra.
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
+  </programme>
+  <programme start="20250427153000 -0300" stop="20250427182959 -0300" channel="premiere-2">
+    <title lang="pt">Charla No Premiere: Flamengo x Corinthians - ao vivo</title>
+    <desc lang="pt">O Premiere traz a transmissão mais humorada da internet brasileira, Bruno Cantarelli e Beto Junior assumem o controle de mais um jogão.</desc>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20250426202452 -0300" stop="20250427002644 -0300" channel="combate">
     <title lang="pt">WGP 80 - ao vivo</title>
@@ -23939,18 +23976,18 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
 </desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250427130004 -0300" stop="20250427160346 -0300" channel="combate">
+  <programme start="20250427130004 -0300" stop="20250427160345 -0300" channel="combate">
     <title lang="pt">VT - Kickboxing: WGP 80</title>
     <desc lang="pt">Não perca o maior evento de kickboxing.</desc>
     <category lang="en">sports (general)</category>
     <previously-shown />
   </programme>
-  <programme start="20250427160349 -0300" stop="20250427185959 -0300" channel="combate">
+  <programme start="20250427160349 -0300" stop="20250427191432 -0300" channel="combate">
     <title lang="pt">One 166: De Ridder X Malykhin</title>
     <desc lang="pt"> - Terceira maior franquia de MMA mundial e a principal da Ásia, presente em mais de 170 países, o One é a liga esportiva de diferentes modalidades além do MMA como: Grappling, Muay Thai, Kickboxing. Nomes de atletas brasileiros: Fabrício Andrade, Marcus Buchecha, Allycia Hellen Rodrigues, André Galvão, e muitos outros.</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250427190000 -0300" stop="20250427193459 -0300" channel="combate">
+  <programme start="20250427191435 -0300" stop="20250427195010 -0300" channel="combate">
     <title lang="pt">Sessão Combate: Papo Cruzado - Rodrigo Minotauro</title>
     <desc lang="pt">“Papo Cruzado” é um programa de entrevistas em estúdio, no formato
 talk-show, onde um elenco fixo de 3 entrevistadores recebe, a cada episódio, um
@@ -23977,7 +24014,7 @@ de artes marciais</desc>
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250427193500 -0300" stop="20250427200959 -0300" channel="combate">
+  <programme start="20250427195012 -0300" stop="20250427202718 -0300" channel="combate">
     <title lang="pt">Sessão Combate: Papo Cruzado - July Poca</title>
     <desc lang="pt">“Papo Cruzado” é um programa de entrevistas em estúdio, no formato
 talk-show, onde um elenco fixo de 3 entrevistadores recebe, a cada episódio, um
@@ -24004,13 +24041,13 @@ de artes marciais</desc>
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250427201000 -0300" stop="20250427230459 -0300" channel="combate">
+  <programme start="20250427202720 -0300" stop="20250427233117 -0300" channel="combate">
     <title lang="pt">VT - Kickboxing: WGP 80</title>
     <desc lang="pt">Não perca o maior evento de kickboxing.</desc>
     <category lang="en">sports (general)</category>
     <previously-shown />
   </programme>
-  <programme start="20250427230500 -0300" stop="20250428020959 -0300" channel="combate">
+  <programme start="20250427233120 -0300" stop="20250428020959 -0300" channel="combate">
     <title lang="pt">One 166: De Ridder X Malykhin</title>
     <desc lang="pt"> - Terceira maior franquia de MMA mundial e a principal da Ásia, presente em mais de 170 países, o One é a liga esportiva de diferentes modalidades além do MMA como: Grappling, Muay Thai, Kickboxing. Nomes de atletas brasileiros: Fabrício Andrade, Marcus Buchecha, Allycia Hellen Rodrigues, André Galvão, e muitos outros.</desc>
     <category lang="en">sports (general)</category>
@@ -24042,7 +24079,7 @@ de artes marciais</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250427223000 -0300" stop="20250428002959 -0300" channel="sportv">
+  <programme start="20250427222300 -0300" stop="20250428002224 -0300" channel="sportv">
     <title lang="pt">Fechamento sportv - ao vivo</title>
     <desc lang="pt"> - André Rizek, Denilson e outros convidados analisam como foi a rodada de futebol,  mantendo você atualizado, sobre os últimos lances, gols e emoções das partidas, todos os domingos o pós-jogo é no sportv!</desc>
     <category lang="en">live broadcast</category>
@@ -24240,8 +24277,8 @@ de artes marciais</desc>
     <desc lang="pt"> - Acompanhe como está indo os Jogos de Los Angeles em 2028. toda semana, o programa traz entrevistas, atualidades, termômetro de competições e informações do mundo Olímpico com Marcelo Barreto e Fabi Alvim</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250427231154 -0300" stop="20250428032959 -0300" channel="sportv-3">
-    <title lang="pt">1/2 CIRCUITO MUNDIAL DE SURFE - MELHORES MOMENTOS</title>
+  <programme start="20250427201030 -0300" stop="20250428032959 -0300" channel="sportv-3">
+    <title lang="pt">2/2 CIRCUITO MUNDIAL SURF-MELHORES MOMENTOS-DIA 2-PIPELINE</title>
     <desc lang="pt"> - </desc>
     <category lang="en">sports (general)</category>
   </programme>
@@ -27176,7 +27213,7 @@ mergulhar na rica cultura e na deliciosa gastronomia da região de Navarra.
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250427230500 -0300" stop="20250428020959 -0300" channel="combate">
+  <programme start="20250427233120 -0300" stop="20250428020959 -0300" channel="combate">
     <title lang="pt">One 166: De Ridder X Malykhin</title>
     <desc lang="pt"> - Terceira maior franquia de MMA mundial e a principal da Ásia, presente em mais de 170 países, o One é a liga esportiva de diferentes modalidades além do MMA como: Grappling, Muay Thai, Kickboxing. Nomes de atletas brasileiros: Fabrício Andrade, Marcus Buchecha, Allycia Hellen Rodrigues, André Galvão, e muitos outros.</desc>
     <category lang="en">sports (general)</category>
@@ -30404,6 +30441,13 @@ garimpeiros que viraram guias e mostrar experiências gastronômicas e culturais
 </desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
+  </programme>
+  <programme start="20250429184500 -0300" stop="20250429205959 -0300" channel="premiere-2">
+    <title lang="pt">Copa do Brasil: Retrô-PE x Fortaleza - ao vivo</title>
+    <sub-title lang="pt">3ª Fase - Jogo de Ida</sub-title>
+    <desc lang="pt">O ciclo de 2025 iniciou, os jogos com finais inesperados, com toda e emoção que a Copa do Brasil tem, Tem coisas que só acontecem na Copa do Brasil! A Copa do Brasil, tem que ver no sportv! 
+</desc>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20250428221500 -0300" stop="20250429011959 -0300" channel="combate">
     <title lang="pt">One 166: De Ridder X Malykhin</title>
@@ -37799,16 +37843,7 @@ garimpeiros que viraram guias e mostrar experiências gastronômicas e culturais
     <desc lang="pt"> - Acompanhe as principais notícias do Brasil e do mundo.</desc>
     <category lang="en">variety show</category>
   </programme>
-  <programme start="20250427132644 -0300" stop="20250427142641 -0300" channel="Novelas">
-    <title lang="pt">Para Te Ver Melhor</title>
-    <desc lang="pt"> - Um prédio, seis apartamentos, uma cobertura, uma portaria e muitas histórias de amor e suspense.</desc>
-    <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">0.13.</episode-num>
-    <rating system="Brazil">
-      <value>[A14]</value>
-    </rating>
-  </programme>
-  <programme start="20250427142957 -0300" stop="20250427152826 -0300" channel="Novelas">
+  <programme start="20250427152004 -0300" stop="20250427152826 -0300" channel="Novelas">
     <title lang="pt">Para Te Ver Melhor</title>
     <desc lang="pt"> - Um prédio, seis apartamentos, uma cobertura, uma portaria e muitas histórias de amor e suspense.</desc>
     <category lang="en">movie/drama (general)</category>
@@ -39347,7 +39382,7 @@ garimpeiros que viraram guias e mostrar experiências gastronômicas e culturais
       <value>[A14]</value>
     </rating>
   </programme>
-  <programme start="20250504132442 -0300" stop="20250504133333 -0300" channel="Novelas">
+  <programme start="20250504132442 -0300" stop="20250504142439 -0300" channel="Novelas">
     <title lang="pt">Para Te Ver Melhor</title>
     <desc lang="pt"> - Um prédio, seis apartamentos, uma cobertura, uma portaria e muitas histórias de amor e suspense.</desc>
     <category lang="en">movie/drama (general)</category>
@@ -39356,25 +39391,13 @@ garimpeiros que viraram guias e mostrar experiências gastronômicas e culturais
       <value>[A14]</value>
     </rating>
   </programme>
-  <programme start="20250427131422 -0300" stop="20250427132218 -0300" channel="Silvio Santos">
-    <title lang="pt">Namoro na TV</title>
-    <sub-title lang="pt">realizado em 09/02/1986</sub-title>
-    <desc lang="pt">Quer saber como era paquerar quando não existiam aplicativos de namoro? Silvio Santos te mostra!</desc>
-    <date>09/02/1986</date>
-    <episode-num system="xmltv_ns">1.1.</episode-num>
+  <programme start="20250504142754 -0300" stop="20250504152624 -0300" channel="Novelas">
+    <title lang="pt">Para Te Ver Melhor</title>
+    <desc lang="pt"> - Um prédio, seis apartamentos, uma cobertura, uma portaria e muitas histórias de amor e suspense.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
     <rating system="Brazil">
-      <value>[AL]</value>
-    </rating>
-  </programme>
-  <programme start="20250427132221 -0300" stop="20250427150214 -0300" channel="Silvio Santos">
-    <title lang="pt">Em Nome do Amor</title>
-    <sub-title lang="pt">realizado em 23/04/1995</sub-title>
-    <desc lang="pt">A cada história uma nova emoção. Tudo é lindo com Silvio Santos no Em Nome do Amor! </desc>
-    <category lang="en">variety show</category>
-    <date>23/04/1995</date>
-    <episode-num system="xmltv_ns">1.10.</episode-num>
-    <rating system="Brazil">
-      <value>[A12]</value>
+      <value>[A14]</value>
     </rating>
   </programme>
   <programme start="20250427150217 -0300" stop="20250427171133 -0300" channel="Silvio Santos">
@@ -40935,7 +40958,7 @@ garimpeiros que viraram guias e mostrar experiências gastronômicas e culturais
       <value>[AL]</value>
     </rating>
   </programme>
-  <programme start="20250504120024 -0300" stop="20250504132357 -0300" channel="Silvio Santos">
+  <programme start="20250504120024 -0300" stop="20250504133258 -0300" channel="Silvio Santos">
     <title lang="pt">Em Nome do Amor</title>
     <sub-title lang="pt">realizado em 04/07/1999</sub-title>
     <desc lang="pt">A cada história uma nova emoção. Tudo é lindo com Silvio Santos no Em Nome do Amor! </desc>
@@ -40946,42 +40969,29 @@ garimpeiros que viraram guias e mostrar experiências gastronômicas e culturais
       <value>[AL]</value>
     </rating>
   </programme>
-  <programme start="20250427131545 -0300" stop="20250427134724 -0300" channel="Pop">
-    <title lang="pt">O Rei Macaco - Uma Aventura Mágica</title>
-    <sub-title lang="pt">Filme</sub-title>
-    <desc lang="pt"> - Expulso do panteão, o Rei Macaco precisa lutar para recuperar seu lugar entre os deuses.</desc>
-    <category lang="en">adventure/western/war</category>
-    <episode-num system="xmltv_ns">.0.</episode-num>
+  <programme start="20250504133301 -0300" stop="20250504152114 -0300" channel="Silvio Santos">
+    <title lang="pt">Em Nome do Amor</title>
+    <sub-title lang="pt">realizado em 30/04/1995</sub-title>
+    <desc lang="pt">A cada história uma nova emoção. Tudo é lindo com Silvio Santos no Em Nome do Amor! </desc>
+    <category lang="en">variety show</category>
+    <date>30/04/1995</date>
+    <episode-num system="xmltv_ns">1.13.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[A12]</value>
     </rating>
   </programme>
-  <programme start="20250427134834 -0300" stop="20250427135750 -0300" channel="Pop">
-    <title lang="pt">Câmeras Escondidas</title>
-    <sub-title lang="pt">Ghostbusters: Mais Além</sub-title>
-    <desc lang="pt">realizado em 14/11/2021 - </desc>
-    <date>14/11/2021</date>
-    <episode-num system="xmltv_ns">1.21317.</episode-num>
-  </programme>
-  <programme start="20250427135800 -0300" stop="20250427140616 -0300" channel="Pop">
-    <title lang="pt">Câmeras Escondidas</title>
-    <sub-title lang="pt">Ghostbusters: Mais Além Parte 2</sub-title>
-    <desc lang="pt">realizado em 23/01/2022 - </desc>
-    <date>23/01/2022</date>
-    <episode-num system="xmltv_ns">1.22022.</episode-num>
-  </programme>
-  <programme start="20250427140626 -0300" stop="20250427141501 -0300" channel="Pop">
-    <title lang="pt">Câmeras Escondidas</title>
-    <sub-title lang="pt">O Exorcista do Papa</sub-title>
-    <desc lang="pt">realizado em 09/04/2023 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
-    <category lang="en">comedy</category>
-    <date>09/04/2023</date>
-    <episode-num system="xmltv_ns">1.23098.</episode-num>
+  <programme start="20250504152121 -0300" stop="20250504153925 -0300" channel="Silvio Santos">
+    <title lang="pt">Show de Calouros</title>
+    <sub-title lang="pt">realizado em 20/04/1986</sub-title>
+    <desc lang="pt">Silvio Santos junto ao time de jurados recebem e avaliam os mais diversos talentos no palco.</desc>
+    <category lang="en">variety show</category>
+    <date>20/04/1986</date>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
     <rating system="Brazil">
-      <value>[12]</value>
+      <value>[A10]</value>
     </rating>
   </programme>
-  <programme start="20250427141526 -0300" stop="20250427160011 -0300" channel="Pop">
+  <programme start="20250427151851 -0300" stop="20250427160011 -0300" channel="Pop">
     <title lang="pt">Fora de Alcance</title>
     <sub-title lang="pt">Filme</sub-title>
     <desc lang="pt"> - Guia foge de caçador no deserto de Mojave após testemunhar um assassinato.</desc>
@@ -42326,7 +42336,7 @@ garimpeiros que viraram guias e mostrar experiências gastronômicas e culturais
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250504131912 -0300" stop="20250504133957 -0300" channel="Pop">
+  <programme start="20250504131912 -0300" stop="20250504150738 -0300" channel="Pop">
     <title lang="pt">O Treinador - A História de Don Meyer</title>
     <sub-title lang="pt">Filme</sub-title>
     <desc lang="pt"> - Um grave acidente muda o destino de Don Meyer no esporte.</desc>
@@ -42336,25 +42346,17 @@ garimpeiros que viraram guias e mostrar experiências gastronômicas e culturais
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250427132039 -0300" stop="20250427135957 -0300" channel="TV Zyn">
-    <title lang="pt">Cúmplices de Um Resgate</title>
-    <desc lang="pt"> - Gêmeas que foram separadas ao nascer e se reencontram na adolescência. E se tornam cúmplices na vida.</desc>
+  <programme start="20250504150903 -0300" stop="20250504153051 -0300" channel="Pop">
+    <title lang="pt">Sem Evidências</title>
+    <sub-title lang="pt">Filme</sub-title>
+    <desc lang="pt"> - Três adolescentes são acusados de assassinar três crianças brutalmente em um ritual satânico.</desc>
     <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">10.215.</episode-num>
+    <episode-num system="xmltv_ns">.0.</episode-num>
     <rating system="Brazil">
-      <value>[10]</value>
+      <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250427140004 -0300" stop="20250427145424 -0300" channel="TV Zyn">
-    <title lang="pt">Cúmplices de Um Resgate</title>
-    <desc lang="pt"> - Gêmeas que foram separadas ao nascer e se reencontram na adolescência. E se tornam cúmplices na vida.</desc>
-    <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">10.216.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20250427145427 -0300" stop="20250427154957 -0300" channel="TV Zyn">
+  <programme start="20250427151036 -0300" stop="20250427154957 -0300" channel="TV Zyn">
     <title lang="pt">Cúmplices de Um Resgate</title>
     <desc lang="pt"> - Gêmeas que foram separadas ao nascer e se reencontram na adolescência. E se tornam cúmplices na vida.</desc>
     <category lang="en">movie/drama (general)</category>
@@ -46400,7 +46402,7 @@ garimpeiros que viraram guias e mostrar experiências gastronômicas e culturais
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250504124459 -0300" stop="20250504132551 -0300" channel="TV Zyn">
+  <programme start="20250504124459 -0300" stop="20250504134033 -0300" channel="TV Zyn">
     <title lang="pt">Cúmplices de Um Resgate</title>
     <desc lang="pt"> - Gêmeas que foram separadas ao nascer e se reencontram na adolescência. E se tornam cúmplices na vida.</desc>
     <category lang="en">movie/drama (general)</category>
@@ -46409,18 +46411,25 @@ garimpeiros que viraram guias e mostrar experiências gastronômicas e culturais
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250427132536 -0300" stop="20250427141826 -0300" channel="Saudade">
-    <title lang="pt">Fantasia</title>
-    <sub-title lang="pt">realizado em 23/11/2007</sub-title>
-    <desc lang="pt">O programa interativo dos anos 90 que derrubou o sistema de telefonia da maior cidade do Brasil.</desc>
-    <category lang="en">variety show</category>
-    <date>23/11/2007</date>
-    <episode-num system="xmltv_ns">4.22.</episode-num>
+  <programme start="20250504134040 -0300" stop="20250504143459 -0300" channel="TV Zyn">
+    <title lang="pt">Cúmplices de Um Resgate</title>
+    <desc lang="pt"> - Gêmeas que foram separadas ao nascer e se reencontram na adolescência. E se tornam cúmplices na vida.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">11.221.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250427142037 -0300" stop="20250427172209 -0300" channel="Saudade">
+  <programme start="20250504143502 -0300" stop="20250504152955 -0300" channel="TV Zyn">
+    <title lang="pt">Cúmplices de Um Resgate</title>
+    <desc lang="pt"> - Gêmeas que foram separadas ao nascer e se reencontram na adolescência. E se tornam cúmplices na vida.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">11.222.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250427150933 -0300" stop="20250427172209 -0300" channel="Saudade">
     <title lang="pt">Domingo Legal</title>
     <sub-title lang="pt">realizado em 26/12/1993</sub-title>
     <desc lang="pt">Agora você pode ver em qualquer dia o programa que é sinônimo de diversão e emoção aos domingos! </desc>
@@ -48922,6 +48931,17 @@ garimpeiros que viraram guias e mostrar experiências gastronômicas e culturais
       <value>[10]</value>
     </rating>
   </programme>
+  <programme start="20250504133639 -0300" stop="20250504151904 -0300" channel="Saudade">
+    <title lang="pt">Domingo Legal</title>
+    <sub-title lang="pt">realizado em 02/01/1994</sub-title>
+    <desc lang="pt">Agora você pode ver em qualquer dia o programa que é sinônimo de diversão e emoção aos domingos! </desc>
+    <category lang="en">show/game show (general)</category>
+    <date>02/01/1994</date>
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
   <programme start="20250428000000 -0300" stop="20250428003000 -0300" channel="Canal Educação">
     <title lang="pt">Meu Pedaço do Brasil</title>
     <desc lang="pt"> - Bruno Barros descobre e experimenta novos destinos turísticos do nosso país. As viagens levam o espectador para lindas praias, importantes museus e outras atrações imperdíveis do Brasil, com conversas descontraídas com moradores locais.</desc>
@@ -50283,14 +50303,6 @@ garimpeiros que viraram guias e mostrar experiências gastronômicas e culturais
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250427190000 -0300" stop="20250427193000 -0300" channel="TV Novo Tempo">
-    <title lang="pt">Amigos e Irmãos</title>
-    <desc lang="pt"> - Os amigos promovem uma festa para conhecer pessoas novas e Fabian terá uma surpresa.</desc>
-    <episode-num system="xmltv_ns">0..</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
   <programme start="20250427130000 -0300" stop="20250427133000 -0300" channel="TV Novo Tempo">
     <title lang="pt">Experimenta</title>
     <desc lang="pt"> - Entenda se existe um plano para o sofrimento do mundo acabar e por que a Bíblia fala sobre salvação.</desc>
@@ -50339,14 +50351,6 @@ garimpeiros que viraram guias e mostrar experiências gastronômicas e culturais
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250427103000 -0300" stop="20250427110000 -0300" channel="TV Novo Tempo">
-    <title lang="pt">Fé em Ação</title>
-    <desc lang="pt"> - A história da Marilza Bovolon, empresária e líder de ministérios na igreja Adventista. Ela criou o projeto Raízes, um ministério que forma e acolhe os novos cristãos, ensinando-os na prática.</desc>
-    <episode-num system="xmltv_ns">24..</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
   <programme start="20250427153000 -0300" stop="20250427163000 -0300" channel="TV Novo Tempo">
     <title lang="pt">Na Mira da Verdade</title>
     <desc lang="pt"> - Em Marcos 7:19, Jesus afirma que todos os alimentos são puros, uma declaração que desafia as tradições alimentares judaicas da época.</desc>
@@ -50379,7 +50383,7 @@ garimpeiros que viraram guias e mostrar experiências gastronômicas e culturais
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250427193000 -0300" stop="20250427200000 -0300" channel="TV Novo Tempo">
+  <programme start="20250427193000 -0300" stop="20250427203000 -0300" channel="TV Novo Tempo">
     <title lang="pt">Consultório de Família</title>
     <desc lang="pt"> - Programa aborda a importância da resiliência no enfrentamento de desafios diários, apresentando estratégias práticas para superar medos, dificuldades e se preparar para adversidades da vida.</desc>
     <episode-num system="xmltv_ns">24..</episode-num>
@@ -50395,7 +50399,7 @@ garimpeiros que viraram guias e mostrar experiências gastronômicas e culturais
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250427100000 -0300" stop="20250427103000 -0300" channel="TV Novo Tempo">
+  <programme start="20250427100000 -0300" stop="20250427110000 -0300" channel="TV Novo Tempo">
     <title lang="pt">A Voz da Profecia</title>
     <desc lang="pt"> - História de Daniel, que manteve sua fé mesmo forçado a viver em terra estrangeira com novo nome e costumes, servindo de inspiração sobre coragem e lealdade.</desc>
     <episode-num system="xmltv_ns">24..</episode-num>
@@ -50435,7 +50439,7 @@ garimpeiros que viraram guias e mostrar experiências gastronômicas e culturais
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250427163000 -0300" stop="20250427170000 -0300" channel="TV Novo Tempo">
+  <programme start="20250427163000 -0300" stop="20250427173000 -0300" channel="TV Novo Tempo">
     <title lang="pt">Bíblia Fácil</title>
     <desc lang="pt"> - O programa tem o objetivo de ensinar temas bíblicos da forma mais simples possível.</desc>
     <episode-num system="xmltv_ns">24..</episode-num>
@@ -50515,14 +50519,6 @@ garimpeiros que viraram guias e mostrar experiências gastronômicas e culturais
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250427170000 -0300" stop="20250427173000 -0300" channel="TV Novo Tempo">
-    <title lang="pt">Origens</title>
-    <desc lang="pt"> - O fascinante universo das formigas, explorando como elas organizam suas colônias, dividem tarefas e realizam um trabalho vital, mesmo sendo tão pequenas. Além disso, revela a importância dessas criaturas para o meio ambiente.</desc>
-    <episode-num system="xmltv_ns">24..</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
   <programme start="20250427230000 -0300" stop="20250427233000 -0300" channel="TV Novo Tempo">
     <title lang="pt">Origens</title>
     <desc lang="pt"> - O fascinante universo das formigas, explorando como elas organizam suas colônias, dividem tarefas e realizam um trabalho vital, mesmo sendo tão pequenas. Além disso, revela a importância dessas criaturas para o meio ambiente.</desc>
@@ -50538,22 +50534,7 @@ garimpeiros que viraram guias e mostrar experiências gastronômicas e culturais
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250427183000 -0300" stop="20250427190000 -0300" channel="TV Novo Tempo">
-    <title lang="pt">ANN - Adventist News Network</title>
-    <desc lang="pt"> - Descubra as últimas notícias e eventos da Igreja Adventista do Sétimo Dia, em todo o mundo, com o Adventist News Network. Veja uma análise aprofundada das iniciativas humanitárias e histórias inspiradoras que impulsionam a missão adventista.</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
   <programme start="20250427073000 -0300" stop="20250427080000 -0300" channel="TV Novo Tempo">
-    <title lang="pt">Viaje Comigo: Onde Jesus Foi Sepultado - Israel</title>
-    <desc lang="pt"> - Viagem além de Jerusalém, em Israel, para conhecer dois prováveis lugares do sepultamento de Jesus.</desc>
-    <episode-num system="xmltv_ns">24.16.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250427200000 -0300" stop="20250427203000 -0300" channel="TV Novo Tempo">
     <title lang="pt">Viaje Comigo: Onde Jesus Foi Sepultado - Israel</title>
     <desc lang="pt"> - Viagem além de Jerusalém, em Israel, para conhecer dois prováveis lugares do sepultamento de Jesus.</desc>
     <episode-num system="xmltv_ns">24.16.</episode-num>
@@ -50609,7 +50590,7 @@ garimpeiros que viraram guias e mostrar experiências gastronômicas e culturais
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250427173000 -0300" stop="20250427183000 -0300" channel="TV Novo Tempo">
+  <programme start="20250427173000 -0300" stop="20250427193000 -0300" channel="TV Novo Tempo">
     <title lang="pt">Anjos da Esperança: - Maratona de Domingo</title>
     <desc lang="pt"> - O programa apresenta reportagens, histórias e participação de convidados que revelam resultados e novidades da Novo Tempo para os milhares de Anjos que ajudam a levar adiante uma mensagem de esperança.</desc>
     <episode-num system="xmltv_ns">24..</episode-num>
