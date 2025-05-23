@@ -23,7 +23,7 @@ Vai que você não gosta da Globo do Brasil mesmo, então aqui tem a grade da Gl
 Nesse você acha todos os canais lineares e FAST disponíveis no Globoplay. Se tem lá, tem aqui 🌐!
 
 ### <b>maissbt.xml</b>
-Nem lançou, mas numa exclusividade exclusiva você encontra a grade de programação de todos os canais FAST do futuro +SBT 🚨.
+Você encontra a grade de programação de todos os canais FAST do +SBT 🚨.
 
 ### <b>vivoplay.xml</b>
 Esse é perfeito pra você que é Fora Globo das ideias. A Vivo até tem os canais Globo, mas carrega quase nenhum dado de EPG. De resto, tem todo o resto ⛄.
