@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2025-06-10 13:45:03" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2025-06-10 15:15:02" generator-info-url="http://limaalef.com">
   <channel id="Claro TV+ 4K">
     <display-name lang="pt">Claro TV+ 4K</display-name>
   </channel>
@@ -113,6 +113,9 @@
   </channel>
   <channel id="sportv-3">
     <display-name lang="pt">sportv-3</display-name>
+  </channel>
+  <channel id="sportv-4">
+    <display-name lang="pt">sportv-4</display-name>
   </channel>
   <channel id="globonews">
     <display-name lang="pt">globonews</display-name>
@@ -21288,11 +21291,6 @@
     <desc lang="pt"> - </desc>
     <category lang="en">serious music/classical music</category>
   </programme>
-  <programme start="20250615000000 -0300" stop="20250615003000 -0300" channel="1765">
-    <title lang="pt">Repórter Eco</title>
-    <desc lang="pt"> - </desc>
-    <category lang="en">movie/drama (general)</category>
-  </programme>
   <programme start="20250614000000 -0300" stop="20250614013700 -0300" channel="1779">
     <title lang="pt">Senadoc: Estrada de Sonhos</title>
     <desc lang="pt"> - </desc>
@@ -21464,12 +21462,6 @@
     <title lang="pt">Senadoc: Ulysses, Cidadão</title>
     <desc lang="pt"> - </desc>
     <category lang="en">documentary</category>
-  </programme>
-  <programme start="20250615000000 -0300" stop="20250615003000 -0300" channel="1779">
-    <title lang="pt">Tela Brasil: Guerras do Brasil.doc - A Guerra dos Palmares</title>
-    <desc lang="pt"> - </desc>
-    <category lang="en">documentary</category>
-    <episode-num system="xmltv_ns">.1.</episode-num>
   </programme>
   <programme start="20250614000000 -0300" stop="20250614003000 -0300" channel="2302">
     <title lang="pt">Partituras</title>
@@ -21668,11 +21660,6 @@
   </programme>
   <programme start="20250614233000 -0300" stop="20250615000000 -0300" channel="2302">
     <title lang="pt">10 Minutinhos d’Agente</title>
-    <desc lang="pt"> - </desc>
-    <category lang="en">variety show</category>
-  </programme>
-  <programme start="20250615000000 -0300" stop="20250615003000 -0300" channel="2302">
-    <title lang="pt">Cine GOV</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
@@ -21897,45 +21884,56 @@
     <desc lang="pt"> - Confira o que está acontecendo nos esportes de maneira breve e bem humorada, esteja ligado nos memes, trends, e tudo sobre o sobre o esporte com Joana Assis.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250610125828 -0300" stop="20250610150127 -0300" channel="sportv">
+  <programme start="20250610125828 -0300" stop="20250610134308 -0300" channel="sportv">
     <title lang="pt">Seleção sportv - Seleção SporTV - ao vivo</title>
     <desc lang="pt"> - </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250610150128 -0300" stop="20250610173247 -0300" channel="sportv">
+  <programme start="20250610134310 -0300" stop="20250610135139 -0300" channel="sportv">
     <title lang="pt">Seleção sportv - ao vivo</title>
     <desc lang="pt"> - Os principais comentaristas da Globo e do sportv formam uma seleção de craques, recebidos por André Rizek para debater os assuntos que são notícia no mundo do futebol. 
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250610173250 -0300" stop="20250610175359 -0300" channel="sportv">
+  <programme start="20250610135141 -0300" stop="20250610140630 -0300" channel="sportv">
+    <title lang="pt">Seleção sportv - Seleção SporTV - ao vivo</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20250610142723 -0300" stop="20250610145552 -0300" channel="sportv">
+    <title lang="pt">Seleção sportv - ao vivo</title>
+    <desc lang="pt"> - Os principais comentaristas da Globo e do sportv formam uma seleção de craques, recebidos por André Rizek para debater os assuntos que são notícia no mundo do futebol. 
+</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20250610145554 -0300" stop="20250610152432 -0300" channel="sportv">
     <title lang="pt">Globo Esporte - Inédito</title>
     <desc lang="pt"> - Um pouquinho de cada Globo Esporte espalhado pelo Brasil. As principais histórias, notícias, num mosaico leve e informativo. 
 </desc>
     <category lang="en">sports (general)</category>
     <new />
   </programme>
-  <programme start="20250610175400 -0300" stop="20250610184126 -0300" channel="sportv">
+  <programme start="20250610152450 -0300" stop="20250610161216 -0300" channel="sportv">
     <title lang="pt">Tá Na Área - ao vivo</title>
     <desc lang="pt"> - Aproveite o finalzinho da tarde para relaxar e de maneira divertida fique por dentro de todos os assuntos em alta do esporte com Camila Carelli e Thiago Benevenutte</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250610184128 -0300" stop="20250610185959 -0300" channel="sportv">
+  <programme start="20250610161229 -0300" stop="20250610183908 -0300" channel="sportv">
     <title lang="pt">Eliminatórias da Copa 2026: Bolívia x Chile - ao vivo</title>
     <desc lang="pt">As seleções disputam em direção a classificação para a copa do mundo de 2026, Tá no Sportv!</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250610190000 -0300" stop="20250610202959 -0300" channel="sportv">
+  <programme start="20250610183911 -0300" stop="20250610200651 -0300" channel="sportv">
     <title lang="pt">Tá Na Área - ao vivo</title>
     <desc lang="pt"> - Aproveite o finalzinho da tarde para relaxar e de maneira divertida fique por dentro de todos os assuntos em alta do esporte com Camila Carelli e Thiago Benevenutte</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250610203000 -0300" stop="20250610212959 -0300" channel="sportv">
+  <programme start="20250610200703 -0300" stop="20250610210019 -0300" channel="sportv">
     <title lang="pt">Aquecimento sportv: Brasil x Paraguai - ao vivo</title>
     <desc lang="pt">Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes, aqui no sportv!</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250610213000 -0300" stop="20250610232959 -0300" channel="sportv">
+  <programme start="20250610210021 -0300" stop="20250610222150 -0300" channel="sportv">
     <title lang="pt">Eliminatórias da Copa 2026: Brasil x Paraguai - ao vivo</title>
     <desc lang="pt">As seleções disputam em direção a classificação para a copa do mundo de 2026, Tá no Sportv!
 </desc>
@@ -22008,46 +22006,46 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250610114836 -0300" stop="20250610124438 -0300" channel="sportv-2">
+  <programme start="20250610114836 -0300" stop="20250610124437 -0300" channel="sportv-2">
     <title lang="pt">1/1 ESPECIAL PEQUIM 2008</title>
     <sub-title lang="pt">realizado em 09/06/2023</sub-title>
     <category lang="en">sports (general)</category>
     <date>09/06/2023</date>
   </programme>
-  <programme start="20250610124440 -0300" stop="20250610145849 -0300" channel="sportv-2">
+  <programme start="20250610124440 -0300" stop="20250610145057 -0300" channel="sportv-2">
     <title lang="pt">Amistoso Internacional: Azerbaijão x Hungria - ao vivo</title>
     <desc lang="pt">As maiores estrelas do futebol masculino, se enfrentam em mais um amistoso internacional, aqui no sportv!</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250610145851 -0300" stop="20250610152805 -0300" channel="sportv-2">
+  <programme start="20250610145100 -0300" stop="20250610152014 -0300" channel="sportv-2">
     <title lang="pt">Baú do Esporte: Lendas - Zico Flamengo</title>
     <desc lang="pt">Quer reviver aquele jogo inesquecível? Saber o que seu ídolo sentiu na hora do gol decisivo? O Baú do Esporte traz diariamente os grandes momentos e personagens que marcaram a história esportiva do Brasil e do mundo.</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250610152807 -0300" stop="20250610174306 -0300" channel="sportv-2">
+  <programme start="20250610152016 -0300" stop="20250610173515 -0300" channel="sportv-2">
     <title lang="pt">Amistoso Internacional: Inglaterra x Senegal - ao vivo</title>
     <desc lang="pt">As maiores estrelas do futebol masculino, se enfrentam em mais um amistoso internacional, aqui no sportv!</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250610174308 -0300" stop="20250610180844 -0300" channel="sportv-2">
+  <programme start="20250610173517 -0300" stop="20250610180053 -0300" channel="sportv-2">
     <title lang="pt">Galeria sportv</title>
     <desc lang="pt"> - Mini-programa com os principais destaques da programação do SporTV.</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250610180846 -0300" stop="20250610184434 -0300" channel="sportv-2">
+  <programme start="20250610180055 -0300" stop="20250610195429 -0300" channel="sportv-2">
     <title lang="pt">VT - Liga das Nações de Vôlei Feminino: Brasil x Itália</title>
     <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!
 </desc>
     <category lang="en">team sports</category>
     <previously-shown />
   </programme>
-  <programme start="20250610204000 -0300" stop="20250610225959 -0300" channel="sportv-2">
+  <programme start="20250610195434 -0300" stop="20250610221158 -0300" channel="sportv-2">
     <title lang="pt">Eliminatórias da Copa 2026: Argentina x Colômbia - ao vivo</title>
     <desc lang="pt">As seleções disputam em direção a classificação para a copa do mundo de 2026, Tá no Sportv!
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250610230000 -0300" stop="20250610235959 -0300" channel="sportv-2">
+  <programme start="20250610221159 -0300" stop="20250610231912 -0300" channel="sportv-2">
     <title lang="pt">Hello LA</title>
     <desc lang="pt"> - Acompanhe como está indo os Jogos de Los Angeles em 2028. toda semana, o programa traz entrevistas, atualidades, termômetro de competições e informações do mundo Olímpico com Marcelo Barreto e Fabi Alvim</desc>
     <category lang="en">sports (general)</category>
@@ -22102,45 +22100,51 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250610105405 -0300" stop="20250610114959 -0300" channel="sportv-3">
+  <programme start="20250610105405 -0300" stop="20250610114955 -0300" channel="sportv-3">
     <title lang="pt">1/1 FAIXA OPLIMPICA - ESPECIAL SURFE</title>
     <desc lang="pt"> - </desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250610115000 -0300" stop="20250610162514 -0300" channel="sportv-3">
+  <programme start="20250610115000 -0300" stop="20250610155803 -0300" channel="sportv-3">
     <title lang="pt">WSL: Etapa De Trestles - ao vivo</title>
     <sub-title lang="pt">California, Eua</sub-title>
     <desc lang="pt">As maiores emoções do Circuito Mundial de Skate, você acompanha aqui no sportv!</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250610164120 -0300" stop="20250610190759 -0300" channel="sportv-3">
+  <programme start="20250610155805 -0300" stop="20250610182444 -0300" channel="sportv-3">
     <title lang="pt">Eliminatórias Européias Da Copa Do Mundo 2026 - ao vivo</title>
     <sub-title lang="pt">Finlândia x Polônia</sub-title>
     <desc lang="pt"> - A UEFA Euro 2024 promete emoções intensas com as melhores seleções europeias disputando o título. Prepare-se para momentos de paixão, rivalidade e futebol de alto nível. Tá no futebol, tá no sportv.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250610190812 -0300" stop="20250610203232 -0300" channel="sportv-3">
+  <programme start="20250610182446 -0300" stop="20250610194906 -0300" channel="sportv-3">
     <title lang="pt">Sail Gp: Dia 2</title>
     <sub-title lang="pt">6ª Etapa</sub-title>
     <desc lang="pt">A maior competição de Sail Gp está rolando, acompanheno sportv! 
 </desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250610203233 -0300" stop="20250610205210 -0300" channel="sportv-3">
+  <programme start="20250610194907 -0300" stop="20250610200844 -0300" channel="sportv-3">
     <title lang="pt">Galeria sportv</title>
     <desc lang="pt"> - Mini-programa com os principais destaques da programação do SporTV.</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250610205213 -0300" stop="20250610215959 -0300" channel="sportv-3">
+  <programme start="20250610200847 -0300" stop="20250610223358 -0300" channel="sportv-3">
     <title lang="pt">Eliminatórias da Copa 2026: Uruguai x Venezuela - ao vivo</title>
     <desc lang="pt">As seleções disputam em direção a classificação para a copa do mundo de 2026, Tá no Sportv!
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250610220000 -0300" stop="20250611002959 -0300" channel="sportv-3">
+  <programme start="20250610223400 -0300" stop="20250611002959 -0300" channel="sportv-3">
     <title lang="pt">Eliminatórias da Copa 2026: Peru x Equador - ao vivo</title>
     <desc lang="pt">As seleções disputam em direção a classificação para a copa do mundo de 2026, Tá no Sportv!
 </desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20250610153000 -0300" stop="20250610205959 -0300" channel="sportv-4">
+    <title lang="pt">WSL: Etapa De Trestles - ao vivo</title>
+    <sub-title lang="pt">California, Eua</sub-title>
+    <desc lang="pt">As maiores emoções do Circuito Mundial de Skate, você acompanha aqui no sportv!</desc>
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20250610000000 -0300" stop="20250610005959 -0300" channel="globonews">
@@ -22403,7 +22407,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250610134610 -0300" stop="20250610141558 -0300" channel="multishow">
+  <programme start="20250610134610 -0300" stop="20250610141557 -0300" channel="multishow">
     <title lang="pt">Vila, A</title>
     <sub-title lang="pt">Vila Coiffeur</sub-title>
     <desc lang="pt"> - Lupércio conta que vai pedir Eleonora em noivado à noite, mas está apreensivo com sua aparência. Rique percebe a chance e diz que ele e Violeta estão montando um salão de beleza.</desc>
@@ -22491,7 +22495,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250610180457 -0300" stop="20250610180859 -0300" channel="multishow">
+  <programme start="20250610180457 -0300" stop="20250610180722 -0300" channel="multishow">
     <title lang="pt">TVZ</title>
     <sub-title lang="pt">Vivi - Banquete</sub-title>
     <desc lang="pt"> - VIVI - BANQUETE (INDEPENDENTE)
@@ -22501,7 +22505,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250610180900 -0300" stop="20250610181159 -0300" channel="multishow">
+  <programme start="20250610180723 -0300" stop="20250610181505 -0300" channel="multishow">
     <title lang="pt">TVZ</title>
     <sub-title lang="pt">Katy Perry - Thinking Of You</sub-title>
     <desc lang="pt"> - Katy Perry - Thinking Of You (UNIVERSAL MUSIC)</desc>
@@ -22509,7 +22513,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250610181200 -0300" stop="20250610181459 -0300" channel="multishow">
+  <programme start="20250610181508 -0300" stop="20250610181723 -0300" channel="multishow">
     <title lang="pt">TVZ</title>
     <sub-title lang="pt">Pedro Sampaio Part. J Balvin E Take A Daytrip - Perversa</sub-title>
     <desc lang="pt"> - PEDRO SAMPAIO PART. J BALVIN E TAKE A DAYTRIP - PERVERSA (WARNER MUSIC)</desc>
@@ -22517,7 +22521,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250610181500 -0300" stop="20250610181759 -0300" channel="multishow">
+  <programme start="20250610181724 -0300" stop="20250610182007 -0300" channel="multishow">
     <title lang="pt">TVZ</title>
     <sub-title lang="pt">Luiza Carmo - Seco Seu Gelo</sub-title>
     <desc lang="pt"> - LUIZA CARMO - SECO SEU GELO (LC PRODUÇÕES)</desc>
@@ -22525,7 +22529,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250610181800 -0300" stop="20250610182059 -0300" channel="multishow">
+  <programme start="20250610182009 -0300" stop="20250610182704 -0300" channel="multishow">
     <title lang="pt">TVZ</title>
     <sub-title lang="pt">Natiruts - Quero Ser Feliz Também (Ao Vivo)</sub-title>
     <desc lang="pt"> - NATIRUTS - QUERO SER FELIZ TAMBÉM (AO VIVO) (SONY MUSIC)</desc>
@@ -22533,7 +22537,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250610182400 -0300" stop="20250610182659 -0300" channel="multishow">
+  <programme start="20250610182705 -0300" stop="20250610183233 -0300" channel="multishow">
     <title lang="pt">TVZ</title>
     <sub-title lang="pt">Sorriso Maroto - Lucidez</sub-title>
     <desc lang="pt"> - SORRISO MAROTO - LUCIDEZ (SONY MUSIC)</desc>
@@ -22541,7 +22545,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250610182700 -0300" stop="20250610182959 -0300" channel="multishow">
+  <programme start="20250610183235 -0300" stop="20250610183509 -0300" channel="multishow">
     <title lang="pt">TVZ</title>
     <sub-title lang="pt">Luísa Sonza Part. Xamã - Mama.Cita (Hasta La Vista)</sub-title>
     <desc lang="pt"> - LUÍSA SONZA PART. XAMÃ - MAMA.CITA (HASTA LA VISTA) (SONY MUSIC)</desc>
@@ -22549,7 +22553,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250610183000 -0300" stop="20250610185959 -0300" channel="multishow">
+  <programme start="20250610183510 -0300" stop="20250610190507 -0300" channel="multishow">
     <title lang="pt">Karaoquem</title>
     <sub-title lang="pt">Di Ferrero</sub-title>
     <desc lang="pt"> - Nesse episódio de Karaoquem, Gaby Amarantos e Ed Gama recebem Di Ferrero e o disfarce escolhido é de bombeiro.</desc>
@@ -22557,7 +22561,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250610190000 -0300" stop="20250610193059 -0300" channel="multishow">
+  <programme start="20250610190510 -0300" stop="20250610193441 -0300" channel="multishow">
     <title lang="pt">O Dono do Bar</title>
     <sub-title lang="pt">Um Sortudo Azarado</sub-title>
     <desc lang="pt"> - É aniversário de Luciana e Américo compra um tablet de brinquedo achando que era de verdade. Desesperado, ele acaba roubando as flores que a Doralice ganhou e dá para a esposa.</desc>
@@ -22565,7 +22569,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250610193800 -0300" stop="20250610194459 -0300" channel="multishow">
+  <programme start="20250610193444 -0300" stop="20250610194548 -0300" channel="multishow">
     <title lang="pt">Humor Multishow</title>
     <sub-title lang="pt">A Festa de Inauguração</sub-title>
     <desc lang="pt"> - A família finalmente chega à mansão de Sid! Dona Jô se torna a gerente do Sofrência Bar e propõe uma grande festa de inauguração, mas nem tudo sai como o esperado.</desc>
@@ -22573,7 +22577,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250610194500 -0300" stop="20250610202659 -0300" channel="multishow">
+  <programme start="20250610194549 -0300" stop="20250610202811 -0300" channel="multishow">
     <title lang="pt">Sessão Nostalgia</title>
     <sub-title lang="pt">Boa Noite, Seu Ladir</sub-title>
     <desc lang="pt"> - Copélia conhece um homem pela internet e o leva para casa. Arnaldo ganha um prêmio. Tatalo e Isadora filmam seu Ladir em uma situação delicada. Todos se surpreendem com Esteban.</desc>
@@ -22581,7 +22585,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250610202700 -0300" stop="20250610210359 -0300" channel="multishow">
+  <programme start="20250610202815 -0300" stop="20250610210359 -0300" channel="multishow">
     <title lang="pt">Sessão Nostalgia</title>
     <sub-title lang="pt">A Rocha</sub-title>
     <desc lang="pt"> - A família Silva comenta sobre a personalidade de Lineu. Lineu fica preocupado após perceber que não consegue chorar. Agostinho resolve dar uma grande festa no Paivense para Lineu.</desc>
@@ -22821,7 +22825,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250610185115 -0300" stop="20250610194159 -0300" channel="gnt">
+  <programme start="20250610185115 -0300" stop="20250610194246 -0300" channel="gnt">
     <title lang="pt">Cozinha Prática Com Rita Lobo</title>
     <sub-title lang="pt">Thiago Abravanel</sub-title>
     <desc lang="pt"> - Rita Lobo e o ator Tiago Abravanel preparam juntos um clássico prato-feito brasileiro com arroz, feijão, bife e abobrinha assada.</desc>
@@ -22829,7 +22833,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250610194200 -0300" stop="20250610204259 -0300" channel="gnt">
+  <programme start="20250610194249 -0300" stop="20250610204259 -0300" channel="gnt">
     <title lang="pt">Que Seja Doce</title>
     <sub-title lang="pt">Novas Roupagens</sub-title>
     <desc lang="pt"> - Os confeiteiros de hoje farão novas versões de doces clássicos: a pipoca gourmet e um cake donut. Será que as novas roupagens serão bem avaliadas?</desc>
@@ -22973,7 +22977,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250610120504 -0300" stop="20250610125438 -0300" channel="globoplay-novelas">
+  <programme start="20250610120504 -0300" stop="20250610125439 -0300" channel="globoplay-novelas">
     <title lang="pt">Quatro Por Quatro</title>
     <desc lang="pt"> - Abigail, Auxiliadora, Tatiana e Babalu se envolvem em um acidente e descobrem que perderam seus amores no mesmo dia. As quatro mulheres se unem para se vingar dos ex-parceiros.</desc>
     <rating system="Brazil">
@@ -23017,7 +23021,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250610173735 -0300" stop="20250610182459 -0300" channel="globoplay-novelas">
+  <programme start="20250610173735 -0300" stop="20250610182559 -0300" channel="globoplay-novelas">
     <title lang="pt">Hercai: Amor E Vingança</title>
     <desc lang="pt"> - Neta de um homem opressivo, a jovem Reyyan tem esperanças de que alguém aparecerá um dia em sua vida para salvá-la.</desc>
     <episode-num system="xmltv_ns">.0.</episode-num>
@@ -23025,7 +23029,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250610182500 -0300" stop="20250610192159 -0300" channel="globoplay-novelas">
+  <programme start="20250610182601 -0300" stop="20250610191559 -0300" channel="globoplay-novelas">
     <title lang="pt">Quatro Por Quatro</title>
     <desc lang="pt"> - Abigail, Auxiliadora, Tatiana e Babalu se envolvem em um acidente e descobrem que perderam seus amores no mesmo dia. As quatro mulheres se unem para se vingar dos ex-parceiros.</desc>
     <rating system="Brazil">
@@ -23173,7 +23177,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250610130002 -0300" stop="20250610133026 -0300" channel="canal-brasil">
+  <programme start="20250610130002 -0300" stop="20250610133027 -0300" channel="canal-brasil">
     <title lang="pt">Necrópolis</title>
     <sub-title lang="pt">Réquiem Para Bartolomeu</sub-title>
     <desc lang="pt"> - Richard discute com Rita sobre fazer uma homenagem musical a um cadáver. Pietra e Oséias encontram algo suspeito dentro de um defunto. Elisa se apega a um cachorro que seguiu o corpo de sua dona.</desc>
@@ -23198,7 +23202,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250610140007 -0300" stop="20250610141827 -0300" channel="canal-brasil">
+  <programme start="20250610140007 -0300" stop="20250610141634 -0300" channel="canal-brasil">
     <title lang="pt">Cinejornal</title>
     <sub-title lang="pt">Festival Annecy e Prêmio BTG Pactual da Música Brasileira_09/06/2025</sub-title>
     <desc lang="pt"> - O Cinejornal é um programa diário, apresentado por Simone Zuccolotto, no qual é pautado o melhor do cinema brasileiro.</desc>
@@ -23233,14 +23237,14 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250610173258 -0300" stop="20250610185959 -0300" channel="canal-brasil">
+  <programme start="20250610173258 -0300" stop="20250610190511 -0300" channel="canal-brasil">
     <title lang="pt">De Volta ao Maracanã</title>
     <desc lang="pt"> - Um avô, um pai e um filho partem de Israel para o Brasil para assistir aos jogos da Copa. A viagem, apesar de cheia de energia, é também turbulenta, com obstáculos que podem prejudicar os sonhos da família.</desc>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250610190000 -0300" stop="20250610190159 -0300" channel="canal-brasil">
+  <programme start="20250610190514 -0300" stop="20250610190635 -0300" channel="canal-brasil">
     <title lang="pt">Sessão Especial Marcelo Fabri Marão</title>
     <sub-title lang="pt">Pelotas de Regurgitação</sub-title>
     <desc lang="pt"> - Animação experimental riscada em sobras de película encontradas no lixo com uma faca. Narrativa sem lógica. Seis pessoas dublaram aleatoriamente, gravando vozes e urros improvisados. 700 fotogramas arranhados compõem um minuto.</desc>
@@ -23248,7 +23252,7 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250610190500 -0300" stop="20250610191459 -0300" channel="canal-brasil">
+  <programme start="20250610190636 -0300" stop="20250610191618 -0300" channel="canal-brasil">
     <title lang="pt">Sessão Especial Marcelo Fabri Marão</title>
     <sub-title lang="pt">O Anão Que Virou Gigante</sub-title>
     <desc lang="pt"> - A improvável - todavia autêntica - história do anão que virou gigante.</desc>
@@ -23256,7 +23260,7 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250610191500 -0300" stop="20250610192959 -0300" channel="canal-brasil">
+  <programme start="20250610191619 -0300" stop="20250610193117 -0300" channel="canal-brasil">
     <title lang="pt">Sessão Especial Marcelo Fabri Marão</title>
     <sub-title lang="pt">Até A China</sub-title>
     <desc lang="pt"> - Uma viagem até a China só com a bagagem de mão mostra que por lá os motociclistas usam casaco ao contrário e os restaurantes servem cabeças de peixe, lagostins e enguias.</desc>
@@ -23264,7 +23268,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250610193000 -0300" stop="20250610204359 -0300" channel="canal-brasil">
+  <programme start="20250610193118 -0300" stop="20250610204529 -0300" channel="canal-brasil">
     <title lang="pt">Sessão Especial Marcelo Fabri Marão</title>
     <sub-title lang="pt">Bizarros Peixes Das Fossas Abissais</sub-title>
     <desc lang="pt"> - O filme acompanha uma heroína cujo superpoder consiste em metamorfosear seus glúteos em um gorila. Com a ajuda de uma tartaruga e uma nuvem, a protagonista deve formar um mapa em uma jornada até as profundezas do oceano.</desc>
@@ -23513,7 +23517,7 @@ pegam carona em um trator e a cena resulta em uma sessão de surfe inesquecível
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250610112531 -0300" stop="20250610121233 -0300" channel="canal-off">
+  <programme start="20250610112531 -0300" stop="20250610121234 -0300" channel="canal-off">
     <title lang="pt">Off Docs</title>
     <sub-title lang="pt">É Capixaba</sub-title>
     <desc lang="pt"> - A história da maior onda do Brasil, surfada na Praia da Costa, em Vila Velha-ES. O doc reúne depoimentos e imagens que contam as aventuras do Surfe Capixaba.</desc>
@@ -23521,7 +23525,7 @@ pegam carona em um trator e a cena resulta em uma sessão de surfe inesquecível
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250610121236 -0300" stop="20250610122844 -0300" channel="canal-off">
+  <programme start="20250610121236 -0300" stop="20250610122845 -0300" channel="canal-off">
     <title lang="pt">Off Docs</title>
     <sub-title lang="pt">BMX Nigeria</sub-title>
     <desc lang="pt"> - Esta é a história inspiradora de dois pioneiros da cena emergente do BMX em Lagos, Nigéria.</desc>
@@ -23545,7 +23549,7 @@ pegam carona em um trator e a cena resulta em uma sessão de surfe inesquecível
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250610132946 -0300" stop="20250610135731 -0300" channel="canal-off">
+  <programme start="20250610132946 -0300" stop="20250610135836 -0300" channel="canal-off">
     <title lang="pt">Morando Na Estrada</title>
     <sub-title lang="pt">Ganahando Asas</sub-title>
     <desc lang="pt"> - Marcela Witt e Nelson Pinto saem do galpão rumo à praia em New Jersey, no norte dos Estados Unidos. No caminho, eles compartilham as primeiras experiências vivendo em um ônibus e, chegando lá, encontram um mar gelado e difícil para o kite e o surfe.</desc>
@@ -23577,7 +23581,7 @@ pegam carona em um trator e a cena resulta em uma sessão de surfe inesquecível
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250610152135 -0300" stop="20250610154932 -0300" channel="canal-off">
+  <programme start="20250610152135 -0300" stop="20250610154957 -0300" channel="canal-off">
     <title lang="pt">Islândia: Ondas Do Norte</title>
     <sub-title lang="pt">Explorando o Norte</sub-title>
     <desc lang="pt"> - A busca por ondas leva o grupo até uma fazenda na beira de uma grande praia. Sem acesso à areia,
@@ -23586,7 +23590,7 @@ pegam carona em um trator e a cena resulta em uma sessão de surfe inesquecível
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250610154934 -0300" stop="20250610161441 -0300" channel="canal-off">
+  <programme start="20250610154959 -0300" stop="20250610161506 -0300" channel="canal-off">
     <title lang="pt">Life Of Kai</title>
     <desc lang="pt"> - Kai Lenny persegue o sonho de vencer The Eddie Aikdau e, em seguida, enfrenta os melhores profissionais na etapa de Sunset Beach do circuito mundial.</desc>
     <episode-num system="xmltv_ns">.2.</episode-num>
@@ -23594,7 +23598,7 @@ pegam carona em um trator e a cena resulta em uma sessão de surfe inesquecível
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250610161442 -0300" stop="20250610164224 -0300" channel="canal-off">
+  <programme start="20250610161507 -0300" stop="20250610164249 -0300" channel="canal-off">
     <title lang="pt">Voo De Cinema</title>
     <sub-title lang="pt">Viagem Para o Norte: O Salto no Pôr do Sol</sub-title>
     <desc lang="pt"> - De Byron Bay, Luigi Cani se desloca para mais ao norte e encontra com Ronald e Victor dono de uma das mais respeitadas áreas de salto da Califórnia.</desc>
@@ -23602,7 +23606,7 @@ pegam carona em um trator e a cena resulta em uma sessão de surfe inesquecível
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250610164226 -0300" stop="20250610170954 -0300" channel="canal-off">
+  <programme start="20250610164251 -0300" stop="20250610171019 -0300" channel="canal-off">
     <title lang="pt">Voo De Cinema</title>
     <sub-title lang="pt">Byron Bay com amigos paraquedistas</sub-title>
     <desc lang="pt"> - Cani vai até São Francisco e explora diferentes áreas de salto que estão no litoral. Ele encontra alguns amigos que tem experiência em um boogie (festa de paraquedistas).</desc>
@@ -23610,7 +23614,7 @@ pegam carona em um trator e a cena resulta em uma sessão de surfe inesquecível
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250610170956 -0300" stop="20250610173232 -0300" channel="canal-off">
+  <programme start="20250610171021 -0300" stop="20250610173257 -0300" channel="canal-off">
     <title lang="pt">Off Docs</title>
     <sub-title lang="pt">Aprendiz De Tube Rider</sub-title>
     <desc lang="pt"> - As Ilhas Mentawais estavam vazias e com poucos surfistas durante a pandemia, mas algumas famílias se refugiaram na região e elevaram o nível do surf naquele local.</desc>
@@ -23618,7 +23622,7 @@ pegam carona em um trator e a cena resulta em uma sessão de surfe inesquecível
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250610173233 -0300" stop="20250610181059 -0300" channel="canal-off">
+  <programme start="20250610173258 -0300" stop="20250610181154 -0300" channel="canal-off">
     <title lang="pt">Off Docs</title>
     <sub-title lang="pt">Nas Ondas Dos Lençóis</sub-title>
     <desc lang="pt"> - O documentário acompanha a expedição do surfista Fabio Gouveia pelo Parque Nacional dos Lençóis Maranhenses, uma das últimas fronteiras do surf no litoral brasileiro.</desc>
@@ -23626,7 +23630,7 @@ pegam carona em um trator e a cena resulta em uma sessão de surfe inesquecível
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250610181100 -0300" stop="20250610183959 -0300" channel="canal-off">
+  <programme start="20250610181156 -0300" stop="20250610184102 -0300" channel="canal-off">
     <title lang="pt">Kaiak</title>
     <sub-title lang="pt">Himalaia</sub-title>
     <desc lang="pt"> - No Himalaia, Pedro, Ben e Chris enfrentam grandes corredeiras no rio Siang até chegar no local onde está o carro-base.</desc>
@@ -23634,7 +23638,7 @@ pegam carona em um trator e a cena resulta em uma sessão de surfe inesquecível
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250610184000 -0300" stop="20250610190859 -0300" channel="canal-off">
+  <programme start="20250610184105 -0300" stop="20250610190953 -0300" channel="canal-off">
     <title lang="pt">Kaiak</title>
     <sub-title lang="pt">Rio Siyoum</sub-title>
     <desc lang="pt"> - Os três seguem para o rio Siyoum e tentarão ser os primeiros a descer por ele. O rio é cheio de rochas, o que dificulta na hora de remar. Eles chegam num trecho onde árvores bloqueiam o caminho e precisam parar para estudar a linha a seguir.</desc>
@@ -23642,7 +23646,7 @@ pegam carona em um trator e a cena resulta em uma sessão de surfe inesquecível
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250610190900 -0300" stop="20250610193759 -0300" channel="canal-off">
+  <programme start="20250610190955 -0300" stop="20250610193856 -0300" channel="canal-off">
     <title lang="pt">Onda De Esperança</title>
     <sub-title lang="pt">Ações sustentáveis na Favela</sub-title>
     <desc lang="pt"> - Mister, Popó, Loirinho e Caveirinha mostram alguns projetos sociais e ecológicos que acontecem dentro e nos arredores da Rocinha.</desc>
@@ -23650,7 +23654,7 @@ pegam carona em um trator e a cena resulta em uma sessão de surfe inesquecível
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250610193800 -0300" stop="20250610200559 -0300" channel="canal-off">
+  <programme start="20250610193859 -0300" stop="20250610200715 -0300" channel="canal-off">
     <title lang="pt">Domke's Show</title>
     <sub-title lang="pt">Início da Temporada no Panamá</sub-title>
     <desc lang="pt"> - Brad chega em Bocas Del Toro, onde sempre é recebido pelo amigo local Andrea. O Panamá é seu lugar preferido para começar a temporada, pela qualidade das ondas e o clima agradável.</desc>
@@ -23658,7 +23662,7 @@ pegam carona em um trator e a cena resulta em uma sessão de surfe inesquecível
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250610200600 -0300" stop="20250610203459 -0300" channel="canal-off">
+  <programme start="20250610200717 -0300" stop="20250610203459 -0300" channel="canal-off">
     <title lang="pt">Trilhas E Travessias</title>
     <sub-title lang="pt">As Praias de El Nido</sub-title>
     <desc lang="pt"> - Julia e Marina vão até a região de El Nido, que fica em Palawan, para explorar a cachoeira de Nagkalit-Kalit e remar de caiaque nas águas azuis de Nacpan Beach, até duas ilhas chamadas Twin Peaks.
@@ -24178,7 +24182,7 @@ Trans no Corre nos mostram os benefícios da atividade física para além do cor
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250610185543 -0300" stop="20250610185844 -0300" channel="bis">
+  <programme start="20250610185543 -0300" stop="20250610190124 -0300" channel="bis">
     <title lang="pt">Mariana Nolasco - Dia De Sorte</title>
     <sub-title lang="pt">Setlist</sub-title>
     <desc lang="pt"> - MARIANA NOLASCO - DIA DE SORTE (INDEPENDENTE)</desc>
@@ -24186,7 +24190,7 @@ Trans no Corre nos mostram os benefícios da atividade física para além do cor
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250610190100 -0300" stop="20250610192959 -0300" channel="bis">
+  <programme start="20250610190126 -0300" stop="20250610193031 -0300" channel="bis">
     <title lang="pt">Música Sertaneja Do Brasil</title>
     <desc lang="pt"> - Em formato intimista, novos artistas do sertanejo cantam clássicos com músicos consagrados do gênero. Nesse episódio, a dupla César Menotti e Fabiano faz uma participação especial e canta “Chico Mineiro”.</desc>
     <episode-num system="xmltv_ns">.12.</episode-num>
@@ -24194,7 +24198,7 @@ Trans no Corre nos mostram os benefícios da atividade física para além do cor
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250610193000 -0300" stop="20250610195959 -0300" channel="bis">
+  <programme start="20250610193032 -0300" stop="20250610200030 -0300" channel="bis">
     <title lang="pt">Depois Daquele Álbum</title>
     <sub-title lang="pt">Paulo Ricardo</sub-title>
     <desc lang="pt"> - A cada episódio um artista convidado toca seu álbum preferido de algum outro músico. Nesse episódio, Paulo Ricardo toca “Sticky Fingers” dos Rolling Stones. Ele comenta as músicas e conta o quanto o álbum o influenciou.</desc>
@@ -24202,7 +24206,7 @@ Trans no Corre nos mostram os benefícios da atividade física para além do cor
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250610200000 -0300" stop="20250610210059 -0300" channel="bis">
+  <programme start="20250610200032 -0300" stop="20250610210059 -0300" channel="bis">
     <title lang="pt">Experimente: As Bahias e a Cozinha Mineira</title>
     <desc lang="pt"> - Série que está em sua 9ª temporada, apresenta bandas que começam a despontar no cenário musical brasileiro. No episódio de hoje, a banda As Bahias e a Cozinha Mineira apresenta canções sobre racismo, homofobia e machismo, todas com grande influência do tropicalismo.</desc>
     <rating system="Brazil">
@@ -24650,7 +24654,7 @@ Trans no Corre nos mostram os benefícios da atividade física para além do cor
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250610185732 -0300" stop="20250610192159 -0300" channel="modo-viagem">
+  <programme start="20250610185732 -0300" stop="20250610192436 -0300" channel="modo-viagem">
     <title lang="pt">Ruas Mundo Afora</title>
     <sub-title lang="pt">Bergen – Noruega (Especial Natal)</sub-title>
     <desc lang="pt"> - Rodrigo Ruas cruza o mundo em busca de experiências únicas e mostra qual o melhor jeito de ir, o que levar, onde comer, a melhor época do ano para cada destino e o quanto custa cada viagem.</desc>
@@ -24658,7 +24662,7 @@ Trans no Corre nos mostram os benefícios da atividade física para além do cor
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250610192200 -0300" stop="20250610195259 -0300" channel="modo-viagem">
+  <programme start="20250610192439 -0300" stop="20250610195412 -0300" channel="modo-viagem">
     <title lang="pt">Hotéis Incríveis-T11</title>
     <sub-title lang="pt">Reserva do Patacho, Saison Spa e Fazenda São Francisco do Corumbau</sub-title>
     <desc lang="pt"> - Nesse episódio vamos conhecer a pousada Reserva do Patacho, em seguida conhecemos o hotel Saison Spa e finalizamos na Fazenda São Francisco do Corumbau.</desc>
@@ -24667,7 +24671,7 @@ Trans no Corre nos mostram os benefícios da atividade física para além do cor
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250610195300 -0300" stop="20250610202259 -0300" channel="modo-viagem">
+  <programme start="20250610195415 -0300" stop="20250610202259 -0300" channel="modo-viagem">
     <title lang="pt">Hotéis Incríveis-T11</title>
     <sub-title lang="pt">Pousada Boutique Itaipava, Campo Bahia Hotel Villas Spa e Pousada Rangai</sub-title>
     <desc lang="pt"> - Iniciamos o episódio em Itaipava na Pousada Boutique Itaipava, depois vamos conhecer, em Santo André, o Campo Bahia Hotel Villas Spa e em Maragogi vamos até a Pousada Rangai.</desc>
@@ -24875,13 +24879,13 @@ garimpeiros que viraram guias e mostrar experiências gastronômicas e culturais
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250610195440 -0300" stop="20250610201604 -0300" channel="premiere">
+  <programme start="20250610195440 -0300" stop="20250610205341 -0300" channel="premiere">
     <title lang="pt">VT - Copa do Nordeste: América-RN x Csa-AL</title>
     <desc lang="pt">Não perca a Copa Do Nordeste aqui no Premiere!</desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250610213000 -0300" stop="20250610222959 -0300" channel="premiere">
+  <programme start="20250610205343 -0300" stop="20250610215350 -0300" channel="premiere">
     <title lang="pt">VT - Brasileirão: Santos x Botafogo</title>
     <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!
 </desc>
@@ -25347,7 +25351,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
     <category lang="en">team sports</category>
     <previously-shown />
   </programme>
-  <programme start="20250610220000 -0300" stop="20250611002959 -0300" channel="sportv-3">
+  <programme start="20250610222537 -0300" stop="20250611002959 -0300" channel="sportv-3">
     <title lang="pt">Eliminatórias da Copa 2026: Peru x Equador - ao vivo</title>
     <desc lang="pt">As seleções disputam em direção a classificação para a copa do mundo de 2026, Tá no Sportv!
 </desc>
@@ -25895,26 +25899,26 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
   </programme>
   <programme start="20250611180000 -0300" stop="20250611180259 -0300" channel="multishow">
     <title lang="pt">TVZ</title>
-    <sub-title lang="pt">Bruno Mars - Versace On The Floor</sub-title>
-    <desc lang="pt"> - BRUNO MARS - VERSACE ON THE FLOOR (WARNER MUSIC)
-
-</desc>
+    <sub-title lang="pt">Ellie Goulding - Love Me Like You Do</sub-title>
+    <desc lang="pt"> - ELLIE GOULDING - LOVE ME LIKE YOU DO (UNIVERSAL MUSIC)</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
   <programme start="20250611180300 -0300" stop="20250611180559 -0300" channel="multishow">
     <title lang="pt">TVZ</title>
-    <sub-title lang="pt">Thiaguinho - Ainda Bem</sub-title>
-    <desc lang="pt"> - Thiaguinho - Ainda Bem (Som Livre)</desc>
+    <sub-title lang="pt">Ferrugem - Até Que Enfim</sub-title>
+    <desc lang="pt"> - Ferrugem - Até Que Enfim (Warner Music)</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
   <programme start="20250611180600 -0300" stop="20250611180859 -0300" channel="multishow">
     <title lang="pt">TVZ</title>
-    <sub-title lang="pt">Gustavo Mioto E Ana Castela - Princesa</sub-title>
-    <desc lang="pt"> - GUSTAVO MIOTO E ANA CASTELA - PRINCESA (UNIVERSAL MUSIC)</desc>
+    <sub-title lang="pt">Bruno Mars - Versace On The Floor</sub-title>
+    <desc lang="pt"> - BRUNO MARS - VERSACE ON THE FLOOR (WARNER MUSIC)
+
+</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -25929,8 +25933,8 @@ Os eventos produzidos nacionalmente são os únicos da categoria de MMA com tran
   </programme>
   <programme start="20250611181200 -0300" stop="20250611181459 -0300" channel="multishow">
     <title lang="pt">TVZ</title>
-    <sub-title lang="pt">Christina Perri Feat. Jason Mraz – A Thousand Years</sub-title>
-    <desc lang="pt"> - CHRISTINA PERRI FEAT. JASON MRAZ – A Thousand Years (Warner Music)</desc>
+    <sub-title lang="pt">Gustavo Mioto E Ana Castela - Princesa</sub-title>
+    <desc lang="pt"> - GUSTAVO MIOTO E ANA CASTELA - PRINCESA (UNIVERSAL MUSIC)</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -28246,7 +28250,7 @@ e excelência em vinhos.
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250610235019 -0300" stop="20250611015459 -0300" channel="combate">
+  <programme start="20250610232500 -0300" stop="20250611015459 -0300" channel="combate">
     <title lang="pt">VT - One Fight Night 32</title>
     <desc lang="pt"> - Terceira maior franquia de MMA mundial e a principal da Ásia, presente em mais de 170 países, o One é a liga esportiva de diferentes modalidades além do MMA.</desc>
     <category lang="en">sports (general)</category>
@@ -43452,7 +43456,7 @@ e excelência em vinhos.
   </programme>
   <programme start="20250611133000 -0300" stop="20250611140000 -0300" channel="TV Novo Tempo">
     <title lang="pt">Super Lupa</title>
-    <desc lang="pt"> - No laboratório do Super Lupa tudo pode acontecer. Os doutores Boris, Cléo, Hélio e Hiponetusa estão sempre preparados para ensinar sobre Deus e a ciência com a ajuda da inteligência artificial Ivy e dos pássaros Pepe, Segura e Cestro.</desc>
+    <desc lang="pt"> - Um alarme no laboratório alerta sobre problemas ambientais, levando à conscientização sobre a importância da preservação.</desc>
     <episode-num system="xmltv_ns">24..</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
@@ -43500,7 +43504,7 @@ e excelência em vinhos.
   </programme>
   <programme start="20250611193000 -0300" stop="20250611200000 -0300" channel="TV Novo Tempo">
     <title lang="pt">Escola Bíblica</title>
-    <desc lang="pt"> - A vida de Jesus foi marcada pelo ensino do amor e do respeito ao próximo. Reserve um momento do seu dia e aproveite o espaço da escola bíblica para se dedicar ao estudo dos principais temas ensinados por Jesus.</desc>
+    <desc lang="pt"> - Por que é importante cultivar a confiança entre um casal? Como isso pode ajudar a superar os conflitos que podem surgir no relacionamento? Programa analisa o assunto.</desc>
     <episode-num system="xmltv_ns">24..</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
@@ -43508,7 +43512,7 @@ e excelência em vinhos.
   </programme>
   <programme start="20250611200000 -0300" stop="20250611210000 -0300" channel="TV Novo Tempo">
     <title lang="pt">Consultório de Família: - Consultório de Casais</title>
-    <desc lang="pt"> - Confira neste programa um grupo de conselheiros, psicólogos e educadores que orientam as pessoas que precisam de ajuda sobre temas familiares. O telespectador pergunta e os conselheiros apontam novos caminhos baseados na palavra de Deus.</desc>
+    <desc lang="pt"> - A pornografia está destruindo casamentos, silenciosamente. O vício se esconde atrás de telas, mas os efeitos são devastadores: distanciamento, culpa, isolamento e quebra da intimidade. Neste episódio, Darleide Alves aborda o tema.</desc>
     <episode-num system="xmltv_ns">24..</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
