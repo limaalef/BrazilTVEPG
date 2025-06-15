@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2025-06-14 19:45:04" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2025-06-14 21:15:04" generator-info-url="http://limaalef.com">
   <channel id="Claro TV+ 4K">
     <display-name lang="pt">Claro TV+ 4K</display-name>
   </channel>
@@ -104,6 +104,9 @@
   </channel>
   <channel id="tv-globo">
     <display-name lang="pt">tv-globo</display-name>
+  </channel>
+  <channel id="sportv-4-k">
+    <display-name lang="pt">sportv-4-k</display-name>
   </channel>
   <channel id="sportv">
     <display-name lang="pt">sportv</display-name>
@@ -18675,11 +18678,6 @@
     <desc lang="pt"> - </desc>
     <category lang="en">serious music/classical music</category>
   </programme>
-  <programme start="20250615000000 -0300" stop="20250615003000 -0300" channel="1765">
-    <title lang="pt">Repórter Eco</title>
-    <desc lang="pt"> - </desc>
-    <category lang="en">movie/drama (general)</category>
-  </programme>
   <programme start="20250614000000 -0300" stop="20250614013700 -0300" channel="1779">
     <title lang="pt">Senadoc: Estrada de Sonhos</title>
     <desc lang="pt"> - </desc>
@@ -18851,12 +18849,6 @@
     <title lang="pt">Senadoc: Ulysses, Cidadão</title>
     <desc lang="pt"> - </desc>
     <category lang="en">documentary</category>
-  </programme>
-  <programme start="20250615000000 -0300" stop="20250615003000 -0300" channel="1779">
-    <title lang="pt">Tela Brasil: Guerras do Brasil.doc - A Guerra dos Palmares</title>
-    <desc lang="pt"> - </desc>
-    <category lang="en">documentary</category>
-    <episode-num system="xmltv_ns">.1.</episode-num>
   </programme>
   <programme start="20250614000000 -0300" stop="20250614003000 -0300" channel="2302">
     <title lang="pt">Partituras</title>
@@ -19055,11 +19047,6 @@
   </programme>
   <programme start="20250614233000 -0300" stop="20250615000000 -0300" channel="2302">
     <title lang="pt">10 Minutinhos d’Agente</title>
-    <desc lang="pt"> - </desc>
-    <category lang="en">variety show</category>
-  </programme>
-  <programme start="20250615000000 -0300" stop="20250615003000 -0300" channel="2302">
-    <title lang="pt">Cine GOV</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
@@ -20810,11 +20797,6 @@
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
-  <programme start="20250619000000 -0300" stop="20250619060000 -0300" channel="1682">
-    <title lang="pt">Reapresentação de Comissão</title>
-    <desc lang="pt"> - </desc>
-    <category lang="en">variety show</category>
-  </programme>
   <programme start="20250618000000 -0300" stop="20250618010000 -0300" channel="1765">
     <title lang="pt">Sessão do TSE</title>
     <desc lang="pt"> - </desc>
@@ -20955,11 +20937,6 @@
     <desc lang="pt"> - </desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
-  <programme start="20250619000000 -0300" stop="20250619003000 -0300" channel="1765">
-    <title lang="pt">Repórter Eco</title>
-    <desc lang="pt"> - </desc>
-    <category lang="en">movie/drama (general)</category>
-  </programme>
   <programme start="20250618000000 -0300" stop="20250618013100 -0300" channel="1779">
     <title lang="pt">Senadoc: Crônica da Demolição</title>
     <desc lang="pt"> - </desc>
@@ -21065,11 +21042,6 @@
     <title lang="pt">Comissão</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
-  </programme>
-  <programme start="20250619000000 -0300" stop="20250619015000 -0300" channel="1779">
-    <title lang="pt">Senadoc: Cinderelas, Lobos e um Príncipe Encantado</title>
-    <desc lang="pt"> - </desc>
-    <category lang="en">documentary</category>
   </programme>
   <programme start="20250618000000 -0300" stop="20250618003000 -0300" channel="2302">
     <title lang="pt">Partituras</title>
@@ -21246,11 +21218,6 @@
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
-  <programme start="20250619000000 -0300" stop="20250619003000 -0300" channel="2302">
-    <title lang="pt">Partituras</title>
-    <desc lang="pt"> - </desc>
-    <category lang="en">variety show</category>
-  </programme>
   <programme start="20250613231500 -0300" stop="20250614002459 -0300" channel="tv-globo">
     <title lang="pt">Tributo</title>
     <desc lang="pt"> - A série "Tributo" traz um olhar em primeira pessoa sobre o legado de artistas apaixonados por seu ofício. As trajetórias profissionais dos homenageados se confundem intensamente com a própria história da televisão no país e deixam marcas profundas na cultura da nossa sociedade.</desc>
@@ -21407,6 +21374,13 @@
       <value>[12]</value>
     </rating>
   </programme>
+  <programme start="20250614164000 -0300" stop="20250614185959 -0300" channel="sportv-4-k">
+    <title lang="pt">NBB: Minas x Franca - Playoffs - ao vivo</title>
+    <sub-title lang="pt">Jogo 3</sub-title>
+    <desc lang="pt">O melhor do basquete nacional tá de volta! É a NBB e você acompanha aqui no sportv
+</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
   <programme start="20250613234543 -0300" stop="20250614000752 -0300" channel="sportv">
     <title lang="pt">Troca de Passes - ao vivo</title>
     <desc lang="pt"> - Felipe Diniz, Carlos Eduardo Mansur e Alex Meschini troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada. Veja os melhores momentos, tire as dúvidas daquele lance polêmico acompanhe a repercussão com jogadores e treinadores no calor do jogo. Aqui ninguém fica em cima do muro.</desc>
@@ -21517,28 +21491,28 @@
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250614170426 -0300" stop="20250614190628 -0300" channel="sportv">
+  <programme start="20250614170426 -0300" stop="20250614194251 -0300" channel="sportv">
     <title lang="pt">Brasileirão Feminino: Ferroviária x Bragantino - ao vivo</title>
     <desc lang="pt">Assista mais um jogão do Brasileirão Feminino! Tem muita torcida e bola na rede. Venha torcer aqui no sportv
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250614190759 -0300" stop="20250614195953 -0300" channel="sportv">
+  <programme start="20250614194255 -0300" stop="20250614200001 -0300" channel="sportv">
     <title lang="pt">sportv News - ao vivo</title>
     <desc lang="pt"> - Inicie o dia atualizado com as notícias do mundo do esporte. Cada detalhe sobre o seu esporte preferido,  Os gols da rodada, as últimas do seu time, o que é notícia no Brasil e no Mundo contado de forma dinâmica por Mariana Fontes e André Loffredo</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250614195955 -0300" stop="20250614205216 -0300" channel="sportv">
+  <programme start="20250614200002 -0300" stop="20250614205223 -0300" channel="sportv">
     <title lang="pt">Aquecimento sportv: Al-Ahly (EGI) x Inter Miami (EUA) - ao vivo</title>
     <desc lang="pt">Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes, aqui no sportv!</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250614205230 -0300" stop="20250614230114 -0300" channel="sportv">
+  <programme start="20250614205225 -0300" stop="20250614230109 -0300" channel="sportv">
     <title lang="pt">Copa Do Mundo De Clubes Da FIFA: Al-Ahly (EGIi) x Inter Miami (EUA) - ao vivo</title>
     <desc lang="pt">32 clubes, um sonho global. O torneio ganha novo formato e consagra o maior campeão do planeta, assista no sportv!Tá no Mundial de Clubes, tá no sportv!</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250614230127 -0300" stop="20250615003536 -0300" channel="sportv">
+  <programme start="20250614230111 -0300" stop="20250615003520 -0300" channel="sportv">
     <title lang="pt">Troca de Passes - ao vivo</title>
     <desc lang="pt"> - Felipe Diniz, Carlos Eduardo Mansur e Alex Meschini troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada. Veja os melhores momentos, tire as dúvidas daquele lance polêmico acompanhe a repercussão com jogadores e treinadores no calor do jogo. Aqui ninguém fica em cima do muro.</desc>
     <category lang="en">live broadcast</category>
@@ -21615,21 +21589,26 @@
     <category lang="en">sports (general)</category>
     <date>04/02/2024</date>
   </programme>
-  <programme start="20250614164006 -0300" stop="20250614190348 -0300" channel="sportv-2">
+  <programme start="20250614164006 -0300" stop="20250614191417 -0300" channel="sportv-2">
     <title lang="pt">NBB: Minas x Franca - Playoffs - ao vivo</title>
     <sub-title lang="pt">Jogo 3</sub-title>
     <desc lang="pt">O melhor do basquete nacional tá de volta! É a NBB e você acompanha aqui no sportv
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250614191007 -0300" stop="20250614194100 -0300" channel="sportv-2">
+  <programme start="20250614191422 -0300" stop="20250614192611 -0300" channel="sportv-2">
+    <title lang="pt">1/1 - RAMON SE ORGULHA DE TRAJETÓRIA</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250614192614 -0300" stop="20250614195658 -0300" channel="sportv-2">
     <title lang="pt">Jungle Fight: Nocautes Jungle - Inédito</title>
     <desc lang="pt"> - Uma seleção especial de nocautes de um dos maiores campeonatos do MMA da América Latina: Jungle Fight!</desc>
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">.49.</episode-num>
     <new />
   </programme>
-  <programme start="20250614194103 -0300" stop="20250615004252 -0300" channel="sportv-2">
+  <programme start="20250614195659 -0300" stop="20250615005848 -0300" channel="sportv-2">
     <title lang="pt">Jungle Fight 137 - Brasília,DF - ao vivo</title>
     <desc lang="pt"> - Fique por dentro do melhor do MMA da América Latina no Jungle Fight, aqui no sportv!</desc>
     <category lang="en">live broadcast</category>
@@ -21727,28 +21706,33 @@ skate: a MegaRampa.</desc>
     <desc lang="pt"> - </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250614154018 -0300" stop="20250614204540 -0300" channel="sportv-3">
+  <programme start="20250614154018 -0300" stop="20250614195444 -0300" channel="sportv-3">
     <title lang="pt">WSL: Etapa De Trestles - ao vivo</title>
     <sub-title lang="pt">California, EUA</sub-title>
     <desc lang="pt">As maiores emoções do Circuito Mundial de Skate, você acompanha aqui no sportv!</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250614204543 -0300" stop="20250614210120 -0300" channel="sportv-3">
+  <programme start="20250614195448 -0300" stop="20250614204251 -0300" channel="sportv-3">
     <title lang="pt">FABI NADA COM CAROL, A MAIOR CAMPEÃ PARALÍMPICA</title>
     <desc lang="pt"> - </desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250614210123 -0300" stop="20250614224742 -0300" channel="sportv-3">
+  <programme start="20250614204255 -0300" stop="20250614205011 -0300" channel="sportv-3">
+    <title lang="pt">1/1 GIBA FALA DE RELAÇÃO COM BERNARDINHO E QUASE AGRESSÃO AO TÉC</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250614205013 -0300" stop="20250614223632 -0300" channel="sportv-3">
     <title lang="pt">Liga das Nações de Vôlei Masculino: Bulgária x Alemanha - ao vivo</title>
     <desc lang="pt">Acompanhe aqui a trajetória dos gigantes da Seleção Brasileira de Vôlei em busca do bicampeonato. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250614224744 -0300" stop="20250614235715 -0300" channel="sportv-3">
+  <programme start="20250614223634 -0300" stop="20250614234605 -0300" channel="sportv-3">
     <title lang="pt">Hello LA</title>
     <desc lang="pt"> - Acompanhe como está indo os Jogos de Los Angeles em 2028. toda semana, o programa traz entrevistas, atualidades, termômetro de competições e informações do mundo Olímpico com Marcelo Barreto e Fabi Alvim</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250614235718 -0300" stop="20250615003626 -0300" channel="sportv-3">
+  <programme start="20250614234608 -0300" stop="20250615002516 -0300" channel="sportv-3">
     <title lang="pt">Sessão sportv: Skate Para Sempre - MEGa</title>
     <desc lang="pt">No dia 3 de agosto de 2016, o Comitê Olímpico Internacional (COI) fez o anúncio, no Rio de Janeiro, que mudaria para sempre a história do skate mundial. Naquele mesmo momento em que o esporte era confirmado como modalidade olímpica, um menino de 7 anos se tornava, em uma pista de vertical nos EUA, o mais jovem skatista do mundo a completar a manobra 720 graus. Nesta série, vamos contar a história do fenômeno Gui Khury. O prodígio que vem superando os “limites” do skate e que bateu o recorde de mais de 20 anos da lenda Tony Hawk ao completar o 1080 graus. Vamos acompanhar a trajetória desse skatista de 13 anos em busca da classificação para Paris-2024 e mostrar o atual cenário do esporte pelo mundo com o “boom” olímpico. Gui estará nas principais competições do circuito mundial em 2023 e 2024. Vamos acompanhá-lo nessa caminhada pelos principais redutos do skate, mostrando essa transformação que o esporte está passando. Do Brasil ao Japão, vamos passar pelos EUA e pela Europa, que receberá as próximas olimpíadas. E toda essa busca pela vaga em Paris vai estar acontecendo em meio à construção da maior rampa de skate do Brasil. Com 20m de altura, o MegaPark está sendo montado no quintal da casa da avó do Gui, em Curitiba, para que ele tenha a 
 oportunidade de desenvolver o seu talento na mais perigosa modalidade do skate: a MegaRampa.</desc>
@@ -22269,7 +22253,7 @@ oportunidade de desenvolver o seu talento na mais perigosa modalidade do skate: 
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250614185915 -0300" stop="20250614200414 -0300" channel="multishow">
+  <programme start="20250614185915 -0300" stop="20250614200054 -0300" channel="multishow">
     <title lang="pt">João Rock - ao vivo</title>
     <sub-title lang="pt">Cidade Negra</sub-title>
     <desc lang="pt"> - Confira a transmissão ao vivo do festival João Rock 2025, diretamente de Ribeirão Preto/SP
@@ -22280,7 +22264,7 @@ oportunidade de desenvolver o seu talento na mais perigosa modalidade do skate: 
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250614200416 -0300" stop="20250614210925 -0300" channel="multishow">
+  <programme start="20250614200057 -0300" stop="20250614210606 -0300" channel="multishow">
     <title lang="pt">João Rock - ao vivo</title>
     <sub-title lang="pt">Marcelo Falcão</sub-title>
     <desc lang="pt"> - Confira a transmissão ao vivo do festival João Rock 2025, diretamente de Ribeirão Preto/SP
@@ -22291,7 +22275,7 @@ oportunidade de desenvolver o seu talento na mais perigosa modalidade do skate: 
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250614210927 -0300" stop="20250614223426 -0300" channel="multishow">
+  <programme start="20250614210607 -0300" stop="20250614223106 -0300" channel="multishow">
     <title lang="pt">João Rock - ao vivo</title>
     <sub-title lang="pt">Natiruts</sub-title>
     <desc lang="pt"> - Confira a transmissão ao vivo do festival João Rock 2025, diretamente de Ribeirão Preto/SP
@@ -22302,7 +22286,7 @@ oportunidade de desenvolver o seu talento na mais perigosa modalidade do skate: 
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250614223427 -0300" stop="20250614233925 -0300" channel="multishow">
+  <programme start="20250614223108 -0300" stop="20250614233606 -0300" channel="multishow">
     <title lang="pt">João Rock - ao vivo</title>
     <sub-title lang="pt">Nando Reis</sub-title>
     <desc lang="pt"> - Confira a transmissão ao vivo do festival João Rock 2025, diretamente de Ribeirão Preto/SP
@@ -22313,7 +22297,7 @@ oportunidade de desenvolver o seu talento na mais perigosa modalidade do skate: 
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250614233928 -0300" stop="20250615004427 -0300" channel="multishow">
+  <programme start="20250614233608 -0300" stop="20250615004107 -0300" channel="multishow">
     <title lang="pt">João Rock - ao vivo</title>
     <sub-title lang="pt">Baianasystem</sub-title>
     <desc lang="pt"> - Confira a transmissão ao vivo do festival João Rock 2025, diretamente de Ribeirão Preto/SP
@@ -22493,7 +22477,7 @@ oportunidade de desenvolver o seu talento na mais perigosa modalidade do skate: 
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250614180607 -0300" stop="20250614183529 -0300" channel="gnt">
+  <programme start="20250614180607 -0300" stop="20250614183526 -0300" channel="gnt">
     <title lang="pt">Paleta De Cordeiro, Batata Ao Murro E Pavê De Morango</title>
     <desc lang="pt"> - Neste episódio, Rodrigo Hilbert vai até um criadouro de cordeiro entender um pouco mais sobre o animal. De volta ao seu sítio, ele prepara uma paleta de cordeiro e um molho de broto de bambu, que ele colhe no próprio sitio. Além disso, ainda faz batatas ao murro e um delicioso pavê de morango, para sobremesa.</desc>
     <rating system="Brazil">
@@ -22556,7 +22540,7 @@ oportunidade de desenvolver o seu talento na mais perigosa modalidade do skate: 
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250614233848 -0300" stop="20250614235929 -0300" channel="gnt">
+  <programme start="20250614233848 -0300" stop="20250615002506 -0300" channel="gnt">
     <title lang="pt">Admiráveis Conselheiras</title>
     <sub-title lang="pt">Alcione</sub-title>
     <desc lang="pt"> - Astrid encontra Alcione e conhece de perto os segredos de alegria, sucesso e beleza da Rainha do Samba. Atenção: a Marrom não economiza em sabedoria de bem-viver.</desc>
@@ -22737,14 +22721,14 @@ oportunidade de desenvolver o seu talento na mais perigosa modalidade do skate: 
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250614184831 -0300" stop="20250614194047 -0300" channel="globoplay-novelas">
+  <programme start="20250614184831 -0300" stop="20250614194048 -0300" channel="globoplay-novelas">
     <title lang="pt">Quatro Por Quatro</title>
     <desc lang="pt"> - Abigail, Auxiliadora, Tatiana e Babalu se envolvem em um acidente e descobrem que perderam seus amores no mesmo dia. As quatro mulheres se unem para se vingar dos ex-parceiros.</desc>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250614194051 -0300" stop="20250614202340 -0300" channel="globoplay-novelas">
+  <programme start="20250614194051 -0300" stop="20250614202341 -0300" channel="globoplay-novelas">
     <title lang="pt">Roque Santeiro</title>
     <desc lang="pt"> - Delegado Feijó e Lourival intimam Sinhozinho para depor. Mocinha volta a trabalhar na Prefeitura. Linda e Tito buscam a ajuda de Porcina. Lulu faz uma confissão a Zé das Medalhas.</desc>
     <rating system="Brazil">
@@ -22989,7 +22973,7 @@ oportunidade de desenvolver o seu talento na mais perigosa modalidade do skate: 
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250614162303 -0300" stop="20250614183038 -0300" channel="canal-brasil">
+  <programme start="20250614162303 -0300" stop="20250614183040 -0300" channel="canal-brasil">
     <title lang="pt">Gonzaga - De Pai Pra Filho</title>
     <desc lang="pt"> - Cinebiografia do Rei do Baião. Após o nascimento do filho, Luiz Gonzaga cai na estrada e deixa o pequeno no RJ. Ele só não imaginava que essa distância entre eles faria crescer uma complicada relação.</desc>
     <rating system="Brazil">
@@ -23033,7 +23017,7 @@ oportunidade de desenvolver o seu talento na mais perigosa modalidade do skate: 
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250614235313 -0300" stop="20250615014459 -0300" channel="canal-brasil">
+  <programme start="20250614235313 -0300" stop="20250615014553 -0300" channel="canal-brasil">
     <title lang="pt">Mostra Carlos Reichenbach</title>
     <sub-title lang="pt">Alma Corsária</sub-title>
     <desc lang="pt"> - Amigos de infância, Rivaldo e Teodoro lançam um livro de poesia. Para espanto do editor, a dupla convida para a noite de autógrafos tipos estranhos.</desc>
@@ -23693,7 +23677,7 @@ pegam carona em um trator e a cena resulta em uma sessão de surfe inesquecível
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250614181033 -0300" stop="20250614191032 -0300" channel="bis">
+  <programme start="20250614181016 -0300" stop="20250614191015 -0300" channel="bis">
     <title lang="pt">João Rock 2025.</title>
     <sub-title lang="pt">Ana Cañas</sub-title>
     <desc lang="pt"> - Confira a transmissão ao vivo do festival João Rock 2025, diretamente de Ribeirão Preto/SP
@@ -23702,7 +23686,7 @@ pegam carona em um trator e a cena resulta em uma sessão de surfe inesquecível
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250614191033 -0300" stop="20250614201032 -0300" channel="bis">
+  <programme start="20250614191003 -0300" stop="20250614200602 -0300" channel="bis">
     <title lang="pt">João Rock 2025.</title>
     <sub-title lang="pt">Tony Tornado E Banda Do Síndico</sub-title>
     <desc lang="pt"> - Confira a transmissão ao vivo do festival João Rock 2025, diretamente de Ribeirão Preto/SP
@@ -23711,7 +23695,21 @@ pegam carona em um trator e a cena resulta em uma sessão de surfe inesquecível
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250614201034 -0300" stop="20250614211033 -0300" channel="bis">
+  <programme start="20250614200526 -0300" stop="20250614210355 -0300" channel="bis">
+    <title lang="pt">João Rock 2025 - Tony Tornado E Banda Do Síndico - ao vivo</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20250614201017 -0300" stop="20250614201211 -0300" channel="bis">
+    <title lang="pt">João Rock 2025.</title>
+    <sub-title lang="pt">Tony Tornado E Banda Do Síndico</sub-title>
+    <desc lang="pt"> - Confira a transmissão ao vivo do festival João Rock 2025, diretamente de Ribeirão Preto/SP
+</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250614201212 -0300" stop="20250614211211 -0300" channel="bis">
     <title lang="pt">João Rock 2025.</title>
     <sub-title lang="pt">Zélia Duncan E Paulinho Moska</sub-title>
     <desc lang="pt"> - Confira a transmissão ao vivo do festival João Rock 2025, diretamente de Ribeirão Preto/SP
@@ -23720,7 +23718,7 @@ pegam carona em um trator e a cena resulta em uma sessão de surfe inesquecível
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250614211034 -0300" stop="20250614221033 -0300" channel="bis">
+  <programme start="20250614211212 -0300" stop="20250614221211 -0300" channel="bis">
     <title lang="pt">João Rock 2025.</title>
     <sub-title lang="pt">Baile do Simonal</sub-title>
     <desc lang="pt"> - Confira a transmissão ao vivo do festival João Rock 2025, diretamente de Ribeirão Preto/SP
@@ -23729,7 +23727,7 @@ pegam carona em um trator e a cena resulta em uma sessão de surfe inesquecível
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250614221034 -0300" stop="20250614231033 -0300" channel="bis">
+  <programme start="20250614221212 -0300" stop="20250614231211 -0300" channel="bis">
     <title lang="pt">João Rock 2025.</title>
     <sub-title lang="pt">Vanessa Da Mata</sub-title>
     <desc lang="pt"> - Confira a transmissão ao vivo do festival João Rock 2025, diretamente de Ribeirão Preto/SP
@@ -23738,7 +23736,7 @@ pegam carona em um trator e a cena resulta em uma sessão de surfe inesquecível
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250614231034 -0300" stop="20250615002459 -0300" channel="bis">
+  <programme start="20250614231212 -0300" stop="20250615002711 -0300" channel="bis">
     <title lang="pt">João Rock 2025.</title>
     <sub-title lang="pt">Farofa Carioca</sub-title>
     <desc lang="pt"> - Confira a transmissão ao vivo do festival João Rock 2025, diretamente de Ribeirão Preto/SP
@@ -24462,25 +24460,31 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">.30.</episode-num>
   </programme>
-  <programme start="20250614185029 -0300" stop="20250614190634 -0300" channel="combate">
+  <programme start="20250614185029 -0300" stop="20250614185609 -0300" channel="combate">
     <title lang="pt">1/1 BAÚ DO COMBATE - GABRIEL BRAGA X FRED DUPRAS</title>
     <sub-title lang="pt">realizado em 13/06/2025</sub-title>
     <category lang="en">sports (general)</category>
     <date>13/06/2025</date>
   </programme>
-  <programme start="20250614190637 -0300" stop="20250614192542 -0300" channel="combate">
+  <programme start="20250614185611 -0300" stop="20250614190635 -0300" channel="combate">
+    <title lang="pt">1/1 BAÚ DO COMBATE - MISTOCA X LUCAS CODUTTI</title>
+    <sub-title lang="pt">realizado em 13/06/2025</sub-title>
+    <category lang="en">sports (general)</category>
+    <date>13/06/2025</date>
+  </programme>
+  <programme start="20250614190637 -0300" stop="20250614192707 -0300" channel="combate">
     <title lang="pt">1/1 TOP 5: MELHORES LUTAS DA LARISSA PACHECO</title>
     <sub-title lang="pt">realizado em 15/06/2023</sub-title>
     <category lang="en">sports (general)</category>
     <date>15/06/2023</date>
   </programme>
-  <programme start="20250614192543 -0300" stop="20250614195506 -0300" channel="combate">
+  <programme start="20250614192708 -0300" stop="20250614195656 -0300" channel="combate">
     <title lang="pt">Sessão Combate: Jungle Fight: Nocautes Jungle</title>
     <desc lang="pt">Uma seleção especial de nocautes de um dos maiores campeonatos do MMA da América Latina: Jungle Fight!</desc>
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">.49.</episode-num>
   </programme>
-  <programme start="20250614195508 -0300" stop="20250615005247 -0300" channel="combate">
+  <programme start="20250614195658 -0300" stop="20250615005437 -0300" channel="combate">
     <title lang="pt">Jungle Fight 137 - Brasília,DF - ao vivo</title>
     <desc lang="pt"> - Fique por dentro do melhor do MMA da América Latina no Jungle Fight, aqui no sportv!</desc>
     <category lang="en">live broadcast</category>
@@ -24613,29 +24617,29 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
     <sub-title lang="pt">Futebol</sub-title>
     <desc lang="pt"> - Botafogo x Seattle Sounders</desc>
   </programme>
-  <programme start="20250614224903 -0300" stop="20250615002312 -0300" channel="sportv">
+  <programme start="20250614233600 -0300" stop="20250615011009 -0300" channel="sportv">
     <title lang="pt">Troca de Passes - ao vivo</title>
     <desc lang="pt"> - Felipe Diniz, Carlos Eduardo Mansur e Alex Meschini troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada. Veja os melhores momentos, tire as dúvidas daquele lance polêmico acompanhe a repercussão com jogadores e treinadores no calor do jogo. Aqui ninguém fica em cima do muro.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250615002315 -0300" stop="20250615012257 -0300" channel="sportv">
+  <programme start="20250615011012 -0300" stop="20250615020954 -0300" channel="sportv">
     <title lang="pt">Copa Do Mundo De Clubes Da FIFA: Al-Ahly (EGIi) x Inter Miami (EUA)</title>
     <desc lang="pt">32 clubes, um sonho global. O torneio ganha novo formato e consagra o maior campeão do planeta, assista no sportv!Tá no Mundial de Clubes, tá no sportv!</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250615012258 -0300" stop="20250615031134 -0300" channel="sportv">
+  <programme start="20250615020955 -0300" stop="20250615035831 -0300" channel="sportv">
     <title lang="pt">Sessão sportv - Copa Do Mundo De Clubes: Todo Dia É 4 De Novembro - O Fluminense Conquista A América</title>
     <desc lang="pt">A histórica campanha tricolor na Libertadores contada por seus protagonistas. Os bastidores da conquista desde a estreia no torneio até o topo da América. Um título para sempre.</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250615031136 -0300" stop="20250615035505 -0300" channel="sportv">
+  <programme start="20250615035833 -0300" stop="20250615044315 -0300" channel="sportv">
     <title lang="pt">Sessão sportv - Copa Do Mundo De Clubes</title>
     <sub-title lang="pt">Onde Estiver, Estarei</sub-title>
     <desc lang="pt">Até O Fim</desc>
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">.0.</episode-num>
   </programme>
-  <programme start="20250615040000 -0300" stop="20250615045959 -0300" channel="sportv">
+  <programme start="20250615044316 -0300" stop="20250615045959 -0300" channel="sportv">
     <title lang="pt">Sessão sportv - Copa Do Mundo De Clubes: Os Mistérios Do Mister</title>
     <desc lang="pt">Até O Fim</desc>
     <category lang="en">sports (general)</category>
@@ -24741,12 +24745,12 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
     <desc lang="pt">32 clubes, um sonho global. O torneio ganha novo formato e consagra o maior campeão do planeta, assista no sportv!Tá no Mundial de Clubes, tá no sportv!</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250614195834 -0300" stop="20250615010023 -0300" channel="sportv-2">
+  <programme start="20250614195659 -0300" stop="20250615005848 -0300" channel="sportv-2">
     <title lang="pt">Jungle Fight 137 - Brasília,DF - ao vivo</title>
     <desc lang="pt"> - Fique por dentro do melhor do MMA da América Latina no Jungle Fight, aqui no sportv!</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250615010025 -0300" stop="20250615025959 -0300" channel="sportv-2">
+  <programme start="20250615005850 -0300" stop="20250615030104 -0300" channel="sportv-2">
     <title lang="pt">VT - NBB: Minas x Franca - Playoffs</title>
     <sub-title lang="pt">Jogo 3</sub-title>
     <desc lang="pt">O melhor do basquete nacional tá de volta! É a NBB e você acompanha aqui no sportv
@@ -24754,7 +24758,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
     <category lang="en">team sports</category>
     <previously-shown />
   </programme>
-  <programme start="20250615030000 -0300" stop="20250615045959 -0300" channel="sportv-2">
+  <programme start="20250615030106 -0300" stop="20250615045959 -0300" channel="sportv-2">
     <title lang="pt">VT - Liga das Nações de Vôlei Masculino: Eua x Eslovênia</title>
     <desc lang="pt">Acompanhe aqui a trajetória dos gigantes da Seleção Brasileira de Vôlei em busca do bicampeonato. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
     <category lang="en">team sports</category>
@@ -24887,7 +24891,7 @@ oportunidade de desenvolver o seu talento na mais perigosa modalidade do skate: 
     <category lang="en">sports (general)</category>
     <previously-shown />
   </programme>
-  <programme start="20250614235718 -0300" stop="20250615003626 -0300" channel="sportv-3">
+  <programme start="20250614234608 -0300" stop="20250615002516 -0300" channel="sportv-3">
     <title lang="pt">Sessão sportv: Skate Para Sempre - MEGa</title>
     <desc lang="pt">No dia 3 de agosto de 2016, o Comitê Olímpico Internacional (COI) fez o anúncio, no Rio de Janeiro, que mudaria para sempre a história do skate mundial. Naquele mesmo momento em que o esporte era confirmado como modalidade olímpica, um menino de 7 anos se tornava, em uma pista de vertical nos EUA, o mais jovem skatista do mundo a completar a manobra 720 graus. Nesta série, vamos contar a história do fenômeno Gui Khury. O prodígio que vem superando os “limites” do skate e que bateu o recorde de mais de 20 anos da lenda Tony Hawk ao completar o 1080 graus. Vamos acompanhar a trajetória desse skatista de 13 anos em busca da classificação para Paris-2024 e mostrar o atual cenário do esporte pelo mundo com o “boom” olímpico. Gui estará nas principais competições do circuito mundial em 2023 e 2024. Vamos acompanhá-lo nessa caminhada pelos principais redutos do skate, mostrando essa transformação que o esporte está passando. Do Brasil ao Japão, vamos passar pelos EUA e pela Europa, que receberá as próximas olimpíadas. E toda essa busca pela vaga em Paris vai estar acontecendo em meio à construção da maior rampa de skate do Brasil. Com 20m de altura, o MegaPark está sendo montado no quintal da casa da avó do Gui, em Curitiba, para que ele tenha a 
 oportunidade de desenvolver o seu talento na mais perigosa modalidade do skate: a MegaRampa.</desc>
@@ -24897,35 +24901,35 @@ oportunidade de desenvolver o seu talento na mais perigosa modalidade do skate: 
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250615003628 -0300" stop="20250615013517 -0300" channel="sportv-3">
+  <programme start="20250615002518 -0300" stop="20250615012407 -0300" channel="sportv-3">
     <title lang="pt">VT - Stock Car: 3ª Etapa - Velopark</title>
     <sub-title lang="pt">Corrida 1</sub-title>
     <desc lang="pt">Acompanhe uma das mais importantes e tradicionais competições de automobilismo, no sportv</desc>
     <category lang="en">motor sport</category>
     <previously-shown />
   </programme>
-  <programme start="20250615013519 -0300" stop="20250615022959 -0300" channel="sportv-3">
+  <programme start="20250615012409 -0300" stop="20250615022420 -0300" channel="sportv-3">
     <title lang="pt">VT - Stock Car: 3ª Etapa - Velopark</title>
     <sub-title lang="pt">Corrida 2</sub-title>
     <desc lang="pt">Acompanhe uma das mais importantes e tradicionais competições de automobilismo, no sportv</desc>
     <category lang="en">motor sport</category>
     <previously-shown />
   </programme>
-  <programme start="20250615023000 -0300" stop="20250615042959 -0300" channel="sportv-3">
+  <programme start="20250615022422 -0300" stop="20250615040204 -0300" channel="sportv-3">
     <title lang="pt">VT - Mundial de Judô</title>
     <sub-title lang="pt">Finais - Budapeste,Hungria</sub-title>
     <desc lang="pt">Veja as finais do Mundial de Judô aqui no sportv!
 </desc>
     <previously-shown />
   </programme>
-  <programme start="20250615043000 -0300" stop="20250615062959 -0300" channel="sportv-3">
+  <programme start="20250615040206 -0300" stop="20250615052309 -0300" channel="sportv-3">
     <title lang="pt">VT - Mundial De Judô - Finais - Budapeste,Hungria</title>
     <desc lang="pt"> - Veja as finais do Mundial de Judô aqui no sportv!
 </desc>
     <category lang="en">sports (general)</category>
     <previously-shown />
   </programme>
-  <programme start="20250615063000 -0300" stop="20250615092959 -0300" channel="sportv-3">
+  <programme start="20250615052311 -0300" stop="20250615081138 -0300" channel="sportv-3">
     <title lang="pt">Faixa Combate: Attack Fight 37</title>
     <desc lang="pt">O ATTACK FIGHT é uma organização de esportes de contato fundada por Adriano Souza em 2015, é um dos maiores eventos de Muay Thai profissional do Brasil.</desc>
     <category lang="en">sports (general)</category>
@@ -25552,7 +25556,7 @@ skate: a MegaRampa.</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250614234000 -0300" stop="20250615002659 -0300" channel="gnt">
+  <programme start="20250614233848 -0300" stop="20250615002506 -0300" channel="gnt">
     <title lang="pt">Admiráveis Conselheiras</title>
     <sub-title lang="pt">Alcione</sub-title>
     <desc lang="pt"> - Astrid encontra Alcione e conhece de perto os segredos de alegria, sucesso e beleza da Rainha do Samba. Atenção: a Marrom não economiza em sabedoria de bem-viver.</desc>
@@ -25560,7 +25564,7 @@ skate: a MegaRampa.</desc>
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250615002700 -0300" stop="20250615005759 -0300" channel="gnt">
+  <programme start="20250615002510 -0300" stop="20250615005610 -0300" channel="gnt">
     <title lang="pt">Uma Senhora Panela</title>
     <sub-title lang="pt">Caruru de Rabada – Criolo</sub-title>
     <desc lang="pt"> - O caruru de rabada, delícia que tem origem no continente africano, tem sua história revelada por Carmem Virginia, que recebe em sua cozinha Criolo.</desc>
@@ -25568,7 +25572,7 @@ skate: a MegaRampa.</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250615005800 -0300" stop="20250615013059 -0300" channel="gnt">
+  <programme start="20250615005614 -0300" stop="20250615010855 -0300" channel="gnt">
     <title lang="pt">10 Anos De Papo De Segunda</title>
     <desc lang="pt"> - 10 Anos De Papo relembra a trajetória desta década do programa. A cada episódio, uma nova temporada do Papo resumida em melhores momentos de debates, quadros e convidados.</desc>
     <rating system="Brazil">
@@ -25821,14 +25825,14 @@ skate: a MegaRampa.</desc>
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250614232700 -0300" stop="20250615000357 -0300" channel="globoplay-novelas">
+  <programme start="20250614232700 -0300" stop="20250615002519 -0300" channel="globoplay-novelas">
     <title lang="pt">Celebridade</title>
     <desc lang="pt"> - Maria Clara acerta os últimos detalhes para a noite com Fernando. Lineu pede ajuda de Yolanda. Fernando descobre as mentiras de Inácio. Ubaldo faz uma oferta a Jaqueline.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250615003000 -0300" stop="20250615011359 -0300" channel="globoplay-novelas">
+  <programme start="20250615002524 -0300" stop="20250615011017 -0300" channel="globoplay-novelas">
     <title lang="pt">Caras &amp; Bocas</title>
     <sub-title lang="pt">Caras E Bocas</sub-title>
     <desc lang="pt"> - Dafne e Gabriel têm seus caminhos cruzados novamente, 15 anos após serem separados por uma armação do avô dela.  A reaproximação, porém, põe em risco os planos da megera Judith.</desc>
@@ -25836,14 +25840,14 @@ skate: a MegaRampa.</desc>
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250615012000 -0300" stop="20250615020459 -0300" channel="globoplay-novelas">
+  <programme start="20250615011021 -0300" stop="20250615015653 -0300" channel="globoplay-novelas">
     <title lang="pt">Plumas E Paetês</title>
     <desc lang="pt"> - Amanda aconselha Marcela a pedir um emprego para Luísa. Jorginho fica com ciúme ao perceber que Kurlan quer sair com Nadir. Jorginho pressiona Nadir a ficar a sós com ele.</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250615020100 -0300" stop="20250615024759 -0300" channel="globoplay-novelas">
+  <programme start="20250615015700 -0300" stop="20250615024518 -0300" channel="globoplay-novelas">
     <title lang="pt">O Amor Invencível</title>
     <sub-title lang="pt">O Segredo de Leona</sub-title>
     <desc lang="pt"> - Gael contrata Leona como sua assessora pessoal. Leona encontra Ramsés pela primeira vez em 15 anos. Gael pede a Ramsés o divórcio de Columba, e ele nega. Leona perdoa Consuelo.</desc>
@@ -26023,7 +26027,7 @@ skate: a MegaRampa.</desc>
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250614235313 -0300" stop="20250615014459 -0300" channel="canal-brasil">
+  <programme start="20250614235313 -0300" stop="20250615014553 -0300" channel="canal-brasil">
     <title lang="pt">Mostra Carlos Reichenbach</title>
     <sub-title lang="pt">Alma Corsária</sub-title>
     <desc lang="pt"> - Amigos de infância, Rivaldo e Teodoro lançam um livro de poesia. Para espanto do editor, a dupla convida para a noite de autógrafos tipos estranhos.</desc>
@@ -26031,7 +26035,7 @@ skate: a MegaRampa.</desc>
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250615014500 -0300" stop="20250615033159 -0300" channel="canal-brasil">
+  <programme start="20250615014555 -0300" stop="20250615033459 -0300" channel="canal-brasil">
     <title lang="pt">Mostra Carlos Reichenbach</title>
     <sub-title lang="pt">Bens Confiscados</sub-title>
     <desc lang="pt"> - Um poderoso senador é denunciado pela esposa por corrupção, tráfico de influência e bigamia. Quando sua amante se suicida, ele manda seqüestrar o filho bastardo para escondê-lo da imprensa e dos inimigos. Para cuidar do menino, uma ex-amante do político, que tenta mostrar-lhe o lado humano do pai.</desc>
@@ -26334,7 +26338,7 @@ Trans no Corre nos mostram os benefícios da atividade física para além do cor
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250615005944 -0300" stop="20250615012659 -0300" channel="canal-off">
+  <programme start="20250615005944 -0300" stop="20250615012736 -0300" channel="canal-off">
     <title lang="pt">Eu, Silvana Lima</title>
     <sub-title lang="pt">O Surfe Profissional</sub-title>
     <desc lang="pt"> - Chegando no Rio de Janeiro, Silvana passa a ter contato com o surfe profissional e se estabelece como uma das principais surfistas de sua geração.</desc>
@@ -26342,7 +26346,7 @@ Trans no Corre nos mostram os benefícios da atividade física para além do cor
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250615012700 -0300" stop="20250615014959 -0300" channel="canal-off">
+  <programme start="20250615012739 -0300" stop="20250615015053 -0300" channel="canal-off">
     <title lang="pt">Skate Tales</title>
     <sub-title lang="pt">Vitória Mendonça</sub-title>
     <desc lang="pt"> - Madars conhece a cultura do skate brasileiro com a streeteira, Vitória. Inspiração do skate feminino, a skatista veio de raízes humildes para se tornar referência da nova geração.</desc>
@@ -26350,7 +26354,7 @@ Trans no Corre nos mostram os benefícios da atividade física para além do cor
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250615015000 -0300" stop="20250615021759 -0300" channel="canal-off">
+  <programme start="20250615015054 -0300" stop="20250615021838 -0300" channel="canal-off">
     <title lang="pt">Sem Fricção</title>
     <sub-title lang="pt">Surftrip No Rio De Janeiro</sub-title>
     <desc lang="pt"> - Ao lado de Daniel Rangel, Derek Hynd conhece praias no litoral do Rio de Janeiro. Nesse último episódio, conhecemos mais aspectos do seu jeito de levar a vida sem fricção.</desc>
@@ -26358,7 +26362,7 @@ Trans no Corre nos mostram os benefícios da atividade física para além do cor
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250615021800 -0300" stop="20250615024759 -0300" channel="canal-off">
+  <programme start="20250615021841 -0300" stop="20250615024759 -0300" channel="canal-off">
     <title lang="pt">Ideias Para Mudar O Mundo</title>
     <sub-title lang="pt">Cidade Sustentável</sub-title>
     <desc lang="pt"> - Quatro personagens trazem soluções aos problemas socioambientais causados pelo processo desordenado de urbanização no Brasil e ideias para cidades mais sustentáveis.</desc>
@@ -26710,7 +26714,7 @@ Trans no Corre nos mostram os benefícios da atividade física para além do cor
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250614231018 -0300" stop="20250615002517 -0300" channel="bis">
+  <programme start="20250614231212 -0300" stop="20250615002711 -0300" channel="bis">
     <title lang="pt">João Rock 2025.</title>
     <sub-title lang="pt">Farofa Carioca</sub-title>
     <desc lang="pt"> - Confira a transmissão ao vivo do festival João Rock 2025, diretamente de Ribeirão Preto/SP
@@ -26719,7 +26723,7 @@ Trans no Corre nos mostram os benefícios da atividade física para além do cor
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250615002518 -0300" stop="20250615012959 -0300" channel="bis">
+  <programme start="20250615002712 -0300" stop="20250615013251 -0300" channel="bis">
     <title lang="pt">João Rock 2025.</title>
     <sub-title lang="pt">Seu Jorge</sub-title>
     <desc lang="pt"> - Confira a transmissão ao vivo do festival João Rock 2025, diretamente de Ribeirão Preto/SP
@@ -26728,7 +26732,7 @@ Trans no Corre nos mostram os benefícios da atividade física para além do cor
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250615013000 -0300" stop="20250615015759 -0300" channel="bis">
+  <programme start="20250615013252 -0300" stop="20250615020011 -0300" channel="bis">
     <title lang="pt">Inesquecíveis Bossa Nova 4</title>
     <desc lang="pt"> - Olivia Hime e Francis Hime homenageiam grandes músicas que marcaram a Bossa Nova.No programa de hoje sucessos como "Desafinado" , "Coração Vagabundo" e "Não Existo Sem Você".</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
@@ -26736,7 +26740,7 @@ Trans no Corre nos mostram os benefícios da atividade física para além do cor
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250615015800 -0300" stop="20250615022959 -0300" channel="bis">
+  <programme start="20250615020015 -0300" stop="20250615022959 -0300" channel="bis">
     <title lang="pt">Hip Hop Machine</title>
     <sub-title lang="pt">Bk</sub-title>
     <desc lang="pt"> - BK tem uma poesia afiada e estilo inconfundível, ele traz uma energia única para o Hip Hop Machine, elevando ainda mais essa experiência musical inspiradora.</desc>
@@ -26958,7 +26962,7 @@ autenticidade nacional e negra brasileira nos anos 1970.
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250614235049 -0300" stop="20250615001735 -0300" channel="modo-viagem">
+  <programme start="20250614235107 -0300" stop="20250615001753 -0300" channel="modo-viagem">
     <title lang="pt">Viagem A Qualquer Custo 3b (No</title>
     <sub-title lang="pt">Mendoza</sub-title>
     <desc lang="pt"> - Na capital do vinho da América do Sul, seja qual for a rota, a viagem de Fepa e Luana será guiada por muitos e bons brindes.</desc>
@@ -26966,7 +26970,7 @@ autenticidade nacional e negra brasileira nos anos 1970.
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250615001738 -0300" stop="20250615005108 -0300" channel="modo-viagem">
+  <programme start="20250615001756 -0300" stop="20250615005126 -0300" channel="modo-viagem">
     <title lang="pt">Euceano-T3</title>
     <sub-title lang="pt">Golfinho Rotador</sub-title>
     <desc lang="pt"> - Rodrigo Thomé e Rodrigo Cebrian acompanham o Projeto Golfinho Rotador, em Noronha, e mostram o impacto da educação ambiental, pesquisa e o incentivo a conservação da espécie.</desc>
@@ -26975,7 +26979,7 @@ autenticidade nacional e negra brasileira nos anos 1970.
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250615005110 -0300" stop="20250615012659 -0300" channel="modo-viagem">
+  <programme start="20250615005128 -0300" stop="20250615012944 -0300" channel="modo-viagem">
     <title lang="pt">Casas Flutuantes</title>
     <sub-title lang="pt">Catalão: Uma Cidade Sobre As Águas</sub-title>
     <desc lang="pt"> - Amyr Klink nos apresenta a um bairro inteiro que se move sobre as águas, no Amazonas. São mais de 100 construções: casas, bares, igrejas, escolas.</desc>
@@ -26983,7 +26987,7 @@ autenticidade nacional e negra brasileira nos anos 1970.
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250615012700 -0300" stop="20250615015259 -0300" channel="modo-viagem">
+  <programme start="20250615012947 -0300" stop="20250615015425 -0300" channel="modo-viagem">
     <title lang="pt">Expedição Goiás</title>
     <sub-title lang="pt">Desbravando Terra Ronca</sub-title>
     <desc lang="pt"> - Victor aprofunda sua exploração em Terra Ronca, focando nas cavernas menos acessíveis e deslumbrantes da região.</desc>
@@ -26991,7 +26995,7 @@ autenticidade nacional e negra brasileira nos anos 1970.
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250615015300 -0300" stop="20250615021959 -0300" channel="modo-viagem">
+  <programme start="20250615015428 -0300" stop="20250615022050 -0300" channel="modo-viagem">
     <title lang="pt">Mundo Visto De Cima</title>
     <sub-title lang="pt">Dinamarca - Parte 1</sub-title>
     <desc lang="pt"> - Com uma cultura moldada por sua geografia, é possível ver a história da Dinamarca do ar. Do passado brutal da era Viking até a sociedade pacífica atual e voltada pro futuro.</desc>
@@ -26999,7 +27003,7 @@ autenticidade nacional e negra brasileira nos anos 1970.
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250615022000 -0300" stop="20250615025059 -0300" channel="modo-viagem">
+  <programme start="20250615022051 -0300" stop="20250615025059 -0300" channel="modo-viagem">
     <title lang="pt">Mundo Visto De Cima</title>
     <sub-title lang="pt">Dinamarca - Parte 2</sub-title>
     <desc lang="pt"> - Com uma cultura moldada por sua geografia, é possível ver a história da Dinamarca do ar. Do passado brutal da era Viking até a sociedade pacífica atual e voltada pro futuro.</desc>
@@ -27397,13 +27401,13 @@ e excelência em vinhos.
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250615022850 -0300" stop="20250615030403 -0300" channel="premiere">
+  <programme start="20250615022850 -0300" stop="20250615025538 -0300" channel="premiere">
     <title lang="pt">Giro da Rodada: Brasileirão</title>
     <sub-title lang="pt">12ª Rodada</sub-title>
     <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol aqui o sportv!</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250615030406 -0300" stop="20250615035959 -0300" channel="premiere">
+  <programme start="20250615030000 -0300" stop="20250615035959 -0300" channel="premiere">
     <title lang="pt">VT - Brasileirão: Vitória x Cruzeiro</title>
     <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!
 </desc>
@@ -27558,26 +27562,32 @@ e excelência em vinhos.
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250614193137 -0300" stop="20250615003221 -0300" channel="combate">
+  <programme start="20250614195658 -0300" stop="20250615005437 -0300" channel="combate">
     <title lang="pt">Jungle Fight 137 - Brasília,DF - ao vivo</title>
     <desc lang="pt"> - Fique por dentro do melhor do MMA da América Latina no Jungle Fight, aqui no sportv!</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250615003223 -0300" stop="20250615015216 -0300" channel="combate">
+  <programme start="20250615005439 -0300" stop="20250615011619 -0300" channel="combate">
+    <title lang="pt">1/1 TOP 5: MELHORES LUTAS DA LARISSA PACHECO</title>
+    <sub-title lang="pt">realizado em 15/06/2023</sub-title>
+    <category lang="en">sports (general)</category>
+    <date>15/06/2023</date>
+  </programme>
+  <programme start="20250615011620 -0300" stop="20250615023613 -0300" channel="combate">
     <title lang="pt">VT - Mundial De Judô - Finais - Budapeste,Hungria</title>
     <desc lang="pt"> - Veja as finais do Mundial de Judô aqui no sportv!
 </desc>
     <category lang="en">sports (general)</category>
     <previously-shown />
   </programme>
-  <programme start="20250615015218 -0300" stop="20250615033020 -0300" channel="combate">
+  <programme start="20250615023616 -0300" stop="20250615041118 -0300" channel="combate">
     <title lang="pt">VT - Mundial de Judô</title>
     <sub-title lang="pt">Finais - Budapeste,Hungria</sub-title>
     <desc lang="pt">Veja as finais do Mundial de Judô aqui no sportv!
 </desc>
     <previously-shown />
   </programme>
-  <programme start="20250615033022 -0300" stop="20250615044342 -0300" channel="combate">
+  <programme start="20250615050000 -0300" stop="20250615065959 -0300" channel="combate">
     <title lang="pt">Boxe: Richard Torrez Jr. Vs Guido Vianello</title>
     <desc lang="pt"> - Top Rank, é uma das maiores promotora de lutas de boxe do mundo. Fundada em 1973, e por quase meio século, promove as lutas mais importantes de algumas lendas do boxe, como Muhammad Ali, Sugar Ray Leonard, Oscar de La Hoya, Floyd Mayweather, Tyson Fury e Manny Pacquiao.
 A top rank conta com a participação de grandes nobres da nobre arte da atualidade, entre eles os brasileiros e medalhistas olímpicos Robson Conceição e Esquiva Falcão.
@@ -37737,25 +37747,7 @@ Marrocos, começando em Maknès, onde explora a rica gastronomia no Domaine De L
     <desc lang="pt"> - As principais notícias do dia e agilidade na informação.</desc>
     <category lang="en">variety show</category>
   </programme>
-  <programme start="20250614190839 -0300" stop="20250614192446 -0300" channel="Novelas">
-    <title lang="pt">Chiquititas 97</title>
-    <desc lang="pt"> - Grupo de crianças que vive no orfanato Raio de Luz e busca amizade, amor e um novo lar.</desc>
-    <category lang="en">comedy</category>
-    <episode-num system="xmltv_ns">7.141.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250614192752 -0300" stop="20250614200844 -0300" channel="Novelas">
-    <title lang="pt">Chiquititas 97</title>
-    <desc lang="pt"> - Grupo de crianças que vive no orfanato Raio de Luz e busca amizade, amor e um novo lar.</desc>
-    <category lang="en">comedy</category>
-    <episode-num system="xmltv_ns">7.142.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250614201100 -0300" stop="20250614205700 -0300" channel="Novelas">
+  <programme start="20250614204525 -0300" stop="20250614205700 -0300" channel="Novelas">
     <title lang="pt">Chiquititas 97</title>
     <desc lang="pt"> - Grupo de crianças que vive no orfanato Raio de Luz e busca amizade, amor e um novo lar.</desc>
     <category lang="en">comedy</category>
@@ -38295,26 +38287,7 @@ Marrocos, começando em Maknès, onde explora a rica gastronomia no Domaine De L
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250614192314 -0300" stop="20250614200235 -0300" channel="Silvio Santos">
-    <title lang="pt">Show de Calouros</title>
-    <sub-title lang="pt">realizado em 10/07/1988</sub-title>
-    <desc lang="pt">O clássico dos clássicos! Nos anos 80, todo aspirante a artista queria estar no Show de Calouros!</desc>
-    <category lang="en">variety show</category>
-    <date>10/07/1988</date>
-    <episode-num system="xmltv_ns">3.8.</episode-num>
-    <rating system="Brazil">
-      <value>[A10]</value>
-    </rating>
-  </programme>
-  <programme start="20250614201015 -0300" stop="20250614201800 -0300" channel="Silvio Santos">
-    <title lang="pt">Melhores Momentos</title>
-    <desc lang="pt"> - Melhores Momentos com Silvio Santos</desc>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <rating system="Brazil">
-      <value>[AL]</value>
-    </rating>
-  </programme>
-  <programme start="20250614201800 -0300" stop="20250614213037 -0300" channel="Silvio Santos">
+  <programme start="20250614205059 -0300" stop="20250614213037 -0300" channel="Silvio Santos">
     <title lang="pt">Rei Majestade</title>
     <sub-title lang="pt">realizado em 07/06/2006</sub-title>
     <desc lang="pt">Programa nostálgico que reunia grandes músicos de todo o Brasil, entregando-se à magia da música.</desc>
@@ -39772,7 +39745,7 @@ Marrocos, começando em Maknès, onde explora a rica gastronomia no Domaine De L
       <value>[AL]</value>
     </rating>
   </programme>
-  <programme start="20250621180324 -0300" stop="20250621192935 -0300" channel="Silvio Santos">
+  <programme start="20250621180324 -0300" stop="20250621195024 -0300" channel="Silvio Santos">
     <title lang="pt">Show de Calouros</title>
     <sub-title lang="pt">realizado em 04/09/1988</sub-title>
     <desc lang="pt">O clássico dos clássicos! Nos anos 80, todo aspirante a artista queria estar no Show de Calouros!</desc>
@@ -39783,13 +39756,29 @@ Marrocos, começando em Maknès, onde explora a rica gastronomia no Domaine De L
       <value>[A10]</value>
     </rating>
   </programme>
-  <programme start="20250614192900 -0300" stop="20250614202524 -0300" channel="TV Zyn">
-    <title lang="pt">Patrulha Salvadora</title>
-    <desc lang="pt"> - As crianças mais amadas de Carrossel agora são super heróis que lutam contra o crime!</desc>
-    <category lang="en">comedy</category>
-    <episode-num system="xmltv_ns">1.16.</episode-num>
+  <programme start="20250621195034 -0300" stop="20250621205515 -0300" channel="Silvio Santos">
+    <title lang="pt">Rei Majestade</title>
+    <sub-title lang="pt">realizado em 21/06/2006</sub-title>
+    <desc lang="pt">Programa nostálgico que reunia grandes músicos de todo o Brasil, entregando-se à magia da música.</desc>
+    <category lang="en">variety show</category>
+    <date>21/06/2006</date>
+    <episode-num system="xmltv_ns">0.11.</episode-num>
+    <rating system="Brazil">
+      <value>[AL]</value>
+    </rating>
   </programme>
-  <programme start="20250614202529 -0300" stop="20250614211318 -0300" channel="TV Zyn">
+  <programme start="20250621205520 -0300" stop="20250621210942 -0300" channel="Silvio Santos">
+    <title lang="pt">Tentação</title>
+    <sub-title lang="pt">realizado em 26/03/1995</sub-title>
+    <desc lang="pt">Silvio Santos comanda Tentação, uma divertida competição repleta de prêmios e desafios.</desc>
+    <category lang="en">variety show</category>
+    <date>26/03/1995</date>
+    <episode-num system="xmltv_ns">1.12.</episode-num>
+    <rating system="Brazil">
+      <value>[AL]</value>
+    </rating>
+  </programme>
+  <programme start="20250614205006 -0300" stop="20250614211318 -0300" channel="TV Zyn">
     <title lang="pt">Carrossel</title>
     <desc lang="pt"> - Uma turminha animada que deixa o mundo mais divertido e musical. Embarca nesse Carrossel com eles.</desc>
     <category lang="en">adventure/western/war</category>
