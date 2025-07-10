@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2025-07-09 19:45:05" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2025-07-09 21:15:05" generator-info-url="http://limaalef.com">
   <channel id="Claro TV+ 4K">
     <display-name lang="pt">Claro TV+ 4K</display-name>
   </channel>
@@ -140,6 +140,9 @@
   </channel>
   <channel id="premiere">
     <display-name lang="pt">premiere</display-name>
+  </channel>
+  <channel id="premiere-2">
+    <display-name lang="pt">premiere-2</display-name>
   </channel>
   <channel id="combate">
     <display-name lang="pt">combate</display-name>
@@ -18971,6 +18974,11 @@
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
+  <programme start="20250710000000 -0300" stop="20250710060000 -0300" channel="1682">
+    <title lang="pt">Reapresentação da Sessão Plenária</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
   <programme start="20250709000000 -0300" stop="20250709010000 -0300" channel="1765">
     <title lang="pt">Sessão do TSE</title>
     <desc lang="pt"> - </desc>
@@ -19131,6 +19139,11 @@
     <desc lang="pt"> - </desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
+  <programme start="20250710000000 -0300" stop="20250710003000 -0300" channel="1765">
+    <title lang="pt">Repórter Eco</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">movie/drama (general)</category>
+  </programme>
   <programme start="20250709000000 -0300" stop="20250709012500 -0300" channel="1779">
     <title lang="pt">Senadoc: Maria Luiza</title>
     <desc lang="pt"> - </desc>
@@ -19231,6 +19244,11 @@
     <title lang="pt">Comissão</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250710000000 -0300" stop="20250710013500 -0300" channel="1779">
+    <title lang="pt">Senadoc: Cidadão Boilesen</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
   </programme>
   <programme start="20250709000000 -0300" stop="20250709003000 -0300" channel="2302">
     <title lang="pt">Partituras</title>
@@ -19399,6 +19417,11 @@
   </programme>
   <programme start="20250709220000 -0300" stop="20250710000000 -0300" channel="2302">
     <title lang="pt">Atos do Executivo</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250710000000 -0300" stop="20250710003000 -0300" channel="2302">
+    <title lang="pt">Partituras</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
@@ -22040,24 +22063,24 @@
     <desc lang="pt">Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes, aqui no sportv!</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250709151034 -0300" stop="20250709180706 -0300" channel="sportv">
+  <programme start="20250709151034 -0300" stop="20250709180702 -0300" channel="sportv">
     <title lang="pt">Copa do Mundo de Clubes FIFA: Psg (FRA) Xreal Madrid (ESP) - ao vivo</title>
     <sub-title lang="pt">Semifinal</sub-title>
     <desc lang="pt">32 clubes, um sonho global. O torneio ganha novo formato e consagra o maior campeão do planeta, assista no sportv!Tá no Mundial de Clubes, tá no sportv!</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250709180707 -0300" stop="20250709203431 -0300" channel="sportv">
+  <programme start="20250709180707 -0300" stop="20250709203335 -0300" channel="sportv">
     <title lang="pt">Troca de Passes - ao vivo</title>
     <desc lang="pt"> - Felipe Diniz, Carlos Eduardo Mansur e Alex Meschini troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada. Veja os melhores momentos, tire as dúvidas daquele lance polêmico acompanhe a repercussão com jogadores e treinadores no calor do jogo. Aqui ninguém fica em cima do muro.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250709203433 -0300" stop="20250709230152 -0300" channel="sportv">
+  <programme start="20250709203339 -0300" stop="20250709230058 -0300" channel="sportv">
     <title lang="pt">Brasileirão Sub-20: Palmeiras x São Paulo - ao vivo</title>
     <desc lang="pt">Acompanhe as emoções do Campeonato Brasileiro de Futebol Sub-20! Venha testemunhar as estrelas que será o futuro do futebol. Aqui no sportv.
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250709230155 -0300" stop="20250710001459 -0300" channel="sportv">
+  <programme start="20250709230100 -0300" stop="20250710001404 -0300" channel="sportv">
     <title lang="pt">Troca de Passes - ao vivo</title>
     <desc lang="pt"> - Felipe Diniz, Carlos Eduardo Mansur e Alex Meschini troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada. Veja os melhores momentos, tire as dúvidas daquele lance polêmico acompanhe a repercussão com jogadores e treinadores no calor do jogo. Aqui ninguém fica em cima do muro.</desc>
     <category lang="en">live broadcast</category>
@@ -22169,25 +22192,31 @@
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">.1.</episode-num>
   </programme>
-  <programme start="20250709175003 -0300" stop="20250709200759 -0300" channel="sportv-2">
+  <programme start="20250709175003 -0300" stop="20250709202642 -0300" channel="sportv-2">
     <title lang="pt">Liga das Nações de Vôlei Feminino: Rública Dominicana x China - ao vivo</title>
     <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!
 </desc>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">.-1.</episode-num>
   </programme>
-  <programme start="20250709200802 -0300" stop="20250709212522 -0300" channel="sportv-2">
-    <title lang="pt">Hello LA</title>
-    <desc lang="pt"> - Acompanhe como está indo os Jogos de Los Angeles em 2028. toda semana, o programa traz entrevistas, atualidades, termômetro de competições e informações do mundo Olímpico com Marcelo Barreto e Fabi Alvim</desc>
+  <programme start="20250709202645 -0300" stop="20250709210010 -0300" channel="sportv-2">
+    <title lang="pt">1/1 SEM BLOQUEIO 0</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">2.4.</episode-num>
+  </programme>
+  <programme start="20250709210012 -0300" stop="20250709211957 -0300" channel="sportv-2">
+    <title lang="pt">1/1 GIBA REVÊ CONQUISTAS E MOMENTOS MARCANTES DA CARREIRA</title>
+    <desc lang="pt"> - </desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250709212524 -0300" stop="20250709233048 -0300" channel="sportv-2">
+  <programme start="20250709211958 -0300" stop="20250709232522 -0300" channel="sportv-2">
     <title lang="pt">Liga das Nações de Vôlei Feminino: Tailândia x Eua - ao vivo</title>
     <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250709233050 -0300" stop="20250710013150 -0300" channel="sportv-2">
+  <programme start="20250709232524 -0300" stop="20250710012624 -0300" channel="sportv-2">
     <title lang="pt">VT - Liga das Nações de Vôlei Feminino: Bulgária x Brasil</title>
     <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!
 </desc>
@@ -23063,7 +23092,7 @@ Já Márcio comprou uma peça de madeira entalhada e decidiu dar uma nova funç�
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250709191450 -0300" stop="20250709200518 -0300" channel="gnt">
+  <programme start="20250709191450 -0300" stop="20250709200517 -0300" channel="gnt">
     <title lang="pt">Cozinha Prática Com Rita Lobo</title>
     <desc lang="pt"> - Neste episódio pensado pra quem não tem tempo de cozinhar, a receita-desafio é um ensopado de carne com abóbora que você pode cozinhar a mais, porcionar e congelar.</desc>
     <rating system="Brazil">
@@ -23491,7 +23520,7 @@ Já Márcio comprou uma peça de madeira entalhada e decidiu dar uma nova funç�
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250709172524 -0300" stop="20250709190011 -0300" channel="canal-brasil">
+  <programme start="20250709172524 -0300" stop="20250709190012 -0300" channel="canal-brasil">
     <title lang="pt">Mirador</title>
     <desc lang="pt"> - Maycon é um boxeador que treina para retornar aos ringues enquanto divide seu tempo com dois subempregos. Pai de Malu, ele tem sua vida revirada quando se vê na situação de ter que cuidar da filha sozinho.</desc>
     <rating system="Brazil">
@@ -23511,7 +23540,7 @@ Já Márcio comprou uma peça de madeira entalhada e decidiu dar uma nova funç�
     <sub-title lang="pt">Bastidores de Sedução e Lançamento Livro Oswaldo Massaini: O Fabricante de Emoções_09/07/2025</sub-title>
     <desc lang="pt"> - O Cinejornal é um programa diário, apresentado por Simone Zuccolotto, onde encontramos o melhor do cinema brasileiro.</desc>
   </programme>
-  <programme start="20250709194730 -0300" stop="20250709200029 -0300" channel="canal-brasil">
+  <programme start="20250709194730 -0300" stop="20250709200031 -0300" channel="canal-brasil">
     <title lang="pt">Esquinas – Revista Piauí</title>
     <sub-title lang="pt">Eu, Robô</sub-title>
     <desc lang="pt"> - Série de reportagens documentais inspiradas na seção homônima da Revista Piauí. Personagens e eventos peculiares são colhidos pelos quatro cantos do país, com uma abordagem inovadora que segue os padrões do "Novo Jornalismo".</desc>
@@ -23551,7 +23580,7 @@ Já Márcio comprou uma peça de madeira entalhada e decidiu dar uma nova funç�
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250709230059 -0300" stop="20250710004959 -0300" channel="canal-brasil">
+  <programme start="20250709230059 -0300" stop="20250710005103 -0300" channel="canal-brasil">
     <title lang="pt">O Mensageiro</title>
     <desc lang="pt"> - Vera, presa em uma fortaleza militar durante a ditadura, conhece um soldado, Armando, que, diante da tortura, decide levar uma mensagem para a família da moça. Assim, ele estabelece uma relação afetiva com a mãe de Vera.</desc>
     <rating system="Brazil">
@@ -23566,18 +23595,18 @@ Já Márcio comprou uma peça de madeira entalhada e decidiu dar uma nova funç�
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250709012129 -0300" stop="20250709014949 -0300" channel="canal-off">
-    <title lang="pt">Trilhas E Travessias</title>
-    <sub-title lang="pt">A Beleza de Mount Cook</sub-title>
-    <desc lang="pt"> - Trilhas em meio às deslumbrantes paisagens da Nova Zelândia, fazem o país se destacar. Na próxima temporada do Trilhas e Travessias as apresentadoras, Júlia Ericson e Marina Machado, vivenciarão nesse destino mágico desde lagos azul turquesa, fiordes em meio a cenários dramáticos, glaciares bem próximos à beira-mar, emocionante salto de brãiungee jump em um cânion até banquetes preparado à moda dos Hobbits.</desc>
+  <programme start="20250709000427 -0300" stop="20250709012127 -0300" channel="canal-off">
+    <title lang="pt">Off Docs</title>
+    <sub-title lang="pt">Sou Do Mar - A História De Mais Um Amante Do Surfe</sub-title>
+    <desc lang="pt"> - "Sou do Mar”, um documentário que retrata a história de mais um amante do surf, que fez de tudo para vir morar no Havaí e viver esse estilo de vida do surf.</desc>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250709014029 -0300" stop="20250709020827 -0300" channel="canal-off">
-    <title lang="pt">Peixe Frito</title>
-    <sub-title lang="pt">Olhares Fotográficos</sub-title>
-    <desc lang="pt"> - A história do surfe também pode ser contada pelas lentes dos fotógrafos. Com diferentes estilos artísticos, esses profissionais usam as fotos pra capturar a essência do esporte.</desc>
+  <programme start="20250709012129 -0300" stop="20250709014949 -0300" channel="canal-off">
+    <title lang="pt">Trilhas E Travessias</title>
+    <sub-title lang="pt">A Beleza de Mount Cook</sub-title>
+    <desc lang="pt"> - Trilhas em meio às deslumbrantes paisagens da Nova Zelândia, fazem o país se destacar. Na próxima temporada do Trilhas e Travessias as apresentadoras, Júlia Ericson e Marina Machado, vivenciarão nesse destino mágico desde lagos azul turquesa, fiordes em meio a cenários dramáticos, glaciares bem próximos à beira-mar, emocionante salto de brãiungee jump em um cânion até banquetes preparado à moda dos Hobbits.</desc>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -23595,6 +23624,14 @@ Já Márcio comprou uma peça de madeira entalhada e decidiu dar uma nova funç�
     <sub-title lang="pt">A arte e o corpo</sub-title>
     <desc lang="pt"> - Música, dança, poesia, pintura, seja qual for a linguagem, a arte pode ser uma grande
 aliada do nosso bem-estar.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250709024307 -0300" stop="20250709031105 -0300" channel="canal-off">
+    <title lang="pt">Peixe Frito</title>
+    <sub-title lang="pt">Olhares Fotográficos</sub-title>
+    <desc lang="pt"> - A história do surfe também pode ser contada pelas lentes dos fotógrafos. Com diferentes estilos artísticos, esses profissionais usam as fotos pra capturar a essência do esporte.</desc>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -23819,7 +23856,7 @@ aliada do nosso bem-estar.</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250709193320 -0300" stop="20250709200358 -0300" channel="canal-off">
+  <programme start="20250709193320 -0300" stop="20250709200359 -0300" channel="canal-off">
     <title lang="pt">Surfe Social Clube</title>
     <sub-title lang="pt">Escola de Surfe de Paracuru, CE</sub-title>
     <desc lang="pt"> - Gilvan Lima apresenta seu projeto, a “Escola Paracuru de Surf”, que além de ensinar o surfe para as crianças da região, incentiva nos estudos e oferece apoio social.</desc>
@@ -24310,7 +24347,7 @@ aliada do nosso bem-estar.</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250709184249 -0300" stop="20250709185031 -0300" channel="bis">
+  <programme start="20250709184249 -0300" stop="20250709185030 -0300" channel="bis">
     <title lang="pt">Ananda Jacques - Amor De Cafeína</title>
     <sub-title lang="pt">Setlist</sub-title>
     <desc lang="pt"> - Ananda Jacques - Amor De Cafeína (Independente)</desc>
@@ -24344,7 +24381,7 @@ aliada do nosso bem-estar.</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250709185813 -0300" stop="20250709190227 -0300" channel="bis">
+  <programme start="20250709185813 -0300" stop="20250709190228 -0300" channel="bis">
     <title lang="pt">Duda Beat – Dar Uma Deitchada</title>
     <sub-title lang="pt">Setlist</sub-title>
     <desc lang="pt"> - DUDA BEAT – DAR UMA DEITCHADA (INDEPENDENTE)</desc>
@@ -24352,7 +24389,7 @@ aliada do nosso bem-estar.</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250709190229 -0300" stop="20250709193325 -0300" channel="bis">
+  <programme start="20250709190229 -0300" stop="20250709193326 -0300" channel="bis">
     <title lang="pt">Na Voz Delas</title>
     <desc lang="pt"> - Jovens cantoras interpretam músicas nacionais e internacionais de artistas que marcaram estilos musicais de determinadas épocas. No programa de hoje sucessos como "Preciso me Encontrar", "Last Night" e "Private Dancer".</desc>
     <episode-num system="xmltv_ns">.1.</episode-num>
@@ -24360,7 +24397,7 @@ aliada do nosso bem-estar.</desc>
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250709193328 -0300" stop="20250709200112 -0300" channel="bis">
+  <programme start="20250709193328 -0300" stop="20250709200113 -0300" channel="bis">
     <title lang="pt">Rock Estúdio</title>
     <desc lang="pt"> - “Rock Estúdio” é um programa de música nacional de Rock e Pop, em que grandes bandas conversam e tocam com os apresentadores Jimmy London e China. A ideia é juntar conforto e clima intimista de um ensaio em altíssima qualidade, com performances e histórias surpreendentes das bandas, detalhes da montagem, timbragem e equipamentos de cada músico.</desc>
     <episode-num system="xmltv_ns">1..</episode-num>
@@ -24834,7 +24871,7 @@ gravações de Game of Thrones, Rodrigo faz um tour completo pela cidade."</desc
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250709190633 -0300" stop="20250709193821 -0300" channel="modo-viagem">
+  <programme start="20250709190633 -0300" stop="20250709193822 -0300" channel="modo-viagem">
     <title lang="pt">Hotéis Incríveis-T11</title>
     <sub-title lang="pt">Villa Amazonas, Fairmont e Literária</sub-title>
     <desc lang="pt"> - Vamos ao exuberante Villa Amazonas, ao Hotel Fairmont localizado em uma das praias mais famosas do mundo, Copacabana e em Paraty, vamos conhecer a Pousada Literária.</desc>
@@ -24843,7 +24880,7 @@ gravações de Game of Thrones, Rodrigo faz um tour completo pela cidade."</desc
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250709193825 -0300" stop="20250709201009 -0300" channel="modo-viagem">
+  <programme start="20250709193825 -0300" stop="20250709201010 -0300" channel="modo-viagem">
     <title lang="pt">Hotéis Incríveis-T11</title>
     <sub-title lang="pt">Rituaali, Valle D’Incanto e Anavillhanas</sub-title>
     <desc lang="pt"> - Localizado em Penedo, Rituaali Clinica &amp; Spa mostra que é possível juntar bem estar e conforto. Viajamos para Gramado, no hotel Valle D’Incanto e na Amazônia, vamos explorar o Anavillhanas Jungle Lodge.</desc>
@@ -25055,21 +25092,26 @@ com uma diversidade paisagística impressionante.
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250709183958 -0300" stop="20250709205537 -0300" channel="premiere">
+  <programme start="20250709183958 -0300" stop="20250709210048 -0300" channel="premiere">
     <title lang="pt">Copa do Nordeste: Csa-AL x Ferroviário - ao vivo</title>
     <desc lang="pt">Não perca a Copa Do Nordeste aqui no Premiere!</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250709205539 -0300" stop="20250709231148 -0300" channel="premiere">
+  <programme start="20250709210051 -0300" stop="20250709231700 -0300" channel="premiere">
     <title lang="pt">Copa do Nordeste: Bahia x Fortaleza - ao vivo</title>
     <desc lang="pt">Não perca a Copa Do Nordeste aqui no Premiere!</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250709231149 -0300" stop="20250710001018 -0300" channel="premiere">
+  <programme start="20250709231702 -0300" stop="20250710001531 -0300" channel="premiere">
     <title lang="pt">VT - Copa do Nordeste: Csa-AL x Ferroviário</title>
     <desc lang="pt">Não perca a Copa Do Nordeste aqui no Premiere!</desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
+  </programme>
+  <programme start="20250709211000 -0300" stop="20250709232959 -0300" channel="premiere-2">
+    <title lang="pt">Copa do Nordeste: Sport x Ceará - ao vivo</title>
+    <desc lang="pt">Não perca a Copa Do Nordeste aqui no Premiere!</desc>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20250708215938 -0300" stop="20250709005002 -0300" channel="combate">
     <title lang="pt">Pfl Mena</title>
@@ -25312,32 +25354,32 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250709230155 -0300" stop="20250710001459 -0300" channel="sportv">
+  <programme start="20250709230215 -0300" stop="20250710001519 -0300" channel="sportv">
     <title lang="pt">Troca de Passes - ao vivo</title>
     <desc lang="pt"> - Felipe Diniz, Carlos Eduardo Mansur e Alex Meschini troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada. Veja os melhores momentos, tire as dúvidas daquele lance polêmico acompanhe a repercussão com jogadores e treinadores no calor do jogo. Aqui ninguém fica em cima do muro.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250710001500 -0300" stop="20250710002949 -0300" channel="sportv">
+  <programme start="20250710001520 -0300" stop="20250710003009 -0300" channel="sportv">
     <title lang="pt">Giro Da Copa Do Mundo De Clubes: Melhores Momentos - DIa 21 - Inédito</title>
     <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol aqui o sportv!</desc>
     <category lang="en">sports (general)</category>
     <new />
   </programme>
-  <programme start="20250710002952 -0300" stop="20250710012738 -0300" channel="sportv">
+  <programme start="20250710003012 -0300" stop="20250710012758 -0300" channel="sportv">
     <title lang="pt">VT - Copa do Mundo de Clubes FIFA: Psg (FRA) Xreal Madrid (ESP)</title>
     <sub-title lang="pt">Semifinal</sub-title>
     <desc lang="pt">32 clubes, um sonho global. O torneio ganha novo formato e consagra o maior campeão do planeta, assista no sportv!Tá no Mundial de Clubes, tá no sportv!</desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250710012739 -0300" stop="20250710015355 -0300" channel="sportv">
+  <programme start="20250710012759 -0300" stop="20250710022526 -0300" channel="sportv">
     <title lang="pt">VT - Copa do Mundo de Clubes FIFA: Fluminense x Chelsea (ING)</title>
     <sub-title lang="pt">Semifinal</sub-title>
     <desc lang="pt">32 clubes, um sonho global. O torneio ganha novo formato e consagra o maior campeão do planeta, assista no sportv!Tá no Mundial de Clubes, tá no sportv!</desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250710023000 -0300" stop="20250710032959 -0300" channel="sportv">
+  <programme start="20250710022529 -0300" stop="20250710032300 -0300" channel="sportv">
     <title lang="pt">VT - Copa do Mundo de Clubes FIFA: Psg (FRA) Xreal Madrid (ESP)</title>
     <sub-title lang="pt">Semifinal</sub-title>
     <desc lang="pt">32 clubes, um sonho global. O torneio ganha novo formato e consagra o maior campeão do planeta, assista no sportv!Tá no Mundial de Clubes, tá no sportv!</desc>
@@ -25444,19 +25486,19 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250709233050 -0300" stop="20250710013150 -0300" channel="sportv-2">
+  <programme start="20250709232524 -0300" stop="20250710012624 -0300" channel="sportv-2">
     <title lang="pt">VT - Liga das Nações de Vôlei Feminino: Bulgária x Brasil</title>
     <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!
 </desc>
     <category lang="en">team sports</category>
     <previously-shown />
   </programme>
-  <programme start="20250710013154 -0300" stop="20250710024934 -0300" channel="sportv-2">
+  <programme start="20250710012628 -0300" stop="20250710024408 -0300" channel="sportv-2">
     <title lang="pt">Hello LA</title>
     <desc lang="pt"> - Acompanhe como está indo os Jogos de Los Angeles em 2028. toda semana, o programa traz entrevistas, atualidades, termômetro de competições e informações do mundo Olímpico com Marcelo Barreto e Fabi Alvim</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250710024936 -0300" stop="20250710031459 -0300" channel="sportv-2">
+  <programme start="20250710024410 -0300" stop="20250710032127 -0300" channel="sportv-2">
     <title lang="pt">Sem Bloqueio: : O Mundo Mágico De Macau</title>
     <desc lang="pt">Veja os bastidores da seleção em Macau para a segunda etapa da VNL. É a hora do Brasil enfrentar Japão e Itália e tentar manter sua invencibilidade. Na folga, atletas se divertem em um mundo lúdico.</desc>
     <category lang="en">sports (general)</category>
@@ -25465,7 +25507,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250710031500 -0300" stop="20250710052959 -0300" channel="sportv-2">
+  <programme start="20250710032129 -0300" stop="20250710052959 -0300" channel="sportv-2">
     <title lang="pt">Liga das Nações de Vôlei Feminino: França x Brasil - ao vivo</title>
     <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!
 </desc>
@@ -25818,7 +25860,7 @@ de artes marciais</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250710011042 -0300" stop="20250710014159 -0300" channel="multishow">
+  <programme start="20250710011042 -0300" stop="20250710014214 -0300" channel="multishow">
     <title lang="pt">Nesse Canto Eu Conto</title>
     <sub-title lang="pt">Paula Toller</sub-title>
     <desc lang="pt"> - Sandy recebe Paula Toller para falar sobre o Kid Abelha, carreira solo e influências musicais. O encontro termina com um dueto de “O Barquinho”, em homenagem a Nara Leão.</desc>
@@ -25826,7 +25868,7 @@ de artes marciais</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250710014200 -0300" stop="20250710021459 -0300" channel="multishow">
+  <programme start="20250710014217 -0300" stop="20250710021459 -0300" channel="multishow">
     <title lang="pt">Vila, A</title>
     <sub-title lang="pt">O Havaí é Aqui</sub-title>
     <desc lang="pt"> - RIQUE E VIOLETA CRIAM O “VILA WATER PLANET”, UM PARQUE AQUÁTICO COM TEMÁTICA HAVAIANA, MAS O SERVIÇO É TÃO PRECÁRIO QUE A DUPLA SE VÊ OBRIGADA A ABRIR O “LOUNGE BARILOCHE” COM ELEONORA NA CASA DE SEU LUPÉRCIO.
@@ -26253,7 +26295,7 @@ Grandes trilhas sonoras que fizeram história!</desc>
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250710011400 -0300" stop="20250710022859 -0300" channel="gnt">
+  <programme start="20250710011419 -0300" stop="20250710023538 -0300" channel="gnt">
     <title lang="pt">Papo De Segunda</title>
     <sub-title lang="pt">Sedentarismo Mental / ChatGPTeen / O Biquíni De Pequim</sub-title>
     <desc lang="pt"> - Com Marcelo Tas, o Papo comemora 10 anos debatendo se a inteligência artificial está nos emburrecendo. Também fala sobre as angústias de adolescente e sobre o Biquíni De Pequim.</desc>
@@ -26261,7 +26303,7 @@ Grandes trilhas sonoras que fizeram história!</desc>
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250710022900 -0300" stop="20250710033259 -0300" channel="gnt">
+  <programme start="20250710023540 -0300" stop="20250710033259 -0300" channel="gnt">
     <title lang="pt">Que História É Essa, Porchat?</title>
     <sub-title lang="pt">Sonia Abrão + Maurício Mattar + Vanessa Gerbelli</sub-title>
     <desc lang="pt"> - Porchat recebe Mauricio Mattar, Vanessa Gerbelli e Sonia Abrão. Na plateia, uma doença inventada e um carnaval sujo. 		
@@ -26304,7 +26346,7 @@ Grandes trilhas sonoras que fizeram história!</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250710071400 -0300" stop="20250710075859 -0300" channel="gnt">
+  <programme start="20250710070500 -0300" stop="20250710074959 -0300" channel="gnt">
     <title lang="pt">Desapegue Se For Capaz</title>
     <sub-title lang="pt">FAMÍLIA FÁVARO</sub-title>
     <desc lang="pt"> - Israel dedica sua vida a encaminhar doações e ajudar os mais carentes, mas esqueceu completamente de si e da casa caótica que divide com sua filha Elis e seu pai Hélio.</desc>
@@ -26312,7 +26354,7 @@ Grandes trilhas sonoras que fizeram história!</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250710075900 -0300" stop="20250710084359 -0300" channel="gnt">
+  <programme start="20250710074900 -0300" stop="20250710083359 -0300" channel="gnt">
     <title lang="pt">Um Quarto Para Assistir o Decora</title>
     <desc lang="pt"> - Elisete assistiu todas as temporadas do DECORA pra tentar deixar seu quarto mais aconchegante. Com receio de se aventurar sozinha, decidiu se inscrever no programa. Deu certo!
 </desc>
@@ -26320,7 +26362,7 @@ Grandes trilhas sonoras que fizeram história!</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250710084400 -0300" stop="20250710085959 -0300" channel="gnt">
+  <programme start="20250710083200 -0300" stop="20250710084759 -0300" channel="gnt">
     <title lang="pt">Pode Entrar</title>
     <sub-title lang="pt">Casa do Casagrande</sub-title>
     <desc lang="pt"> - Walter Casagrande Jr. faz um tour por seu duplex em São Paulo, com decoração inspirada no rock n' roll e relíquias do futebol, como camisetas assinadas e fotos com o amigo Sócrates</desc>
@@ -26328,7 +26370,7 @@ Grandes trilhas sonoras que fizeram história!</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250710090000 -0300" stop="20250710095159 -0300" channel="gnt">
+  <programme start="20250710085000 -0300" stop="20250710094159 -0300" channel="gnt">
     <title lang="pt">Mais Cor, Por Favor!</title>
     <sub-title lang="pt">Cantinho Bar</sub-title>
     <desc lang="pt"> - Flora e Greg dão festas no canto do bar na sala. A mãe deles vai se mudar e a casa será só dos irmãos. Thalita deixa o ambiente ainda mais divertido. A estreia do novo visual será com um Open House.</desc>
@@ -26336,7 +26378,7 @@ Grandes trilhas sonoras que fizeram história!</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250710095200 -0300" stop="20250710104659 -0300" channel="gnt">
+  <programme start="20250710094300 -0300" stop="20250710103759 -0300" channel="gnt">
     <title lang="pt">Food Truck - A Batalha</title>
     <sub-title lang="pt">Comida No Cone</sub-title>
     <desc lang="pt"> - Qual comida tem formato de cone? Segundo Marcio e Adolpho, qualquer uma! Acompanhados de Juliana e Caliman, nossos dois apresentadores saem às ruas determinados a enfrentar a ira dos céus para mostrar que o cone é o novo preto.</desc>
@@ -26344,7 +26386,7 @@ Grandes trilhas sonoras que fizeram história!</desc>
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250710104700 -0300" stop="20250710114659 -0300" channel="gnt">
+  <programme start="20250710104000 -0300" stop="20250710113959 -0300" channel="gnt">
     <title lang="pt">Que Seja Doce</title>
     <sub-title lang="pt">Bolo De Casamento</sub-title>
     <desc lang="pt"> - O amor está no ar! Os confeiteiros terão a missão de fazer um icônico bolo de casamento, e todo o processo será avaliado.</desc>
@@ -26352,7 +26394,7 @@ Grandes trilhas sonoras que fizeram história!</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250710114700 -0300" stop="20250710122859 -0300" channel="gnt">
+  <programme start="20250710114000 -0300" stop="20250710122159 -0300" channel="gnt">
     <title lang="pt">Avisa Lá Que Eu Vou</title>
     <sub-title lang="pt">Rondonópolis</sub-title>
     <desc lang="pt"> - Paulo vai a Rondonópolis, a cidade no Mato Grosso que é lar de um acampamento cigano, de uma cantora chamada Lassimi e do artista Chico da Lata.</desc>
@@ -26360,7 +26402,7 @@ Grandes trilhas sonoras que fizeram história!</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250710122900 -0300" stop="20250710134359 -0300" channel="gnt">
+  <programme start="20250710122300 -0300" stop="20250710133759 -0300" channel="gnt">
     <title lang="pt">Papo De Segunda</title>
     <sub-title lang="pt">Sedentarismo Mental / ChatGPTeen / O Biquíni De Pequim</sub-title>
     <desc lang="pt"> - Com Marcelo Tas, o Papo comemora 10 anos debatendo se a inteligência artificial está nos emburrecendo. Também fala sobre as angústias de adolescente e sobre o Biquíni De Pequim.</desc>
@@ -26487,14 +26529,14 @@ Grandes trilhas sonoras que fizeram história!</desc>
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250710010732 -0300" stop="20250710012347 -0300" channel="globoplay-novelas">
+  <programme start="20250710010732 -0300" stop="20250710015458 -0300" channel="globoplay-novelas">
     <title lang="pt">Plumas E Paetês</title>
     <desc lang="pt"> - Marcela discute com Bruna e Gustavo. Márcio flagra Rebeca e Gino juntos. Raul intercepta ligação de Ângelo e escuta Cláudia falar barbaridades sobre ele.</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250710015700 -0300" stop="20250710024259 -0300" channel="globoplay-novelas">
+  <programme start="20250710015504 -0300" stop="20250710024110 -0300" channel="globoplay-novelas">
     <title lang="pt">O Amor Invencível</title>
     <sub-title lang="pt">David Também Tem Segredos</sub-title>
     <desc lang="pt"> - Ramsés diz que vai levar Quica à um internato para corrigir sua conduta. David pede Leona em casamento e ela aceita.</desc>
@@ -26502,7 +26544,7 @@ Grandes trilhas sonoras que fizeram história!</desc>
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250710024300 -0300" stop="20250710033259 -0300" channel="globoplay-novelas">
+  <programme start="20250710024112 -0300" stop="20250710025318 -0300" channel="globoplay-novelas">
     <title lang="pt">Quatro Por Quatro</title>
     <desc lang="pt"> - Abigail, Auxiliadora, Tatiana e Babalu se envolvem em um acidente e descobrem que perderam seus amores no mesmo dia. As quatro mulheres se unem para se vingar dos ex-parceiros.</desc>
     <rating system="Brazil">
@@ -26714,14 +26756,14 @@ Grandes trilhas sonoras que fizeram história!</desc>
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250710005106 -0300" stop="20250710023959 -0300" channel="canal-brasil">
+  <programme start="20250710005106 -0300" stop="20250710024020 -0300" channel="canal-brasil">
     <title lang="pt">O Rio do Desejo</title>
     <desc lang="pt"> - Dalberto é comandante do barco que transporta um passageiro pelas águas agitadas do Rio Negro. Durante a ausência da terra firme, sua esposa acaba se aproximando de seus irmãos, Armando e Dalmo.</desc>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250710024000 -0300" stop="20250710041559 -0300" channel="canal-brasil">
+  <programme start="20250710024024 -0300" stop="20250710041659 -0300" channel="canal-brasil">
     <title lang="pt">O Casamento</title>
     <desc lang="pt"> - Próspero homem de negócios, Sabino nutre um amor incestuoso pela filha Glorinha, que vai se casar. O médico da família, no entanto, diz que seu futuro genro foi visto beijando outro homem.</desc>
     <rating system="Brazil">
@@ -26943,7 +26985,7 @@ Grandes trilhas sonoras que fizeram história!</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250710011521 -0300" stop="20250710013359 -0300" channel="canal-off">
+  <programme start="20250710011521 -0300" stop="20250710013406 -0300" channel="canal-off">
     <title lang="pt">Off Docs</title>
     <sub-title lang="pt">Dream Lines 4</sub-title>
     <desc lang="pt"> - Quarto vídeo da série produzida por Jokke Summers, o documentário registra espetaculares imagens de wingsuit proximity flying protagonizadas por ele próprio, Robert Pecnik e Ludovic Woerth. Os voos são registrados em Silberhorn e Hintisberg, na Suíça, e Chamonix, na França.</desc>
@@ -26951,7 +26993,7 @@ Grandes trilhas sonoras que fizeram história!</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250710013400 -0300" stop="20250710020059 -0300" channel="canal-off">
+  <programme start="20250710013408 -0300" stop="20250710020056 -0300" channel="canal-off">
     <title lang="pt">Voo De Cinema</title>
     <sub-title lang="pt">Jon Devore</sub-title>
     <desc lang="pt"> - Jon Devore participou de quase todos os filmes de Hollywood fazendo as imagens aéreas. Ele nasceu no Alasca, hoje mora na Califórnia e não troca Paris Valley por nada neste mundo.</desc>
@@ -26959,7 +27001,7 @@ Grandes trilhas sonoras que fizeram história!</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250710020100 -0300" stop="20250710023159 -0300" channel="canal-off">
+  <programme start="20250710020057 -0300" stop="20250710021535 -0300" channel="canal-off">
     <title lang="pt">Br230: Muito Além Da Transamazônica</title>
     <desc lang="pt"> - No episódio, Sylvestre e Josenir exploram Fordlândia, uma cidade que ficou parada no tempo. Depois, encontram amigos, sobrevoam e aproveitam as praias de Itaituba e o Rio Tapajós.</desc>
     <rating system="Brazil">
@@ -27282,7 +27324,7 @@ aliada do nosso bem-estar.</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250709233327 -0300" stop="20250710000359 -0300" channel="bis">
+  <programme start="20250709233327 -0300" stop="20250710000400 -0300" channel="bis">
     <title lang="pt">Hungria - Dvd Atmosfera</title>
     <sub-title lang="pt">Palco Principal</sub-title>
     <desc lang="pt"> - Um dos projetos mais importantes da carreira do cantor, em um cenário deslumbrante e atmosférico, misturando castelos e paisagens naturais, com um pôr-do-sol ao fundo e o anoitecer</desc>
@@ -27290,7 +27332,7 @@ aliada do nosso bem-estar.</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250710000400 -0300" stop="20250710003359 -0300" channel="bis">
+  <programme start="20250710000402 -0300" stop="20250710003407 -0300" channel="bis">
     <title lang="pt">Front And Center Presents: Cyndi Lauper</title>
     <sub-title lang="pt">Palco Principal</sub-title>
     <desc lang="pt"> - Performance da cantora e compositora americana Cindy Lauper. Ícone dos anos 80, ela canta na totalidade seu bem-sucedido álbum de estreia, "She's So Unusual", de 1983, que conta com hits como "Time After Time" e "Girls Just Wanna Have Fun". 
@@ -27299,7 +27341,7 @@ aliada do nosso bem-estar.</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250710003400 -0300" stop="20250710010459 -0300" channel="bis">
+  <programme start="20250710003409 -0300" stop="20250710010503 -0300" channel="bis">
     <title lang="pt">Na Voz Delas</title>
     <desc lang="pt"> - Jovens cantoras interpretam músicas nacionais e internacionais de artistas que marcaram estilos musicais de determinadas épocas. No programa de hoje sucessos como "Preciso me Encontrar", "Last Night" e "Private Dancer".</desc>
     <episode-num system="xmltv_ns">.1.</episode-num>
@@ -27307,7 +27349,7 @@ aliada do nosso bem-estar.</desc>
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250710010500 -0300" stop="20250710013259 -0300" channel="bis">
+  <programme start="20250710010505 -0300" stop="20250710013259 -0300" channel="bis">
     <title lang="pt">Rock Estúdio</title>
     <desc lang="pt"> - “Rock Estúdio” é um programa de música nacional de Rock e Pop, em que grandes bandas conversam e tocam com os apresentadores Jimmy London e China. A ideia é juntar conforto e clima intimista de um ensaio em altíssima qualidade, com performances e histórias surpreendentes das bandas, detalhes da montagem, timbragem e equipamentos de cada músico.</desc>
     <episode-num system="xmltv_ns">1..</episode-num>
@@ -27315,14 +27357,14 @@ aliada do nosso bem-estar.</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250710013300 -0300" stop="20250710023159 -0300" channel="bis">
+  <programme start="20250710013302 -0300" stop="20250710023215 -0300" channel="bis">
     <title lang="pt">Experimente: Sofia Freire</title>
     <desc lang="pt"> - Na temporada em que o Experimente completa dez anos conheça Sofia Freire, cantora que mistura música erudita com eletrônica. Há também uma retrospectiva da passagem de Cícero pelo programa em 2013.</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250710023200 -0300" stop="20250710030759 -0300" channel="bis">
+  <programme start="20250710023217 -0300" stop="20250710030759 -0300" channel="bis">
     <title lang="pt">Nesse Canto Eu Conto.</title>
     <sub-title lang="pt">Liniker</sub-title>
     <desc lang="pt"> - Em um papo emocionante com Sandy, Liniker fala sobre carreira, desafios e a solidão na estrada. A dupla homenageia Ivete Sangalo em um dueto da música "Quando a Chuva Passar”.</desc>
@@ -27926,7 +27968,7 @@ gravações de Game of Thrones, Rodrigo faz um tour completo pela cidade."</desc
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250710010827 -0300" stop="20250710013959 -0300" channel="modo-viagem">
+  <programme start="20250710010827 -0300" stop="20250710014015 -0300" channel="modo-viagem">
     <title lang="pt">Hotéis Incríveis-T11</title>
     <sub-title lang="pt">Villa Amazonas, Fairmont e Literária</sub-title>
     <desc lang="pt"> - Vamos ao exuberante Villa Amazonas, ao Hotel Fairmont localizado em uma das praias mais famosas do mundo, Copacabana e em Paraty, vamos conhecer a Pousada Literária.</desc>
@@ -27935,7 +27977,7 @@ gravações de Game of Thrones, Rodrigo faz um tour completo pela cidade."</desc
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250710014000 -0300" stop="20250710021159 -0300" channel="modo-viagem">
+  <programme start="20250710014019 -0300" stop="20250710021234 -0300" channel="modo-viagem">
     <title lang="pt">Hotéis Incríveis-T11</title>
     <sub-title lang="pt">Rituaali, Valle D’Incanto e Anavillhanas</sub-title>
     <desc lang="pt"> - Localizado em Penedo, Rituaali Clinica &amp; Spa mostra que é possível juntar bem estar e conforto. Viajamos para Gramado, no hotel Valle D’Incanto e na Amazônia, vamos explorar o Anavillhanas Jungle Lodge.</desc>
@@ -27944,7 +27986,7 @@ gravações de Game of Thrones, Rodrigo faz um tour completo pela cidade."</desc
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250710021200 -0300" stop="20250710024559 -0300" channel="modo-viagem">
+  <programme start="20250710021237 -0300" stop="20250710024559 -0300" channel="modo-viagem">
     <title lang="pt">Brasil Visto De Cima</title>
     <sub-title lang="pt">Zona Central de São Paulo</sub-title>
     <desc lang="pt"> - O terceiro episódio sobre São Paulo corta a sua Zona Central. Monumentos históricos se misturam a alguns dos mais arrojados e modernos projetos arquitetônicos do planeta.</desc>
@@ -28337,31 +28379,31 @@ em Mostar, uma cidade charmosa da Bósnia e Herzegovina."</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250709231149 -0300" stop="20250710001018 -0300" channel="premiere">
+  <programme start="20250709231702 -0300" stop="20250710001531 -0300" channel="premiere">
     <title lang="pt">VT - Copa do Nordeste: Csa-AL x Ferroviário</title>
     <desc lang="pt">Não perca a Copa Do Nordeste aqui no Premiere!</desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250710001020 -0300" stop="20250710010937 -0300" channel="premiere">
+  <programme start="20250710001532 -0300" stop="20250710011449 -0300" channel="premiere">
     <title lang="pt">VT - Copa do Nordeste: Vitória x Confiança</title>
     <desc lang="pt">Não perca a Copa Do Nordeste aqui no Premiere!</desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250710010939 -0300" stop="20250710020753 -0300" channel="premiere">
+  <programme start="20250710011451 -0300" stop="20250710021305 -0300" channel="premiere">
     <title lang="pt">VT - Copa do Nordeste: Bahia x Fortaleza</title>
     <desc lang="pt">Não perca a Copa Do Nordeste aqui no Premiere!</desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250710020754 -0300" stop="20250710030623 -0300" channel="premiere">
+  <programme start="20250710021306 -0300" stop="20250710031135 -0300" channel="premiere">
     <title lang="pt">VT - Copa do Nordeste: Sport x Ceará</title>
     <desc lang="pt">Não perca a Copa Do Nordeste aqui no Premiere!</desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250710033000 -0300" stop="20250710042959 -0300" channel="premiere">
+  <programme start="20250710031137 -0300" stop="20250710041014 -0300" channel="premiere">
     <title lang="pt">Vitória Cup: Cruzeiro x Banfield (ARG)</title>
     <desc lang="pt">Direto de Vitória-ES, quatro clubes sul-americanos se enfrentam em um torneio amistoso de pré-temporada com jogos cheios de rivalidade e emoção!
 </desc>
@@ -34068,6 +34110,11 @@ com uma diversidade paisagística impressionante.
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
+  <programme start="20250712182000 -0300" stop="20250712202959 -0300" channel="premiere-2">
+    <title lang="pt">Transmissão Patrocinada Betano: Vasco x Botafogo - ao vivo</title>
+    <desc lang="pt">Brasileirão de uma forma diferente! Assista a um jogo por rodada com a Transmissão Patrocinada Betano.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
   <programme start="20250711215500 -0300" stop="20250712005959 -0300" channel="combate">
     <title lang="pt">One Fight Night 33 - ao vivo</title>
     <desc lang="pt"> - Terceira maior franquia de MMA mundial e a principal da Ásia, presente em mais de 170 países, o One é a liga esportiva de diferentes modalidades além do MMA.</desc>
@@ -36281,6 +36328,11 @@ com uma diversidade paisagística impressionante.
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
+  <programme start="20250713201000 -0300" stop="20250713222959 -0300" channel="premiere-2">
+    <title lang="pt">Brasileirão: Fortaleza x Ceará - ao vivo</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
   <programme start="20250712195500 -0300" stop="20250713015959 -0300" channel="combate">
     <title lang="pt">Jungle Fight 138 - ao vivo</title>
     <desc lang="pt"> - Fique por dentro do melhor do MMA da América Latina no Jungle Fight, aqui no sportv!</desc>
@@ -36953,16 +37005,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
     <desc lang="pt"> - Acompanhe as principais notícias do Brasil e do mundo.</desc>
     <category lang="en">variety show</category>
   </programme>
-  <programme start="20250709192845 -0300" stop="20250709200046 -0300" channel="Novelas">
-    <title lang="pt">Para Te Ver Melhor</title>
-    <desc lang="pt"> - Um prédio, seis apartamentos, uma cobertura, uma portaria e muitas histórias de amor e suspense.</desc>
-    <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">3.67.</episode-num>
-    <rating system="Brazil">
-      <value>[A14]</value>
-    </rating>
-  </programme>
-  <programme start="20250709200111 -0300" stop="20250709205537 -0300" channel="Novelas">
+  <programme start="20250709204441 -0300" stop="20250709205537 -0300" channel="Novelas">
     <title lang="pt">Camaleões</title>
     <desc lang="pt"> - Dois jovens roubam joias sob ameaça e, ao se esconderem em um colégio, descobrem segredos.</desc>
     <category lang="en">soap/melodrama/folkloric</category>
@@ -38231,7 +38274,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250709191314 -0300" stop="20250709211213 -0300" channel="Silvio Santos">
+  <programme start="20250709203954 -0300" stop="20250709211213 -0300" channel="Silvio Santos">
     <title lang="pt">Programa Silvio Santos</title>
     <sub-title lang="pt">realizado em 28/06/2009</sub-title>
     <desc lang="pt">Um clássico da TV brasileira! Aviõezinhos, calouros, artistas e, claro, o Silvio Santos!</desc>
@@ -39686,7 +39729,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250716171635 -0300" stop="20250716195241 -0300" channel="Silvio Santos">
+  <programme start="20250716171635 -0300" stop="20250716210000 -0300" channel="Silvio Santos">
     <title lang="pt">Programa Silvio Santos</title>
     <sub-title lang="pt">realizado em 19/07/2009</sub-title>
     <desc lang="pt">Um clássico da TV brasileira! Aviõezinhos, calouros, artistas e, claro, o Silvio Santos!</desc>
@@ -39697,25 +39740,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250709191946 -0300" stop="20250709194546 -0300" channel="TV Zyn">
-    <title lang="pt">Cúmplices de Um Resgate</title>
-    <desc lang="pt"> - Gêmeas que foram separadas ao nascer e se reencontram na adolescência. E se tornam cúmplices na vida.</desc>
-    <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">13.270.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20250709194745 -0300" stop="20250709203647 -0300" channel="TV Zyn">
-    <title lang="pt">Chiquititas 2013</title>
-    <desc lang="pt"> - Crianças que vivem no orfanato Raio de Luz buscam amor, amizade e um novo lar. </desc>
-    <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">6.132.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250709203947 -0300" stop="20250709213056 -0300" channel="TV Zyn">
+  <programme start="20250709205341 -0300" stop="20250709213056 -0300" channel="TV Zyn">
     <title lang="pt">Heidi, Bem-Vinda à Casa</title>
     <sub-title lang="pt">28. Heidi e a operação retorno</sub-title>
     <desc lang="pt"> - Baseado nas histórias de Marcela Citterio. Heidi Bem-vinda a Casa é um clássico romance adolescente!</desc>
@@ -44027,13 +44052,27 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250716190128 -0300" stop="20250716193950 -0300" channel="TV Zyn">
+  <programme start="20250716190128 -0300" stop="20250716195644 -0300" channel="TV Zyn">
     <title lang="pt">Cúmplices de Um Resgate</title>
     <desc lang="pt"> - Gêmeas que foram separadas ao nascer e se reencontram na adolescência. E se tornam cúmplices na vida.</desc>
     <category lang="en">movie/drama (general)</category>
     <episode-num system="xmltv_ns">13.275.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250716195649 -0300" stop="20250716200201 -0300" channel="TV Zyn">
+    <title lang="pt">Clipe oficial da música Vai Muleke Doido</title>
+    <desc lang="pt"> - Vem dançar e cantar com a Patrulha Salvadora!</desc>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20250716200206 -0300" stop="20250716205032 -0300" channel="TV Zyn">
+    <title lang="pt">Chiquititas 2013</title>
+    <desc lang="pt"> - Crianças que vivem no orfanato Raio de Luz buscam amor, amizade e um novo lar. </desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">6.137.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
     </rating>
   </programme>
   <programme start="20250709104500 -0300" stop="20250709111500 -0300" channel="Canal Educação">
