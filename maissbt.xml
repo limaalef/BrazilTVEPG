@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2025-07-25 11:31:37" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2025-07-25 23:31:35" generator-info-url="http://limaalef.com">
   <channel id="SBT">
     <display-name lang="pt">SBT</display-name>
   </channel>
@@ -12,11 +12,6 @@
   <channel id="TV Zyn">
     <display-name lang="pt">TV Zyn</display-name>
   </channel>
-  <programme start="20250725030000 -0300" stop="20250725044500 -0300" channel="SBT">
-    <title lang="pt">SBT Noticias</title>
-    <desc lang="pt"> - As principais notícias do dia e agilidade na informação.</desc>
-    <category lang="en">variety show</category>
-  </programme>
   <programme start="20250725044500 -0300" stop="20250725073000 -0300" channel="SBT">
     <title lang="pt">SBT Manhã</title>
     <desc lang="pt"> - Acompanhe as principais notícias do Brasil e do mundo.</desc>
@@ -175,6 +170,9 @@
     <title lang="pt">Sábado Animado</title>
     <desc lang="pt"> - Seu fim de semana começa com muito mais alegria no Sábado Animado. Os desenhos que fazem sucesso entre a garotada de todas as idades estão reunidos aqui.</desc>
     <category lang="en">film/cinema</category>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20250726110000 -0300" stop="20250726140000 -0300" channel="SBT">
     <title lang="pt">SBT Noticias 1 Edicao</title>
@@ -262,6 +260,9 @@
     <title lang="pt">Chaves</title>
     <desc lang="pt"> - Na vila mais famosa, Chaves e seus amigos aprontam diversas travessuras em seus vizinhos.</desc>
     <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
   </programme>
   <programme start="20250727090000 -0300" stop="20250727110000 -0300" channel="SBT">
     <title lang="pt">Notícias Impressionantes</title>
@@ -312,6 +313,9 @@
     <title lang="pt">Programa Silvio Santos</title>
     <desc lang="pt"> - O mais divertido programa da televisão, com "Jogo dos Pontinhos", "Câmeras Escondidas", "Gincanas" e muito mais!</desc>
     <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
   </programme>
   <programme start="20250728000000 -0300" stop="20250728010000 -0300" channel="SBT">
     <title lang="pt">Titãs</title>
@@ -331,133 +335,764 @@
     <desc lang="pt"> - Acompanhe as principais notícias do Brasil e do mundo.</desc>
     <category lang="en">variety show</category>
   </programme>
-  <programme start="20250725105149 -0300" stop="20250725110111 -0300" channel="Novelas">
-    <title lang="pt">Amor Secreto </title>
-    <desc lang="pt"> - Irene, uma secretária inteligente, eficiente e confiável, se apaixona por seu chefe, Leonardo.</desc>
-    <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">3.79.</episode-num>
+  <programme start="20250728044500 -0300" stop="20250728073000 -0300" channel="SBT">
+    <title lang="pt">SBT Manhã</title>
+    <desc lang="pt"> - Acompanhe as principais notícias do Brasil e do mundo.</desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250728073000 -0300" stop="20250728073500 -0300" channel="SBT">
+    <title lang="pt">Bom Dia Esperanca</title>
+    <desc lang="pt"> - Deive Leonardo traz mensagens de esperança para iluminar a sua manhã.</desc>
+    <category lang="en">variety show</category>
     <rating system="Brazil">
-      <value>[A14]</value>
+      <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250725110136 -0300" stop="20250725115952 -0300" channel="Novelas">
-    <title lang="pt">Para Te Ver Melhor</title>
-    <desc lang="pt"> - Um prédio, seis apartamentos, uma cobertura, uma portaria e muitas histórias de amor e suspense.</desc>
-    <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">3.79.</episode-num>
+  <programme start="20250728073500 -0300" stop="20250728083000 -0300" channel="SBT">
+    <title lang="pt">SBT Manha</title>
+    <desc lang="pt"> - Acompanhe as principais notícias do Brasil e do mundo.</desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250728083000 -0300" stop="20250728093000 -0300" channel="SBT">
+    <title lang="pt">Bom Dia e Cia com Patati Patatá</title>
+    <desc lang="pt"> - Patati e Patatá apresentam o Bom dia e Cia com muitas brincadeiras, músicas, desenhos e dicas para as criançada! Levando diversão e conteúdo educativo para você.</desc>
+    <category lang="en">film/cinema</category>
     <rating system="Brazil">
-      <value>[A14]</value>
+      <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250725120017 -0300" stop="20250725125751 -0300" channel="Novelas">
-    <title lang="pt">Camaleões</title>
-    <desc lang="pt"> - Dois jovens roubam joias sob ameaça e, ao se esconderem em um colégio, descobrem segredos.</desc>
-    <category lang="en">soap/melodrama/folkloric</category>
-    <episode-num system="xmltv_ns">6.124.</episode-num>
+  <programme start="20250728093000 -0300" stop="20250728110000 -0300" channel="SBT">
+    <title lang="pt">Primeiro Impacto</title>
+    <desc lang="pt"> - Trânsito, política, saúde, esporte, mercado de trabalho, educação e os assuntos que são destaque no Brasil e no mundo.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250728110000 -0300" stop="20250728130000 -0300" channel="SBT">
+    <title lang="pt">Alô, Você</title>
+    <desc lang="pt"> - Informação, entretenimento e agilidade na cobertura dos principais acontecimentos da capital e região metropolitana.</desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250728130000 -0300" stop="20250728134500 -0300" channel="SBT">
+    <title lang="pt">Chaves</title>
+    <desc lang="pt"> - Na vila mais famosa, Chaves e seus amigos aprontam diversas travessuras em seus vizinhos.</desc>
+    <category lang="en">variety show</category>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250725125816 -0300" stop="20250725134727 -0300" channel="Novelas">
-    <title lang="pt">Chiquititas 97</title>
-    <desc lang="pt"> - Grupo de crianças que vive no orfanato Raio de Luz e busca amizade, amor e um novo lar.</desc>
-    <category lang="en">comedy</category>
-    <episode-num system="xmltv_ns">10.209.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250725135050 -0300" stop="20250725144138 -0300" channel="Novelas">
-    <title lang="pt">Chiquititas 97</title>
-    <desc lang="pt"> - Grupo de crianças que vive no orfanato Raio de Luz e busca amizade, amor e um novo lar.</desc>
-    <category lang="en">comedy</category>
-    <episode-num system="xmltv_ns">10.210.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250725144203 -0300" stop="20250725151132 -0300" channel="Novelas">
-    <title lang="pt">Fascinação</title>
-    <desc lang="pt"> - Clara e Carlos enfrentam perigos e traições para manter vivo seu grande amor.</desc>
-    <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">1.27.</episode-num>
-    <rating system="Brazil">
-      <value>[A14]</value>
-    </rating>
-  </programme>
-  <programme start="20250725151157 -0300" stop="20250725160607 -0300" channel="Novelas">
-    <title lang="pt">Samantha</title>
-    <desc lang="pt"> - Um acidente transforma a vida da camponesa Samantha del Llano e do milionário Luis Alberto.</desc>
-    <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">3.75.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250725160632 -0300" stop="20250725170253 -0300" channel="Novelas">
-    <title lang="pt">Vende-se Um Véu de Noiva</title>
-    <desc lang="pt"> - Adaptação por Iris Abravanel, este é um romance intenso, com reviravoltas surpreendentes do destino.</desc>
-    <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">0.166.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250725170318 -0300" stop="20250725175823 -0300" channel="Novelas">
-    <title lang="pt">Amigas e Rivais</title>
-    <desc lang="pt"> - Quatro jovens com sonhos distintos têm suas vidas entrelaçadas em uma jornada emocionante.</desc>
-    <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">8.166.</episode-num>
+  <programme start="20250728134500 -0300" stop="20250728144500 -0300" channel="SBT">
+    <title lang="pt">Maria do Bairro</title>
+    <desc lang="pt"> - Maria do Bairro é uma jovem humilde que vê sua vida virar de cabeça para baixo ao ser acolhida por uma família rica.</desc>
+    <category lang="en">soap/melodrama/folkloric</category>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250725175848 -0300" stop="20250725185756 -0300" channel="Novelas">
-    <title lang="pt">Amor Secreto </title>
-    <desc lang="pt"> - Irene, uma secretária inteligente, eficiente e confiável, se apaixona por seu chefe, Leonardo.</desc>
-    <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">3.79.</episode-num>
+  <programme start="20250728144500 -0300" stop="20250728153000 -0300" channel="SBT">
+    <title lang="pt">Casos de Familia</title>
+    <desc lang="pt"> - Christina Rocha retrata os mais variados problemas e dramas do cotidiano de pessoas comuns, e mostra opções de como solucioná-los com ajuda de advogados e psicólogos.</desc>
+    <category lang="en">variety show</category>
     <rating system="Brazil">
-      <value>[A14]</value>
+      <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250725185821 -0300" stop="20250725195905 -0300" channel="Novelas">
-    <title lang="pt">Para Te Ver Melhor</title>
-    <desc lang="pt"> - Um prédio, seis apartamentos, uma cobertura, uma portaria e muitas histórias de amor e suspense.</desc>
-    <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">3.79.</episode-num>
+  <programme start="20250728153000 -0300" stop="20250728170000 -0300" channel="SBT">
+    <title lang="pt">Fofocalizando</title>
+    <desc lang="pt"> - O Fofocalizando empolga suas tardes com notícias dos famosos, muita fofoca e os diversos assuntos mais comentados do mundo.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250728170000 -0300" stop="20250728180000 -0300" channel="SBT">
+    <title lang="pt">A Caverna Encantada</title>
+    <desc lang="pt"> - "A Caverna Encantada" é uma história de amizade, coragem e descobertas, onde Anna e seus amigos aprendem valiosas lições sobre confiança, trabalho em equipe e a importância de seguir seus sonhos.</desc>
+    <category lang="en">variety show</category>
     <rating system="Brazil">
-      <value>[A14]</value>
+      <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250725195930 -0300" stop="20250725205704 -0300" channel="Novelas">
-    <title lang="pt">Camaleões</title>
-    <desc lang="pt"> - Dois jovens roubam joias sob ameaça e, ao se esconderem em um colégio, descobrem segredos.</desc>
-    <category lang="en">soap/melodrama/folkloric</category>
-    <episode-num system="xmltv_ns">6.124.</episode-num>
+  <programme start="20250728180000 -0300" stop="20250728183000 -0300" channel="SBT">
+    <title lang="pt">Chaves</title>
+    <desc lang="pt"> - Na vila mais famosa, Chaves e seus amigos aprontam diversas travessuras em seus vizinhos.</desc>
+    <category lang="en">variety show</category>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250725205729 -0300" stop="20250725214640 -0300" channel="Novelas">
-    <title lang="pt">Chiquititas 97</title>
-    <desc lang="pt"> - Grupo de crianças que vive no orfanato Raio de Luz e busca amizade, amor e um novo lar.</desc>
-    <category lang="en">comedy</category>
-    <episode-num system="xmltv_ns">10.209.</episode-num>
+  <programme start="20250728183000 -0300" stop="20250728194500 -0300" channel="SBT">
+    <title lang="pt">Tá na Hora</title>
+    <desc lang="pt"> - O "Tá na Hora" leva informação e prestação de serviço durante a sua volta para casa.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250728194500 -0300" stop="20250728210000 -0300" channel="SBT">
+    <title lang="pt">SBT Brasil</title>
+    <desc lang="pt"> - Cesar Filho leva ao telespectador as notícias mais importantes do dia, ao vivo, com liberdade editorial e credibilidade.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250728210000 -0300" stop="20250728215000 -0300" channel="SBT">
+    <title lang="pt">As Filhas da Senhora Garcia</title>
+    <desc lang="pt"> - Ofélia quer mudar de vida a qualquer custo e aposta tudo na filha caçula. Ao se infiltrar na casa de uma família poderosa, ela dá início a um jogo perigoso que pode unir ou destruir suas filhas.</desc>
+    <category lang="en">soap/melodrama/folkloric</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250728215000 -0300" stop="20250728222000 -0300" channel="SBT">
+    <title lang="pt">Chaves</title>
+    <desc lang="pt"> - Na vila mais famosa, Chaves e seus amigos aprontam diversas travessuras em seus vizinhos.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250728222000 -0300" stop="20250728231500 -0300" channel="SBT">
+    <title lang="pt">Programa do Ratinho</title>
+    <desc lang="pt"> - Ratinho, preocupado com as questões da população, traz as principais notícias do dia com muito dinamismo, convidados especiais e muito mais!</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250728231500 -0300" stop="20250729000000 -0300" channel="SBT">
+    <title lang="pt">No Alvo</title>
+    <desc lang="pt"> - .</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250729000000 -0300" stop="20250729010000 -0300" channel="SBT">
+    <title lang="pt">The Noite com Danilo Gentili</title>
+    <desc lang="pt"> - Talk-show apresentado por Danilo Gentili, com atrações como a banda Utraje a Rigor, Diguinho Coruja e Igor Guimarães.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250729010000 -0300" stop="20250729013000 -0300" channel="SBT">
+    <title lang="pt">Operação Mesquita</title>
+    <desc lang="pt"> - Operação Mesquita é um programa inusitado, onde a entrevista é pretexto para Otávio Mesquita descobrir o lado B dos famosos, que mostram o seu cotidiano de forma curiosa e divertida.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250729013000 -0300" stop="20250729021500 -0300" channel="SBT">
+    <title lang="pt">SBT Podnight</title>
+    <desc lang="pt"> - Acompanhe entrevistas com grandes nomes da mídia no SBT PODNIGHT.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250729021500 -0300" stop="20250729044500 -0300" channel="SBT">
+    <title lang="pt">SBT Noticias</title>
+    <desc lang="pt"> - As principais notícias do dia e agilidade na informação.</desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250729044500 -0300" stop="20250729073000 -0300" channel="SBT">
+    <title lang="pt">SBT Manhã</title>
+    <desc lang="pt"> - Acompanhe as principais notícias do Brasil e do mundo.</desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250729073000 -0300" stop="20250729073500 -0300" channel="SBT">
+    <title lang="pt">Bom Dia Esperanca</title>
+    <desc lang="pt"> - Deive Leonardo traz mensagens de esperança para iluminar a sua manhã.</desc>
+    <category lang="en">variety show</category>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250725215003 -0300" stop="20250725224051 -0300" channel="Novelas">
-    <title lang="pt">Chiquititas 97</title>
-    <desc lang="pt"> - Grupo de crianças que vive no orfanato Raio de Luz e busca amizade, amor e um novo lar.</desc>
-    <category lang="en">comedy</category>
-    <episode-num system="xmltv_ns">10.210.</episode-num>
+  <programme start="20250729073500 -0300" stop="20250729083000 -0300" channel="SBT">
+    <title lang="pt">SBT Manha</title>
+    <desc lang="pt"> - Acompanhe as principais notícias do Brasil e do mundo.</desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250729083000 -0300" stop="20250729093000 -0300" channel="SBT">
+    <title lang="pt">Bom Dia e Cia com Patati Patatá</title>
+    <desc lang="pt"> - Patati e Patatá apresentam o Bom dia e Cia com muitas brincadeiras, músicas, desenhos e dicas para as criançada! Levando diversão e conteúdo educativo para você.</desc>
+    <category lang="en">film/cinema</category>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250725224116 -0300" stop="20250725231045 -0300" channel="Novelas">
+  <programme start="20250729093000 -0300" stop="20250729110000 -0300" channel="SBT">
+    <title lang="pt">Primeiro Impacto</title>
+    <desc lang="pt"> - Trânsito, política, saúde, esporte, mercado de trabalho, educação e os assuntos que são destaque no Brasil e no mundo.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250729110000 -0300" stop="20250729130000 -0300" channel="SBT">
+    <title lang="pt">Alô, Você</title>
+    <desc lang="pt"> - Informação, entretenimento e agilidade na cobertura dos principais acontecimentos da capital e região metropolitana.</desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250729130000 -0300" stop="20250729134500 -0300" channel="SBT">
+    <title lang="pt">Chaves</title>
+    <desc lang="pt"> - Na vila mais famosa, Chaves e seus amigos aprontam diversas travessuras em seus vizinhos.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250729134500 -0300" stop="20250729144500 -0300" channel="SBT">
+    <title lang="pt">Maria do Bairro</title>
+    <desc lang="pt"> - Maria do Bairro é uma jovem humilde que vê sua vida virar de cabeça para baixo ao ser acolhida por uma família rica.</desc>
+    <category lang="en">soap/melodrama/folkloric</category>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250729144500 -0300" stop="20250729153000 -0300" channel="SBT">
+    <title lang="pt">Casos de Familia</title>
+    <desc lang="pt"> - Christina Rocha retrata os mais variados problemas e dramas do cotidiano de pessoas comuns, e mostra opções de como solucioná-los com ajuda de advogados e psicólogos.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250729153000 -0300" stop="20250729170000 -0300" channel="SBT">
+    <title lang="pt">Fofocalizando</title>
+    <desc lang="pt"> - O Fofocalizando empolga suas tardes com notícias dos famosos, muita fofoca e os diversos assuntos mais comentados do mundo.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250729170000 -0300" stop="20250729180000 -0300" channel="SBT">
+    <title lang="pt">A Caverna Encantada</title>
+    <desc lang="pt"> - "A Caverna Encantada" é uma história de amizade, coragem e descobertas, onde Anna e seus amigos aprendem valiosas lições sobre confiança, trabalho em equipe e a importância de seguir seus sonhos.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250729180000 -0300" stop="20250729183000 -0300" channel="SBT">
+    <title lang="pt">Chaves</title>
+    <desc lang="pt"> - Na vila mais famosa, Chaves e seus amigos aprontam diversas travessuras em seus vizinhos.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250729183000 -0300" stop="20250729194500 -0300" channel="SBT">
+    <title lang="pt">Tá na Hora</title>
+    <desc lang="pt"> - O "Tá na Hora" leva informação e prestação de serviço durante a sua volta para casa.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250729194500 -0300" stop="20250729210000 -0300" channel="SBT">
+    <title lang="pt">SBT Brasil</title>
+    <desc lang="pt"> - Cesar Filho leva ao telespectador as notícias mais importantes do dia, ao vivo, com liberdade editorial e credibilidade.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250729210000 -0300" stop="20250729215000 -0300" channel="SBT">
+    <title lang="pt">As Filhas da Senhora Garcia</title>
+    <desc lang="pt"> - Ofélia quer mudar de vida a qualquer custo e aposta tudo na filha caçula. Ao se infiltrar na casa de uma família poderosa, ela dá início a um jogo perigoso que pode unir ou destruir suas filhas.</desc>
+    <category lang="en">soap/melodrama/folkloric</category>
+  </programme>
+  <programme start="20250729215000 -0300" stop="20250729222000 -0300" channel="SBT">
+    <title lang="pt">Chaves</title>
+    <desc lang="pt"> - Na vila mais famosa, Chaves e seus amigos aprontam diversas travessuras em seus vizinhos.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250729222000 -0300" stop="20250729232000 -0300" channel="SBT">
+    <title lang="pt">Programa do Ratinho</title>
+    <desc lang="pt"> - Ratinho, preocupado com as questões da população, traz as principais notícias do dia com muito dinamismo, convidados especiais e muito mais!</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250729232000 -0300" stop="20250730004500 -0300" channel="SBT">
+    <title lang="pt">Tiro Certo</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">film/cinema</category>
+    <rating system="Brazil">
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20250730004500 -0300" stop="20250730020000 -0300" channel="SBT">
+    <title lang="pt">The Noite com Danilo Gentili</title>
+    <desc lang="pt"> - Talk-show apresentado por Danilo Gentili, com atrações como a banda Utraje a Rigor, Diguinho Coruja e Igor Guimarães.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250730020000 -0300" stop="20250730023000 -0300" channel="SBT">
+    <title lang="pt">Operação Mesquita</title>
+    <desc lang="pt"> - Operação Mesquita é um programa inusitado, onde a entrevista é pretexto para Otávio Mesquita descobrir o lado B dos famosos, que mostram o seu cotidiano de forma curiosa e divertida.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250730023000 -0300" stop="20250730031500 -0300" channel="SBT">
+    <title lang="pt">SBT Podnight</title>
+    <desc lang="pt"> - Acompanhe entrevistas com grandes nomes da mídia no SBT PODNIGHT.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250730031500 -0300" stop="20250730044500 -0300" channel="SBT">
+    <title lang="pt">SBT Noticias</title>
+    <desc lang="pt"> - As principais notícias do dia e agilidade na informação.</desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250730044500 -0300" stop="20250730073000 -0300" channel="SBT">
+    <title lang="pt">SBT Manhã</title>
+    <desc lang="pt"> - Acompanhe as principais notícias do Brasil e do mundo.</desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250730073000 -0300" stop="20250730073500 -0300" channel="SBT">
+    <title lang="pt">Bom Dia Esperanca</title>
+    <desc lang="pt"> - Deive Leonardo traz mensagens de esperança para iluminar a sua manhã.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250730073500 -0300" stop="20250730083000 -0300" channel="SBT">
+    <title lang="pt">SBT Manha</title>
+    <desc lang="pt"> - Acompanhe as principais notícias do Brasil e do mundo.</desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250730083000 -0300" stop="20250730093000 -0300" channel="SBT">
+    <title lang="pt">Bom Dia e Cia com Patati Patatá</title>
+    <desc lang="pt"> - Patati e Patatá apresentam o Bom dia e Cia com muitas brincadeiras, músicas, desenhos e dicas para as criançada! Levando diversão e conteúdo educativo para você.</desc>
+    <category lang="en">film/cinema</category>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250730093000 -0300" stop="20250730110000 -0300" channel="SBT">
+    <title lang="pt">Primeiro Impacto</title>
+    <desc lang="pt"> - Trânsito, política, saúde, esporte, mercado de trabalho, educação e os assuntos que são destaque no Brasil e no mundo.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250730110000 -0300" stop="20250730130000 -0300" channel="SBT">
+    <title lang="pt">Alô, Você</title>
+    <desc lang="pt"> - Informação, entretenimento e agilidade na cobertura dos principais acontecimentos da capital e região metropolitana.</desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250730130000 -0300" stop="20250730134500 -0300" channel="SBT">
+    <title lang="pt">Chaves</title>
+    <desc lang="pt"> - Na vila mais famosa, Chaves e seus amigos aprontam diversas travessuras em seus vizinhos.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250730134500 -0300" stop="20250730144500 -0300" channel="SBT">
+    <title lang="pt">Maria do Bairro</title>
+    <desc lang="pt"> - Maria do Bairro é uma jovem humilde que vê sua vida virar de cabeça para baixo ao ser acolhida por uma família rica.</desc>
+    <category lang="en">soap/melodrama/folkloric</category>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250730144500 -0300" stop="20250730153000 -0300" channel="SBT">
+    <title lang="pt">Casos de Familia</title>
+    <desc lang="pt"> - Christina Rocha retrata os mais variados problemas e dramas do cotidiano de pessoas comuns, e mostra opções de como solucioná-los com ajuda de advogados e psicólogos.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250730153000 -0300" stop="20250730170000 -0300" channel="SBT">
+    <title lang="pt">Fofocalizando</title>
+    <desc lang="pt"> - O Fofocalizando empolga suas tardes com notícias dos famosos, muita fofoca e os diversos assuntos mais comentados do mundo.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250730170000 -0300" stop="20250730180000 -0300" channel="SBT">
+    <title lang="pt">A Caverna Encantada</title>
+    <desc lang="pt"> - "A Caverna Encantada" é uma história de amizade, coragem e descobertas, onde Anna e seus amigos aprendem valiosas lições sobre confiança, trabalho em equipe e a importância de seguir seus sonhos.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250730180000 -0300" stop="20250730183000 -0300" channel="SBT">
+    <title lang="pt">Chaves</title>
+    <desc lang="pt"> - Na vila mais famosa, Chaves e seus amigos aprontam diversas travessuras em seus vizinhos.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250730183000 -0300" stop="20250730194500 -0300" channel="SBT">
+    <title lang="pt">Tá na Hora</title>
+    <desc lang="pt"> - O "Tá na Hora" leva informação e prestação de serviço durante a sua volta para casa.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250730194500 -0300" stop="20250730210000 -0300" channel="SBT">
+    <title lang="pt">SBT Brasil</title>
+    <desc lang="pt"> - Cesar Filho leva ao telespectador as notícias mais importantes do dia, ao vivo, com liberdade editorial e credibilidade.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250730210000 -0300" stop="20250730215000 -0300" channel="SBT">
+    <title lang="pt">As Filhas da Senhora Garcia</title>
+    <desc lang="pt"> - Ofélia quer mudar de vida a qualquer custo e aposta tudo na filha caçula. Ao se infiltrar na casa de uma família poderosa, ela dá início a um jogo perigoso que pode unir ou destruir suas filhas.</desc>
+    <category lang="en">soap/melodrama/folkloric</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250730215000 -0300" stop="20250730222000 -0300" channel="SBT">
+    <title lang="pt">Chaves</title>
+    <desc lang="pt"> - Na vila mais famosa, Chaves e seus amigos aprontam diversas travessuras em seus vizinhos.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250730222000 -0300" stop="20250730231500 -0300" channel="SBT">
+    <title lang="pt">Programa do Ratinho</title>
+    <desc lang="pt"> - Ratinho, preocupado com as questões da população, traz as principais notícias do dia com muito dinamismo, convidados especiais e muito mais!</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250730231500 -0300" stop="20250731003000 -0300" channel="SBT">
+    <title lang="pt">Arena SBT</title>
+    <desc lang="pt"> - O Arena SBT é palco de debates sobre a paixão dos brasileiros: o futebol! Muitas discussões, com um time de peso analisando os principais acontecimentos do esporte mais popular do mundo.</desc>
+    <category lang="en">sports (general)</category>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250731003000 -0300" stop="20250731013000 -0300" channel="SBT">
+    <title lang="pt">The Noite com Danilo Gentili</title>
+    <desc lang="pt"> - Talk-show apresentado por Danilo Gentili, com atrações como a banda Utraje a Rigor, Diguinho Coruja e Igor Guimarães.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250731013000 -0300" stop="20250731020000 -0300" channel="SBT">
+    <title lang="pt">Operação Mesquita</title>
+    <desc lang="pt"> - Operação Mesquita é um programa inusitado, onde a entrevista é pretexto para Otávio Mesquita descobrir o lado B dos famosos, que mostram o seu cotidiano de forma curiosa e divertida.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250731020000 -0300" stop="20250731024500 -0300" channel="SBT">
+    <title lang="pt">SBT Podnight</title>
+    <desc lang="pt"> - Acompanhe entrevistas com grandes nomes da mídia no SBT PODNIGHT.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250731024500 -0300" stop="20250731044500 -0300" channel="SBT">
+    <title lang="pt">SBT Noticias</title>
+    <desc lang="pt"> - As principais notícias do dia e agilidade na informação.</desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250731044500 -0300" stop="20250731073000 -0300" channel="SBT">
+    <title lang="pt">SBT Manhã</title>
+    <desc lang="pt"> - Acompanhe as principais notícias do Brasil e do mundo.</desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250731073000 -0300" stop="20250731073500 -0300" channel="SBT">
+    <title lang="pt">Bom Dia Esperanca</title>
+    <desc lang="pt"> - Deive Leonardo traz mensagens de esperança para iluminar a sua manhã.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250731073500 -0300" stop="20250731083000 -0300" channel="SBT">
+    <title lang="pt">SBT Manha</title>
+    <desc lang="pt"> - Acompanhe as principais notícias do Brasil e do mundo.</desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250731083000 -0300" stop="20250731093000 -0300" channel="SBT">
+    <title lang="pt">Bom Dia e Cia com Patati Patatá</title>
+    <desc lang="pt"> - Patati e Patatá apresentam o Bom dia e Cia com muitas brincadeiras, músicas, desenhos e dicas para as criançada! Levando diversão e conteúdo educativo para você.</desc>
+    <category lang="en">film/cinema</category>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250731093000 -0300" stop="20250731110000 -0300" channel="SBT">
+    <title lang="pt">Primeiro Impacto</title>
+    <desc lang="pt"> - Trânsito, política, saúde, esporte, mercado de trabalho, educação e os assuntos que são destaque no Brasil e no mundo.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250731110000 -0300" stop="20250731130000 -0300" channel="SBT">
+    <title lang="pt">Alô, Você</title>
+    <desc lang="pt"> - Informação, entretenimento e agilidade na cobertura dos principais acontecimentos da capital e região metropolitana.</desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250731130000 -0300" stop="20250731134500 -0300" channel="SBT">
+    <title lang="pt">Chaves</title>
+    <desc lang="pt"> - Na vila mais famosa, Chaves e seus amigos aprontam diversas travessuras em seus vizinhos.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250731134500 -0300" stop="20250731144500 -0300" channel="SBT">
+    <title lang="pt">Maria do Bairro</title>
+    <desc lang="pt"> - Maria do Bairro é uma jovem humilde que vê sua vida virar de cabeça para baixo ao ser acolhida por uma família rica.</desc>
+    <category lang="en">soap/melodrama/folkloric</category>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250731144500 -0300" stop="20250731153000 -0300" channel="SBT">
+    <title lang="pt">Casos de Familia</title>
+    <desc lang="pt"> - Christina Rocha retrata os mais variados problemas e dramas do cotidiano de pessoas comuns, e mostra opções de como solucioná-los com ajuda de advogados e psicólogos.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250731153000 -0300" stop="20250731170000 -0300" channel="SBT">
+    <title lang="pt">Fofocalizando</title>
+    <desc lang="pt"> - O Fofocalizando empolga suas tardes com notícias dos famosos, muita fofoca e os diversos assuntos mais comentados do mundo.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250731170000 -0300" stop="20250731180000 -0300" channel="SBT">
+    <title lang="pt">A Caverna Encantada</title>
+    <desc lang="pt"> - "A Caverna Encantada" é uma história de amizade, coragem e descobertas, onde Anna e seus amigos aprendem valiosas lições sobre confiança, trabalho em equipe e a importância de seguir seus sonhos.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250731180000 -0300" stop="20250731183000 -0300" channel="SBT">
+    <title lang="pt">Chaves</title>
+    <desc lang="pt"> - Na vila mais famosa, Chaves e seus amigos aprontam diversas travessuras em seus vizinhos.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250731183000 -0300" stop="20250731194500 -0300" channel="SBT">
+    <title lang="pt">Tá na Hora</title>
+    <desc lang="pt"> - O "Tá na Hora" leva informação e prestação de serviço durante a sua volta para casa.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250731194500 -0300" stop="20250731210000 -0300" channel="SBT">
+    <title lang="pt">SBT Brasil</title>
+    <desc lang="pt"> - Cesar Filho leva ao telespectador as notícias mais importantes do dia, ao vivo, com liberdade editorial e credibilidade.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250731210000 -0300" stop="20250731215000 -0300" channel="SBT">
+    <title lang="pt">As Filhas da Senhora Garcia</title>
+    <desc lang="pt"> - Ofélia quer mudar de vida a qualquer custo e aposta tudo na filha caçula. Ao se infiltrar na casa de uma família poderosa, ela dá início a um jogo perigoso que pode unir ou destruir suas filhas.</desc>
+    <category lang="en">soap/melodrama/folkloric</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250731215000 -0300" stop="20250731222000 -0300" channel="SBT">
+    <title lang="pt">Chaves</title>
+    <desc lang="pt"> - Na vila mais famosa, Chaves e seus amigos aprontam diversas travessuras em seus vizinhos.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250731222000 -0300" stop="20250731232000 -0300" channel="SBT">
+    <title lang="pt">Programa do Ratinho</title>
+    <desc lang="pt"> - Ratinho, preocupado com as questões da população, traz as principais notícias do dia com muito dinamismo, convidados especiais e muito mais!</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250731232000 -0300" stop="20250801004500 -0300" channel="SBT">
+    <title lang="pt">A Praça é Nossa</title>
+    <desc lang="pt"> - Carlos Alberto de Nóbrega comanda a praça mais irreverente e em seu famoso banco, os mais divertidos humoristas, que conquistam os brasileiros há mais de 20 anos.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250801004500 -0300" stop="20250801014500 -0300" channel="SBT">
+    <title lang="pt">The Noite com Danilo Gentili</title>
+    <desc lang="pt"> - Talk-show apresentado por Danilo Gentili, com atrações como a banda Utraje a Rigor, Diguinho Coruja e Igor Guimarães.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250801014500 -0300" stop="20250801021500 -0300" channel="SBT">
+    <title lang="pt">Operação Mesquita</title>
+    <desc lang="pt"> - Operação Mesquita é um programa inusitado, onde a entrevista é pretexto para Otávio Mesquita descobrir o lado B dos famosos, que mostram o seu cotidiano de forma curiosa e divertida.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250801021500 -0300" stop="20250801030000 -0300" channel="SBT">
+    <title lang="pt">SBT Podnight</title>
+    <desc lang="pt"> - Acompanhe entrevistas com grandes nomes da mídia no SBT PODNIGHT.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250801030000 -0300" stop="20250801044500 -0300" channel="SBT">
+    <title lang="pt">SBT Noticias</title>
+    <desc lang="pt"> - As principais notícias do dia e agilidade na informação.</desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250801044500 -0300" stop="20250801073000 -0300" channel="SBT">
+    <title lang="pt">SBT Manhã</title>
+    <desc lang="pt"> - Acompanhe as principais notícias do Brasil e do mundo.</desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250801073000 -0300" stop="20250801073500 -0300" channel="SBT">
+    <title lang="pt">Bom Dia Esperanca</title>
+    <desc lang="pt"> - Deive Leonardo traz mensagens de esperança para iluminar a sua manhã.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250801073500 -0300" stop="20250801083000 -0300" channel="SBT">
+    <title lang="pt">SBT Manha</title>
+    <desc lang="pt"> - Acompanhe as principais notícias do Brasil e do mundo.</desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250801083000 -0300" stop="20250801093000 -0300" channel="SBT">
+    <title lang="pt">Bom Dia e Cia com Patati Patatá</title>
+    <desc lang="pt"> - Patati e Patatá apresentam o Bom dia e Cia com muitas brincadeiras, músicas, desenhos e dicas para as criançada! Levando diversão e conteúdo educativo para você.</desc>
+    <category lang="en">film/cinema</category>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250801093000 -0300" stop="20250801110000 -0300" channel="SBT">
+    <title lang="pt">Primeiro Impacto</title>
+    <desc lang="pt"> - Trânsito, política, saúde, esporte, mercado de trabalho, educação e os assuntos que são destaque no Brasil e no mundo.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250801110000 -0300" stop="20250801130000 -0300" channel="SBT">
+    <title lang="pt">Alô, Você</title>
+    <desc lang="pt"> - Informação, entretenimento e agilidade na cobertura dos principais acontecimentos da capital e região metropolitana.</desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250801130000 -0300" stop="20250801134500 -0300" channel="SBT">
+    <title lang="pt">Chaves</title>
+    <desc lang="pt"> - Na vila mais famosa, Chaves e seus amigos aprontam diversas travessuras em seus vizinhos.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250801134500 -0300" stop="20250801144500 -0300" channel="SBT">
+    <title lang="pt">Maria do Bairro</title>
+    <desc lang="pt"> - Maria do Bairro é uma jovem humilde que vê sua vida virar de cabeça para baixo ao ser acolhida por uma família rica.</desc>
+    <category lang="en">soap/melodrama/folkloric</category>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250801144500 -0300" stop="20250801153000 -0300" channel="SBT">
+    <title lang="pt">Casos de Familia</title>
+    <desc lang="pt"> - Christina Rocha retrata os mais variados problemas e dramas do cotidiano de pessoas comuns, e mostra opções de como solucioná-los com ajuda de advogados e psicólogos.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250801153000 -0300" stop="20250801170000 -0300" channel="SBT">
+    <title lang="pt">Fofocalizando</title>
+    <desc lang="pt"> - O Fofocalizando empolga suas tardes com notícias dos famosos, muita fofoca e os diversos assuntos mais comentados do mundo.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250801170000 -0300" stop="20250801180000 -0300" channel="SBT">
+    <title lang="pt">A Caverna Encantada</title>
+    <desc lang="pt"> - "A Caverna Encantada" é uma história de amizade, coragem e descobertas, onde Anna e seus amigos aprendem valiosas lições sobre confiança, trabalho em equipe e a importância de seguir seus sonhos.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250801180000 -0300" stop="20250801183000 -0300" channel="SBT">
+    <title lang="pt">Chaves</title>
+    <desc lang="pt"> - Na vila mais famosa, Chaves e seus amigos aprontam diversas travessuras em seus vizinhos.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250801183000 -0300" stop="20250801194500 -0300" channel="SBT">
+    <title lang="pt">Tá na Hora</title>
+    <desc lang="pt"> - O "Tá na Hora" leva informação e prestação de serviço durante a sua volta para casa.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250801194500 -0300" stop="20250801210000 -0300" channel="SBT">
+    <title lang="pt">SBT Brasil</title>
+    <desc lang="pt"> - Cesar Filho leva ao telespectador as notícias mais importantes do dia, ao vivo, com liberdade editorial e credibilidade.</desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250801210000 -0300" stop="20250801215000 -0300" channel="SBT">
+    <title lang="pt">As Filhas da Senhora Garcia</title>
+    <desc lang="pt"> - Ofélia quer mudar de vida a qualquer custo e aposta tudo na filha caçula. Ao se infiltrar na casa de uma família poderosa, ela dá início a um jogo perigoso que pode unir ou destruir suas filhas.</desc>
+    <category lang="en">soap/melodrama/folkloric</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250801215000 -0300" stop="20250801222000 -0300" channel="SBT">
+    <title lang="pt">Chaves</title>
+    <desc lang="pt"> - Na vila mais famosa, Chaves e seus amigos aprontam diversas travessuras em seus vizinhos.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250801222000 -0300" stop="20250801232000 -0300" channel="SBT">
+    <title lang="pt">Programa do Ratinho</title>
+    <desc lang="pt"> - Ratinho, preocupado com as questões da população, traz as principais notícias do dia com muito dinamismo, convidados especiais e muito mais!</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250801232000 -0300" stop="20250802010000 -0300" channel="SBT">
+    <title lang="pt">Do Fundo do Mar 2</title>
+    <desc lang="pt"> - Após um trauma familiar, o policial Bill se tornou uma pessoa amarga. Enquanto o filho tenta se aproximar dele sem sucesso, o sargento e pastor encara a frieza de Bill como uma missão de Deus.</desc>
+    <category lang="en">film/cinema</category>
+    <rating system="Brazil">
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20250802010000 -0300" stop="20250802020000 -0300" channel="SBT">
+    <title lang="pt">The Noite com Danilo Gentili</title>
+    <desc lang="pt"> - Talk-show apresentado por Danilo Gentili, com atrações como a banda Utraje a Rigor, Diguinho Coruja e Igor Guimarães.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250802020000 -0300" stop="20250802023000 -0300" channel="SBT">
+    <title lang="pt">Operação Mesquita</title>
+    <desc lang="pt"> - Operação Mesquita é um programa inusitado, onde a entrevista é pretexto para Otávio Mesquita descobrir o lado B dos famosos, que mostram o seu cotidiano de forma curiosa e divertida.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250802023000 -0300" stop="20250802031500 -0300" channel="SBT">
+    <title lang="pt">SBT Podnight</title>
+    <desc lang="pt"> - Acompanhe entrevistas com grandes nomes da mídia no SBT PODNIGHT.</desc>
+    <category lang="en">variety show</category>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250802031500 -0300" stop="20250802060000 -0300" channel="SBT">
+    <title lang="pt">SBT Noticias</title>
+    <desc lang="pt"> - As principais notícias do dia e agilidade na informação.</desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250725225511 -0300" stop="20250725231153 -0300" channel="Novelas">
     <title lang="pt">Fascinação</title>
     <desc lang="pt"> - Clara e Carlos enfrentam perigos e traições para manter vivo seu grande amor.</desc>
     <category lang="en">movie/drama (general)</category>
@@ -466,7 +1101,7 @@
       <value>[A14]</value>
     </rating>
   </programme>
-  <programme start="20250725231110 -0300" stop="20250726000520 -0300" channel="Novelas">
+  <programme start="20250725231218 -0300" stop="20250726000627 -0300" channel="Novelas">
     <title lang="pt">Samantha</title>
     <desc lang="pt"> - Um acidente transforma a vida da camponesa Samantha del Llano e do milionário Luis Alberto.</desc>
     <category lang="en">movie/drama (general)</category>
@@ -475,7 +1110,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250726000545 -0300" stop="20250726010058 -0300" channel="Novelas">
+  <programme start="20250726000652 -0300" stop="20250726010202 -0300" channel="Novelas">
     <title lang="pt">Samantha</title>
     <desc lang="pt"> - Um acidente transforma a vida da camponesa Samantha del Llano e do milionário Luis Alberto.</desc>
     <category lang="en">movie/drama (general)</category>
@@ -484,7 +1119,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250726010518 -0300" stop="20250726020051 -0300" channel="Novelas">
+  <programme start="20250726010621 -0300" stop="20250726020155 -0300" channel="Novelas">
     <title lang="pt">Samantha</title>
     <desc lang="pt"> - Um acidente transforma a vida da camponesa Samantha del Llano e do milionário Luis Alberto.</desc>
     <category lang="en">movie/drama (general)</category>
@@ -493,7 +1128,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250726020336 -0300" stop="20250726030120 -0300" channel="Novelas">
+  <programme start="20250726020440 -0300" stop="20250726030224 -0300" channel="Novelas">
     <title lang="pt">Samantha</title>
     <desc lang="pt"> - Um acidente transforma a vida da camponesa Samantha del Llano e do milionário Luis Alberto.</desc>
     <category lang="en">movie/drama (general)</category>
@@ -502,7 +1137,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250726030418 -0300" stop="20250726040026 -0300" channel="Novelas">
+  <programme start="20250726030522 -0300" stop="20250726040129 -0300" channel="Novelas">
     <title lang="pt">Samantha</title>
     <desc lang="pt"> - Um acidente transforma a vida da camponesa Samantha del Llano e do milionário Luis Alberto.</desc>
     <category lang="en">movie/drama (general)</category>
@@ -511,7 +1146,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250726040312 -0300" stop="20250726045739 -0300" channel="Novelas">
+  <programme start="20250726040416 -0300" stop="20250726045840 -0300" channel="Novelas">
     <title lang="pt">Samantha</title>
     <desc lang="pt"> - Um acidente transforma a vida da camponesa Samantha del Llano e do milionário Luis Alberto.</desc>
     <category lang="en">movie/drama (general)</category>
@@ -520,7 +1155,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250726045759 -0300" stop="20250726052539 -0300" channel="Novelas">
+  <programme start="20250726045900 -0300" stop="20250726052639 -0300" channel="Novelas">
     <title lang="pt">Fascinação</title>
     <desc lang="pt"> - Clara e Carlos enfrentam perigos e traições para manter vivo seu grande amor.</desc>
     <category lang="en">movie/drama (general)</category>
@@ -529,7 +1164,7 @@
       <value>[A14]</value>
     </rating>
   </programme>
-  <programme start="20250726052837 -0300" stop="20250726055723 -0300" channel="Novelas">
+  <programme start="20250726052937 -0300" stop="20250726055824 -0300" channel="Novelas">
     <title lang="pt">Fascinação</title>
     <desc lang="pt"> - Clara e Carlos enfrentam perigos e traições para manter vivo seu grande amor.</desc>
     <category lang="en">movie/drama (general)</category>
@@ -538,7 +1173,7 @@
       <value>[A14]</value>
     </rating>
   </programme>
-  <programme start="20250726060003 -0300" stop="20250726062658 -0300" channel="Novelas">
+  <programme start="20250726060104 -0300" stop="20250726062758 -0300" channel="Novelas">
     <title lang="pt">Fascinação</title>
     <desc lang="pt"> - Clara e Carlos enfrentam perigos e traições para manter vivo seu grande amor.</desc>
     <category lang="en">movie/drama (general)</category>
@@ -547,7 +1182,7 @@
       <value>[A14]</value>
     </rating>
   </programme>
-  <programme start="20250726062949 -0300" stop="20250726065821 -0300" channel="Novelas">
+  <programme start="20250726063049 -0300" stop="20250726065922 -0300" channel="Novelas">
     <title lang="pt">Fascinação</title>
     <desc lang="pt"> - Clara e Carlos enfrentam perigos e traições para manter vivo seu grande amor.</desc>
     <category lang="en">movie/drama (general)</category>
@@ -556,7 +1191,7 @@
       <value>[A14]</value>
     </rating>
   </programme>
-  <programme start="20250726070112 -0300" stop="20250726072957 -0300" channel="Novelas">
+  <programme start="20250726070212 -0300" stop="20250726073057 -0300" channel="Novelas">
     <title lang="pt">Fascinação</title>
     <desc lang="pt"> - Clara e Carlos enfrentam perigos e traições para manter vivo seu grande amor.</desc>
     <category lang="en">movie/drama (general)</category>
@@ -565,7 +1200,7 @@
       <value>[A14]</value>
     </rating>
   </programme>
-  <programme start="20250726073759 -0300" stop="20250726082605 -0300" channel="Novelas">
+  <programme start="20250726073856 -0300" stop="20250726082621 -0300" channel="Novelas">
     <title lang="pt">Camaleões</title>
     <desc lang="pt"> - Dois jovens roubam joias sob ameaça e, ao se esconderem em um colégio, descobrem segredos.</desc>
     <category lang="en">soap/melodrama/folkloric</category>
@@ -574,7 +1209,7 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250726082846 -0300" stop="20250726092150 -0300" channel="Novelas">
+  <programme start="20250726082901 -0300" stop="20250726092116 -0300" channel="Novelas">
     <title lang="pt">Camaleões</title>
     <desc lang="pt"> - Dois jovens roubam joias sob ameaça e, ao se esconderem em um colégio, descobrem segredos.</desc>
     <category lang="en">soap/melodrama/folkloric</category>
@@ -583,7 +1218,7 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250726092415 -0300" stop="20250726101621 -0300" channel="Novelas">
+  <programme start="20250726092341 -0300" stop="20250726101508 -0300" channel="Novelas">
     <title lang="pt">Camaleões</title>
     <desc lang="pt"> - Dois jovens roubam joias sob ameaça e, ao se esconderem em um colégio, descobrem segredos.</desc>
     <category lang="en">soap/melodrama/folkloric</category>
@@ -592,7 +1227,7 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250726101901 -0300" stop="20250726111239 -0300" channel="Novelas">
+  <programme start="20250726101748 -0300" stop="20250726111115 -0300" channel="Novelas">
     <title lang="pt">Camaleões</title>
     <desc lang="pt"> - Dois jovens roubam joias sob ameaça e, ao se esconderem em um colégio, descobrem segredos.</desc>
     <category lang="en">soap/melodrama/folkloric</category>
@@ -601,7 +1236,7 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250726111515 -0300" stop="20250726120839 -0300" channel="Novelas">
+  <programme start="20250726111351 -0300" stop="20250726120626 -0300" channel="Novelas">
     <title lang="pt">Camaleões</title>
     <desc lang="pt"> - Dois jovens roubam joias sob ameaça e, ao se esconderem em um colégio, descobrem segredos.</desc>
     <category lang="en">soap/melodrama/folkloric</category>
@@ -610,52 +1245,52 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250726120849 -0300" stop="20250726130249 -0300" channel="Novelas">
+  <programme start="20250726120636 -0300" stop="20250726125702 -0300" channel="Novelas">
     <title lang="pt">As Filhas da Senhora Garcia </title>
     <desc lang="pt"> - Entre luxo e dignidade, uma mãe e duas filhas enfrentam sonhos que podem separá-las.</desc>
     <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
     <rating system="Brazil">
       <value>[A12]</value>
     </rating>
   </programme>
-  <programme start="20250726130504 -0300" stop="20250726135634 -0300" channel="Novelas">
+  <programme start="20250726125918 -0300" stop="20250726134243 -0300" channel="Novelas">
     <title lang="pt">As Filhas da Senhora Garcia </title>
     <desc lang="pt"> - Entre luxo e dignidade, uma mãe e duas filhas enfrentam sonhos que podem separá-las.</desc>
     <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
     <rating system="Brazil">
       <value>[A12]</value>
     </rating>
   </programme>
-  <programme start="20250726135850 -0300" stop="20250726144948 -0300" channel="Novelas">
+  <programme start="20250726135228 -0300" stop="20250726144317 -0300" channel="Novelas">
     <title lang="pt">As Filhas da Senhora Garcia </title>
     <desc lang="pt"> - Entre luxo e dignidade, uma mãe e duas filhas enfrentam sonhos que podem separá-las.</desc>
     <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <episode-num system="xmltv_ns">0.11.</episode-num>
     <rating system="Brazil">
       <value>[A12]</value>
     </rating>
   </programme>
-  <programme start="20250726145204 -0300" stop="20250726154252 -0300" channel="Novelas">
+  <programme start="20250726144532 -0300" stop="20250726152849 -0300" channel="Novelas">
     <title lang="pt">As Filhas da Senhora Garcia </title>
     <desc lang="pt"> - Entre luxo e dignidade, uma mãe e duas filhas enfrentam sonhos que podem separá-las.</desc>
     <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <episode-num system="xmltv_ns">0.12.</episode-num>
     <rating system="Brazil">
       <value>[A12]</value>
     </rating>
   </programme>
-  <programme start="20250726154508 -0300" stop="20250726163619 -0300" channel="Novelas">
+  <programme start="20250726153820 -0300" stop="20250726162858 -0300" channel="Novelas">
     <title lang="pt">As Filhas da Senhora Garcia </title>
     <desc lang="pt"> - Entre luxo e dignidade, uma mãe e duas filhas enfrentam sonhos que podem separá-las.</desc>
     <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <episode-num system="xmltv_ns">0.13.</episode-num>
     <rating system="Brazil">
       <value>[A12]</value>
     </rating>
   </programme>
-  <programme start="20250726163644 -0300" stop="20250726172628 -0300" channel="Novelas">
+  <programme start="20250726162923 -0300" stop="20250726171907 -0300" channel="Novelas">
     <title lang="pt">Chiquititas 97</title>
     <desc lang="pt"> - Grupo de crianças que vive no orfanato Raio de Luz e busca amizade, amor e um novo lar.</desc>
     <category lang="en">comedy</category>
@@ -664,7 +1299,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250726172913 -0300" stop="20250726182016 -0300" channel="Novelas">
+  <programme start="20250726172152 -0300" stop="20250726181255 -0300" channel="Novelas">
     <title lang="pt">Chiquititas 97</title>
     <desc lang="pt"> - Grupo de crianças que vive no orfanato Raio de Luz e busca amizade, amor e um novo lar.</desc>
     <category lang="en">comedy</category>
@@ -673,7 +1308,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250726182251 -0300" stop="20250726191356 -0300" channel="Novelas">
+  <programme start="20250726181530 -0300" stop="20250726190646 -0300" channel="Novelas">
     <title lang="pt">Chiquititas 97</title>
     <desc lang="pt"> - Grupo de crianças que vive no orfanato Raio de Luz e busca amizade, amor e um novo lar.</desc>
     <category lang="en">comedy</category>
@@ -682,7 +1317,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250726191641 -0300" stop="20250726200232 -0300" channel="Novelas">
+  <programme start="20250726190931 -0300" stop="20250726195523 -0300" channel="Novelas">
     <title lang="pt">Chiquititas 97</title>
     <desc lang="pt"> - Grupo de crianças que vive no orfanato Raio de Luz e busca amizade, amor e um novo lar.</desc>
     <category lang="en">comedy</category>
@@ -691,7 +1326,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250726200542 -0300" stop="20250726205049 -0300" channel="Novelas">
+  <programme start="20250726195833 -0300" stop="20250726204339 -0300" channel="Novelas">
     <title lang="pt">Chiquititas 97</title>
     <desc lang="pt"> - Grupo de crianças que vive no orfanato Raio de Luz e busca amizade, amor e um novo lar.</desc>
     <category lang="en">comedy</category>
@@ -700,7 +1335,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250726205339 -0300" stop="20250726214327 -0300" channel="Novelas">
+  <programme start="20250726204629 -0300" stop="20250726213617 -0300" channel="Novelas">
     <title lang="pt">Chiquititas 97</title>
     <desc lang="pt"> - Grupo de crianças que vive no orfanato Raio de Luz e busca amizade, amor e um novo lar.</desc>
     <category lang="en">comedy</category>
@@ -709,7 +1344,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250726214612 -0300" stop="20250726223616 -0300" channel="Novelas">
+  <programme start="20250726213902 -0300" stop="20250726222842 -0300" channel="Novelas">
     <title lang="pt">Chiquititas 97</title>
     <desc lang="pt"> - Grupo de crianças que vive no orfanato Raio de Luz e busca amizade, amor e um novo lar.</desc>
     <category lang="en">comedy</category>
@@ -718,7 +1353,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250726223902 -0300" stop="20250726232859 -0300" channel="Novelas">
+  <programme start="20250726223128 -0300" stop="20250726232051 -0300" channel="Novelas">
     <title lang="pt">Chiquititas 97</title>
     <desc lang="pt"> - Grupo de crianças que vive no orfanato Raio de Luz e busca amizade, amor e um novo lar.</desc>
     <category lang="en">comedy</category>
@@ -727,7 +1362,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250726233134 -0300" stop="20250727002008 -0300" channel="Novelas">
+  <programme start="20250726232326 -0300" stop="20250727001200 -0300" channel="Novelas">
     <title lang="pt">Chiquititas 97</title>
     <desc lang="pt"> - Grupo de crianças que vive no orfanato Raio de Luz e busca amizade, amor e um novo lar.</desc>
     <category lang="en">comedy</category>
@@ -736,7 +1371,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250727002259 -0300" stop="20250727011231 -0300" channel="Novelas">
+  <programme start="20250727001451 -0300" stop="20250727010423 -0300" channel="Novelas">
     <title lang="pt">Chiquititas 97</title>
     <desc lang="pt"> - Grupo de crianças que vive no orfanato Raio de Luz e busca amizade, amor e um novo lar.</desc>
     <category lang="en">comedy</category>
@@ -745,52 +1380,52 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250727011242 -0300" stop="20250727020642 -0300" channel="Novelas">
+  <programme start="20250727010433 -0300" stop="20250727015459 -0300" channel="Novelas">
     <title lang="pt">As Filhas da Senhora Garcia </title>
     <desc lang="pt"> - Entre luxo e dignidade, uma mãe e duas filhas enfrentam sonhos que podem separá-las.</desc>
     <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
     <rating system="Brazil">
       <value>[A12]</value>
     </rating>
   </programme>
-  <programme start="20250727020857 -0300" stop="20250727030027 -0300" channel="Novelas">
+  <programme start="20250727015715 -0300" stop="20250727024040 -0300" channel="Novelas">
     <title lang="pt">As Filhas da Senhora Garcia </title>
     <desc lang="pt"> - Entre luxo e dignidade, uma mãe e duas filhas enfrentam sonhos que podem separá-las.</desc>
     <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
     <rating system="Brazil">
       <value>[A12]</value>
     </rating>
   </programme>
-  <programme start="20250727030242 -0300" stop="20250727035341 -0300" channel="Novelas">
+  <programme start="20250727025025 -0300" stop="20250727034114 -0300" channel="Novelas">
     <title lang="pt">As Filhas da Senhora Garcia </title>
     <desc lang="pt"> - Entre luxo e dignidade, uma mãe e duas filhas enfrentam sonhos que podem separá-las.</desc>
     <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <episode-num system="xmltv_ns">0.11.</episode-num>
     <rating system="Brazil">
       <value>[A12]</value>
     </rating>
   </programme>
-  <programme start="20250727035556 -0300" stop="20250727044645 -0300" channel="Novelas">
+  <programme start="20250727034329 -0300" stop="20250727042646 -0300" channel="Novelas">
     <title lang="pt">As Filhas da Senhora Garcia </title>
     <desc lang="pt"> - Entre luxo e dignidade, uma mãe e duas filhas enfrentam sonhos que podem separá-las.</desc>
     <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <episode-num system="xmltv_ns">0.12.</episode-num>
     <rating system="Brazil">
       <value>[A12]</value>
     </rating>
   </programme>
-  <programme start="20250727044900 -0300" stop="20250727054012 -0300" channel="Novelas">
+  <programme start="20250727043617 -0300" stop="20250727052655 -0300" channel="Novelas">
     <title lang="pt">As Filhas da Senhora Garcia </title>
     <desc lang="pt"> - Entre luxo e dignidade, uma mãe e duas filhas enfrentam sonhos que podem separá-las.</desc>
     <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <episode-num system="xmltv_ns">0.13.</episode-num>
     <rating system="Brazil">
       <value>[A12]</value>
     </rating>
   </programme>
-  <programme start="20250727054022 -0300" stop="20250727062309 -0300" channel="Novelas">
+  <programme start="20250727053045 -0300" stop="20250727061333 -0300" channel="Novelas">
     <title lang="pt">Geração Chiquititas</title>
     <sub-title lang="pt">1. O retorno da turma de 1997</sub-title>
     <desc lang="pt"> - Um reencontro inesquecível com o elenco de Chiquititas 97, repleto de nostalgia e muita diversão!</desc>
@@ -800,7 +1435,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250727062609 -0300" stop="20250727070705 -0300" channel="Novelas">
+  <programme start="20250727061629 -0300" stop="20250727065725 -0300" channel="Novelas">
     <title lang="pt">Geração Chiquititas</title>
     <sub-title lang="pt">2. Histórias, vilões e saudade</sub-title>
     <desc lang="pt"> - Um reencontro inesquecível com o elenco de Chiquititas 97, repleto de nostalgia e muita diversão!</desc>
@@ -810,7 +1445,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250727071202 -0300" stop="20250727074228 -0300" channel="Novelas">
+  <programme start="20250727070222 -0300" stop="20250727073248 -0300" channel="Novelas">
     <title lang="pt">Geração Chiquititas</title>
     <sub-title lang="pt">3. Chiquifuxico </sub-title>
     <desc lang="pt"> - Um reencontro inesquecível com o elenco de Chiquititas 97, repleto de nostalgia e muita diversão!</desc>
@@ -820,7 +1455,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250727074553 -0300" stop="20250727080937 -0300" channel="Novelas">
+  <programme start="20250727073613 -0300" stop="20250727075957 -0300" channel="Novelas">
     <title lang="pt">Geração Chiquititas</title>
     <sub-title lang="pt">4. Verdadinha ou mentirinha </sub-title>
     <desc lang="pt"> - Um reencontro inesquecível com o elenco de Chiquititas 97, repleto de nostalgia e muita diversão!</desc>
@@ -830,7 +1465,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250727081233 -0300" stop="20250727084344 -0300" channel="Novelas">
+  <programme start="20250727080253 -0300" stop="20250727083404 -0300" channel="Novelas">
     <title lang="pt">Geração Chiquititas</title>
     <sub-title lang="pt">5. Chiquilovers para sempre </sub-title>
     <desc lang="pt"> - Um reencontro inesquecível com o elenco de Chiquititas 97, repleto de nostalgia e muita diversão!</desc>
@@ -840,7 +1475,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250727085151 -0300" stop="20250727093957 -0300" channel="Novelas">
+  <programme start="20250727084208 -0300" stop="20250727092932 -0300" channel="Novelas">
     <title lang="pt">Camaleões</title>
     <desc lang="pt"> - Dois jovens roubam joias sob ameaça e, ao se esconderem em um colégio, descobrem segredos.</desc>
     <category lang="en">soap/melodrama/folkloric</category>
@@ -849,7 +1484,7 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250727094238 -0300" stop="20250727103542 -0300" channel="Novelas">
+  <programme start="20250727093212 -0300" stop="20250727102428 -0300" channel="Novelas">
     <title lang="pt">Camaleões</title>
     <desc lang="pt"> - Dois jovens roubam joias sob ameaça e, ao se esconderem em um colégio, descobrem segredos.</desc>
     <category lang="en">soap/melodrama/folkloric</category>
@@ -858,7 +1493,7 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250727103807 -0300" stop="20250727112934 -0300" channel="Novelas">
+  <programme start="20250727102653 -0300" stop="20250727111820 -0300" channel="Novelas">
     <title lang="pt">Camaleões</title>
     <desc lang="pt"> - Dois jovens roubam joias sob ameaça e, ao se esconderem em um colégio, descobrem segredos.</desc>
     <category lang="en">soap/melodrama/folkloric</category>
@@ -867,7 +1502,7 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250727113214 -0300" stop="20250727122510 -0300" channel="Novelas">
+  <programme start="20250727112100 -0300" stop="20250727121353 -0300" channel="Novelas">
     <title lang="pt">Camaleões</title>
     <desc lang="pt"> - Dois jovens roubam joias sob ameaça e, ao se esconderem em um colégio, descobrem segredos.</desc>
     <category lang="en">soap/melodrama/folkloric</category>
@@ -876,7 +1511,7 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250727122746 -0300" stop="20250727132025 -0300" channel="Novelas">
+  <programme start="20250727121629 -0300" stop="20250727130904 -0300" channel="Novelas">
     <title lang="pt">Camaleões</title>
     <desc lang="pt"> - Dois jovens roubam joias sob ameaça e, ao se esconderem em um colégio, descobrem segredos.</desc>
     <category lang="en">soap/melodrama/folkloric</category>
@@ -885,7 +1520,7 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250727132035 -0300" stop="20250727140322 -0300" channel="Novelas">
+  <programme start="20250727130914 -0300" stop="20250727135202 -0300" channel="Novelas">
     <title lang="pt">Geração Chiquititas</title>
     <sub-title lang="pt">1. O retorno da turma de 1997</sub-title>
     <desc lang="pt"> - Um reencontro inesquecível com o elenco de Chiquititas 97, repleto de nostalgia e muita diversão!</desc>
@@ -895,7 +1530,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250727140622 -0300" stop="20250727144718 -0300" channel="Novelas">
+  <programme start="20250727135458 -0300" stop="20250727143554 -0300" channel="Novelas">
     <title lang="pt">Geração Chiquititas</title>
     <sub-title lang="pt">2. Histórias, vilões e saudade</sub-title>
     <desc lang="pt"> - Um reencontro inesquecível com o elenco de Chiquititas 97, repleto de nostalgia e muita diversão!</desc>
@@ -905,7 +1540,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250727145216 -0300" stop="20250727152241 -0300" channel="Novelas">
+  <programme start="20250727144051 -0300" stop="20250727151117 -0300" channel="Novelas">
     <title lang="pt">Geração Chiquititas</title>
     <sub-title lang="pt">3. Chiquifuxico </sub-title>
     <desc lang="pt"> - Um reencontro inesquecível com o elenco de Chiquititas 97, repleto de nostalgia e muita diversão!</desc>
@@ -915,7 +1550,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250727152606 -0300" stop="20250727154950 -0300" channel="Novelas">
+  <programme start="20250727151442 -0300" stop="20250727153826 -0300" channel="Novelas">
     <title lang="pt">Geração Chiquititas</title>
     <sub-title lang="pt">4. Verdadinha ou mentirinha </sub-title>
     <desc lang="pt"> - Um reencontro inesquecível com o elenco de Chiquititas 97, repleto de nostalgia e muita diversão!</desc>
@@ -925,7 +1560,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250727155247 -0300" stop="20250727162357 -0300" channel="Novelas">
+  <programme start="20250727154122 -0300" stop="20250727161233 -0300" channel="Novelas">
     <title lang="pt">Geração Chiquititas</title>
     <sub-title lang="pt">5. Chiquilovers para sempre </sub-title>
     <desc lang="pt"> - Um reencontro inesquecível com o elenco de Chiquititas 97, repleto de nostalgia e muita diversão!</desc>
@@ -935,7 +1570,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250727162422 -0300" stop="20250727171346 -0300" channel="Novelas">
+  <programme start="20250727161258 -0300" stop="20250727170222 -0300" channel="Novelas">
     <title lang="pt">Chiquititas 97</title>
     <desc lang="pt"> - Grupo de crianças que vive no orfanato Raio de Luz e busca amizade, amor e um novo lar.</desc>
     <category lang="en">comedy</category>
@@ -944,7 +1579,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250727171632 -0300" stop="20250727180734 -0300" channel="Novelas">
+  <programme start="20250727170507 -0300" stop="20250727175610 -0300" channel="Novelas">
     <title lang="pt">Chiquititas 97</title>
     <desc lang="pt"> - Grupo de crianças que vive no orfanato Raio de Luz e busca amizade, amor e um novo lar.</desc>
     <category lang="en">comedy</category>
@@ -953,7 +1588,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250727181009 -0300" stop="20250727190114 -0300" channel="Novelas">
+  <programme start="20250727175845 -0300" stop="20250727184950 -0300" channel="Novelas">
     <title lang="pt">Chiquititas 97</title>
     <desc lang="pt"> - Grupo de crianças que vive no orfanato Raio de Luz e busca amizade, amor e um novo lar.</desc>
     <category lang="en">comedy</category>
@@ -962,7 +1597,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250727190359 -0300" stop="20250727194951 -0300" channel="Novelas">
+  <programme start="20250727185235 -0300" stop="20250727193826 -0300" channel="Novelas">
     <title lang="pt">Chiquititas 97</title>
     <desc lang="pt"> - Grupo de crianças que vive no orfanato Raio de Luz e busca amizade, amor e um novo lar.</desc>
     <category lang="en">comedy</category>
@@ -971,7 +1606,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250727195301 -0300" stop="20250727203737 -0300" channel="Novelas">
+  <programme start="20250727194136 -0300" stop="20250727202613 -0300" channel="Novelas">
     <title lang="pt">Chiquititas 97</title>
     <desc lang="pt"> - Grupo de crianças que vive no orfanato Raio de Luz e busca amizade, amor e um novo lar.</desc>
     <category lang="en">comedy</category>
@@ -980,7 +1615,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250727204027 -0300" stop="20250727213015 -0300" channel="Novelas">
+  <programme start="20250727202903 -0300" stop="20250727211851 -0300" channel="Novelas">
     <title lang="pt">Chiquititas 97</title>
     <desc lang="pt"> - Grupo de crianças que vive no orfanato Raio de Luz e busca amizade, amor e um novo lar.</desc>
     <category lang="en">comedy</category>
@@ -989,7 +1624,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250727213300 -0300" stop="20250727222305 -0300" channel="Novelas">
+  <programme start="20250727212136 -0300" stop="20250727221140 -0300" channel="Novelas">
     <title lang="pt">Chiquititas 97</title>
     <desc lang="pt"> - Grupo de crianças que vive no orfanato Raio de Luz e busca amizade, amor e um novo lar.</desc>
     <category lang="en">comedy</category>
@@ -998,7 +1633,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250727222551 -0300" stop="20250727231526 -0300" channel="Novelas">
+  <programme start="20250727221426 -0300" stop="20250727230359 -0300" channel="Novelas">
     <title lang="pt">Chiquititas 97</title>
     <desc lang="pt"> - Grupo de crianças que vive no orfanato Raio de Luz e busca amizade, amor e um novo lar.</desc>
     <category lang="en">comedy</category>
@@ -1007,7 +1642,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250727231802 -0300" stop="20250728000636 -0300" channel="Novelas">
+  <programme start="20250727230634 -0300" stop="20250727235508 -0300" channel="Novelas">
     <title lang="pt">Chiquititas 97</title>
     <desc lang="pt"> - Grupo de crianças que vive no orfanato Raio de Luz e busca amizade, amor e um novo lar.</desc>
     <category lang="en">comedy</category>
@@ -1016,7 +1651,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250728000927 -0300" stop="20250728005859 -0300" channel="Novelas">
+  <programme start="20250727235759 -0300" stop="20250728004732 -0300" channel="Novelas">
     <title lang="pt">Chiquititas 97</title>
     <desc lang="pt"> - Grupo de crianças que vive no orfanato Raio de Luz e busca amizade, amor e um novo lar.</desc>
     <category lang="en">comedy</category>
@@ -1025,60 +1660,493 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250725104904 -0300" stop="20250725141403 -0300" channel="Silvio Santos">
-    <title lang="pt">Programa Silvio Santos</title>
-    <sub-title lang="pt">realizado em 01/02/2009</sub-title>
-    <desc lang="pt">Um clássico da TV brasileira! Aviõezinhos, calouros, artistas e toda a diversão que marcou gerações.</desc>
-    <category lang="en">variety show</category>
-    <date>01/02/2009</date>
-    <episode-num system="xmltv_ns">1.3.</episode-num>
+  <programme start="20250728004757 -0300" stop="20250728013935 -0300" channel="Novelas">
+    <title lang="pt">Vende-se Um Véu de Noiva</title>
+    <desc lang="pt"> - Adaptação por Iris Abravanel, este é um romance intenso, com reviravoltas surpreendentes do destino.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">0.167.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250725141408 -0300" stop="20250725142626 -0300" channel="Silvio Santos">
-    <title lang="pt">Melhores Momentos</title>
-    <desc lang="pt"> - Melhores Momentos com Silvio Santos</desc>
-    <category lang="en">variety show</category>
-    <episode-num system="xmltv_ns">0.19.</episode-num>
+  <programme start="20250728014000 -0300" stop="20250728023752 -0300" channel="Novelas">
+    <title lang="pt">Amigas e Rivais</title>
+    <desc lang="pt"> - Quatro jovens com sonhos distintos têm suas vidas entrelaçadas em uma jornada emocionante.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">8.167.</episode-num>
     <rating system="Brazil">
-      <value>[AL]</value>
+      <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250725142626 -0300" stop="20250725162324 -0300" channel="Silvio Santos">
-    <title lang="pt">Em Nome do Amor</title>
-    <sub-title lang="pt">realizado em 14/05/1995</sub-title>
-    <desc lang="pt">A cada história uma nova emoção. Tudo é lindo com Silvio Santos no Em Nome do Amor! </desc>
-    <category lang="en">variety show</category>
-    <date>14/05/1995</date>
-    <episode-num system="xmltv_ns">1.13.</episode-num>
+  <programme start="20250728023817 -0300" stop="20250728033317 -0300" channel="Novelas">
+    <title lang="pt">Amor Secreto </title>
+    <desc lang="pt"> - Irene, uma secretária inteligente, eficiente e confiável, se apaixona por seu chefe, Leonardo.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">4.80.</episode-num>
     <rating system="Brazil">
-      <value>[AL]</value>
+      <value>[A14]</value>
     </rating>
   </programme>
-  <programme start="20250725162331 -0300" stop="20250725172538 -0300" channel="Silvio Santos">
-    <title lang="pt">Show do Milhão</title>
-    <sub-title lang="pt">realizado em 09/11/2000</sub-title>
-    <desc lang="pt">Silvio Santos convida participantes para testarem seus conhecimentos valendo um milhão de reais.</desc>
-    <category lang="en">variety show</category>
-    <date>09/11/2000</date>
-    <episode-num system="xmltv_ns">4.4.</episode-num>
+  <programme start="20250728033342 -0300" stop="20250728043109 -0300" channel="Novelas">
+    <title lang="pt">Para Te Ver Melhor</title>
+    <desc lang="pt"> - Um prédio, seis apartamentos, uma cobertura, uma portaria e muitas histórias de amor e suspense.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">4.80.</episode-num>
+    <rating system="Brazil">
+      <value>[A14]</value>
+    </rating>
+  </programme>
+  <programme start="20250728043134 -0300" stop="20250728052522 -0300" channel="Novelas">
+    <title lang="pt">Camaleões</title>
+    <desc lang="pt"> - Dois jovens roubam joias sob ameaça e, ao se esconderem em um colégio, descobrem segredos.</desc>
+    <category lang="en">soap/melodrama/folkloric</category>
+    <episode-num system="xmltv_ns">6.125.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250728052547 -0300" stop="20250728061631 -0300" channel="Novelas">
+    <title lang="pt">Chiquititas 97</title>
+    <desc lang="pt"> - Grupo de crianças que vive no orfanato Raio de Luz e busca amizade, amor e um novo lar.</desc>
+    <category lang="en">comedy</category>
+    <episode-num system="xmltv_ns">10.211.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250725172545 -0300" stop="20250725211232 -0300" channel="Silvio Santos">
-    <title lang="pt">Programa Silvio Santos</title>
-    <sub-title lang="pt">realizado em 01/02/2009</sub-title>
-    <desc lang="pt">Um clássico da TV brasileira! Aviõezinhos, calouros, artistas e toda a diversão que marcou gerações.</desc>
-    <category lang="en">variety show</category>
-    <date>01/02/2009</date>
-    <episode-num system="xmltv_ns">1.3.</episode-num>
+  <programme start="20250728061941 -0300" stop="20250728070845 -0300" channel="Novelas">
+    <title lang="pt">Chiquititas 97</title>
+    <desc lang="pt"> - Grupo de crianças que vive no orfanato Raio de Luz e busca amizade, amor e um novo lar.</desc>
+    <category lang="en">comedy</category>
+    <episode-num system="xmltv_ns">10.212.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250728070910 -0300" stop="20250728073712 -0300" channel="Novelas">
+    <title lang="pt">Fascinação</title>
+    <desc lang="pt"> - Clara e Carlos enfrentam perigos e traições para manter vivo seu grande amor.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">1.28.</episode-num>
+    <rating system="Brazil">
+      <value>[A14]</value>
+    </rating>
+  </programme>
+  <programme start="20250728073737 -0300" stop="20250728083328 -0300" channel="Novelas">
+    <title lang="pt">Samantha</title>
+    <desc lang="pt"> - Um acidente transforma a vida da camponesa Samantha del Llano e do milionário Luis Alberto.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">3.76.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250725211237 -0300" stop="20250725230935 -0300" channel="Silvio Santos">
+  <programme start="20250728083353 -0300" stop="20250728092531 -0300" channel="Novelas">
+    <title lang="pt">Vende-se Um Véu de Noiva</title>
+    <desc lang="pt"> - Adaptação por Iris Abravanel, este é um romance intenso, com reviravoltas surpreendentes do destino.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">0.167.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250728092556 -0300" stop="20250728102400 -0300" channel="Novelas">
+    <title lang="pt">Amigas e Rivais</title>
+    <desc lang="pt"> - Quatro jovens com sonhos distintos têm suas vidas entrelaçadas em uma jornada emocionante.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">8.167.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250728102425 -0300" stop="20250728111925 -0300" channel="Novelas">
+    <title lang="pt">Amor Secreto </title>
+    <desc lang="pt"> - Irene, uma secretária inteligente, eficiente e confiável, se apaixona por seu chefe, Leonardo.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">4.80.</episode-num>
+    <rating system="Brazil">
+      <value>[A14]</value>
+    </rating>
+  </programme>
+  <programme start="20250728111950 -0300" stop="20250728121717 -0300" channel="Novelas">
+    <title lang="pt">Para Te Ver Melhor</title>
+    <desc lang="pt"> - Um prédio, seis apartamentos, uma cobertura, uma portaria e muitas histórias de amor e suspense.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">4.80.</episode-num>
+    <rating system="Brazil">
+      <value>[A14]</value>
+    </rating>
+  </programme>
+  <programme start="20250728121742 -0300" stop="20250728131129 -0300" channel="Novelas">
+    <title lang="pt">Camaleões</title>
+    <desc lang="pt"> - Dois jovens roubam joias sob ameaça e, ao se esconderem em um colégio, descobrem segredos.</desc>
+    <category lang="en">soap/melodrama/folkloric</category>
+    <episode-num system="xmltv_ns">6.125.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250728131154 -0300" stop="20250728140238 -0300" channel="Novelas">
+    <title lang="pt">Chiquititas 97</title>
+    <desc lang="pt"> - Grupo de crianças que vive no orfanato Raio de Luz e busca amizade, amor e um novo lar.</desc>
+    <category lang="en">comedy</category>
+    <episode-num system="xmltv_ns">10.211.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250728140555 -0300" stop="20250728145459 -0300" channel="Novelas">
+    <title lang="pt">Chiquititas 97</title>
+    <desc lang="pt"> - Grupo de crianças que vive no orfanato Raio de Luz e busca amizade, amor e um novo lar.</desc>
+    <category lang="en">comedy</category>
+    <episode-num system="xmltv_ns">10.212.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250728145524 -0300" stop="20250728152326 -0300" channel="Novelas">
+    <title lang="pt">Fascinação</title>
+    <desc lang="pt"> - Clara e Carlos enfrentam perigos e traições para manter vivo seu grande amor.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">1.28.</episode-num>
+    <rating system="Brazil">
+      <value>[A14]</value>
+    </rating>
+  </programme>
+  <programme start="20250728152351 -0300" stop="20250728161942 -0300" channel="Novelas">
+    <title lang="pt">Samantha</title>
+    <desc lang="pt"> - Um acidente transforma a vida da camponesa Samantha del Llano e do milionário Luis Alberto.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">3.76.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250728162007 -0300" stop="20250728171145 -0300" channel="Novelas">
+    <title lang="pt">Vende-se Um Véu de Noiva</title>
+    <desc lang="pt"> - Adaptação por Iris Abravanel, este é um romance intenso, com reviravoltas surpreendentes do destino.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">0.167.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250728171210 -0300" stop="20250728181003 -0300" channel="Novelas">
+    <title lang="pt">Amigas e Rivais</title>
+    <desc lang="pt"> - Quatro jovens com sonhos distintos têm suas vidas entrelaçadas em uma jornada emocionante.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">8.167.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250728181028 -0300" stop="20250728190553 -0300" channel="Novelas">
+    <title lang="pt">Amor Secreto </title>
+    <desc lang="pt"> - Irene, uma secretária inteligente, eficiente e confiável, se apaixona por seu chefe, Leonardo.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">4.80.</episode-num>
+    <rating system="Brazil">
+      <value>[A14]</value>
+    </rating>
+  </programme>
+  <programme start="20250728190618 -0300" stop="20250728200404 -0300" channel="Novelas">
+    <title lang="pt">Para Te Ver Melhor</title>
+    <desc lang="pt"> - Um prédio, seis apartamentos, uma cobertura, uma portaria e muitas histórias de amor e suspense.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">4.80.</episode-num>
+    <rating system="Brazil">
+      <value>[A14]</value>
+    </rating>
+  </programme>
+  <programme start="20250728200429 -0300" stop="20250728205842 -0300" channel="Novelas">
+    <title lang="pt">Camaleões</title>
+    <desc lang="pt"> - Dois jovens roubam joias sob ameaça e, ao se esconderem em um colégio, descobrem segredos.</desc>
+    <category lang="en">soap/melodrama/folkloric</category>
+    <episode-num system="xmltv_ns">6.125.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250728205907 -0300" stop="20250728214951 -0300" channel="Novelas">
+    <title lang="pt">Chiquititas 97</title>
+    <desc lang="pt"> - Grupo de crianças que vive no orfanato Raio de Luz e busca amizade, amor e um novo lar.</desc>
+    <category lang="en">comedy</category>
+    <episode-num system="xmltv_ns">10.211.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250728215308 -0300" stop="20250728224212 -0300" channel="Novelas">
+    <title lang="pt">Chiquititas 97</title>
+    <desc lang="pt"> - Grupo de crianças que vive no orfanato Raio de Luz e busca amizade, amor e um novo lar.</desc>
+    <category lang="en">comedy</category>
+    <episode-num system="xmltv_ns">10.212.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250728224237 -0300" stop="20250728231110 -0300" channel="Novelas">
+    <title lang="pt">Fascinação</title>
+    <desc lang="pt"> - Clara e Carlos enfrentam perigos e traições para manter vivo seu grande amor.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">1.28.</episode-num>
+    <rating system="Brazil">
+      <value>[A14]</value>
+    </rating>
+  </programme>
+  <programme start="20250728231136 -0300" stop="20250729000726 -0300" channel="Novelas">
+    <title lang="pt">Samantha</title>
+    <desc lang="pt"> - Um acidente transforma a vida da camponesa Samantha del Llano e do milionário Luis Alberto.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">3.76.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250729000751 -0300" stop="20250729010527 -0300" channel="Novelas">
+    <title lang="pt">Vende-se Um Véu de Noiva</title>
+    <desc lang="pt"> - Adaptação por Iris Abravanel, este é um romance intenso, com reviravoltas surpreendentes do destino.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">0.168.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250729010552 -0300" stop="20250729020224 -0300" channel="Novelas">
+    <title lang="pt">Amigas e Rivais</title>
+    <desc lang="pt"> - Quatro jovens com sonhos distintos têm suas vidas entrelaçadas em uma jornada emocionante.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">8.168.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250729020249 -0300" stop="20250729025816 -0300" channel="Novelas">
+    <title lang="pt">Amor Secreto </title>
+    <desc lang="pt"> - Irene, uma secretária inteligente, eficiente e confiável, se apaixona por seu chefe, Leonardo.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">4.81.</episode-num>
+    <rating system="Brazil">
+      <value>[A14]</value>
+    </rating>
+  </programme>
+  <programme start="20250729025841 -0300" stop="20250729035916 -0300" channel="Novelas">
+    <title lang="pt">Para Te Ver Melhor</title>
+    <desc lang="pt"> - Um prédio, seis apartamentos, uma cobertura, uma portaria e muitas histórias de amor e suspense.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">4.81.</episode-num>
+    <rating system="Brazil">
+      <value>[A14]</value>
+    </rating>
+  </programme>
+  <programme start="20250729035941 -0300" stop="20250729045151 -0300" channel="Novelas">
+    <title lang="pt">Camaleões</title>
+    <desc lang="pt"> - Dois jovens roubam joias sob ameaça e, ao se esconderem em um colégio, descobrem segredos.</desc>
+    <category lang="en">soap/melodrama/folkloric</category>
+    <episode-num system="xmltv_ns">6.126.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250729045216 -0300" stop="20250729054233 -0300" channel="Novelas">
+    <title lang="pt">Chiquititas 97</title>
+    <desc lang="pt"> - Grupo de crianças que vive no orfanato Raio de Luz e busca amizade, amor e um novo lar.</desc>
+    <category lang="en">comedy</category>
+    <episode-num system="xmltv_ns">10.213.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250729054602 -0300" stop="20250729063725 -0300" channel="Novelas">
+    <title lang="pt">Chiquititas 97</title>
+    <desc lang="pt"> - Grupo de crianças que vive no orfanato Raio de Luz e busca amizade, amor e um novo lar.</desc>
+    <category lang="en">comedy</category>
+    <episode-num system="xmltv_ns">10.214.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250729063750 -0300" stop="20250729070733 -0300" channel="Novelas">
+    <title lang="pt">Fascinação</title>
+    <desc lang="pt"> - Clara e Carlos enfrentam perigos e traições para manter vivo seu grande amor.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">1.29.</episode-num>
+    <rating system="Brazil">
+      <value>[A14]</value>
+    </rating>
+  </programme>
+  <programme start="20250729070758 -0300" stop="20250729080622 -0300" channel="Novelas">
+    <title lang="pt">Samantha</title>
+    <desc lang="pt"> - Um acidente transforma a vida da camponesa Samantha del Llano e do milionário Luis Alberto.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">3.77.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250729080647 -0300" stop="20250729090424 -0300" channel="Novelas">
+    <title lang="pt">Vende-se Um Véu de Noiva</title>
+    <desc lang="pt"> - Adaptação por Iris Abravanel, este é um romance intenso, com reviravoltas surpreendentes do destino.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">0.168.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250729090449 -0300" stop="20250729100120 -0300" channel="Novelas">
+    <title lang="pt">Amigas e Rivais</title>
+    <desc lang="pt"> - Quatro jovens com sonhos distintos têm suas vidas entrelaçadas em uma jornada emocionante.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">8.168.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250729100145 -0300" stop="20250729105713 -0300" channel="Novelas">
+    <title lang="pt">Amor Secreto </title>
+    <desc lang="pt"> - Irene, uma secretária inteligente, eficiente e confiável, se apaixona por seu chefe, Leonardo.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">4.81.</episode-num>
+    <rating system="Brazil">
+      <value>[A14]</value>
+    </rating>
+  </programme>
+  <programme start="20250729105738 -0300" stop="20250729115813 -0300" channel="Novelas">
+    <title lang="pt">Para Te Ver Melhor</title>
+    <desc lang="pt"> - Um prédio, seis apartamentos, uma cobertura, uma portaria e muitas histórias de amor e suspense.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">4.81.</episode-num>
+    <rating system="Brazil">
+      <value>[A14]</value>
+    </rating>
+  </programme>
+  <programme start="20250729115838 -0300" stop="20250729125048 -0300" channel="Novelas">
+    <title lang="pt">Camaleões</title>
+    <desc lang="pt"> - Dois jovens roubam joias sob ameaça e, ao se esconderem em um colégio, descobrem segredos.</desc>
+    <category lang="en">soap/melodrama/folkloric</category>
+    <episode-num system="xmltv_ns">6.126.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250729125113 -0300" stop="20250729134130 -0300" channel="Novelas">
+    <title lang="pt">Chiquititas 97</title>
+    <desc lang="pt"> - Grupo de crianças que vive no orfanato Raio de Luz e busca amizade, amor e um novo lar.</desc>
+    <category lang="en">comedy</category>
+    <episode-num system="xmltv_ns">10.213.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250729134459 -0300" stop="20250729143622 -0300" channel="Novelas">
+    <title lang="pt">Chiquititas 97</title>
+    <desc lang="pt"> - Grupo de crianças que vive no orfanato Raio de Luz e busca amizade, amor e um novo lar.</desc>
+    <category lang="en">comedy</category>
+    <episode-num system="xmltv_ns">10.214.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250729143647 -0300" stop="20250729150630 -0300" channel="Novelas">
+    <title lang="pt">Fascinação</title>
+    <desc lang="pt"> - Clara e Carlos enfrentam perigos e traições para manter vivo seu grande amor.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">1.29.</episode-num>
+    <rating system="Brazil">
+      <value>[A14]</value>
+    </rating>
+  </programme>
+  <programme start="20250729150655 -0300" stop="20250729160519 -0300" channel="Novelas">
+    <title lang="pt">Samantha</title>
+    <desc lang="pt"> - Um acidente transforma a vida da camponesa Samantha del Llano e do milionário Luis Alberto.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">3.77.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250729160544 -0300" stop="20250729170321 -0300" channel="Novelas">
+    <title lang="pt">Vende-se Um Véu de Noiva</title>
+    <desc lang="pt"> - Adaptação por Iris Abravanel, este é um romance intenso, com reviravoltas surpreendentes do destino.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">0.168.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250729170346 -0300" stop="20250729180017 -0300" channel="Novelas">
+    <title lang="pt">Amigas e Rivais</title>
+    <desc lang="pt"> - Quatro jovens com sonhos distintos têm suas vidas entrelaçadas em uma jornada emocionante.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">8.168.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250729180042 -0300" stop="20250729185610 -0300" channel="Novelas">
+    <title lang="pt">Amor Secreto </title>
+    <desc lang="pt"> - Irene, uma secretária inteligente, eficiente e confiável, se apaixona por seu chefe, Leonardo.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">4.81.</episode-num>
+    <rating system="Brazil">
+      <value>[A14]</value>
+    </rating>
+  </programme>
+  <programme start="20250729185635 -0300" stop="20250729195709 -0300" channel="Novelas">
+    <title lang="pt">Para Te Ver Melhor</title>
+    <desc lang="pt"> - Um prédio, seis apartamentos, uma cobertura, uma portaria e muitas histórias de amor e suspense.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">4.81.</episode-num>
+    <rating system="Brazil">
+      <value>[A14]</value>
+    </rating>
+  </programme>
+  <programme start="20250729195734 -0300" stop="20250729204945 -0300" channel="Novelas">
+    <title lang="pt">Camaleões</title>
+    <desc lang="pt"> - Dois jovens roubam joias sob ameaça e, ao se esconderem em um colégio, descobrem segredos.</desc>
+    <category lang="en">soap/melodrama/folkloric</category>
+    <episode-num system="xmltv_ns">6.126.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250729205010 -0300" stop="20250729214026 -0300" channel="Novelas">
+    <title lang="pt">Chiquititas 97</title>
+    <desc lang="pt"> - Grupo de crianças que vive no orfanato Raio de Luz e busca amizade, amor e um novo lar.</desc>
+    <category lang="en">comedy</category>
+    <episode-num system="xmltv_ns">10.213.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250729214356 -0300" stop="20250729223518 -0300" channel="Novelas">
+    <title lang="pt">Chiquititas 97</title>
+    <desc lang="pt"> - Grupo de crianças que vive no orfanato Raio de Luz e busca amizade, amor e um novo lar.</desc>
+    <category lang="en">comedy</category>
+    <episode-num system="xmltv_ns">10.214.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250729223543 -0300" stop="20250729230526 -0300" channel="Novelas">
+    <title lang="pt">Fascinação</title>
+    <desc lang="pt"> - Clara e Carlos enfrentam perigos e traições para manter vivo seu grande amor.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">1.29.</episode-num>
+    <rating system="Brazil">
+      <value>[A14]</value>
+    </rating>
+  </programme>
+  <programme start="20250729230551 -0300" stop="20250730000416 -0300" channel="Novelas">
+    <title lang="pt">Samantha</title>
+    <desc lang="pt"> - Um acidente transforma a vida da camponesa Samantha del Llano e do milionário Luis Alberto.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">3.77.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250725224111 -0300" stop="20250725230935 -0300" channel="Silvio Santos">
     <title lang="pt">Em Nome do Amor</title>
     <sub-title lang="pt">realizado em 14/05/1995</sub-title>
     <desc lang="pt">A cada história uma nova emoção. Tudo é lindo com Silvio Santos no Em Nome do Amor! </desc>
@@ -2375,7 +3443,7 @@
       <value>[AL]</value>
     </rating>
   </programme>
-  <programme start="20250801104926 -0300" stop="20250801110157 -0300" channel="Silvio Santos">
+  <programme start="20250801104926 -0300" stop="20250801114601 -0300" channel="Silvio Santos">
     <title lang="pt">Show do Milhão</title>
     <sub-title lang="pt">realizado em 19/11/2000</sub-title>
     <desc lang="pt">Silvio Santos convida participantes para testarem seus conhecimentos valendo um milhão de reais.</desc>
@@ -2386,267 +3454,62 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250725104440 -0300" stop="20250725105536 -0300" channel="TV Zyn">
-    <title lang="pt">Ziggy e o Trenzinho do Zoológico</title>
-    <sub-title lang="pt">7. O filme assustador</sub-title>
-    <desc lang="pt"> - Embarque nesse trem e se aventure com Ziggy e seus amigos!</desc>
-    <category lang="en">cartoons/puppets</category>
+  <programme start="20250801114604 -0300" stop="20250801152614 -0300" channel="Silvio Santos">
+    <title lang="pt">Programa Silvio Santos</title>
+    <sub-title lang="pt">realizado em 08/02/2009</sub-title>
+    <desc lang="pt">Um clássico da TV brasileira! Aviõezinhos, calouros, artistas e toda a diversão que marcou gerações.</desc>
+    <category lang="en">variety show</category>
+    <date>08/02/2009</date>
     <episode-num system="xmltv_ns">1.6.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250725105713 -0300" stop="20250725110813 -0300" channel="TV Zyn">
-    <title lang="pt">Ziggy e o Trenzinho do Zoológico</title>
-    <sub-title lang="pt">8. Aprendendo a ser maquinista</sub-title>
-    <desc lang="pt"> - Embarque nesse trem e se aventure com Ziggy e seus amigos!</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">1.7.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250725110816 -0300" stop="20250725111456 -0300" channel="TV Zyn">
-    <title lang="pt">Shaun, o Carneiro</title>
-    <sub-title lang="pt">5. O búfalo</sub-title>
-    <desc lang="pt"> - Prepare-se para muita diversão e confusão com as aventuras de Shaun, o Carneiro!</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
+  <programme start="20250801152617 -0300" stop="20250801170712 -0300" channel="Silvio Santos">
+    <title lang="pt">Em Nome do Amor</title>
+    <sub-title lang="pt">realizado em 23/07/1995</sub-title>
+    <desc lang="pt">A cada história uma nova emoção. Tudo é lindo com Silvio Santos no Em Nome do Amor! </desc>
+    <category lang="en">variety show</category>
+    <date>23/07/1995</date>
+    <episode-num system="xmltv_ns">1.20.</episode-num>
     <rating system="Brazil">
       <value>[AL]</value>
     </rating>
   </programme>
-  <programme start="20250725111628 -0300" stop="20250725112328 -0300" channel="TV Zyn">
-    <title lang="pt">Shaun, o Carneiro</title>
-    <sub-title lang="pt">6. A pipa</sub-title>
-    <desc lang="pt"> - Prepare-se para muita diversão e confusão com as aventuras de Shaun, o Carneiro!</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <rating system="Brazil">
-      <value>[AL]</value>
-    </rating>
-  </programme>
-  <programme start="20250725112333 -0300" stop="20250725113413 -0300" channel="TV Zyn">
-    <title lang="pt">O Livro da Selva</title>
-    <sub-title lang="pt">39. O segredo dos elefantes</sub-title>
-    <desc lang="pt"> - Mogli foi criado por lobos, mora na selva, tem amigos fiéis mas inimigos ferozes! </desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.38.</episode-num>
-    <rating system="Brazil">
-      <value>[AL]</value>
-    </rating>
-  </programme>
-  <programme start="20250725113527 -0300" stop="20250725114627 -0300" channel="TV Zyn">
-    <title lang="pt">O Livro da Selva</title>
-    <sub-title lang="pt">40. O fã número um do Mogli</sub-title>
-    <desc lang="pt"> - Mogli foi criado por lobos, mora na selva, tem amigos fiéis mas inimigos ferozes! </desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.39.</episode-num>
-    <rating system="Brazil">
-      <value>[AL]</value>
-    </rating>
-  </programme>
-  <programme start="20250725114634 -0300" stop="20250725121315 -0300" channel="TV Zyn">
-    <title lang="pt">O Picapau Amarelo</title>
-    <sub-title lang="pt">6. A indendência do Brasil</sub-title>
-    <desc lang="pt"> - Muita diversão e aprendizado com Emilia e sua turminha te esperam em O Picapau Amarelo!</desc>
-    <category lang="en">entertainment programmes for 6 to 14</category>
-    <episode-num system="xmltv_ns">0.-1.</episode-num>
+  <programme start="20250801170717 -0300" stop="20250801180352 -0300" channel="Silvio Santos">
+    <title lang="pt">Show do Milhão</title>
+    <sub-title lang="pt">realizado em 19/11/2000</sub-title>
+    <desc lang="pt">Silvio Santos convida participantes para testarem seus conhecimentos valendo um milhão de reais.</desc>
+    <category lang="en">variety show</category>
+    <date>19/11/2000</date>
+    <episode-num system="xmltv_ns">4.8.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250725121318 -0300" stop="20250725121956 -0300" channel="TV Zyn">
-    <title lang="pt">Masha e o Urso</title>
-    <sub-title lang="pt">15. Priminho</sub-title>
-    <desc lang="pt"> - Masha e o Urso segue as aventuras de Masha, uma menina travessa, e seu amigo Urso.</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.14.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250725122135 -0300" stop="20250725122834 -0300" channel="TV Zyn">
-    <title lang="pt">Masha e o Urso</title>
-    <sub-title lang="pt">16. Melhoras!</sub-title>
-    <desc lang="pt"> - Masha e o Urso segue as aventuras de Masha, uma menina travessa, e seu amigo Urso.</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.15.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250725122841 -0300" stop="20250725124405 -0300" channel="TV Zyn">
-    <title lang="pt">O Show do Garfield</title>
-    <sub-title lang="pt">41. O vizinho Nathan</sub-title>
-    <desc lang="pt"> - Garfield é um gato gordo e preguiçoso, que adora uma lasanha e ama atormentar seu dono Jon.</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.40.</episode-num>
-    <rating system="Brazil">
-      <value>[AL]</value>
-    </rating>
-  </programme>
-  <programme start="20250725124408 -0300" stop="20250725125911 -0300" channel="TV Zyn">
-    <title lang="pt">O Show do Garfield</title>
-    <sub-title lang="pt">42. A história sobre cães</sub-title>
-    <desc lang="pt"> - Garfield é um gato gordo e preguiçoso, que adora uma lasanha e ama atormentar seu dono Jon.</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.41.</episode-num>
-    <rating system="Brazil">
-      <value>[AL]</value>
-    </rating>
-  </programme>
-  <programme start="20250725125916 -0300" stop="20250725135147 -0300" channel="TV Zyn">
-    <title lang="pt">Patrulha Salvadora</title>
-    <sub-title lang="pt">8. O Caso do Ataque do Osíris</sub-title>
-    <desc lang="pt"> - As crianças mais amadas de Carrossel agora são super heróis que lutam contra o crime!</desc>
-    <category lang="en">comedy</category>
-    <episode-num system="xmltv_ns">3.46.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250725135154 -0300" stop="20250725141921 -0300" channel="TV Zyn">
-    <title lang="pt">H2O Meninas Sereias</title>
-    <sub-title lang="pt">13. Feitiço da lua</sub-title>
-    <desc lang="pt"> - As adolescentes Cléo, Nanda e Drica protegem um segredo: elas se transformam em sereias!</desc>
-    <category lang="en">entertainment programmes for 6 to 14</category>
-    <episode-num system="xmltv_ns">1.12.</episode-num>
-  </programme>
-  <programme start="20250725141926 -0300" stop="20250725144509 -0300" channel="TV Zyn">
-    <title lang="pt">O Clube das Coisas Mágicas</title>
-    <sub-title lang="pt">5. A armadura</sub-title>
-    <desc lang="pt"> - Já pensou ser humana, fada e elfa, tudo junto e misturado? Kyra é essa pessoa, uma tri-ling!</desc>
-    <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <rating system="Brazil">
-      <value>[Violência fantasiosa]</value>
-    </rating>
-  </programme>
-  <programme start="20250725144516 -0300" stop="20250725151152 -0300" channel="TV Zyn">
-    <title lang="pt">Dance Academy</title>
-    <sub-title lang="pt">5. Apresentação</sub-title>
-    <desc lang="pt"> - Ela chegou a Academia de Dança. Mas vai ter que dar muitas piruetas para se tornar uma bailarina.</desc>
-    <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">1.4.</episode-num>
-    <rating system="Brazil">
-      <value>[Violência]</value>
-    </rating>
-  </programme>
-  <programme start="20250725151157 -0300" stop="20250725162228 -0300" channel="TV Zyn">
-    <title lang="pt">Programa da Maisa</title>
-    <desc lang="pt"> - Maisa Silva comanda o talk show que recebe convidados de peso e propõe brincadeiras malucas.</desc>
-    <category lang="en">show/game show (general)</category>
-    <episode-num system="xmltv_ns">1.53.</episode-num>
-  </programme>
-  <programme start="20250725162451 -0300" stop="20250725163921 -0300" channel="TV Zyn">
-    <title lang="pt">O Show do Garfield</title>
-    <sub-title lang="pt">40. Saído do forno</sub-title>
-    <desc lang="pt"> - Garfield é um gato gordo e preguiçoso, que adora uma lasanha e ama atormentar seu dono Jon.</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.39.</episode-num>
-    <rating system="Brazil">
-      <value>[AL]</value>
-    </rating>
-  </programme>
-  <programme start="20250725164303 -0300" stop="20250725165756 -0300" channel="TV Zyn">
-    <title lang="pt">O Show do Garfield</title>
-    <sub-title lang="pt">41. O vizinho Nathan</sub-title>
-    <desc lang="pt"> - Garfield é um gato gordo e preguiçoso, que adora uma lasanha e ama atormentar seu dono Jon.</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.40.</episode-num>
-    <rating system="Brazil">
-      <value>[AL]</value>
-    </rating>
-  </programme>
-  <programme start="20250725170135 -0300" stop="20250725171654 -0300" channel="TV Zyn">
-    <title lang="pt">O Show do Garfield</title>
-    <sub-title lang="pt">42. A história sobre cães</sub-title>
-    <desc lang="pt"> - Garfield é um gato gordo e preguiçoso, que adora uma lasanha e ama atormentar seu dono Jon.</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.41.</episode-num>
-    <rating system="Brazil">
-      <value>[AL]</value>
-    </rating>
-  </programme>
-  <programme start="20250725171659 -0300" stop="20250725172211 -0300" channel="TV Zyn">
-    <title lang="pt">Clipe oficial da música Vai Muleke Doido</title>
-    <desc lang="pt"> - Vem dançar e cantar com a Patrulha Salvadora!</desc>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20250725172216 -0300" stop="20250725174853 -0300" channel="TV Zyn">
-    <title lang="pt">Beijo Espectral</title>
-    <sub-title lang="pt">2. A divindade vai para Izumo</sub-title>
-    <desc lang="pt"> - Depois de ser despejada, Nanami acaba virando a nova divindade de um templo abandonado.</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">1.1.</episode-num>
+  <programme start="20250801180355 -0300" stop="20250801214404 -0300" channel="Silvio Santos">
+    <title lang="pt">Programa Silvio Santos</title>
+    <sub-title lang="pt">realizado em 08/02/2009</sub-title>
+    <desc lang="pt">Um clássico da TV brasileira! Aviõezinhos, calouros, artistas e toda a diversão que marcou gerações.</desc>
+    <category lang="en">variety show</category>
+    <date>08/02/2009</date>
+    <episode-num system="xmltv_ns">1.6.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250725175220 -0300" stop="20250725181802 -0300" channel="TV Zyn">
-    <title lang="pt">Beyblade X</title>
-    <sub-title lang="pt">29. Máscara e pãezinhos de carne</sub-title>
-    <desc lang="pt"> - Robin Kazami quer se tornar jogador profissional de Beyblade e chegar no topo da Torre X.</desc>
-    <category lang="en">cartoons/puppets</category>
-    <episode-num system="xmltv_ns">0.28.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250725182121 -0300" stop="20250725184509 -0300" channel="TV Zyn">
-    <title lang="pt">Speed Racer: Nova Geração</title>
-    <sub-title lang="pt">23. Um monstro de ferro - Parte 2</sub-title>
-    <desc lang="pt"> - Speed Racer Jr. se matricula em uma academia para crianças mais rápidas do mundo.</desc>
-    <category lang="en">detective/thriller</category>
-    <episode-num system="xmltv_ns">0.22.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250725184950 -0300" stop="20250725194605 -0300" channel="TV Zyn">
-    <title lang="pt">Cúmplices de Um Resgate</title>
-    <desc lang="pt"> - Gêmeas que foram separadas ao nascer e se reencontram na adolescência. E se tornam cúmplices na vida.</desc>
-    <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">14.282.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20250725194932 -0300" stop="20250725203751 -0300" channel="TV Zyn">
-    <title lang="pt">Chiquititas 2013</title>
-    <desc lang="pt"> - Crianças que vivem no orfanato Raio de Luz buscam amor, amizade e um novo lar. </desc>
-    <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">7.144.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250725204121 -0300" stop="20250725213401 -0300" channel="TV Zyn">
-    <title lang="pt">Heidi, Bem-Vinda à Casa</title>
-    <sub-title lang="pt">40. Enganando Heidi</sub-title>
-    <desc lang="pt"> - Baseado nas histórias de Marcela Citterio. Heidi Bem-vinda a Casa é um clássico romance adolescente!</desc>
-    <category lang="en">comedy</category>
-    <episode-num system="xmltv_ns">0.39.</episode-num>
+  <programme start="20250801214407 -0300" stop="20250801225451 -0300" channel="Silvio Santos">
+    <title lang="pt">Em Nome do Amor</title>
+    <sub-title lang="pt">realizado em 23/07/1995</sub-title>
+    <desc lang="pt">A cada história uma nova emoção. Tudo é lindo com Silvio Santos no Em Nome do Amor! </desc>
+    <category lang="en">variety show</category>
+    <date>23/07/1995</date>
+    <episode-num system="xmltv_ns">1.20.</episode-num>
     <rating system="Brazil">
       <value>[AL]</value>
     </rating>
   </programme>
-  <programme start="20250725213408 -0300" stop="20250725213920 -0300" channel="TV Zyn">
-    <title lang="pt">Clipe oficial da música Vai Muleke Doido</title>
-    <desc lang="pt"> - Vem dançar e cantar com a Patrulha Salvadora!</desc>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20250725213927 -0300" stop="20250725224149 -0300" channel="TV Zyn">
-    <title lang="pt">Carinha de Anjo</title>
-    <desc lang="pt"> - Quem resiste a essa Carinha de Anjo? Ela é Dulce Maria, uma menina encantadora e cheia de energia.</desc>
-    <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250725224603 -0300" stop="20250725234428 -0300" channel="TV Zyn">
+  <programme start="20250725230312 -0300" stop="20250725234428 -0300" channel="TV Zyn">
     <title lang="pt">Patrulha Salvadora</title>
     <sub-title lang="pt">8. O Caso do Ataque do Osíris</sub-title>
     <desc lang="pt"> - As crianças mais amadas de Carrossel agora são super heróis que lutam contra o crime!</desc>
@@ -5632,7 +6495,7 @@
     <category lang="en">entertainment programmes for 6 to 14</category>
     <episode-num system="xmltv_ns">1.16.</episode-num>
   </programme>
-  <programme start="20250731005233 -0300" stop="20250731011834 -0300" channel="TV Zyn">
+  <programme start="20250731005550 -0300" stop="20250731012151 -0300" channel="TV Zyn">
     <title lang="pt">O Clube das Coisas Mágicas</title>
     <sub-title lang="pt">9. Na praia</sub-title>
     <desc lang="pt"> - Já pensou ser humana, fada e elfa, tudo junto e misturado? Kyra é essa pessoa, uma tri-ling!</desc>
@@ -5642,7 +6505,7 @@
       <value>[Violência fantasiosa]</value>
     </rating>
   </programme>
-  <programme start="20250731011837 -0300" stop="20250731014544 -0300" channel="TV Zyn">
+  <programme start="20250731012402 -0300" stop="20250731015109 -0300" channel="TV Zyn">
     <title lang="pt">Dance Academy</title>
     <sub-title lang="pt">9. O fim</sub-title>
     <desc lang="pt"> - Ela chegou a Academia de Dança. Mas vai ter que dar muitas piruetas para se tornar uma bailarina.</desc>
@@ -5652,19 +6515,19 @@
       <value>[Violência]</value>
     </rating>
   </programme>
-  <programme start="20250731014549 -0300" stop="20250731020903 -0300" channel="TV Zyn">
+  <programme start="20250731015114 -0300" stop="20250731021428 -0300" channel="TV Zyn">
     <title lang="pt">Spooksville</title>
     <desc lang="pt"> - Spooksville é uma cidade sobrenatural e Adam descobre que é a chave para libertar a cidade do mal!</desc>
     <category lang="en">detective/thriller</category>
     <episode-num system="xmltv_ns">0.6.</episode-num>
   </programme>
-  <programme start="20250731020906 -0300" stop="20250731023259 -0300" channel="TV Zyn">
+  <programme start="20250731021431 -0300" stop="20250731023824 -0300" channel="TV Zyn">
     <title lang="pt">Spooksville</title>
     <desc lang="pt"> - Spooksville é uma cidade sobrenatural e Adam descobre que é a chave para libertar a cidade do mal!</desc>
     <category lang="en">detective/thriller</category>
     <episode-num system="xmltv_ns">0.7.</episode-num>
   </programme>
-  <programme start="20250731023306 -0300" stop="20250731031938 -0300" channel="TV Zyn">
+  <programme start="20250731024211 -0300" stop="20250731032842 -0300" channel="TV Zyn">
     <title lang="pt">Chiquititas 2013</title>
     <desc lang="pt"> - Crianças que vivem no orfanato Raio de Luz buscam amor, amizade e um novo lar. </desc>
     <category lang="en">movie/drama (general)</category>
@@ -5673,7 +6536,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250731031943 -0300" stop="20250731041427 -0300" channel="TV Zyn">
+  <programme start="20250731033315 -0300" stop="20250731042759 -0300" channel="TV Zyn">
     <title lang="pt">Cúmplices de Um Resgate</title>
     <desc lang="pt"> - Gêmeas que foram separadas ao nascer e se reencontram na adolescência. E se tornam cúmplices na vida.</desc>
     <category lang="en">movie/drama (general)</category>
@@ -5682,7 +6545,7 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250731041430 -0300" stop="20250731051340 -0300" channel="TV Zyn">
+  <programme start="20250731043150 -0300" stop="20250731053100 -0300" channel="TV Zyn">
     <title lang="pt">Carinha de Anjo</title>
     <desc lang="pt"> - Quem resiste a essa Carinha de Anjo? Ela é Dulce Maria, uma menina encantadora e cheia de energia.</desc>
     <category lang="en">movie/drama (general)</category>
@@ -5691,7 +6554,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250731051347 -0300" stop="20250731052139 -0300" channel="TV Zyn">
+  <programme start="20250731053107 -0300" stop="20250731053859 -0300" channel="TV Zyn">
     <title lang="pt">PaJaMa</title>
     <sub-title lang="pt">70. Foto de Família</sub-title>
     <desc lang="pt"> - PaJaMa acompanha Ja, um garoto travesso, e suas surpresas para Pa e Ma, com muitas risadas!</desc>
@@ -5701,7 +6564,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250731052316 -0300" stop="20250731053046 -0300" channel="TV Zyn">
+  <programme start="20250731054036 -0300" stop="20250731054806 -0300" channel="TV Zyn">
     <title lang="pt">PaJaMa</title>
     <sub-title lang="pt">71. Uma Visita Mágica</sub-title>
     <desc lang="pt"> - PaJaMa acompanha Ja, um garoto travesso, e suas surpresas para Pa e Ma, com muitas risadas!</desc>
@@ -5711,7 +6574,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250731053218 -0300" stop="20250731054006 -0300" channel="TV Zyn">
+  <programme start="20250731054938 -0300" stop="20250731055726 -0300" channel="TV Zyn">
     <title lang="pt">PaJaMa</title>
     <sub-title lang="pt">72. A Caminhada iremos fazer</sub-title>
     <desc lang="pt"> - PaJaMa acompanha Ja, um garoto travesso, e suas surpresas para Pa e Ma, com muitas risadas!</desc>
@@ -5721,7 +6584,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250731055528 -0300" stop="20250731060229 -0300" channel="TV Zyn">
+  <programme start="20250731061248 -0300" stop="20250731061949 -0300" channel="TV Zyn">
     <title lang="pt">O Pequeno Furry </title>
     <sub-title lang="pt">11. Tia Docinho</sub-title>
     <desc lang="pt"> - Little Furry é um aventureiro adorável que enfrenta desafios com criatividade e cresce sempre!</desc>
@@ -5731,7 +6594,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250731060343 -0300" stop="20250731061049 -0300" channel="TV Zyn">
+  <programme start="20250731062103 -0300" stop="20250731062809 -0300" channel="TV Zyn">
     <title lang="pt">O Pequeno Furry </title>
     <sub-title lang="pt">12. Os colhedores de framboesas</sub-title>
     <desc lang="pt"> - Little Furry é um aventureiro adorável que enfrenta desafios com criatividade e cresce sempre!</desc>
@@ -5741,7 +6604,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250731061056 -0300" stop="20250731061813 -0300" channel="TV Zyn">
+  <programme start="20250731062816 -0300" stop="20250731063533 -0300" channel="TV Zyn">
     <title lang="pt">Cat e Keet</title>
     <sub-title lang="pt">21. Cozinhe com Keet</sub-title>
     <desc lang="pt"> - Cat, o gatinho fã de cereal, e Keet, o papagaio travesso, vivem aventuras cheias de risadas!</desc>
@@ -5751,7 +6614,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250731061952 -0300" stop="20250731062820 -0300" channel="TV Zyn">
+  <programme start="20250731063712 -0300" stop="20250731064540 -0300" channel="TV Zyn">
     <title lang="pt">Cat e Keet</title>
     <sub-title lang="pt">22. Presente perdido </sub-title>
     <desc lang="pt"> - Cat, o gatinho fã de cereal, e Keet, o papagaio travesso, vivem aventuras cheias de risadas!</desc>
@@ -5761,7 +6624,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250731062823 -0300" stop="20250731063847 -0300" channel="TV Zyn">
+  <programme start="20250731064543 -0300" stop="20250731065607 -0300" channel="TV Zyn">
     <title lang="pt">Jojô e a Vovó</title>
     <sub-title lang="pt">32. É hora da caça ao tesouro</sub-title>
     <desc lang="pt"> - Acompanhe o dia a dia e as aventuras de Jojô e sua amada Vovó!</desc>
@@ -5771,7 +6634,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250731064024 -0300" stop="20250731065142 -0300" channel="TV Zyn">
+  <programme start="20250731065744 -0300" stop="20250731070902 -0300" channel="TV Zyn">
     <title lang="pt">Jojô e a Vovó</title>
     <sub-title lang="pt">33. É hora do Halloween</sub-title>
     <desc lang="pt"> - Acompanhe o dia a dia e as aventuras de Jojô e sua amada Vovó!</desc>
@@ -5781,7 +6644,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250731070533 -0300" stop="20250731071217 -0300" channel="TV Zyn">
+  <programme start="20250731072253 -0300" stop="20250731072937 -0300" channel="TV Zyn">
     <title lang="pt">Oi, Duggee</title>
     <sub-title lang="pt">24. Duggee e o distintivo da memória</sub-title>
     <desc lang="pt"> - Junte-se aos escoteiros do Clube do Esquilo e divirta-se com as atividades de Duggee e sua turma! </desc>
@@ -5791,7 +6654,7 @@
       <value>[AL]</value>
     </rating>
   </programme>
-  <programme start="20250731071331 -0300" stop="20250731072016 -0300" channel="TV Zyn">
+  <programme start="20250731073051 -0300" stop="20250731073736 -0300" channel="TV Zyn">
     <title lang="pt">Oi, Duggee</title>
     <sub-title lang="pt">25. Duggee e o distintivo da desaceleração</sub-title>
     <desc lang="pt"> - Junte-se aos escoteiros do Clube do Esquilo e divirta-se com as atividades de Duggee e sua turma! </desc>
@@ -5801,7 +6664,7 @@
       <value>[AL]</value>
     </rating>
   </programme>
-  <programme start="20250731072155 -0300" stop="20250731072900 -0300" channel="TV Zyn">
+  <programme start="20250731073915 -0300" stop="20250731074620 -0300" channel="TV Zyn">
     <title lang="pt">Oi, Duggee</title>
     <sub-title lang="pt">26. Duggee e o distintivo da corrida com obstáculos</sub-title>
     <desc lang="pt"> - Junte-se aos escoteiros do Clube do Esquilo e divirta-se com as atividades de Duggee e sua turma! </desc>
@@ -5811,7 +6674,7 @@
       <value>[AL]</value>
     </rating>
   </programme>
-  <programme start="20250731072903 -0300" stop="20250731073843 -0300" channel="TV Zyn">
+  <programme start="20250731074623 -0300" stop="20250731075603 -0300" channel="TV Zyn">
     <title lang="pt">Timmy e Seus Amigos</title>
     <sub-title lang="pt">18. Timmy detetive</sub-title>
     <desc lang="pt"> - Acompanhe Timmy, um adorável carneirinho, e seus amigos numa grande aventura!</desc>
@@ -5821,7 +6684,7 @@
       <value>[AL]</value>
     </rating>
   </programme>
-  <programme start="20250731074020 -0300" stop="20250731075020 -0300" channel="TV Zyn">
+  <programme start="20250731075740 -0300" stop="20250731080740 -0300" channel="TV Zyn">
     <title lang="pt">Timmy e Seus Amigos</title>
     <sub-title lang="pt">19. Timmy vai acampar</sub-title>
     <desc lang="pt"> - Acompanhe Timmy, um adorável carneirinho, e seus amigos numa grande aventura!</desc>
@@ -5831,7 +6694,7 @@
       <value>[AL]</value>
     </rating>
   </programme>
-  <programme start="20250731075932 -0300" stop="20250731080532 -0300" channel="TV Zyn">
+  <programme start="20250731081651 -0300" stop="20250731082252 -0300" channel="TV Zyn">
     <title lang="pt">Cleo e Cuquin</title>
     <sub-title lang="pt">19. Abelha por um dia</sub-title>
     <desc lang="pt"> - As brincadeiras de Cuquin criam confusão com Cleo e toda a família Telerín! </desc>
@@ -5841,7 +6704,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250731080646 -0300" stop="20250731081221 -0300" channel="TV Zyn">
+  <programme start="20250731082406 -0300" stop="20250731082940 -0300" channel="TV Zyn">
     <title lang="pt">Cleo e Cuquin</title>
     <sub-title lang="pt">20. O robô</sub-title>
     <desc lang="pt"> - As brincadeiras de Cuquin criam confusão com Cleo e toda a família Telerín! </desc>
@@ -5851,11 +6714,11 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250731081335 -0300" stop="20250731081939 -0300" channel="TV Zyn">
+  <programme start="20250731083055 -0300" stop="20250731083659 -0300" channel="TV Zyn">
     <title lang="pt">Programação TV Zyn</title>
     <desc lang="pt"> - </desc>
   </programme>
-  <programme start="20250731081942 -0300" stop="20250731083212 -0300" channel="TV Zyn">
+  <programme start="20250731083702 -0300" stop="20250731084932 -0300" channel="TV Zyn">
     <title lang="pt">Peixonauta</title>
     <sub-title lang="pt">47. O caso do presente da Marina</sub-title>
     <desc lang="pt"> - Junte-se ao agente secreto Peixonauta para, com muito ritmo, desvendar pistas e solucionar  casos.  </desc>
@@ -5865,7 +6728,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250731083351 -0300" stop="20250731084620 -0300" channel="TV Zyn">
+  <programme start="20250731085111 -0300" stop="20250731090340 -0300" channel="TV Zyn">
     <title lang="pt">Peixonauta</title>
     <sub-title lang="pt">48. O caso das areias escaldantes</sub-title>
     <desc lang="pt"> - Junte-se ao agente secreto Peixonauta para, com muito ritmo, desvendar pistas e solucionar  casos.  </desc>
@@ -5875,7 +6738,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250731084625 -0300" stop="20250731090020 -0300" channel="TV Zyn">
+  <programme start="20250731090345 -0300" stop="20250731091740 -0300" channel="TV Zyn">
     <title lang="pt">Sandra, a Detetive Encantada</title>
     <sub-title lang="pt">50. Irmão Ogro</sub-title>
     <desc lang="pt"> - Sandra e seu amigo elfo, F.O, embarcam em viagens para um mundo encantado dos contos de fadas.</desc>
@@ -5885,7 +6748,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250731090152 -0300" stop="20250731091510 -0300" channel="TV Zyn">
+  <programme start="20250731091912 -0300" stop="20250731093230 -0300" channel="TV Zyn">
     <title lang="pt">Sandra, a Detetive Encantada</title>
     <sub-title lang="pt">51. Escolimo</sub-title>
     <desc lang="pt"> - Sandra e seu amigo elfo, F.O, embarcam em viagens para um mundo encantado dos contos de fadas.</desc>
@@ -5895,7 +6758,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250731091517 -0300" stop="20250731092152 -0300" channel="TV Zyn">
+  <programme start="20250731093237 -0300" stop="20250731093912 -0300" channel="TV Zyn">
     <title lang="pt">28. Louie, desenhe um esquilo</title>
     <desc lang="pt"> - Quer aprender a desenhar? Então, pegue lápis e papel e junte ao coelho Louie e a joaninha Yoko!</desc>
     <category lang="en">cartoons/puppets</category>
@@ -5904,7 +6767,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250731092329 -0300" stop="20250731092957 -0300" channel="TV Zyn">
+  <programme start="20250731094049 -0300" stop="20250731094717 -0300" channel="TV Zyn">
     <title lang="pt">29. Louie, desenhe uma árvore</title>
     <desc lang="pt"> - Quer aprender a desenhar? Então, pegue lápis e papel e junte ao coelho Louie e a joaninha Yoko!</desc>
     <category lang="en">cartoons/puppets</category>
@@ -5913,7 +6776,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250731093129 -0300" stop="20250731093816 -0300" channel="TV Zyn">
+  <programme start="20250731094849 -0300" stop="20250731095536 -0300" channel="TV Zyn">
     <title lang="pt">30. Louie, desenhe um bolo</title>
     <desc lang="pt"> - Quer aprender a desenhar? Então, pegue lápis e papel e junte ao coelho Louie e a joaninha Yoko!</desc>
     <category lang="en">cartoons/puppets</category>
@@ -5922,7 +6785,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250731093819 -0300" stop="20250731094852 -0300" channel="TV Zyn">
+  <programme start="20250731095539 -0300" stop="20250731100612 -0300" channel="TV Zyn">
     <title lang="pt">Rua do Zoo 64</title>
     <sub-title lang="pt">25. A história do hipopótamo, Horácio</sub-title>
     <desc lang="pt"> - Faça como a Lucy, se divirta com as histórias de vida dos animais da Rua do Zoo!</desc>
@@ -5932,7 +6795,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250731095006 -0300" stop="20250731100043 -0300" channel="TV Zyn">
+  <programme start="20250731100726 -0300" stop="20250731101803 -0300" channel="TV Zyn">
     <title lang="pt">Rua do Zoo 64</title>
     <sub-title lang="pt">26. A história do aniversário de Joaquim</sub-title>
     <desc lang="pt"> - Faça como a Lucy, se divirta com as histórias de vida dos animais da Rua do Zoo!</desc>
@@ -5942,7 +6805,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250731100157 -0300" stop="20250731101307 -0300" channel="TV Zyn">
+  <programme start="20250731101917 -0300" stop="20250731103027 -0300" channel="TV Zyn">
     <title lang="pt">Rua do Zoo 64</title>
     <sub-title lang="pt">1. A história da soneca do Leonardo</sub-title>
     <desc lang="pt"> - Faça como a Lucy, se divirta com as histórias de vida dos animais da Rua do Zoo!</desc>
@@ -5952,7 +6815,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250731101312 -0300" stop="20250731102527 -0300" channel="TV Zyn">
+  <programme start="20250731103032 -0300" stop="20250731104247 -0300" channel="TV Zyn">
     <title lang="pt">Dinotrem</title>
     <sub-title lang="pt">2. Observando as aves</sub-title>
     <desc lang="pt"> - Quer saber tudo sobre os dinossauros? Embarque no Dinotrem e faça uma viajem no tempo!</desc>
@@ -5962,7 +6825,7 @@
       <value>[AL]</value>
     </rating>
   </programme>
-  <programme start="20250731102706 -0300" stop="20250731103920 -0300" channel="TV Zyn">
+  <programme start="20250731104425 -0300" stop="20250731105640 -0300" channel="TV Zyn">
     <title lang="pt">Dinotrem</title>
     <sub-title lang="pt">3. Festa surpresa do trem bala</sub-title>
     <desc lang="pt"> - Quer saber tudo sobre os dinossauros? Embarque no Dinotrem e faça uma viajem no tempo!</desc>
@@ -5972,7 +6835,7 @@
       <value>[AL]</value>
     </rating>
   </programme>
-  <programme start="20250731103927 -0300" stop="20250731105023 -0300" channel="TV Zyn">
+  <programme start="20250731105647 -0300" stop="20250731110743 -0300" channel="TV Zyn">
     <title lang="pt">Ziggy e o Trenzinho do Zoológico</title>
     <sub-title lang="pt">15. Corrida de trem</sub-title>
     <desc lang="pt"> - Embarque nesse trem e se aventure com Ziggy e seus amigos!</desc>
@@ -5982,7 +6845,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250731105200 -0300" stop="20250731110301 -0300" channel="TV Zyn">
+  <programme start="20250731110920 -0300" stop="20250731112020 -0300" channel="TV Zyn">
     <title lang="pt">Ziggy e o Trenzinho do Zoológico</title>
     <sub-title lang="pt">16. O trem T-rex</sub-title>
     <desc lang="pt"> - Embarque nesse trem e se aventure com Ziggy e seus amigos!</desc>
@@ -5992,7 +6855,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250731110304 -0300" stop="20250731110944 -0300" channel="TV Zyn">
+  <programme start="20250731112023 -0300" stop="20250731112703 -0300" channel="TV Zyn">
     <title lang="pt">Shaun, o Carneiro</title>
     <sub-title lang="pt">13. A fazenda do terror</sub-title>
     <desc lang="pt"> - Prepare-se para muita diversão e confusão com as aventuras de Shaun, o Carneiro!</desc>
@@ -6002,7 +6865,7 @@
       <value>[AL]</value>
     </rating>
   </programme>
-  <programme start="20250731111116 -0300" stop="20250731111816 -0300" channel="TV Zyn">
+  <programme start="20250731112836 -0300" stop="20250731113536 -0300" channel="TV Zyn">
     <title lang="pt">Shaun, o Carneiro</title>
     <sub-title lang="pt">14. A guerra das maçãs</sub-title>
     <desc lang="pt"> - Prepare-se para muita diversão e confusão com as aventuras de Shaun, o Carneiro!</desc>
@@ -6012,7 +6875,7 @@
       <value>[AL]</value>
     </rating>
   </programme>
-  <programme start="20250731111821 -0300" stop="20250731112901 -0300" channel="TV Zyn">
+  <programme start="20250731113541 -0300" stop="20250731114620 -0300" channel="TV Zyn">
     <title lang="pt">O Livro da Selva</title>
     <sub-title lang="pt">47. Macacos malandros</sub-title>
     <desc lang="pt"> - Mogli foi criado por lobos, mora na selva, tem amigos fiéis mas inimigos ferozes! </desc>
@@ -6022,7 +6885,7 @@
       <value>[AL]</value>
     </rating>
   </programme>
-  <programme start="20250731113015 -0300" stop="20250731114115 -0300" channel="TV Zyn">
+  <programme start="20250731114735 -0300" stop="20250731115835 -0300" channel="TV Zyn">
     <title lang="pt">O Livro da Selva</title>
     <sub-title lang="pt">48. Baguera na vila dos homens</sub-title>
     <desc lang="pt"> - Mogli foi criado por lobos, mora na selva, tem amigos fiéis mas inimigos ferozes! </desc>
@@ -6032,7 +6895,17 @@
       <value>[AL]</value>
     </rating>
   </programme>
-  <programme start="20250731114239 -0300" stop="20250731114916 -0300" channel="TV Zyn">
+  <programme start="20250731115842 -0300" stop="20250731122419 -0300" channel="TV Zyn">
+    <title lang="pt">O Picapau Amarelo</title>
+    <sub-title lang="pt">10. O nordeste brasileiro</sub-title>
+    <desc lang="pt"> - Muita diversão e aprendizado com Emilia e sua turminha te esperam em O Picapau Amarelo!</desc>
+    <category lang="en">entertainment programmes for 6 to 14</category>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250731122422 -0300" stop="20250731123059 -0300" channel="TV Zyn">
     <title lang="pt">Masha e o Urso</title>
     <sub-title lang="pt">23. O Filhote Abandonado</sub-title>
     <desc lang="pt"> - Masha e o Urso segue as aventuras de Masha, uma menina travessa, e seu amigo Urso.</desc>
@@ -6042,7 +6915,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250731115055 -0300" stop="20250731115754 -0300" channel="TV Zyn">
+  <programme start="20250731123238 -0300" stop="20250731123937 -0300" channel="TV Zyn">
     <title lang="pt">Masha e o Urso</title>
     <sub-title lang="pt">24. Bon Appétit</sub-title>
     <desc lang="pt"> - Masha e o Urso segue as aventuras de Masha, uma menina travessa, e seu amigo Urso.</desc>
@@ -6052,7 +6925,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250731120535 -0300" stop="20250731121217 -0300" channel="TV Zyn">
+  <programme start="20250731124718 -0300" stop="20250731125359 -0300" channel="TV Zyn">
     <title lang="pt">O Show do Garfield</title>
     <sub-title lang="pt">49. O fantástico cão voador</sub-title>
     <desc lang="pt"> - Garfield é um gato gordo e preguiçoso, que adora uma lasanha e ama atormentar seu dono Jon.</desc>
@@ -6062,7 +6935,7 @@
       <value>[AL]</value>
     </rating>
   </programme>
-  <programme start="20250731121946 -0300" stop="20250731122722 -0300" channel="TV Zyn">
+  <programme start="20250731130129 -0300" stop="20250731130905 -0300" channel="TV Zyn">
     <title lang="pt">O Show do Garfield</title>
     <sub-title lang="pt">50. A aposta</sub-title>
     <desc lang="pt"> - Garfield é um gato gordo e preguiçoso, que adora uma lasanha e ama atormentar seu dono Jon.</desc>
@@ -6072,7 +6945,7 @@
       <value>[AL]</value>
     </rating>
   </programme>
-  <programme start="20250731122727 -0300" stop="20250731132221 -0300" channel="TV Zyn">
+  <programme start="20250731130910 -0300" stop="20250731140404 -0300" channel="TV Zyn">
     <title lang="pt">Patrulha Salvadora</title>
     <sub-title lang="pt">12. O Caso do Exército do Faraó</sub-title>
     <desc lang="pt"> - As crianças mais amadas de Carrossel agora são super heróis que lutam contra o crime!</desc>
@@ -6082,14 +6955,14 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250731132228 -0300" stop="20250731134925 -0300" channel="TV Zyn">
+  <programme start="20250731140411 -0300" stop="20250731143108 -0300" channel="TV Zyn">
     <title lang="pt">H2O Meninas Sereias</title>
     <sub-title lang="pt">17. Lunático</sub-title>
     <desc lang="pt"> - As adolescentes Cléo, Nanda e Drica protegem um segredo: elas se transformam em sereias!</desc>
     <category lang="en">entertainment programmes for 6 to 14</category>
     <episode-num system="xmltv_ns">1.16.</episode-num>
   </programme>
-  <programme start="20250731134930 -0300" stop="20250731141529 -0300" channel="TV Zyn">
+  <programme start="20250731143113 -0300" stop="20250731145712 -0300" channel="TV Zyn">
     <title lang="pt">O Clube das Coisas Mágicas</title>
     <sub-title lang="pt">9. Na praia</sub-title>
     <desc lang="pt"> - Já pensou ser humana, fada e elfa, tudo junto e misturado? Kyra é essa pessoa, uma tri-ling!</desc>
@@ -6099,7 +6972,7 @@
       <value>[Violência fantasiosa]</value>
     </rating>
   </programme>
-  <programme start="20250731141532 -0300" stop="20250731144240 -0300" channel="TV Zyn">
+  <programme start="20250731145715 -0300" stop="20250731152422 -0300" channel="TV Zyn">
     <title lang="pt">Dance Academy</title>
     <sub-title lang="pt">9. O fim</sub-title>
     <desc lang="pt"> - Ela chegou a Academia de Dança. Mas vai ter que dar muitas piruetas para se tornar uma bailarina.</desc>
@@ -6109,7 +6982,7 @@
       <value>[Violência]</value>
     </rating>
   </programme>
-  <programme start="20250731144247 -0300" stop="20250731155714 -0300" channel="TV Zyn">
+  <programme start="20250731152429 -0300" stop="20250731163857 -0300" channel="TV Zyn">
     <title lang="pt">Programa da Maisa</title>
     <sub-title lang="pt">Programa de</sub-title>
     <desc lang="pt">realizado em 06/04/2019 - No talk show, Maisa Silva e Oscar Filho recebem convidados para uma conversa bem 'à vontade'.</desc>
@@ -6117,7 +6990,7 @@
     <date>06/04/2019</date>
     <episode-num system="xmltv_ns">0.3.</episode-num>
   </programme>
-  <programme start="20250731160423 -0300" stop="20250731161203 -0300" channel="TV Zyn">
+  <programme start="20250731164606 -0300" stop="20250731165345 -0300" channel="TV Zyn">
     <title lang="pt">O Show do Garfield</title>
     <sub-title lang="pt">48. Poder da mente</sub-title>
     <desc lang="pt"> - Garfield é um gato gordo e preguiçoso, que adora uma lasanha e ama atormentar seu dono Jon.</desc>
@@ -6127,7 +7000,7 @@
       <value>[AL]</value>
     </rating>
   </programme>
-  <programme start="20250731161941 -0300" stop="20250731162622 -0300" channel="TV Zyn">
+  <programme start="20250731170352 -0300" stop="20250731171034 -0300" channel="TV Zyn">
     <title lang="pt">O Show do Garfield</title>
     <sub-title lang="pt">49. O fantástico cão voador</sub-title>
     <desc lang="pt"> - Garfield é um gato gordo e preguiçoso, que adora uma lasanha e ama atormentar seu dono Jon.</desc>
@@ -6137,7 +7010,7 @@
       <value>[AL]</value>
     </rating>
   </programme>
-  <programme start="20250731163348 -0300" stop="20250731164124 -0300" channel="TV Zyn">
+  <programme start="20250731172140 -0300" stop="20250731172917 -0300" channel="TV Zyn">
     <title lang="pt">O Show do Garfield</title>
     <sub-title lang="pt">50. A aposta</sub-title>
     <desc lang="pt"> - Garfield é um gato gordo e preguiçoso, que adora uma lasanha e ama atormentar seu dono Jon.</desc>
@@ -6147,7 +7020,7 @@
       <value>[AL]</value>
     </rating>
   </programme>
-  <programme start="20250731164131 -0300" stop="20250731170824 -0300" channel="TV Zyn">
+  <programme start="20250731173106 -0300" stop="20250731175758 -0300" channel="TV Zyn">
     <title lang="pt">Beijo Espectral</title>
     <sub-title lang="pt">6. A divindade se encontra com um pequeno Tengu</sub-title>
     <desc lang="pt"> - Depois de ser despejada, Nanami acaba virando a nova divindade de um templo abandonado.</desc>
@@ -6157,7 +7030,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250731170829 -0300" stop="20250731173336 -0300" channel="TV Zyn">
+  <programme start="20250731180018 -0300" stop="20250731182525 -0300" channel="TV Zyn">
     <title lang="pt">Beyblade X</title>
     <sub-title lang="pt">33. Nossa promessa</sub-title>
     <desc lang="pt"> - Robin Kazami quer se tornar jogador profissional de Beyblade e chegar no topo da Torre X.</desc>
@@ -6167,7 +7040,12 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250731173343 -0300" stop="20250731180120 -0300" channel="TV Zyn">
+  <programme start="20250731182532 -0300" stop="20250731183044 -0300" channel="TV Zyn">
+    <title lang="pt">Clipe oficial da música Vai Muleke Doido</title>
+    <desc lang="pt"> - Vem dançar e cantar com a Patrulha Salvadora!</desc>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20250731183051 -0300" stop="20250731185828 -0300" channel="TV Zyn">
     <title lang="pt">Os Cavaleiros do Zodíaco: A Tela Perdida</title>
     <sub-title lang="pt">9. A estrela gigante</sub-title>
     <desc lang="pt"> - Atena e Hades se enfrentam a cada dois séculos em uma batalha chamada Guerra Santa.</desc>
@@ -6177,7 +7055,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250731180125 -0300" stop="20250731185540 -0300" channel="TV Zyn">
+  <programme start="20250731190134 -0300" stop="20250731195549 -0300" channel="TV Zyn">
     <title lang="pt">Cúmplices de Um Resgate</title>
     <desc lang="pt"> - Gêmeas que foram separadas ao nascer e se reencontram na adolescência. E se tornam cúmplices na vida.</desc>
     <category lang="en">movie/drama (general)</category>
@@ -6186,7 +7064,7 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250731185543 -0300" stop="20250731194225 -0300" channel="TV Zyn">
+  <programme start="20250731195935 -0300" stop="20250731204618 -0300" channel="TV Zyn">
     <title lang="pt">Chiquititas 2013</title>
     <desc lang="pt"> - Crianças que vivem no orfanato Raio de Luz buscam amor, amizade e um novo lar. </desc>
     <category lang="en">movie/drama (general)</category>
@@ -6195,7 +7073,12 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250731194232 -0300" stop="20250731203400 -0300" channel="TV Zyn">
+  <programme start="20250731204625 -0300" stop="20250731205246 -0300" channel="TV Zyn">
+    <title lang="pt">Clipe musical </title>
+    <desc lang="pt"> - Vem cantar e dançar com as Chiquititas!</desc>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20250731205253 -0300" stop="20250731214421 -0300" channel="TV Zyn">
     <title lang="pt">Heidi, Bem-Vinda à Casa</title>
     <sub-title lang="pt">44. Heidi, presa e sem saída</sub-title>
     <desc lang="pt"> - Baseado nas histórias de Marcela Citterio. Heidi Bem-vinda a Casa é um clássico romance adolescente!</desc>
@@ -6205,7 +7088,7 @@
       <value>[AL]</value>
     </rating>
   </programme>
-  <programme start="20250731203405 -0300" stop="20250731213306 -0300" channel="TV Zyn">
+  <programme start="20250731214426 -0300" stop="20250731224327 -0300" channel="TV Zyn">
     <title lang="pt">Carinha de Anjo</title>
     <desc lang="pt"> - Quem resiste a essa Carinha de Anjo? Ela é Dulce Maria, uma menina encantadora e cheia de energia.</desc>
     <category lang="en">movie/drama (general)</category>
@@ -6214,12 +7097,670 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250731213309 -0300" stop="20250731222832 -0300" channel="TV Zyn">
+  <programme start="20250731224737 -0300" stop="20250731234300 -0300" channel="TV Zyn">
     <title lang="pt">Patrulha Salvadora</title>
     <sub-title lang="pt">12. O Caso do Exército do Faraó</sub-title>
     <desc lang="pt"> - As crianças mais amadas de Carrossel agora são super heróis que lutam contra o crime!</desc>
     <category lang="en">comedy</category>
     <episode-num system="xmltv_ns">3.50.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250731234307 -0300" stop="20250801000013 -0300" channel="TV Zyn">
+    <title lang="pt">O Picapau Amarelo</title>
+    <sub-title lang="pt">Emília nos Bastidores do Programa Silvio Santos</sub-title>
+    <desc lang="pt"> - Muita diversão e aprendizado com Emilia e sua turminha te esperam em O Picapau Amarelo!</desc>
+    <category lang="en">entertainment programmes for 6 to 14</category>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250801000020 -0300" stop="20250801002758 -0300" channel="TV Zyn">
+    <title lang="pt">Wolfblood</title>
+    <sub-title lang="pt">11. As suspeitas de Mr. Jeffries</sub-title>
+    <desc lang="pt"> - Maddy, uma adolescente que mora em uma pequena aldeia. Mas ela e sua família guardam um segredo!</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">2.10.</episode-num>
+    <rating system="Brazil">
+      <value>[Medo, Violência]</value>
+    </rating>
+  </programme>
+  <programme start="20250801002805 -0300" stop="20250801005532 -0300" channel="TV Zyn">
+    <title lang="pt">H2O Meninas Sereias</title>
+    <sub-title lang="pt">18. Onda de calor</sub-title>
+    <desc lang="pt"> - As adolescentes Cléo, Nanda e Drica protegem um segredo: elas se transformam em sereias!</desc>
+    <category lang="en">entertainment programmes for 6 to 14</category>
+    <episode-num system="xmltv_ns">1.17.</episode-num>
+  </programme>
+  <programme start="20250801005537 -0300" stop="20250801012125 -0300" channel="TV Zyn">
+    <title lang="pt">O Clube das Coisas Mágicas</title>
+    <sub-title lang="pt">10. Águas desconhecidas</sub-title>
+    <desc lang="pt"> - Já pensou ser humana, fada e elfa, tudo junto e misturado? Kyra é essa pessoa, uma tri-ling!</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <rating system="Brazil">
+      <value>[Violência fantasiosa]</value>
+    </rating>
+  </programme>
+  <programme start="20250801012128 -0300" stop="20250801014836 -0300" channel="TV Zyn">
+    <title lang="pt">Dance Academy</title>
+    <desc lang="pt"> - Ela chegou a Academia de Dança. Mas vai ter que dar muitas piruetas para se tornar uma bailarina.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">1.9.</episode-num>
+    <rating system="Brazil">
+      <value>[Violência]</value>
+    </rating>
+  </programme>
+  <programme start="20250801014843 -0300" stop="20250801021550 -0300" channel="TV Zyn">
+    <title lang="pt">Wolfblood</title>
+    <sub-title lang="pt">10. O culto do som</sub-title>
+    <desc lang="pt"> - Maddy, uma adolescente que mora em uma pequena aldeia. Mas ela e sua família guardam um segredo!</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">2.9.</episode-num>
+    <rating system="Brazil">
+      <value>[Medo, Violência]</value>
+    </rating>
+  </programme>
+  <programme start="20250801021553 -0300" stop="20250801024326 -0300" channel="TV Zyn">
+    <title lang="pt">Wolfblood</title>
+    <sub-title lang="pt">11. As suspeitas de Mr. Jeffries</sub-title>
+    <desc lang="pt"> - Maddy, uma adolescente que mora em uma pequena aldeia. Mas ela e sua família guardam um segredo!</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">2.10.</episode-num>
+    <rating system="Brazil">
+      <value>[Medo, Violência]</value>
+    </rating>
+  </programme>
+  <programme start="20250801024331 -0300" stop="20250801033324 -0300" channel="TV Zyn">
+    <title lang="pt">Chiquititas 2013</title>
+    <desc lang="pt"> - Crianças que vivem no orfanato Raio de Luz buscam amor, amizade e um novo lar. </desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">7.149.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250801033331 -0300" stop="20250801042938 -0300" channel="TV Zyn">
+    <title lang="pt">Cúmplices de Um Resgate</title>
+    <desc lang="pt"> - Gêmeas que foram separadas ao nascer e se reencontram na adolescência. E se tornam cúmplices na vida.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">14.287.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250801042943 -0300" stop="20250801052600 -0300" channel="TV Zyn">
+    <title lang="pt">Carinha de Anjo</title>
+    <desc lang="pt"> - Quem resiste a essa Carinha de Anjo? Ela é Dulce Maria, uma menina encantadora e cheia de energia.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">0.11.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250801052607 -0300" stop="20250801053348 -0300" channel="TV Zyn">
+    <title lang="pt">PaJaMa</title>
+    <sub-title lang="pt">74. Jammy ganha um distintivo.</sub-title>
+    <desc lang="pt"> - PaJaMa acompanha Ja, um garoto travesso, e suas surpresas para Pa e Ma, com muitas risadas!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.73.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250801053525 -0300" stop="20250801054259 -0300" channel="TV Zyn">
+    <title lang="pt">PaJaMa</title>
+    <sub-title lang="pt">75. Troll Antigo.</sub-title>
+    <desc lang="pt"> - PaJaMa acompanha Ja, um garoto travesso, e suas surpresas para Pa e Ma, com muitas risadas!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.74.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250801054431 -0300" stop="20250801055249 -0300" channel="TV Zyn">
+    <title lang="pt">PaJaMa</title>
+    <sub-title lang="pt">76. Jogada de Mestre</sub-title>
+    <desc lang="pt"> - PaJaMa acompanha Ja, um garoto travesso, e suas surpresas para Pa e Ma, com muitas risadas!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.75.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250801060625 -0300" stop="20250801061326 -0300" channel="TV Zyn">
+    <title lang="pt">O Pequeno Furry </title>
+    <sub-title lang="pt">13. Robótico</sub-title>
+    <desc lang="pt"> - Little Furry é um aventureiro adorável que enfrenta desafios com criatividade e cresce sempre!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.12.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250801061441 -0300" stop="20250801062147 -0300" channel="TV Zyn">
+    <title lang="pt">O Pequeno Furry </title>
+    <sub-title lang="pt">14. Doce coração no gelo</sub-title>
+    <desc lang="pt"> - Little Furry é um aventureiro adorável que enfrenta desafios com criatividade e cresce sempre!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.13.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250801062154 -0300" stop="20250801062943 -0300" channel="TV Zyn">
+    <title lang="pt">Cat e Keet</title>
+    <sub-title lang="pt">23. Conheça o doutor </sub-title>
+    <desc lang="pt"> - Cat, o gatinho fã de cereal, e Keet, o papagaio travesso, vivem aventuras cheias de risadas!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.22.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250801063122 -0300" stop="20250801064016 -0300" channel="TV Zyn">
+    <title lang="pt">Cat e Keet</title>
+    <sub-title lang="pt">24. Heróis acidentais</sub-title>
+    <desc lang="pt"> - Cat, o gatinho fã de cereal, e Keet, o papagaio travesso, vivem aventuras cheias de risadas!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.23.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250801064019 -0300" stop="20250801065049 -0300" channel="TV Zyn">
+    <title lang="pt">Jojô e a Vovó</title>
+    <sub-title lang="pt">34. É hora do Natal</sub-title>
+    <desc lang="pt"> - Acompanhe o dia a dia e as aventuras de Jojô e sua amada Vovó!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.33.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250801065226 -0300" stop="20250801070332 -0300" channel="TV Zyn">
+    <title lang="pt">Jojô e a Vovó</title>
+    <sub-title lang="pt">35. É hora de patinar no gelo</sub-title>
+    <desc lang="pt"> - Acompanhe o dia a dia e as aventuras de Jojô e sua amada Vovó!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.34.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250801071722 -0300" stop="20250801072407 -0300" channel="TV Zyn">
+    <title lang="pt">Oi, Duggee</title>
+    <sub-title lang="pt">29. Duggee e o distintivo da colheita</sub-title>
+    <desc lang="pt"> - Junte-se aos escoteiros do Clube do Esquilo e divirta-se com as atividades de Duggee e sua turma! </desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">1.28.</episode-num>
+    <rating system="Brazil">
+      <value>[AL]</value>
+    </rating>
+  </programme>
+  <programme start="20250801072521 -0300" stop="20250801073206 -0300" channel="TV Zyn">
+    <title lang="pt">Oi, Duggee</title>
+    <sub-title lang="pt">30. Duggee e o distintivo das cores</sub-title>
+    <desc lang="pt"> - Junte-se aos escoteiros do Clube do Esquilo e divirta-se com as atividades de Duggee e sua turma! </desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">1.29.</episode-num>
+    <rating system="Brazil">
+      <value>[AL]</value>
+    </rating>
+  </programme>
+  <programme start="20250801073344 -0300" stop="20250801074057 -0300" channel="TV Zyn">
+    <title lang="pt">Oi, Duggee</title>
+    <sub-title lang="pt">31. Duggee e o distintivo do galho</sub-title>
+    <desc lang="pt"> - Junte-se aos escoteiros do Clube do Esquilo e divirta-se com as atividades de Duggee e sua turma! </desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">1.30.</episode-num>
+    <rating system="Brazil">
+      <value>[AL]</value>
+    </rating>
+  </programme>
+  <programme start="20250801074101 -0300" stop="20250801075040 -0300" channel="TV Zyn">
+    <title lang="pt">Timmy e Seus Amigos</title>
+    <sub-title lang="pt">20. Timmy e o animal de estimação</sub-title>
+    <desc lang="pt"> - Acompanhe Timmy, um adorável carneirinho, e seus amigos numa grande aventura!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">1.19.</episode-num>
+    <rating system="Brazil">
+      <value>[AL]</value>
+    </rating>
+  </programme>
+  <programme start="20250801075218 -0300" stop="20250801080218 -0300" channel="TV Zyn">
+    <title lang="pt">Timmy e Seus Amigos</title>
+    <sub-title lang="pt">21. A união faz a força</sub-title>
+    <desc lang="pt"> - Acompanhe Timmy, um adorável carneirinho, e seus amigos numa grande aventura!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">1.20.</episode-num>
+    <rating system="Brazil">
+      <value>[AL]</value>
+    </rating>
+  </programme>
+  <programme start="20250801081154 -0300" stop="20250801081747 -0300" channel="TV Zyn">
+    <title lang="pt">Cleo e Cuquin</title>
+    <sub-title lang="pt">22. O primeiro dia da primavera</sub-title>
+    <desc lang="pt"> - As brincadeiras de Cuquin criam confusão com Cleo e toda a família Telerín! </desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.21.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250801081901 -0300" stop="20250801082440 -0300" channel="TV Zyn">
+    <title lang="pt">Cleo e Cuquin</title>
+    <sub-title lang="pt">23. Feliz aniversário</sub-title>
+    <desc lang="pt"> - As brincadeiras de Cuquin criam confusão com Cleo e toda a família Telerín! </desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.22.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250801082555 -0300" stop="20250801083147 -0300" channel="TV Zyn">
+    <title lang="pt">Cleo e Cuquin</title>
+    <sub-title lang="pt">24. A bicicleta nova</sub-title>
+    <desc lang="pt"> - As brincadeiras de Cuquin criam confusão com Cleo e toda a família Telerín! </desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.23.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250801083150 -0300" stop="20250801084321 -0300" channel="TV Zyn">
+    <title lang="pt">Peixonauta</title>
+    <sub-title lang="pt">49. O caso da falta de ovos</sub-title>
+    <desc lang="pt"> - Junte-se ao agente secreto Peixonauta para, com muito ritmo, desvendar pistas e solucionar  casos.  </desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.48.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250801084500 -0300" stop="20250801085730 -0300" channel="TV Zyn">
+    <title lang="pt">Peixonauta</title>
+    <sub-title lang="pt">50. O caso das coisas que desaparecem</sub-title>
+    <desc lang="pt"> - Junte-se ao agente secreto Peixonauta para, com muito ritmo, desvendar pistas e solucionar  casos.  </desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.49.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250801085735 -0300" stop="20250801091021 -0300" channel="TV Zyn">
+    <title lang="pt">Sandra, a Detetive Encantada</title>
+    <sub-title lang="pt">51. Escolimo</sub-title>
+    <desc lang="pt"> - Sandra e seu amigo elfo, F.O, embarcam em viagens para um mundo encantado dos contos de fadas.</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.50.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250801091153 -0300" stop="20250801092542 -0300" channel="TV Zyn">
+    <title lang="pt">Sandra, a Detetive Encantada</title>
+    <sub-title lang="pt">52. Escola para Princesas</sub-title>
+    <desc lang="pt"> - Sandra e seu amigo elfo, F.O, embarcam em viagens para um mundo encantado dos contos de fadas.</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.51.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250801092549 -0300" stop="20250801093224 -0300" channel="TV Zyn">
+    <title lang="pt">31. Louie, desenhe um caminhão de lixo</title>
+    <desc lang="pt"> - Quer aprender a desenhar? Então, pegue lápis e papel e junte ao coelho Louie e a joaninha Yoko!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">2.30.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250801093401 -0300" stop="20250801094037 -0300" channel="TV Zyn">
+    <title lang="pt">32. Louie, desenhe um leão</title>
+    <desc lang="pt"> - Quer aprender a desenhar? Então, pegue lápis e papel e junte ao coelho Louie e a joaninha Yoko!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.31.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250801094209 -0300" stop="20250801094855 -0300" channel="TV Zyn">
+    <title lang="pt">33. Louie, desenhe um leão-marinho</title>
+    <desc lang="pt"> - Quer aprender a desenhar? Então, pegue lápis e papel e junte ao coelho Louie e a joaninha Yoko!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.32.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250801094858 -0300" stop="20250801095940 -0300" channel="TV Zyn">
+    <title lang="pt">Rua do Zoo 64</title>
+    <sub-title lang="pt">2. A história do coral do amanhecer</sub-title>
+    <desc lang="pt"> - Faça como a Lucy, se divirta com as histórias de vida dos animais da Rua do Zoo!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">1.1.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250801100054 -0300" stop="20250801101135 -0300" channel="TV Zyn">
+    <title lang="pt">Rua do Zoo 64</title>
+    <sub-title lang="pt">4. A história de Morrise Bigode</sub-title>
+    <desc lang="pt"> - Faça como a Lucy, se divirta com as histórias de vida dos animais da Rua do Zoo!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250801101249 -0300" stop="20250801102402 -0300" channel="TV Zyn">
+    <title lang="pt">Rua do Zoo 64</title>
+    <sub-title lang="pt">5. A história de Chico, o mágico</sub-title>
+    <desc lang="pt"> - Faça como a Lucy, se divirta com as histórias de vida dos animais da Rua do Zoo!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">1.4.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250801102407 -0300" stop="20250801103621 -0300" channel="TV Zyn">
+    <title lang="pt">Dinotrem</title>
+    <sub-title lang="pt">4. Explorando cavernas</sub-title>
+    <desc lang="pt"> - Quer saber tudo sobre os dinossauros? Embarque no Dinotrem e faça uma viajem no tempo!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+    <rating system="Brazil">
+      <value>[AL]</value>
+    </rating>
+  </programme>
+  <programme start="20250801103800 -0300" stop="20250801105045 -0300" channel="TV Zyn">
+    <title lang="pt">Dinotrem</title>
+    <sub-title lang="pt">5. Amigos de pescaria</sub-title>
+    <desc lang="pt"> - Quer saber tudo sobre os dinossauros? Embarque no Dinotrem e faça uma viajem no tempo!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">1.4.</episode-num>
+    <rating system="Brazil">
+      <value>[AL]</value>
+    </rating>
+  </programme>
+  <programme start="20250801105052 -0300" stop="20250801110148 -0300" channel="TV Zyn">
+    <title lang="pt">Ziggy e o Trenzinho do Zoológico</title>
+    <sub-title lang="pt">17. O vagoneta</sub-title>
+    <desc lang="pt"> - Embarque nesse trem e se aventure com Ziggy e seus amigos!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">1.16.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250801110325 -0300" stop="20250801111425 -0300" channel="TV Zyn">
+    <title lang="pt">Ziggy e o Trenzinho do Zoológico</title>
+    <sub-title lang="pt">18. A noite de aventura no zoológico</sub-title>
+    <desc lang="pt"> - Embarque nesse trem e se aventure com Ziggy e seus amigos!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">1.17.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250801111428 -0300" stop="20250801112108 -0300" channel="TV Zyn">
+    <title lang="pt">Shaun, o Carneiro</title>
+    <sub-title lang="pt">15. Festa da fazenda</sub-title>
+    <desc lang="pt"> - Prepare-se para muita diversão e confusão com as aventuras de Shaun, o Carneiro!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
+    <rating system="Brazil">
+      <value>[AL]</value>
+    </rating>
+  </programme>
+  <programme start="20250801112240 -0300" stop="20250801112940 -0300" channel="TV Zyn">
+    <title lang="pt">Shaun, o Carneiro</title>
+    <sub-title lang="pt">16. Obra de arte</sub-title>
+    <desc lang="pt"> - Prepare-se para muita diversão e confusão com as aventuras de Shaun, o Carneiro!</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.15.</episode-num>
+    <rating system="Brazil">
+      <value>[AL]</value>
+    </rating>
+  </programme>
+  <programme start="20250801112945 -0300" stop="20250801114045 -0300" channel="TV Zyn">
+    <title lang="pt">O Livro da Selva</title>
+    <sub-title lang="pt">49. O macaco desaparecido</sub-title>
+    <desc lang="pt"> - Mogli foi criado por lobos, mora na selva, tem amigos fiéis mas inimigos ferozes! </desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.48.</episode-num>
+    <rating system="Brazil">
+      <value>[AL]</value>
+    </rating>
+  </programme>
+  <programme start="20250801114159 -0300" stop="20250801115259 -0300" channel="TV Zyn">
+    <title lang="pt">O Livro da Selva</title>
+    <sub-title lang="pt">50. Balu, o Rei</sub-title>
+    <desc lang="pt"> - Mogli foi criado por lobos, mora na selva, tem amigos fiéis mas inimigos ferozes! </desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.49.</episode-num>
+    <rating system="Brazil">
+      <value>[AL]</value>
+    </rating>
+  </programme>
+  <programme start="20250801115306 -0300" stop="20250801121534 -0300" channel="TV Zyn">
+    <title lang="pt">O Picapau Amarelo</title>
+    <sub-title lang="pt">1. O Marquês de Rabicó</sub-title>
+    <desc lang="pt"> - Muita diversão e aprendizados te esperam nessa versão da obra de Monteiro Lobato, O Picapau Amarelo.</desc>
+    <category lang="en">entertainment programmes for 6 to 14</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20250801121537 -0300" stop="20250801122216 -0300" channel="TV Zyn">
+    <title lang="pt">Masha e o Urso</title>
+    <sub-title lang="pt">25. Abracadabra</sub-title>
+    <desc lang="pt"> - Masha e o Urso segue as aventuras de Masha, uma menina travessa, e seu amigo Urso.</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.24.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250801122402 -0300" stop="20250801123059 -0300" channel="TV Zyn">
+    <title lang="pt">Masha e o Urso</title>
+    <sub-title lang="pt">26. Melhoria do Lar</sub-title>
+    <desc lang="pt"> - Masha e o Urso segue as aventuras de Masha, uma menina travessa, e seu amigo Urso.</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.25.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250801123106 -0300" stop="20250801124555 -0300" channel="TV Zyn">
+    <title lang="pt">O Show do Garfield</title>
+    <sub-title lang="pt">51. O homem gelo</sub-title>
+    <desc lang="pt"> - Garfield é um gato gordo e preguiçoso, que adora uma lasanha e ama atormentar seu dono Jon.</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.50.</episode-num>
+    <rating system="Brazil">
+      <value>[AL]</value>
+    </rating>
+  </programme>
+  <programme start="20250801124558 -0300" stop="20250801130057 -0300" channel="TV Zyn">
+    <title lang="pt">O Show do Garfield</title>
+    <sub-title lang="pt">52. T-3000</sub-title>
+    <desc lang="pt"> - Garfield é um gato gordo e preguiçoso, que adora uma lasanha e ama atormentar seu dono Jon.</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.51.</episode-num>
+    <rating system="Brazil">
+      <value>[AL]</value>
+    </rating>
+  </programme>
+  <programme start="20250801130102 -0300" stop="20250801135501 -0300" channel="TV Zyn">
+    <title lang="pt">Patrulha Salvadora</title>
+    <sub-title lang="pt">13. O Caso do Exército do Faraó</sub-title>
+    <desc lang="pt"> - As crianças mais amadas de Carrossel agora são super heróis que lutam contra o crime!</desc>
+    <category lang="en">comedy</category>
+    <episode-num system="xmltv_ns">3.51.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250801135506 -0300" stop="20250801142228 -0300" channel="TV Zyn">
+    <title lang="pt">H2O Meninas Sereias</title>
+    <sub-title lang="pt">18. Onda de calor</sub-title>
+    <desc lang="pt"> - As adolescentes Cléo, Nanda e Drica protegem um segredo: elas se transformam em sereias!</desc>
+    <category lang="en">entertainment programmes for 6 to 14</category>
+    <episode-num system="xmltv_ns">1.17.</episode-num>
+  </programme>
+  <programme start="20250801142235 -0300" stop="20250801144829 -0300" channel="TV Zyn">
+    <title lang="pt">O Clube das Coisas Mágicas</title>
+    <sub-title lang="pt">10. Águas desconhecidas</sub-title>
+    <desc lang="pt"> - Já pensou ser humana, fada e elfa, tudo junto e misturado? Kyra é essa pessoa, uma tri-ling!</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <rating system="Brazil">
+      <value>[Violência fantasiosa]</value>
+    </rating>
+  </programme>
+  <programme start="20250801144834 -0300" stop="20250801151546 -0300" channel="TV Zyn">
+    <title lang="pt">Dance Academy</title>
+    <desc lang="pt"> - Ela chegou a Academia de Dança. Mas vai ter que dar muitas piruetas para se tornar uma bailarina.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">1.9.</episode-num>
+    <rating system="Brazil">
+      <value>[Violência]</value>
+    </rating>
+  </programme>
+  <programme start="20250801151549 -0300" stop="20250801162939 -0300" channel="TV Zyn">
+    <title lang="pt">Programa da Maisa</title>
+    <sub-title lang="pt">Programa de</sub-title>
+    <desc lang="pt">realizado em 13/04/2019 - No talk show, Maisa Silva e Oscar Filho recebem convidados para uma conversa bem 'à vontade'.</desc>
+    <category lang="en">show/game show (general)</category>
+    <date>13/04/2019</date>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+  </programme>
+  <programme start="20250801164046 -0300" stop="20250801164757 -0300" channel="TV Zyn">
+    <title lang="pt">O Show do Garfield</title>
+    <sub-title lang="pt">50. A aposta</sub-title>
+    <desc lang="pt"> - Garfield é um gato gordo e preguiçoso, que adora uma lasanha e ama atormentar seu dono Jon.</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.49.</episode-num>
+    <rating system="Brazil">
+      <value>[AL]</value>
+    </rating>
+  </programme>
+  <programme start="20250801165023 -0300" stop="20250801170457 -0300" channel="TV Zyn">
+    <title lang="pt">O Show do Garfield</title>
+    <sub-title lang="pt">51. O homem gelo</sub-title>
+    <desc lang="pt"> - Garfield é um gato gordo e preguiçoso, que adora uma lasanha e ama atormentar seu dono Jon.</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.50.</episode-num>
+    <rating system="Brazil">
+      <value>[AL]</value>
+    </rating>
+  </programme>
+  <programme start="20250801170816 -0300" stop="20250801172325 -0300" channel="TV Zyn">
+    <title lang="pt">O Show do Garfield</title>
+    <sub-title lang="pt">52. T-3000</sub-title>
+    <desc lang="pt"> - Garfield é um gato gordo e preguiçoso, que adora uma lasanha e ama atormentar seu dono Jon.</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.51.</episode-num>
+    <rating system="Brazil">
+      <value>[AL]</value>
+    </rating>
+  </programme>
+  <programme start="20250801172332 -0300" stop="20250801172953 -0300" channel="TV Zyn">
+    <title lang="pt">Clipe musical </title>
+    <desc lang="pt"> - Vem cantar e dançar com as Chiquititas!</desc>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20250801173000 -0300" stop="20250801175634 -0300" channel="TV Zyn">
+    <title lang="pt">Beijo Espectral</title>
+    <sub-title lang="pt">7. A divindade vai para o Monte Kurama</sub-title>
+    <desc lang="pt"> - Depois de ser despejada, Nanami acaba virando a nova divindade de um templo abandonado.</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">1.6.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250801180111 -0300" stop="20250801182628 -0300" channel="TV Zyn">
+    <title lang="pt">Beyblade X</title>
+    <sub-title lang="pt">34. Um convidado arco-íris</sub-title>
+    <desc lang="pt"> - Robin Kazami quer se tornar jogador profissional de Beyblade e chegar no topo da Torre X.</desc>
+    <category lang="en">cartoons/puppets</category>
+    <episode-num system="xmltv_ns">0.33.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250801183057 -0300" stop="20250801185451 -0300" channel="TV Zyn">
+    <title lang="pt">Speed Racer: Nova Geração</title>
+    <sub-title lang="pt">26. Encolhimento</sub-title>
+    <desc lang="pt"> - Speed Racer Jr. se matricula em uma academia para crianças mais rápidas do mundo.</desc>
+    <category lang="en">detective/thriller</category>
+    <episode-num system="xmltv_ns">0.25.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250801185458 -0300" stop="20250801190011 -0300" channel="TV Zyn">
+    <title lang="pt">Clipe oficial da música Vai Muleke Doido</title>
+    <desc lang="pt"> - Vem dançar e cantar com a Patrulha Salvadora!</desc>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20250801190018 -0300" stop="20250801195632 -0300" channel="TV Zyn">
+    <title lang="pt">Cúmplices de Um Resgate</title>
+    <desc lang="pt"> - Gêmeas que foram separadas ao nascer e se reencontram na adolescência. E se tornam cúmplices na vida.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">14.287.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250801200046 -0300" stop="20250801204958 -0300" channel="TV Zyn">
+    <title lang="pt">Chiquititas 2013</title>
+    <desc lang="pt"> - Crianças que vivem no orfanato Raio de Luz buscam amor, amizade e um novo lar. </desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">7.149.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250801205357 -0300" stop="20250801215004 -0300" channel="TV Zyn">
+    <title lang="pt">Heidi, Bem-Vinda à Casa</title>
+    <sub-title lang="pt">45. Feliz aniversário, Heidi</sub-title>
+    <desc lang="pt"> - Baseado nas histórias de Marcela Citterio. Heidi Bem-vinda a Casa é um clássico romance adolescente!</desc>
+    <category lang="en">comedy</category>
+    <episode-num system="xmltv_ns">0.44.</episode-num>
+    <rating system="Brazil">
+      <value>[AL]</value>
+    </rating>
+  </programme>
+  <programme start="20250801215009 -0300" stop="20250801224648 -0300" channel="TV Zyn">
+    <title lang="pt">Carinha de Anjo</title>
+    <desc lang="pt"> - Quem resiste a essa Carinha de Anjo? Ela é Dulce Maria, uma menina encantadora e cheia de energia.</desc>
+    <category lang="en">movie/drama (general)</category>
+    <episode-num system="xmltv_ns">0.11.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250801224651 -0300" stop="20250801225327 -0300" channel="TV Zyn">
+    <title lang="pt">O Picapau Amarelo</title>
+    <sub-title lang="pt">Emília Visita - O Museu Monteiro Lobato </sub-title>
+    <desc lang="pt"> - Muita diversão e aprendizado com Emilia e sua turminha te esperam em O Picapau Amarelo!</desc>
+    <category lang="en">entertainment programmes for 6 to 14</category>
+    <episode-num system="xmltv_ns">.1.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250801225330 -0300" stop="20250801230548 -0300" channel="TV Zyn">
+    <title lang="pt">Patrulha Salvadora</title>
+    <sub-title lang="pt">13. O Caso do Exército do Faraó</sub-title>
+    <desc lang="pt"> - As crianças mais amadas de Carrossel agora são super heróis que lutam contra o crime!</desc>
+    <category lang="en">comedy</category>
+    <episode-num system="xmltv_ns">3.51.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
