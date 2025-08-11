@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2025-08-10 19:45:04" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2025-08-10 21:15:05" generator-info-url="http://limaalef.com">
   <channel id="Claro TV+ 4K">
     <display-name lang="pt">Claro TV+ 4K</display-name>
   </channel>
@@ -102,6 +102,9 @@
   <channel id="2302">
     <display-name lang="pt">2302</display-name>
   </channel>
+  <channel id="tv-globo">
+    <display-name lang="pt">tv-globo</display-name>
+  </channel>
   <channel id="sportv">
     <display-name lang="pt">sportv</display-name>
   </channel>
@@ -146,9 +149,6 @@
   </channel>
   <channel id="combate">
     <display-name lang="pt">combate</display-name>
-  </channel>
-  <channel id="tv-globo">
-    <display-name lang="pt">tv-globo</display-name>
   </channel>
   <channel id="SBT">
     <display-name lang="pt">SBT</display-name>
@@ -19950,13 +19950,13 @@
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
-  <programme start="20250813000000 -0300" stop="20250813060000 -0300" channel="1682">
-    <title lang="pt">Reapresentação do Plenário</title>
+  <programme start="20250813000000 -0300" stop="20250813010000 -0300" channel="1682">
+    <title lang="pt">Encontro Com a Autora</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
-  <programme start="20250813060000 -0300" stop="20250813063000 -0300" channel="1682">
-    <title lang="pt">Câmara Debate</title>
+  <programme start="20250813010000 -0300" stop="20250813063000 -0300" channel="1682">
+    <title lang="pt">Reapresentação de Comissão</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
@@ -19966,9 +19966,9 @@
     <category lang="en">variety show</category>
   </programme>
   <programme start="20250813070000 -0300" stop="20250813073000 -0300" channel="1682">
-    <title lang="pt">Qual a Questão?</title>
+    <title lang="pt">Documentário Edital</title>
     <desc lang="pt"> - </desc>
-    <category lang="en">variety show</category>
+    <category lang="en">documentary</category>
   </programme>
   <programme start="20250813073000 -0300" stop="20250813080000 -0300" channel="1682">
     <title lang="pt">Palavra Aberta</title>
@@ -19976,32 +19976,67 @@
     <category lang="en">variety show</category>
   </programme>
   <programme start="20250813080000 -0300" stop="20250813090000 -0300" channel="1682">
-    <title lang="pt">Painel Eletrônico</title>
+    <title lang="pt">Documentário Sesc TV</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="20250813090000 -0300" stop="20250813113000 -0300" channel="1682">
+    <title lang="pt">Reapresentação de Comissão</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
-  <programme start="20250813090000 -0300" stop="20250813100000 -0300" channel="1682">
-    <title lang="pt">Expressão Nacional</title>
+  <programme start="20250813113000 -0300" stop="20250813120000 -0300" channel="1682">
+    <title lang="pt">Elas Pautam</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
-  <programme start="20250813100000 -0300" stop="20250813131500 -0300" channel="1682">
-    <title lang="pt">Câmara Agora</title>
-    <desc lang="pt"> - </desc>
-    <category lang="en">news/current affairs (general)</category>
-  </programme>
-  <programme start="20250813131500 -0300" stop="20250813133000 -0300" channel="1682">
-    <title lang="pt">Comissão</title>
+  <programme start="20250813120000 -0300" stop="20250813130000 -0300" channel="1682">
+    <title lang="pt">Bora Entender?</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
-  <programme start="20250813133000 -0300" stop="20250813135500 -0300" channel="1682">
-    <title lang="pt">Direto da Câmara</title>
+  <programme start="20250813130000 -0300" stop="20250813133000 -0300" channel="1682">
+    <title lang="pt">Ponto de Vista</title>
     <desc lang="pt"> - </desc>
-    <category lang="en">news/current affairs (general)</category>
+    <category lang="en">variety show</category>
   </programme>
-  <programme start="20250813135500 -0300" stop="20250813210000 -0300" channel="1682">
-    <title lang="pt">Sessão Deliberativa Extraordinária</title>
+  <programme start="20250813133000 -0300" stop="20250813163000 -0300" channel="1682">
+    <title lang="pt">Reapresentação de Comissão</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250813163000 -0300" stop="20250813164500 -0300" channel="1682">
+    <title lang="pt">Documentário TV Câmara: Série Acessibilidade</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="20250813164500 -0300" stop="20250813170000 -0300" channel="1682">
+    <title lang="pt">Documentário TV Câmara</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="20250813170000 -0300" stop="20250813173000 -0300" channel="1682">
+    <title lang="pt">Câmara Debate</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250813173000 -0300" stop="20250813180000 -0300" channel="1682">
+    <title lang="pt">Ciência Sem Limites</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250813180000 -0300" stop="20250813200000 -0300" channel="1682">
+    <title lang="pt">Reapresentação de Comissão</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250813200000 -0300" stop="20250813203000 -0300" channel="1682">
+    <title lang="pt">Documentário Fiocruz</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="20250813203000 -0300" stop="20250813210000 -0300" channel="1682">
+    <title lang="pt">Elas Pautam</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
@@ -20016,12 +20051,12 @@
     <category lang="en">variety show</category>
   </programme>
   <programme start="20250813220000 -0300" stop="20250813230000 -0300" channel="1682">
-    <title lang="pt">Bora Entender?</title>
+    <title lang="pt">Documentário Sesc TV</title>
     <desc lang="pt"> - </desc>
-    <category lang="en">variety show</category>
+    <category lang="en">documentary</category>
   </programme>
   <programme start="20250813230000 -0300" stop="20250813233000 -0300" channel="1682">
-    <title lang="pt">Parlamento Brasil</title>
+    <title lang="pt">Câmara Debate</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
@@ -20170,14 +20205,13 @@
     <desc lang="pt"> - </desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
-  <programme start="20250813000000 -0300" stop="20250813010000 -0300" channel="1779">
-    <title lang="pt">Senadoc: Paulo Freire - O Mundo Não É, Está Sendo</title>
+  <programme start="20250813000000 -0300" stop="20250813015000 -0300" channel="1779">
+    <title lang="pt">Senadoc: O Velho - A História de Luiz Carlos Prestes</title>
     <desc lang="pt"> - </desc>
     <category lang="en">documentary</category>
-    <episode-num system="xmltv_ns">.4.</episode-num>
   </programme>
-  <programme start="20250813010000 -0300" stop="20250813030000 -0300" channel="1779">
-    <title lang="pt">Senadoc: Imagens do Estado Novo - Parte 2</title>
+  <programme start="20250813015000 -0300" stop="20250813030000 -0300" channel="1779">
+    <title lang="pt">Senadoc</title>
     <desc lang="pt"> - </desc>
     <category lang="en">documentary</category>
   </programme>
@@ -20212,15 +20246,15 @@
     <category lang="en">movie/drama (general)</category>
   </programme>
   <programme start="20250813060000 -0300" stop="20250813070000 -0300" channel="1779">
-    <title lang="pt">Senadoc Acervo: Brasil No Olhar dos Viajantes</title>
+    <title lang="pt">Senadoc Acervo: Um de Cada Dez</title>
     <desc lang="pt"> - </desc>
     <category lang="en">documentary</category>
-    <episode-num system="xmltv_ns">.3.</episode-num>
   </programme>
   <programme start="20250813070000 -0300" stop="20250813073000 -0300" channel="1779">
-    <title lang="pt">Tela Brasil: Democracia Sempre</title>
+    <title lang="pt">Tela Brasil: Guerras do Brasil.doc - Universidade do Crime</title>
     <desc lang="pt"> - </desc>
     <category lang="en">documentary</category>
+    <episode-num system="xmltv_ns">.4.</episode-num>
   </programme>
   <programme start="20250813073000 -0300" stop="20250813080000 -0300" channel="1779">
     <title lang="pt">Assunto de Estado</title>
@@ -20233,27 +20267,52 @@
     <category lang="en">variety show</category>
   </programme>
   <programme start="20250813083000 -0300" stop="20250813090000 -0300" channel="1779">
-    <title lang="pt">Senado Notícias: Boletim</title>
+    <title lang="pt">Senado Notícias Especial: Boletim</title>
     <desc lang="pt"> - </desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
-  <programme start="20250813090000 -0300" stop="20250813133000 -0300" channel="1779">
-    <title lang="pt">Comissão: Comissão de Constituição, Justiça e Cidadania</title>
+  <programme start="20250813090000 -0300" stop="20250813095000 -0300" channel="1779">
+    <title lang="pt">Evento Especial 1: 11º Fórum Parlamentar do BRICS</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250813095000 -0300" stop="20250813104200 -0300" channel="1779">
+    <title lang="pt">Evento Especial 2: 11º Fórum Parlamentar do BRICS</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250813104200 -0300" stop="20250813112400 -0300" channel="1779">
+    <title lang="pt">Evento Especial 3: 11º Fórum Parlamentar do BRICS</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250813112400 -0300" stop="20250813133000 -0300" channel="1779">
+    <title lang="pt">Comissão: CDH e CAS</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
   <programme start="20250813133000 -0300" stop="20250813140000 -0300" channel="1779">
-    <title lang="pt">Senado Notícias: Boletim</title>
+    <title lang="pt">Senado Notícias Especial: Boletim</title>
     <desc lang="pt"> - </desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
-  <programme start="20250813140000 -0300" stop="20250813193000 -0300" channel="1779">
-    <title lang="pt">Sessão Plenária</title>
+  <programme start="20250813140000 -0300" stop="20250813164600 -0300" channel="1779">
+    <title lang="pt">Sessão Plenária 1: Sessão Especial</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250813164600 -0300" stop="20250813190000 -0300" channel="1779">
+    <title lang="pt">Sessão Plenária 2: Sessão de Premiações e Condecorações</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250813190000 -0300" stop="20250813193000 -0300" channel="1779">
+    <title lang="pt">Em Discussão</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
   <programme start="20250813193000 -0300" stop="20250813200000 -0300" channel="1779">
-    <title lang="pt">Senado Notícias: Boletim</title>
+    <title lang="pt">Senado Notícias Especial: Boletim</title>
     <desc lang="pt"> - </desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
@@ -20267,10 +20326,27 @@
     <desc lang="pt"> - </desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
-  <programme start="20250813210000 -0300" stop="20250814000000 -0300" channel="1779">
-    <title lang="pt">Comissão</title>
+  <programme start="20250813210000 -0300" stop="20250813215500 -0300" channel="1779">
+    <title lang="pt">Senadoc: Senado, A História Que Transformou O Brasil - A Busca Pela Igualdade de Direitos</title>
     <desc lang="pt"> - </desc>
-    <category lang="en">variety show</category>
+    <category lang="en">documentary</category>
+    <episode-num system="xmltv_ns">.2.</episode-num>
+  </programme>
+  <programme start="20250813215500 -0300" stop="20250813223500 -0300" channel="1779">
+    <title lang="pt">Senadoc: Brasil Imperial</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+    <episode-num system="xmltv_ns">.2.</episode-num>
+  </programme>
+  <programme start="20250813223500 -0300" stop="20250813233200 -0300" channel="1779">
+    <title lang="pt">Senadoc: Amazônia, Arqueologia da Floresta - O Tabaco e a Cerveja</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="20250813233200 -0300" stop="20250814000000 -0300" channel="1779">
+    <title lang="pt">Senadoc: Libertárixs - Diáspora e Memória</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
   </programme>
   <programme start="20250813000000 -0300" stop="20250813003000 -0300" channel="2302">
     <title lang="pt">Partituras</title>
@@ -21010,6 +21086,132 @@
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
+  <programme start="20250809222500 -0300" stop="20250810001459 -0300" channel="tv-globo">
+    <title lang="pt">Altas Horas</title>
+    <desc lang="pt"> - Serginho Groisman comanda a atração, que abre espaço para boa música, encontros inesperados e entrevistas com personalidades.</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250810001500 -0300" stop="20250810020459 -0300" channel="tv-globo">
+    <title lang="pt">Supercine</title>
+    <sub-title lang="pt">O Amanhã é Hoje</sub-title>
+    <desc lang="pt"> - A família Gaspar sai de férias no verão de 1991. Após uma discussão, todos são atingidos por uma violenta tempestade. Quando finalmente voltam à praia, eles descobrem que viajaram para o ano de 2022: um futuro totalmente diferente do que conhecem.
+</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250810020500 -0300" stop="20250810024959 -0300" channel="tv-globo">
+    <title lang="pt">Dona de Mim</title>
+    <desc lang="pt"> - Jaques e Tânia ameaçam Katinha. Samuel conversa com Rosa sobre as decisões de Jaques para o futuro da Boaz. Pam, Kami e Marlon pressionam Danilo sobre seu caráter. Jussara se desentende com Alan. Katinha inventa para Samuel que perdeu o bebê. Leo alerta Davi sobre Jaques. Aurora ajuda Filipa em seu novo emprego. Danilo anuncia a demissão de Natara. Samuel e Katinha revelam à família a suposta perda do bebê, e Nina registra. Leo se identifica com a dor do casal. Os funcionários da fábrica pensam em fazer greve. Jaques questiona Rosa sobre sua permanência na presidência da Boaz.</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250810025000 -0300" stop="20250810040459 -0300" channel="tv-globo">
+    <title lang="pt">Corujão I</title>
+    <sub-title lang="pt">O Juízo</sub-title>
+    <desc lang="pt"> - Em crise no casamento devido ao alcoolismo e por ter perdido o emprego, Augusto Menezes decide se mudar com esposa e filho para uma fazenda herdada de seu avô. O que ele não imaginava era que a propriedade fosse assombrada por Couraça e Ana, escravizados decididos a se vingar dos antepassados de Augusto.
+</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250810040500 -0300" stop="20250810054459 -0300" channel="tv-globo">
+    <title lang="pt">Corujão II</title>
+    <sub-title lang="pt">Cats e a Gatolândia</sub-title>
+    <desc lang="pt"> - Um gato chamado Bolota vive há muito tempo em um apartamento alto na cidade com seu filho, Pipoca. Um dia, curioso sobre o mundo exterior, Pipoca decide sair de casa e embarca em uma aventura para encontrar o lendário paraíso dos gatos. Para encontrar seu filho, Bolota deve superar seu medo e se reconciliar com seu passado, com a ajuda de uma arara.</desc>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250810040500 -0300" stop="20250810054459 -0300" channel="tv-globo">
+    <title lang="pt">Corujão II</title>
+    <sub-title lang="pt">Cats e a Gatolândia</sub-title>
+    <desc lang="pt"> - Um gato chamado Bolota vive há muito tempo em um apartamento alto na cidade com seu filho, Pipoca. Um dia, curioso sobre o mundo exterior, Pipoca decide sair de casa e embarca em uma aventura para encontrar o lendário paraíso dos gatos. Para encontrar seu filho, Bolota deve superar seu medo e se reconciliar com seu passado, com a ajuda de uma arara.</desc>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250810054500 -0300" stop="20250810063459 -0300" channel="tv-globo">
+    <title lang="pt">Santa Missa</title>
+    <desc lang="pt"> - Padre Marcelo Rossi celebra todos os domingos missa para todo o Brasil. Mais antigo programa da Globo, a Santa Missa foi transmitida pela primeira vez em fevereiro de 1968.</desc>
+  </programme>
+  <programme start="20250810063500 -0300" stop="20250810070459 -0300" channel="tv-globo">
+    <title lang="pt">Globo Comunidade</title>
+    <desc lang="pt"> - Telejornal que aborda assuntos como qualidade de vida e urbanismo, com prestação de serviços.</desc>
+  </programme>
+  <programme start="20250810070500 -0300" stop="20250810073459 -0300" channel="tv-globo">
+    <title lang="pt">Auto Esporte</title>
+    <desc lang="pt"> - As principais notícias sobre o universo dos automóveis.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250810073500 -0300" stop="20250810084459 -0300" channel="tv-globo">
+    <title lang="pt">Globo Rural</title>
+    <desc lang="pt"> - As principais notícias do agronegócio, os índices do setor, informações sobre a vida no campo, além de reportagens especiais.</desc>
+  </programme>
+  <programme start="20250810084500 -0300" stop="20250810092959 -0300" channel="tv-globo">
+    <title lang="pt">Viver Sertanejo</title>
+    <desc lang="pt"> - Com muitos “causos”, momentos emocionantes e risadas, Daniel e seus convidados compartilham histórias que ilustram como a música serve de pano de fundo para a vida de muitos brasileiros. Em clima de moda de viola, o programa também relembra grandes sucessos do Sertanejo.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250810093000 -0300" stop="20250810102459 -0300" channel="tv-globo">
+    <title lang="pt">Esporte Espetacular - ao vivo</title>
+    <desc lang="pt"> - Além de transmitir partidas e campeonatos ao vivo, o programa semanal apresenta os destaques do mundo esportivo, entrevistas e reportagens especiais.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20250810102500 -0300" stop="20250810123459 -0300" channel="tv-globo">
+    <title lang="pt">Futebol</title>
+    <desc lang="pt"> - Siga ao vivo o Brasileirão, a Libertadores, a Copa do Brasil e mais.</desc>
+  </programme>
+  <programme start="20250810123500 -0300" stop="20250810142459 -0300" channel="tv-globo">
+    <title lang="pt">Arranha-Céu: Coragem Sem Limite</title>
+    <desc lang="pt"> - Logo após ser designado para chefiar a segurança do maior prédio da China, Will Sawyer é acusado de promover um enorme incêndio no local. Com o fogo se alastrando, o único objetivo de Will é resgatar sua família presa na construção, que, aos poucos, rui sob o comando de um grupo de criminosos.
+</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250810142500 -0300" stop="20250810152959 -0300" channel="tv-globo">
+    <title lang="pt">Domingão Com Huck</title>
+    <desc lang="pt"> - ‘Domingão com Huck’ leva aos brasileiros entretenimento, diversão, emoção e novas descobertas nos quadros ‘Show dos famosos’ e ‘Quem quer ser um milionário?’ e em matérias especiais pelo país.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250810153000 -0300" stop="20250810154459 -0300" channel="tv-globo">
+    <title lang="pt">Bora Pro Jogo</title>
+    <desc lang="pt"> - No Bora pro Jogo, Tiago Medeiros abre a transmissão na beira do campo e convida o torcedor para curtir as novidades do Futebol na Globo com muita interatividade.</desc>
+  </programme>
+  <programme start="20250810154500 -0300" stop="20250810180959 -0300" channel="tv-globo">
+    <title lang="pt">Futebol</title>
+    <desc lang="pt"> - Siga ao vivo o Brasileirão, a Libertadores, a Copa do Brasil e mais.</desc>
+  </programme>
+  <programme start="20250810181000 -0300" stop="20250810202959 -0300" channel="tv-globo">
+    <title lang="pt">Domingão Com Huck</title>
+    <desc lang="pt"> - ‘Domingão com Huck’ leva aos brasileiros entretenimento, diversão, emoção e novas descobertas nos quadros ‘Show dos famosos’ e ‘Quem quer ser um milionário?’ e em matérias especiais pelo país.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250810203000 -0300" stop="20250810233459 -0300" channel="tv-globo">
+    <title lang="pt">Fantástico - ao vivo</title>
+    <desc lang="pt"> - Reportagens especiais e as notícias mais importantes da semana, com apresentação de Maju Coutinho e Poliana Abritta. </desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20250810233500 -0300" stop="20250811013459 -0300" channel="tv-globo">
+    <title lang="pt">Domingo Maior</title>
+    <sub-title lang="pt">Planeta Dos Macacos: O Confronto</sub-title>
+    <desc lang="pt"> - Dez anos após a conquista da liberdade, César e os demais macacos vivem em paz na floresta próxima a São Francisco. Lá, eles desenvolveram uma comunidade própria, baseada no apoio mútuo, enquanto os humanos enfrentam uma das maiores epidemias de todos os tempos, causada por um vírus criado em laboratório. Sem energia elétrica, um grupo de sobreviventes planeja invadir a floresta e reativar a usina lá instalada. Malcolm, único que conhece bem os símios, tenta agir pacificamente e impedir que o confronto aconteça.</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
   <programme start="20250809204517 -0300" stop="20250810000541 -0300" channel="sportv">
     <title lang="pt">Brasileirão: Bahia x Fluminense - ao vivo</title>
     <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!
@@ -21146,7 +21348,7 @@
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250810175812 -0300" stop="20250810185731 -0300" channel="sportv">
+  <programme start="20250810175812 -0300" stop="20250810185728 -0300" channel="sportv">
     <title lang="pt">VT - Brasileirão: São Paulo x Vitória</title>
     <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!
 </desc>
@@ -21857,7 +22059,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250810171939 -0300" stop="20250810175138 -0300" channel="multishow">
+  <programme start="20250810171939 -0300" stop="20250810175137 -0300" channel="multishow">
     <title lang="pt">Sessão Nostalgia</title>
     <sub-title lang="pt">Menino de Ouro</sub-title>
     <desc lang="pt"> - A investigação contra Agostinho faz cair sua credibilidade na comunidade. Lineu pressiona Agostinho a tomar uma atitude. Agostinho depõe na CPI.</desc>
@@ -21865,7 +22067,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250810175142 -0300" stop="20250810182736 -0300" channel="multishow">
+  <programme start="20250810175142 -0300" stop="20250810182735 -0300" channel="multishow">
     <title lang="pt">Sessão Nostalgia</title>
     <sub-title lang="pt">A Honra dos Silva</sub-title>
     <desc lang="pt"> - Agostinho é preso e intimidado por Coisa Ruim. A família Silva se mobiliza para ajudar a pagar a dívida de Agostinho com Fontes. Lineu também começa a ser investigado pela justiça.</desc>
@@ -21882,7 +22084,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250810191647 -0300" stop="20250810200350 -0300" channel="multishow">
+  <programme start="20250810191647 -0300" stop="20250810200353 -0300" channel="multishow">
     <title lang="pt">Vai que Cola</title>
     <sub-title lang="pt">Vícios</sub-title>
     <desc lang="pt"> - Jessica está tão viciada no mundo virtual que está prejudicando seus relacionamentos reais. Dona Jô, preocupada, proibe que a filha use a internet. Valdomiro se aproveitando da situação, começa a alugar seu celular com internet.</desc>
@@ -22163,7 +22365,7 @@ Afim de despistar Mona, Ferdinando arma um plano com Velna, que fingirá ser sua
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250810183802 -0300" stop="20250810190650 -0300" channel="gnt">
+  <programme start="20250810183802 -0300" stop="20250810190645 -0300" channel="gnt">
     <title lang="pt">Uma Senhora Panela</title>
     <sub-title lang="pt">Cozido Pernambucano – Almério e Martins</sub-title>
     <desc lang="pt"> - O cozido pernambucano, que é um grande acontecimento da gastronomia brasileira, fará sua estreia no programa pelas mãos de Carmem Virginia, acompanhada de Almério e Martins.
@@ -22182,7 +22384,7 @@ Afim de despistar Mona, Ferdinando arma um plano com Velna, que fingirá ser sua
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250810195257 -0300" stop="20250810203915 -0300" channel="gnt">
+  <programme start="20250810195257 -0300" stop="20250810203914 -0300" channel="gnt">
     <title lang="pt">Admiráveis Conselheiras</title>
     <sub-title lang="pt">Conceição Evaristo</sub-title>
     <desc lang="pt"> - A escritora Conceição Evaristo revela a Astrid a poesia que enxerga na longevidade e finitude, no erotismo e maternidade, na timidez que não impede a força e o poder de mudar.</desc>
@@ -22397,7 +22599,7 @@ Afim de despistar Mona, Ferdinando arma um plano com Velna, que fingirá ser sua
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250810191225 -0300" stop="20250810201904 -0300" channel="globoplay-novelas">
+  <programme start="20250810191225 -0300" stop="20250810201913 -0300" channel="globoplay-novelas">
     <title lang="pt">Celebridade</title>
     <desc lang="pt"> - Tadeu rouba sêmen de Caio e entrega para Darlene. Maria Clara decide pegar um empréstimo para realizar o show. Renato arma plano contra Cristiano, após descobrir seu novo trabalho.</desc>
     <rating system="Brazil">
@@ -23924,17 +24126,17 @@ uma vila típica vietnamita."</desc>
     <category lang="en">sports (general)</category>
     <date>21/07/2007</date>
   </programme>
-  <programme start="20250810152943 -0300" stop="20250810181004 -0300" channel="premiere">
+  <programme start="20250810152943 -0300" stop="20250810181000 -0300" channel="premiere">
     <title lang="pt">Brasileirão: Vasco x Atlético-MG - ao vivo</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250810181005 -0300" stop="20250810202609 -0300" channel="premiere">
+  <programme start="20250810181005 -0300" stop="20250810204557 -0300" channel="premiere">
     <title lang="pt">Brasileirão: Cruzeiro x Santos - ao vivo</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250810202612 -0300" stop="20250810212549 -0300" channel="premiere">
+  <programme start="20250810204558 -0300" stop="20250810214535 -0300" channel="premiere">
     <title lang="pt">Retrô - Brasileirão 2013: Santos x Cruzeiro</title>
     <sub-title lang="pt">32ª Rodada, realizado em 03/11/2013</sub-title>
     <desc lang="pt">Reveja partidas históricas do seu esporte favorito!
@@ -23943,7 +24145,7 @@ uma vila típica vietnamita."</desc>
     <category lang="en">sports (general)</category>
     <date>03/11/2013</date>
   </programme>
-  <programme start="20250810212552 -0300" stop="20250810221842 -0300" channel="premiere">
+  <programme start="20250810214537 -0300" stop="20250810223757 -0300" channel="premiere">
     <title lang="pt">Retrô - Brasileirão 2019: Santos x Cruzeiro</title>
     <sub-title lang="pt">34ª Rodada, realizado em 23/11/2019</sub-title>
     <desc lang="pt">Reveja partidas históricas do seu esporte favorito!
@@ -23952,13 +24154,13 @@ uma vila típica vietnamita."</desc>
     <category lang="en">sports (general)</category>
     <date>23/11/2019</date>
   </programme>
-  <programme start="20250810221843 -0300" stop="20250810231832 -0300" channel="premiere">
+  <programme start="20250810223759 -0300" stop="20250810233748 -0300" channel="premiere">
     <title lang="pt">VT - Brasileirão: Cruzeiro x Santos</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250810231834 -0300" stop="20250811001838 -0300" channel="premiere">
+  <programme start="20250810233749 -0300" stop="20250811003723 -0300" channel="premiere">
     <title lang="pt">VT - Brasileirão: Vasco x Atlético-MG</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <category lang="en">football/soccer</category>
@@ -24176,21 +24378,21 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250811002811 -0300" stop="20250811012709 -0300" channel="sportv">
+  <programme start="20250811002811 -0300" stop="20250811012729 -0300" channel="sportv">
     <title lang="pt">VT - Brasileirão: Grêmio x Sport</title>
     <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!
 </desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250811013000 -0300" stop="20250811022959 -0300" channel="sportv">
+  <programme start="20250811012732 -0300" stop="20250811022735 -0300" channel="sportv">
     <title lang="pt">VT - Brasileirão: Palmeiras x Ceará</title>
     <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!
 </desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250811023000 -0300" stop="20250811032959 -0300" channel="sportv">
+  <programme start="20250811022737 -0300" stop="20250811025436 -0300" channel="sportv">
     <title lang="pt">VT - Brasileirão: Vasco x Atlético-MG</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <category lang="en">football/soccer</category>
@@ -24400,12 +24602,12 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
     <category lang="en">team sports</category>
     <previously-shown />
   </programme>
-  <programme start="20250810233701 -0300" stop="20250811011628 -0300" channel="sportv-3">
+  <programme start="20250810233701 -0300" stop="20250811023444 -0300" channel="sportv-3">
     <title lang="pt">Faixa Combate: Jungle Fight 138</title>
     <desc lang="pt">Fique por dentro do melhor do MMA da América Latina no Jungle Fight, aqui no sportv!</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250811024500 -0300" stop="20250811045459 -0300" channel="sportv-3">
+  <programme start="20250811023446 -0300" stop="20250811035815 -0300" channel="sportv-3">
     <title lang="pt">Faixa Combate: One Fight Night 34</title>
     <desc lang="pt">Terceira maior franquia de MMA mundial e a principal da Ásia, presente em mais de 170 países, o One é a liga esportiva de diferentes modalidades além do MMA.</desc>
     <category lang="en">sports (general)</category>
@@ -24485,6 +24687,11 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
     <desc lang="pt"> - Notícia e análise de alta qualidade, no início da manhã. Um telejornal que prepara o assinante para começar o dia e tomar as decisões acertadas.</desc>
     <category lang="en">live broadcast</category>
   </programme>
+  <programme start="20250811093000 -0300" stop="20250811125959 -0300" channel="globonews">
+    <title lang="pt">Conexão GloboNews - ao vivo</title>
+    <desc lang="pt"> - A notícia de um jeito único. Apresentado por Leilane Neubarth e Camila Bomfim, de Brasília.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
   <programme start="20250811130000 -0300" stop="20250811155959 -0300" channel="globonews">
     <title lang="pt">Estúdio i - ao vivo</title>
     <desc lang="pt"> - Entretenimento. Artistas e comentaristas discutem as principais notícias do dia. Interatividade com o público.</desc>
@@ -24493,11 +24700,6 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
   <programme start="20250811160000 -0300" stop="20250811175959 -0300" channel="globonews">
     <title lang="pt">GloboNews Mais - ao vivo</title>
     <desc lang="pt"> - Um jornal com ritmo da tarde, com a política no dna e que traz também todos os fatos que importam. Apresentação de Júlia Duailibi.</desc>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20250811180000 -0300" stop="20250811195959 -0300" channel="globonews">
-    <title lang="pt">Jornal GloboNews - Edição das 18h - ao vivo</title>
-    <desc lang="pt"> - Cobertura completa de tudo o que foi destaque ao longo do dia, no Brasil e no Mundo.</desc>
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20250811200000 -0300" stop="20250811215959 -0300" channel="globonews">
@@ -24525,7 +24727,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250811000218 -0300" stop="20250811003442 -0300" channel="multishow">
+  <programme start="20250811000218 -0300" stop="20250811015617 -0300" channel="multishow">
     <title lang="pt">Cine Hahaha</title>
     <sub-title lang="pt">O Palestrante</sub-title>
     <desc lang="pt"> - Guilherme é um homem sem nenhuma perspectiva. Quando é confundido com um palestrante motivacional, ele tem a chance de mudar de vida enquanto sustenta sua mentira.</desc>
@@ -24533,7 +24735,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250811015700 -0300" stop="20250811020159 -0300" channel="multishow">
+  <programme start="20250811015624 -0300" stop="20250811020241 -0300" channel="multishow">
     <title lang="pt">Humor Multishow</title>
     <sub-title lang="pt">O Ciúme</sub-title>
     <desc lang="pt"> - Um ex-namorado de Shirlei chega na casa, causando ciúmes em Leleco.</desc>
@@ -24541,7 +24743,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250811020200 -0300" stop="20250811022959 -0300" channel="multishow">
+  <programme start="20250811020243 -0300" stop="20250811023118 -0300" channel="multishow">
     <title lang="pt">Chaves</title>
     <sub-title lang="pt">A Troca / O Dedo-Duro / O Surto de Catapora</sub-title>
     <desc lang="pt"> - Chiquinha e Chaves trocam moedas. Seu Madruga finge que a Chiquinha está doente para não pagar o aluguel e todos ficam com medo de pegar catapora. Chespirito provoca uma confusão entre seu patrão e duas mulheres.</desc>
@@ -24549,7 +24751,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250811023000 -0300" stop="20250811025959 -0300" channel="multishow">
+  <programme start="20250811023121 -0300" stop="20250811025959 -0300" channel="multishow">
     <title lang="pt">Chapolin</title>
     <sub-title lang="pt">Bloqueando a Entrada / Ator de Araque / Prometida</sub-title>
     <desc lang="pt"> - Chapolin precisa ajudar uma mulher, que está sendo obrigada pelo pai a casar com um milionário. Um diretor tenta convencer um figurante que herdou uma fortuna a investir o dinheiro em seu novo filme.</desc>
@@ -24912,7 +25114,7 @@ PROGRAMA EXIBIDO EM 11/08/2025</desc>
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250811004400 -0300" stop="20250811012959 -0300" channel="gnt">
+  <programme start="20250811004131 -0300" stop="20250811012720 -0300" channel="gnt">
     <title lang="pt">Alma De Cozinheira</title>
     <sub-title lang="pt">Padre Júlio Lancellotti e Sônia Bridi</sub-title>
     <desc lang="pt"> - Convidados: Sônia Bridi e Padre Júlio Lancellotti. Cardápio: entrada - patê de fígado com cebolas caramelizadas; prato principal - macarrão caseiro com cogumelos e guanciale (ou bacon); e sobremesa - biscotti com vin santo.</desc>
@@ -24920,7 +25122,7 @@ PROGRAMA EXIBIDO EM 11/08/2025</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250811013000 -0300" stop="20250811022859 -0300" channel="gnt">
+  <programme start="20250811012724 -0300" stop="20250811022846 -0300" channel="gnt">
     <title lang="pt">Que Seja Doce</title>
     <sub-title lang="pt">Novas Roupagens</sub-title>
     <desc lang="pt"> - Os confeiteiros de hoje farão novas versões de doces clássicos: a pipoca gourmet e um cake donut. Será que as novas roupagens serão bem avaliadas?</desc>
@@ -25159,14 +25361,14 @@ PROGRAMA EXIBIDO EM 11/08/2025</desc>
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250811012100 -0300" stop="20250811020159 -0300" channel="globoplay-novelas">
+  <programme start="20250811011715 -0300" stop="20250811015922 -0300" channel="globoplay-novelas">
     <title lang="pt">Plumas E Paetês</title>
     <desc lang="pt"> - Francis se declara para Dorinha. Sandra liga anonimamente para Cláudia e avisa sobre a aproximação de Ângelo e Lídia. Amanda descobre que Dorinha sabia do caso de Marcela e Renato.</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250811020200 -0300" stop="20250811024159 -0300" channel="globoplay-novelas">
+  <programme start="20250811015928 -0300" stop="20250811024015 -0300" channel="globoplay-novelas">
     <title lang="pt">Plumas E Paetês</title>
     <desc lang="pt"> - Rebeca fica transtornada com a mudança de Nadir para a mansão. Sandra recebe uma proposta de uma gravadora. Amanda humilha Dorinha e rompe a amizade. Gino ameaça bater em Clóvis.</desc>
     <rating system="Brazil">
@@ -25392,7 +25594,7 @@ PROGRAMA EXIBIDO EM 11/08/2025</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250811004201 -0300" stop="20250811011459 -0300" channel="canal-brasil">
+  <programme start="20250811004201 -0300" stop="20250811011551 -0300" channel="canal-brasil">
     <title lang="pt">Mostra Dia Dos Pais</title>
     <sub-title lang="pt">Bela Gil</sub-title>
     <desc lang="pt"> - Neste encontro em família, Bela Gil fala sobre a questão do desmatamento no Brasil, sua relação com a natureza e a importância de modificar a forma como produzimos alimentos.</desc>
@@ -25400,7 +25602,7 @@ PROGRAMA EXIBIDO EM 11/08/2025</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250811011500 -0300" stop="20250811024059 -0300" channel="canal-brasil">
+  <programme start="20250811011554 -0300" stop="20250811024459 -0300" channel="canal-brasil">
     <title lang="pt">Jesus Kid</title>
     <desc lang="pt"> - Eugênio é um escritor de livros de faroeste que está passando por uma crise. Quando ele é contratado para escrever o roteiro de um filme, ele parece ter encontrado sua salvação.</desc>
     <rating system="Brazil">
@@ -25586,7 +25788,7 @@ PROGRAMA EXIBIDO EM 11/08/2025</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250811000445 -0300" stop="20250811005459 -0300" channel="canal-off">
+  <programme start="20250811000445 -0300" stop="20250811005514 -0300" channel="canal-off">
     <title lang="pt">Skate The World</title>
     <desc lang="pt"> - Mathieu Cyr viaja para o berço do skate no Canadá, para descobrir um forte senso de comunidade. Seja na cidade ou na natureza, cada skatista contribui à sua maneira para a cena.</desc>
     <episode-num system="xmltv_ns">.13.</episode-num>
@@ -25594,7 +25796,7 @@ PROGRAMA EXIBIDO EM 11/08/2025</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250811005500 -0300" stop="20250811012359 -0300" channel="canal-off">
+  <programme start="20250811005516 -0300" stop="20250811012435 -0300" channel="canal-off">
     <title lang="pt">Sem Fricção</title>
     <sub-title lang="pt">Jeffrey's Bay E As Ondas Sul-Africanas</sub-title>
     <desc lang="pt"> - A relação de Derek Hynd com Jeffrey’s Bay e as ondas sul-africanas. Andrew Kidman, surfista e artista, fala sobre a gravação de um filme dos anos 90 que teve participação de Hynd.</desc>
@@ -25602,7 +25804,7 @@ PROGRAMA EXIBIDO EM 11/08/2025</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250811012400 -0300" stop="20250811015159 -0300" channel="canal-off">
+  <programme start="20250811012437 -0300" stop="20250811015223 -0300" channel="canal-off">
     <title lang="pt">África 360º</title>
     <sub-title lang="pt">Kwazulu-Natal</sub-title>
     <desc lang="pt"> - Enquanto aguardam a peça do caminhão ser liberada pela alfândega, os irmãos vão até a região de Kwazulu-Natal e visitam uma reserva ambiental antes de partirem rumo a Moçambique.</desc>
@@ -25610,7 +25812,7 @@ PROGRAMA EXIBIDO EM 11/08/2025</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250811015200 -0300" stop="20250811022059 -0300" channel="canal-off">
+  <programme start="20250811015226 -0300" stop="20250811022122 -0300" channel="canal-off">
     <title lang="pt">Mar E Música</title>
     <sub-title lang="pt">Jim Lindberg</sub-title>
     <desc lang="pt"> - Neste episódio, Jim Lindberg, da banda Pennywise, nos conta sua história com o surfe e tudo o que viveu com a música e o esporte em sua terra natal, Hermosa Beach, na Califórnia.</desc>
@@ -25618,7 +25820,7 @@ PROGRAMA EXIBIDO EM 11/08/2025</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250811022100 -0300" stop="20250811025159 -0300" channel="canal-off">
+  <programme start="20250811022125 -0300" stop="20250811025159 -0300" channel="canal-off">
     <title lang="pt">Surfe Social Clube</title>
     <sub-title lang="pt">Surf Social - Florianópolis, SC</sub-title>
     <desc lang="pt"> - Rodrigo Moreno apresenta o “Surf Social”, projeto que criou junto da comunidade de surfe local para dar um suporte educativo e social às crianças do Morro do 25, de Florianópolis.</desc>
@@ -25960,21 +26162,21 @@ ao norte da ilha, os três praticam três esportes de prancha em um único dia. 
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250811003447 -0300" stop="20250811013259 -0300" channel="bis">
+  <programme start="20250811003447 -0300" stop="20250811013333 -0300" channel="bis">
     <title lang="pt">Experimente: Letrux</title>
     <desc lang="pt"> - Na temporada em que o Experimente completa dez anos, o quarto episódio recebe a Letrux, que mistura melodias dos anos 70 e 90, com MBP e ROCK. Há também uma retrospectiva da passagem da cantora pelo programa em 2011.</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250811013300 -0300" stop="20250811020159 -0300" channel="bis">
+  <programme start="20250811013335 -0300" stop="20250811020214 -0300" channel="bis">
     <title lang="pt">Experimente: Drik Barbosa</title>
     <desc lang="pt"> - A 11ª temporada de Experimente apresenta em 12 episódios bandas que estão começando a despontar no cenário musical brasileiro. Nesse episódio, é a vez de conhecer a Drik Barbosa!</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250811020200 -0300" stop="20250811022959 -0300" channel="bis">
+  <programme start="20250811020217 -0300" stop="20250811022959 -0300" channel="bis">
     <title lang="pt">Experimente:  - MC Cabelinho</title>
     <desc lang="pt"> - Sob o comando de Guilherme Guedes, a 14ª temporada do Experimente apresenta artistas e bandas que estão despontando no cenário musical brasileiro com entrevistas e performances musicais. Neste episódio conheça: MC Cabelinho</desc>
     <episode-num system="xmltv_ns">13.1.</episode-num>
@@ -26411,7 +26613,7 @@ passando pelo Templo Pre Rup, Templo Banteay Srei, Templo Ta Som e muito mais."<
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250811005612 -0300" stop="20250811011959 -0300" channel="modo-viagem">
+  <programme start="20250811005612 -0300" stop="20250811012003 -0300" channel="modo-viagem">
     <title lang="pt">Expedição Austrália-T4</title>
     <sub-title lang="pt">Baía dos Fogos, Fremantle e Healesville</sub-title>
     <desc lang="pt"> - Rae caminha descalça pela Baía dos Fogos, na Tasmânia. Ernie bate um papo com o fundador da famosa Cappuccino Strip. E Narelda conhece Sapphire, uma jovem e empoderada aborígene.</desc>
@@ -26420,7 +26622,7 @@ passando pelo Templo Pre Rup, Templo Banteay Srei, Templo Ta Som e muito mais."<
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250811012000 -0300" stop="20250811021259 -0300" channel="modo-viagem">
+  <programme start="20250811012004 -0300" stop="20250811021243 -0300" channel="modo-viagem">
     <title lang="pt">As Maravilhas Do Mundo</title>
     <sub-title lang="pt">Vale De Aosta: Os Alpes Italianos</sub-title>
     <desc lang="pt"> - Com paisagens naturais sublimes e saborosa gastronomia local à base de queijos, carnes frias e vinhos de altitude, como não cair no feitiço deste pedacinho da Itália?</desc>
@@ -26428,7 +26630,7 @@ passando pelo Templo Pre Rup, Templo Banteay Srei, Templo Ta Som e muito mais."<
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250811021300 -0300" stop="20250811023759 -0300" channel="modo-viagem">
+  <programme start="20250811021246 -0300" stop="20250811022741 -0300" channel="modo-viagem">
     <title lang="pt">Ruas Mundo Afora</title>
     <sub-title lang="pt">Croácia - Ilha Vis e Vahr - Brac</sub-title>
     <desc lang="pt"> - "No terceiro episódio da Croácia, Rodrigo Ruas aproveita um dia de barco, onde visita as ilhas de Vis e Vahr. O 
@@ -26840,48 +27042,48 @@ Hopetoun House, o Midhope Castle e muito mais."</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250810231934 -0300" stop="20250811001938 -0300" channel="premiere">
+  <programme start="20250810233257 -0300" stop="20250811003301 -0300" channel="premiere">
     <title lang="pt">VT - Brasileirão: Vasco x Atlético-MG</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250811001939 -0300" stop="20250811004953 -0300" channel="premiere">
+  <programme start="20250811003303 -0300" stop="20250811013241 -0300" channel="premiere">
     <title lang="pt">VT - Brasileirão: Palmeiras x Ceará</title>
     <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!
 </desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250811013000 -0300" stop="20250811022959 -0300" channel="premiere">
+  <programme start="20250811013243 -0300" stop="20250811023132 -0300" channel="premiere">
     <title lang="pt">VT - Brasileirão: Grêmio x Sport</title>
     <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!
 </desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250811023000 -0300" stop="20250811032959 -0300" channel="premiere">
+  <programme start="20250811023148 -0300" stop="20250811033041 -0300" channel="premiere">
     <title lang="pt">VT - Brasileirão: Flamengo x Mirassol</title>
     <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!
 </desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250811033000 -0300" stop="20250811042959 -0300" channel="premiere">
+  <programme start="20250811033042 -0300" stop="20250811042934 -0300" channel="premiere">
     <title lang="pt">VT - Brasileirão: São Paulo x Vitória</title>
     <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!
 </desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250811043000 -0300" stop="20250811052959 -0300" channel="premiere">
+  <programme start="20250811042937 -0300" stop="20250811052815 -0300" channel="premiere">
     <title lang="pt">VT - Brasileirão: Bahia x Fluminense</title>
     <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!
 </desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250811053000 -0300" stop="20250811062959 -0300" channel="premiere">
+  <programme start="20250811052818 -0300" stop="20250811055534 -0300" channel="premiere">
     <title lang="pt">VT - Brasileirão: Bragantino x Internacional</title>
     <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!
 </desc>
@@ -35286,24 +35488,6 @@ negra.</desc>
     <desc lang="pt"> - Acompanhe as principais notícias do Brasil e do mundo.</desc>
     <category lang="en">variety show</category>
   </programme>
-  <programme start="20250810191032 -0300" stop="20250810194745 -0300" channel="Novelas">
-    <title lang="pt">As Filhas da Senhora Garcia </title>
-    <desc lang="pt"> - Entre luxo e dignidade, uma mãe e duas filhas enfrentam sonhos que podem separá-las.</desc>
-    <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">1.26.</episode-num>
-    <rating system="Brazil">
-      <value>[A12]</value>
-    </rating>
-  </programme>
-  <programme start="20250810194810 -0300" stop="20250810204109 -0300" channel="Novelas">
-    <title lang="pt">Camaleões</title>
-    <desc lang="pt"> - Dois jovens roubam joias sob ameaça e, ao se esconderem em um colégio, descobrem segredos.</desc>
-    <category lang="en">soap/melodrama/folkloric</category>
-    <episode-num system="xmltv_ns">6.130.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
   <programme start="20250810204349 -0300" stop="20250810213712 -0300" channel="Novelas">
     <title lang="pt">Camaleões</title>
     <desc lang="pt"> - Dois jovens roubam joias sob ameaça e, ao se esconderem em um colégio, descobrem segredos.</desc>
@@ -35826,7 +36010,7 @@ negra.</desc>
       <value>[AL]</value>
     </rating>
   </programme>
-  <programme start="20250810191028 -0300" stop="20250810205638 -0300" channel="Silvio Santos">
+  <programme start="20250810201626 -0300" stop="20250810205638 -0300" channel="Silvio Santos">
     <title lang="pt">Programa Silvio Santos</title>
     <sub-title lang="pt">realizado em 15/02/2009</sub-title>
     <desc lang="pt">Um clássico da TV brasileira! Aviõezinhos, calouros, artistas e toda a diversão que marcou gerações.</desc>
@@ -37194,32 +37378,13 @@ negra.</desc>
       <value>[AL]</value>
     </rating>
   </programme>
-  <programme start="20250817171224 -0300" stop="20250817193032 -0300" channel="Silvio Santos">
+  <programme start="20250817171224 -0300" stop="20250817211251 -0300" channel="Silvio Santos">
     <title lang="pt">Programa Silvio Santos</title>
     <sub-title lang="pt">realizado em 08/03/2009</sub-title>
     <desc lang="pt">Um clássico da TV brasileira! Aviõezinhos, calouros, artistas e toda a diversão que marcou gerações.</desc>
     <category lang="en">variety show</category>
     <date>08/03/2009</date>
     <episode-num system="xmltv_ns">1.9.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250810191648 -0300" stop="20250810195714 -0300" channel="TV Zyn">
-    <title lang="pt">Heidi, Bem-Vinda à Casa</title>
-    <sub-title lang="pt">50. Heidi vê o futuro</sub-title>
-    <desc lang="pt"> - Baseado nas histórias de Marcela Citterio. Heidi Bem-vinda a Casa é um clássico romance adolescente!</desc>
-    <category lang="en">comedy</category>
-    <episode-num system="xmltv_ns">0.49.</episode-num>
-    <rating system="Brazil">
-      <value>[AL]</value>
-    </rating>
-  </programme>
-  <programme start="20250810195719 -0300" stop="20250810204557 -0300" channel="TV Zyn">
-    <title lang="pt">Chiquititas 2013</title>
-    <desc lang="pt"> - Crianças que vivem no orfanato Raio de Luz buscam amor, amizade e um novo lar. </desc>
-    <category lang="en">movie/drama (general)</category>
-    <episode-num system="xmltv_ns">7.150.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
