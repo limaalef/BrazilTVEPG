@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2025-09-11 16:45:04" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2025-09-11 18:15:04" generator-info-url="http://limaalef.com">
   <channel id="Claro TV+ 4K">
     <display-name lang="pt">Claro TV+ 4K</display-name>
   </channel>
@@ -135,6 +135,12 @@
   <channel id="globoplay-novelas">
     <display-name lang="pt">globoplay-novelas</display-name>
   </channel>
+  <channel id="canal-brasil">
+    <display-name lang="pt">canal-brasil</display-name>
+  </channel>
+  <channel id="canal-off">
+    <display-name lang="pt">canal-off</display-name>
+  </channel>
   <channel id="modo-viagem">
     <display-name lang="pt">modo-viagem</display-name>
   </channel>
@@ -143,12 +149,6 @@
   </channel>
   <channel id="combate">
     <display-name lang="pt">combate</display-name>
-  </channel>
-  <channel id="canal-brasil">
-    <display-name lang="pt">canal-brasil</display-name>
-  </channel>
-  <channel id="canal-off">
-    <display-name lang="pt">canal-off</display-name>
   </channel>
   <channel id="SBT">
     <display-name lang="pt">SBT</display-name>
@@ -5566,7 +5566,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250911234500 -0300" stop="20250912000700 -0300" channel="TNT HD">
+  <programme start="20250911234400 -0300" stop="20250912000700 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia Baile De Boas Vindas</sub-title>
     <desc lang="pt"> - Chris fica muito feliz ao ser convidado para o baile Tattaglia Homecoming Dance por uma garota bonita, Jenise Huckstable. Mas fica nervoso quando Jenise conta que o pai dela, o dr. Clint Huxtable, quer que Chris vá à sua casa.</desc>
@@ -5584,7 +5584,7 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250912003000 -0300" stop="20250912013500 -0300" channel="TNT HD">
+  <programme start="20250912003000 -0300" stop="20250912013200 -0300" channel="TNT HD">
     <title lang="pt">The White Lotus</title>
     <sub-title lang="pt">Mesmos Espíritos, Novas Formas</sub-title>
     <desc lang="pt"> - Sinopse não disponível.</desc>
@@ -5593,7 +5593,7 @@
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250912013500 -0300" stop="20250912015800 -0300" channel="TNT HD">
+  <programme start="20250912013200 -0300" stop="20250912015400 -0300" channel="TNT HD">
     <title lang="pt">Um Maluco no Pedaço</title>
     <sub-title lang="pt">O Jogador de Boliche</sub-title>
     <desc lang="pt"> - Em vez de ir à Princeton, o Carlton quer se tornar um jogador de boliche profissional. Quando ele finalmente é aceito para estudar nesta renomada universidade, ele resolve surpreender a todos com uma nova notícia.</desc>
@@ -5602,7 +5602,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250912015800 -0300" stop="20250912022100 -0300" channel="TNT HD">
+  <programme start="20250912015400 -0300" stop="20250912021700 -0300" channel="TNT HD">
     <title lang="pt">Um Maluco no Pedaço</title>
     <sub-title lang="pt">A Culpa É Do Filho Do Mordomo</sub-title>
     <desc lang="pt"> - Um homem que diz ser o filho do Geoffrey vem visitar. O Geoffrey o questiona e o aceita como o seu filho. Todos na casa gostam do Frederick - menos o Will. O Will está decidido a descobrir a verdade.</desc>
@@ -5611,19 +5611,19 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250912022100 -0300" stop="20250912025200 -0300" channel="TNT HD">
+  <programme start="20250912021700 -0300" stop="20250912025300 -0300" channel="TNT HD">
     <title lang="pt">Liga Espetacular</title>
     <desc lang="pt"> - O Liga Espetacular reúne num só lugar todos os motivos que fazem da Liga dos Campeões o melhor torneio de clubes do mundo.</desc>
     <episode-num system="xmltv_ns">71.254.</episode-num>
   </programme>
-  <programme start="20250912025200 -0300" stop="20250912051400 -0300" channel="TNT HD">
+  <programme start="20250912025300 -0300" stop="20250912051900 -0300" channel="TNT HD">
     <title lang="pt">Batman: O Cavaleiro Das Trevas</title>
     <desc lang="pt"> - Christian Bale e o diretor Christopher Nolan voltam a se reunir depois do sucesso estrondoso de Batman Begins! Desta vez, Heath Ledger se une ao elenco como Coringa e, Aaron Eckhart vive Harvey Dent.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250912051400 -0300" stop="20250912053700 -0300" channel="TNT HD">
+  <programme start="20250912051900 -0300" stop="20250912054100 -0300" channel="TNT HD">
     <title lang="pt">Um Maluco no Pedaço</title>
     <sub-title lang="pt">O Coelhinho da Páscoa</sub-title>
     <desc lang="pt"> - O pastor da igreja acha que a devoção religiosa da Vivian é uma boa forma de se aproximar dela, então ele a paquera. O Carlton e o Will discutem sobre o desejo dela de cantar na cerimônia de Páscoa.</desc>
@@ -5632,11 +5632,10 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250912053700 -0300" stop="20250912060000 -0300" channel="TNT HD">
-    <title lang="pt">Um Maluco no Pedaço</title>
-    <sub-title lang="pt">No Flagra, Galera</sub-title>
-    <desc lang="pt"> - Este episódio mostra os erros de gravação durante a filmagem das temporadas anteriores. O Dick Clark entra em cena para ajudar o Will a mostrar os erros. O Will entrevista os atores que aparecem na série.</desc>
-    <episode-num system="xmltv_ns">5.18.</episode-num>
+  <programme start="20250912054100 -0300" stop="20250912060000 -0300" channel="TNT HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt"> - Entrevistas com grandes astros, além de curiosidades e tudo mais o que acontece por trás das cenas dos campeões de bilheteria e dos filmes mais comentados da atualidade.</desc>
+    <episode-num system="xmltv_ns">4.254.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -5778,22 +5777,23 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250911235000 -0300" stop="20250912003300 -0300" channel="SPACE HD">
-    <title lang="pt">C.S.I.</title>
-    <desc lang="pt"> - Retrato do cotidiano de investigadores de Las Vegas, que resolvem casos fracassados da polícia, analisando os locais onde os crimes foram cometidos.</desc>
-    <episode-num system="xmltv_ns">22.253.</episode-num>
+  <programme start="20250911235300 -0300" stop="20250912003800 -0300" channel="SPACE HD">
+    <title lang="pt">C.S.I</title>
+    <desc lang="pt"> - A equipe CSI investiga um tiroteio numa festa na vizinhança de Koreatown, no qual a mãe e o tio de um menino, Park Bang, são assassinados.</desc>
+    <episode-num system="xmltv_ns">8.5.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250912003300 -0300" stop="20250912012000 -0300" channel="SPACE HD">
-    <title lang="pt">C.S.I.</title>
-    <desc lang="pt"> - Retrato do cotidiano de investigadores de Las Vegas, que resolvem casos fracassados da polícia, analisando os locais onde os crimes foram cometidos.</desc>
+  <programme start="20250912003800 -0300" stop="20250912012200 -0300" channel="SPACE HD">
+    <title lang="pt">C.S.I</title>
+    <desc lang="pt"> - A equipe de CSI investiga a morte de uma mulher, esposa de um homem que cometeu um assassinato há 12 anos. Enquanto isso, o destino de Natalie Davis está prestes a ser decidido.</desc>
+    <episode-num system="xmltv_ns">8.6.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250912012000 -0300" stop="20250912020400 -0300" channel="SPACE HD">
+  <programme start="20250912012200 -0300" stop="20250912020700 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I. Miami</title>
     <desc lang="pt"> - Os CSIs precisam correr contra o tempo quando todas as evidências de um caso de assassinato levam a Horatio. Quando uma mulher assassinada é encontrada, Horatio admite que ele foi a última pessoa a vê-la viva.</desc>
     <episode-num system="xmltv_ns">3.5.</episode-num>
@@ -5801,7 +5801,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250912020400 -0300" stop="20250912024900 -0300" channel="SPACE HD">
+  <programme start="20250912020700 -0300" stop="20250912025100 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I. Miami</title>
     <desc lang="pt"> - Três donas de casa, que estão passando o fim de semana em Miami, são as suspeitas de terem matado o limpador da piscina do hotel. Horatio percebe que sua equipe estava deixando de lado uma prova importante.</desc>
     <episode-num system="xmltv_ns">3.4.</episode-num>
@@ -5809,23 +5809,23 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250912024900 -0300" stop="20250912033400 -0300" channel="SPACE HD">
-    <title lang="pt">C.S.I.</title>
-    <desc lang="pt"> - Retrato do cotidiano de investigadores de Las Vegas, que resolvem casos fracassados da polícia, analisando os locais onde os crimes foram cometidos.</desc>
-    <episode-num system="xmltv_ns">1.254.</episode-num>
+  <programme start="20250912025100 -0300" stop="20250912033400 -0300" channel="SPACE HD">
+    <title lang="pt">C.S.I</title>
+    <desc lang="pt"> - A equipe é chamada para resolver um caso de triplo homicídio. Os corpos estão cortados em pedaços e tem um machado na mesma cena do crime.</desc>
+    <episode-num system="xmltv_ns">8.8.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250912033400 -0300" stop="20250912041900 -0300" channel="SPACE HD">
-    <title lang="pt">C.S.I.</title>
-    <desc lang="pt"> - Retrato do cotidiano de investigadores de Las Vegas, que resolvem casos fracassados da polícia, analisando os locais onde os crimes foram cometidos.</desc>
-    <episode-num system="xmltv_ns">2.254.</episode-num>
+  <programme start="20250912033400 -0300" stop="20250912041700 -0300" channel="SPACE HD">
+    <title lang="pt">C.S.I</title>
+    <desc lang="pt"> - Um policial corrupto que a equipe está tentando pegar há meses aparece morto. Então, a pista do assassino de Warrick reaparece e, desta vez, os CSIs não vão descansar até que a justiça seja feita.</desc>
+    <episode-num system="xmltv_ns">8.9.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250912041900 -0300" stop="20250912050300 -0300" channel="SPACE HD">
+  <programme start="20250912041700 -0300" stop="20250912050100 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I. Miami</title>
     <desc lang="pt"> - Um serial killer foge depois de sabotar um avião que o estava levando de Nova York para Miami, onde ele alegou ter queimado um corpo. Depois de fugir, o homem se diverte em uma caçada assassina, e sequestra uma estudante.</desc>
     <episode-num system="xmltv_ns">3.6.</episode-num>
@@ -5833,12 +5833,20 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250912050300 -0300" stop="20250912060000 -0300" channel="SPACE HD">
+  <programme start="20250912050100 -0300" stop="20250912054300 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I. Miami</title>
     <desc lang="pt"> - O DNA de Alexx é encontrado por toda sua vizinhança onde ele é suspeito de ser responsável pela morte de uma criança molestada. Agora a equipe precisa descobrir quem é o verdadeiro assassino para inocentar Alexx.</desc>
     <episode-num system="xmltv_ns">3.15.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250912054300 -0300" stop="20250912060000 -0300" channel="SPACE HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt"> - Entrevistas com grandes astros, além de curiosidades e tudo mais o que acontece por trás das cenas dos campeões de bilheteria e dos filmes mais comentados da atualidade.</desc>
+    <episode-num system="xmltv_ns">4.254.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
     </rating>
   </programme>
   <programme start="20250912060000 -0300" stop="20250912081200 -0300" channel="SPACE HD">
@@ -5877,25 +5885,25 @@
     </rating>
   </programme>
   <programme start="20250912151700 -0300" stop="20250912160200 -0300" channel="SPACE HD">
-    <title lang="pt">C.S.I.</title>
-    <desc lang="pt"> - Retrato do cotidiano de investigadores de Las Vegas, que resolvem casos fracassados da polícia, analisando os locais onde os crimes foram cometidos.</desc>
-    <episode-num system="xmltv_ns">14.254.</episode-num>
+    <title lang="pt">C.S.I</title>
+    <desc lang="pt"> - Grissom investiga o enforcamento misterioso de um rapaz cujo corpo parece o de uma mulher.</desc>
+    <episode-num system="xmltv_ns">7.3.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20250912160200 -0300" stop="20250912165000 -0300" channel="SPACE HD">
-    <title lang="pt">C.S.I.</title>
-    <desc lang="pt"> - Retrato do cotidiano de investigadores de Las Vegas, que resolvem casos fracassados da polícia, analisando os locais onde os crimes foram cometidos.</desc>
-    <episode-num system="xmltv_ns">15.254.</episode-num>
+    <title lang="pt">C.S.I</title>
+    <desc lang="pt"> - Grissom e sua equipe investigam o caso de uma atriz assassinada no estúdio do seu filme de terror, pornô.</desc>
+    <episode-num system="xmltv_ns">7.4.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20250912165000 -0300" stop="20250912173600 -0300" channel="SPACE HD">
-    <title lang="pt">C.S.I.</title>
-    <desc lang="pt"> - Retrato do cotidiano de investigadores de Las Vegas, que resolvem casos fracassados da polícia, analisando os locais onde os crimes foram cometidos.</desc>
-    <episode-num system="xmltv_ns">15.254.</episode-num>
+    <title lang="pt">C.S.I</title>
+    <desc lang="pt"> - Grissom e sua equipe se junta a Jack Malone (de "Without a Trace"), um agente do FBI, de Nova York, para localizar um assassino serial.</desc>
+    <episode-num system="xmltv_ns">7.5.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -22137,6 +22145,14 @@
     <desc lang="pt"> - O telejornal, com apresentação de Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.</desc>
     <category lang="en">live broadcast</category>
   </programme>
+  <programme start="20250911093000 -0300" stop="20250911103459 -0300" channel="tv-globo">
+    <title lang="pt">Encontro com Patrícia Poeta - ao vivo</title>
+    <desc lang="pt"> - Patrícia Poeta comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.</desc>
+    <category lang="en">live broadcast</category>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
   <programme start="20250911103500 -0300" stop="20250911114459 -0300" channel="tv-globo">
     <title lang="pt">Mais Você - ao vivo</title>
     <desc lang="pt"> - Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.</desc>
@@ -22195,7 +22211,7 @@
     <desc lang="pt"> - Policarpo derruba Ernesto, e Sabiá consegue prendê-lo novamente. Da delegacia, Ernesto liga para Tamires e pede um advogado. Zé dos Porcos provoca uma confusão e é expulso do dancing. Celso lê carta de Sandra. Sônia beija Lauro, que se irrita com a moça. Maria Divina se esconde na gruta com as galinhas, à espera de Zé dos Porcos. Haydée pede ajuda a Tobias para enviar um presente a alguém especial. Dita afirma a Lúcio que só sairá em turnê se puder levar seu filho Joaquim. Zulma e Zenaide visitam Samir, e Aderbal e Marilda desconfiam. Candinho exige que Ernesto revele o paradeiro de seu filho.
 </desc>
     <rating system="Brazil">
-      <value>[10]</value>
+      <value>[12]</value>
     </rating>
   </programme>
   <programme start="20250911184500 -0300" stop="20250911191459 -0300" channel="tv-globo">
@@ -22319,13 +22335,13 @@
     <desc lang="pt"> - Confira o que está acontecendo nos esportes de maneira breve e bem humorada, esteja ligado nos memes, trends, e tudo sobre o sobre o esporte com Joana Assis.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250911125926 -0300" stop="20250911153047 -0300" channel="sportv">
+  <programme start="20250911125926 -0300" stop="20250911153044 -0300" channel="sportv">
     <title lang="pt">Seleção SporTV - ao vivo</title>
     <desc lang="pt"> - Os principais comentaristas da Globo e do sportv formam uma seleção de craques, recebidos por André Rizek para debater os assuntos que são notícia no mundo do futebol. 
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250911153048 -0300" stop="20250911161518 -0300" channel="sportv">
+  <programme start="20250911153048 -0300" stop="20250911161515 -0300" channel="sportv">
     <title lang="pt">Globo Esporte - Inédito</title>
     <desc lang="pt"> - Um pouquinho de cada Globo Esporte espalhado pelo Brasil. As principais histórias, notícias, num mosaico leve e informativo. 
 </desc>
@@ -22338,37 +22354,37 @@
     <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250911164623 -0300" stop="20250911172222 -0300" channel="sportv">
+  <programme start="20250911164623 -0300" stop="20250911165932 -0300" channel="sportv">
     <title lang="pt">1/1 ABRE ASPAS: RAMIRES,  EX-VOLANTE</title>
     <desc lang="pt"> - </desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250911172224 -0300" stop="20250911182247 -0300" channel="sportv">
+  <programme start="20250911165934 -0300" stop="20250911175957 -0300" channel="sportv">
     <title lang="pt">VT - Copa do Brasil: Corinthians x Athletico-PR</title>
     <desc lang="pt">O ciclo de 2025 iniciou, os jogos com finais inesperados, com toda e emoção que a Copa do Brasil tem, Tem coisas que só acontecem na Copa do Brasil! A Copa do Brasil, tem que ver no sportv! 
 </desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250911182250 -0300" stop="20250911205218 -0300" channel="sportv">
+  <programme start="20250911180000 -0300" stop="20250911202928 -0300" channel="sportv">
     <title lang="pt">Tá Na Área - ao vivo</title>
     <desc lang="pt"> - Aproveite o finalzinho da tarde para relaxar e de maneira divertida fique por dentro de todos os assuntos em alta do esporte com Camila Carelli e Thiago Benevenutte</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250911205222 -0300" stop="20250911215321 -0300" channel="sportv">
+  <programme start="20250911202931 -0300" stop="20250911213030 -0300" channel="sportv">
     <title lang="pt">Aquecimento sportv: Botafogo x Vasco - ao vivo</title>
     <desc lang="pt">Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes.
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250911215322 -0300" stop="20250911232959 -0300" channel="sportv">
+  <programme start="20250911213032 -0300" stop="20250911232851 -0300" channel="sportv">
     <title lang="pt">Copa do Brasil: Botafogo x Vasco - ao vivo</title>
     <sub-title lang="pt">Quartas de Final</sub-title>
     <desc lang="pt">O ciclo de 2025 iniciou, os jogos com finais inesperados, com toda e emoção que a Copa do Brasil tem, Tem coisas que só acontecem na Copa do Brasil!
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250911233000 -0300" stop="20250912005959 -0300" channel="sportv">
+  <programme start="20250911232854 -0300" stop="20250912004013 -0300" channel="sportv">
     <title lang="pt">Troca de Passes - ao vivo</title>
     <desc lang="pt"> - Felipe Diniz, Carlos Eduardo Mansur e Alex Meschini troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada. Veja os melhores momentos, tire as dúvidas daquele lance polêmico acompanhe a repercussão com jogadores e treinadores no calor do jogo. Aqui ninguém fica em cima do muro.</desc>
     <category lang="en">live broadcast</category>
@@ -22477,7 +22493,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250911203004 -0300" stop="20250911235959 -0300" channel="sportv-2">
+  <programme start="20250911203004 -0300" stop="20250912000125 -0300" channel="sportv-2">
     <title lang="pt">NFL: Commanders x Packers - ao vivo</title>
     <desc lang="pt">Prepare-se para a energia contagiante da NFL. Equipes duelam em jogadas rápidas e estratégicas, onde velocidade, força e precisão se encontram.</desc>
     <category lang="en">live broadcast</category>
@@ -22647,32 +22663,22 @@
     <desc lang="pt">Tênis de alto nível na capital paulista, não perca grandes talentos em batalhas emocionantes.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250911153441 -0300" stop="20250911155540 -0300" channel="sportv-3">
+  <programme start="20250911153441 -0300" stop="20250911160554 -0300" channel="sportv-3">
     <title lang="pt">São Paulo Open - Segunda Rodada - São Paulo, SP - ao vivo</title>
     <desc lang="pt"> - </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250911155541 -0300" stop="20250911161625 -0300" channel="sportv-3">
+  <programme start="20250911160556 -0300" stop="20250911161506 -0300" channel="sportv-3">
     <title lang="pt">São Paulo Open - Segunda Rodada - São Paulo, SP - ao vivo</title>
     <desc lang="pt"> - </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250911161627 -0300" stop="20250911163741 -0300" channel="sportv-3">
+  <programme start="20250911161508 -0300" stop="20250911170747 -0300" channel="sportv-3">
     <title lang="pt">São Paulo Open - Segunda Rodada - São Paulo, SP - ao vivo</title>
     <desc lang="pt"> - </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250911163742 -0300" stop="20250911165841 -0300" channel="sportv-3">
-    <title lang="pt">São Paulo Open - Segunda Rodada - São Paulo, SP - ao vivo</title>
-    <desc lang="pt"> - </desc>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20250911165842 -0300" stop="20250911171941 -0300" channel="sportv-3">
-    <title lang="pt">São Paulo Open - Segunda Rodada - São Paulo, SP - ao vivo</title>
-    <desc lang="pt"> - </desc>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20250911171942 -0300" stop="20250911174011 -0300" channel="sportv-3">
+  <programme start="20250911170749 -0300" stop="20250911175137 -0300" channel="sportv-3">
     <title lang="pt">São Paulo Open - Segunda Rodada - São Paulo, SP - ao vivo</title>
     <desc lang="pt"> - </desc>
     <category lang="en">live broadcast</category>
@@ -22683,32 +22689,27 @@
     <desc lang="pt">Tênis de alto nível na capital paulista, não perca grandes talentos em batalhas emocionantes.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250911174012 -0300" stop="20250911180041 -0300" channel="sportv-3">
+  <programme start="20250911175139 -0300" stop="20250911181238 -0300" channel="sportv-3">
     <title lang="pt">São Paulo Open - Segunda Rodada - São Paulo, SP - ao vivo</title>
     <desc lang="pt"> - </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250911180042 -0300" stop="20250911182111 -0300" channel="sportv-3">
+  <programme start="20250911181239 -0300" stop="20250911183323 -0300" channel="sportv-3">
     <title lang="pt">São Paulo Open - Segunda Rodada - São Paulo, SP - ao vivo</title>
     <desc lang="pt"> - </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250911182113 -0300" stop="20250911184127 -0300" channel="sportv-3">
+  <programme start="20250911183324 -0300" stop="20250911185423 -0300" channel="sportv-3">
     <title lang="pt">São Paulo Open - Segunda Rodada - São Paulo, SP - ao vivo</title>
     <desc lang="pt"> - </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250911184128 -0300" stop="20250911190157 -0300" channel="sportv-3">
+  <programme start="20250911185424 -0300" stop="20250911191538 -0300" channel="sportv-3">
     <title lang="pt">São Paulo Open - Segunda Rodada - São Paulo, SP - ao vivo</title>
     <desc lang="pt"> - </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250911190158 -0300" stop="20250911192312 -0300" channel="sportv-3">
-    <title lang="pt">São Paulo Open - Segunda Rodada - São Paulo, SP - ao vivo</title>
-    <desc lang="pt"> - </desc>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20250911192313 -0300" stop="20250911194412 -0300" channel="sportv-3">
+  <programme start="20250911191540 -0300" stop="20250911193639 -0300" channel="sportv-3">
     <title lang="pt">São Paulo Open - Segunda Rodada - São Paulo, SP - ao vivo</title>
     <desc lang="pt"> - </desc>
     <category lang="en">live broadcast</category>
@@ -22719,32 +22720,32 @@
     <desc lang="pt">Tênis de alto nível na capital paulista, não perca grandes talentos em batalhas emocionantes.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250911194413 -0300" stop="20250911200512 -0300" channel="sportv-3">
+  <programme start="20250911193640 -0300" stop="20250911195739 -0300" channel="sportv-3">
     <title lang="pt">São Paulo Open - Segunda Rodada - São Paulo, SP - ao vivo</title>
     <desc lang="pt"> - </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250911200513 -0300" stop="20250911202612 -0300" channel="sportv-3">
+  <programme start="20250911195740 -0300" stop="20250911201839 -0300" channel="sportv-3">
     <title lang="pt">São Paulo Open - Segunda Rodada - São Paulo, SP - ao vivo</title>
     <desc lang="pt"> - </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250911202614 -0300" stop="20250911204713 -0300" channel="sportv-3">
+  <programme start="20250911201840 -0300" stop="20250911203939 -0300" channel="sportv-3">
     <title lang="pt">São Paulo Open - Segunda Rodada - São Paulo, SP - ao vivo</title>
     <desc lang="pt"> - </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250911204714 -0300" stop="20250911210743 -0300" channel="sportv-3">
+  <programme start="20250911203941 -0300" stop="20250911210010 -0300" channel="sportv-3">
     <title lang="pt">São Paulo Open - Segunda Rodada - São Paulo, SP - ao vivo</title>
     <desc lang="pt"> - </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250911210745 -0300" stop="20250911212829 -0300" channel="sportv-3">
+  <programme start="20250911210011 -0300" stop="20250911212055 -0300" channel="sportv-3">
     <title lang="pt">São Paulo Open - Segunda Rodada - São Paulo, SP - ao vivo</title>
     <desc lang="pt"> - </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250911212830 -0300" stop="20250911214929 -0300" channel="sportv-3">
+  <programme start="20250911212056 -0300" stop="20250911214155 -0300" channel="sportv-3">
     <title lang="pt">São Paulo Open - Segunda Rodada - São Paulo, SP - ao vivo</title>
     <desc lang="pt"> - </desc>
     <category lang="en">live broadcast</category>
@@ -22756,12 +22757,12 @@
     <category lang="en">tennis/squash</category>
     <previously-shown />
   </programme>
-  <programme start="20250911214930 -0300" stop="20250911221229 -0300" channel="sportv-3">
+  <programme start="20250911214157 -0300" stop="20250911220456 -0300" channel="sportv-3">
     <title lang="pt">São Paulo Open - Segunda Rodada - São Paulo, SP - ao vivo</title>
     <desc lang="pt"> - </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250911221231 -0300" stop="20250912012121 -0300" channel="sportv-3">
+  <programme start="20250911220458 -0300" stop="20250912011348 -0300" channel="sportv-3">
     <title lang="pt">VT - US Open: Final Masculina</title>
     <sub-title lang="pt">Final Masculina</sub-title>
     <desc lang="pt">Assista a competição mais antiga de Tênis do mundo a competição ocorre em Nova York. Us open é um dos torneios Grand Slam. Tá no Us Open, tá no sportv.</desc>
@@ -23557,7 +23558,7 @@ PROGRAMA EXIBIDO EM 11/09/2025</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250911220912 -0300" stop="20250911223059 -0300" channel="multishow">
+  <programme start="20250911220912 -0300" stop="20250911221238 -0300" channel="multishow">
     <title lang="pt">Flash Ao Vivo Estrela Da Casa - ao vivo</title>
     <sub-title lang="pt">Estrela Da Casa 2025 - Flash Ao Vivo</sub-title>
     <desc lang="pt"> - Flash Ao vivo Estrela Da Casa</desc>
@@ -23566,7 +23567,15 @@ PROGRAMA EXIBIDO EM 11/09/2025</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250911223100 -0300" stop="20250911230059 -0300" channel="multishow">
+  <programme start="20250911221239 -0300" stop="20250911224302 -0300" channel="multishow">
+    <title lang="pt">Voz Do Carnaval, A</title>
+    <sub-title lang="pt">Eliminatória - Grupo 2</sub-title>
+    <desc lang="pt"> - Quem será a nova voz da Beija-Flor? Nesse episódio, os quatro intérpretes do Grupo 2 competem por duas vagas na competição. Xande de Pilares é o convidado do dia.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911224305 -0300" stop="20250911231353 -0300" channel="multishow">
     <title lang="pt">O Dono do Bar</title>
     <sub-title lang="pt">Debaixo do Tapete</sub-title>
     <desc lang="pt"> - Américo tem que lavar o tapete da sala, que está atacando a alergia de todos na casa, mas no processo ele acaba manchado o tapete de café e tem que correr contra o tempo para limpar tudo antes que Luciana volte pra casa.</desc>
@@ -23574,7 +23583,7 @@ PROGRAMA EXIBIDO EM 11/09/2025</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250911230100 -0300" stop="20250911233159 -0300" channel="multishow">
+  <programme start="20250911231356 -0300" stop="20250911233159 -0300" channel="multishow">
     <title lang="pt">O Dono do Bar</title>
     <sub-title lang="pt">De Perna Bamba</sub-title>
     <desc lang="pt"> - Luciana pede para Américo consertar o sofá da sala, que está com as pernas bambas e pronto para desmontar a qualquer momento. Sem dinheiro, ele improvisa soluções que só pioram o estado do sofá.</desc>
@@ -23915,7 +23924,7 @@ superação, determinação e talento.</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250911150323 -0300" stop="20250911160514 -0300" channel="bis">
+  <programme start="20250911150323 -0300" stop="20250911160515 -0300" channel="bis">
     <title lang="pt">Bono: Waiting On A Saviour</title>
     <sub-title lang="pt">Palco Principal</sub-title>
     <desc lang="pt"> - Um ícone cuja música transcende em ativismo pelos direitos humanos, esta é a história do vocalista do U2, Bono.</desc>
@@ -24034,7 +24043,7 @@ superação, determinação e talento.</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250911203028 -0300" stop="20250911205859 -0300" channel="bis">
+  <programme start="20250911203028 -0300" stop="20250911205929 -0300" channel="bis">
     <title lang="pt">Lounge</title>
     <desc lang="pt"> - Na 3ª temporada do Lounge, Ana Canãs, Jesuton, Tassia Reis, Mya Machado, Agnes e Mini Lamers cantam sucessos nacionais e internacionais. Em formato intimista, as cantoras interpretam em arranjos de Jazz e de Bossa Nova.</desc>
     <episode-num system="xmltv_ns">2..</episode-num>
@@ -24042,7 +24051,7 @@ superação, determinação e talento.</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250911205900 -0300" stop="20250911212959 -0300" channel="bis">
+  <programme start="20250911205930 -0300" stop="20250911213031 -0300" channel="bis">
     <title lang="pt">Filhos Da Música</title>
     <sub-title lang="pt">Davi Moraes</sub-title>
     <desc lang="pt"> - Uma Homenagem dos filhos interpretando grandes clássicos dos seus pais e da música nacional, alternando momentos de performances e entrevistas. Nesse episódio, o convidado é o Davi Moraes, filho do Moraes Moreira.</desc>
@@ -24050,7 +24059,7 @@ superação, determinação e talento.</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250911213000 -0300" stop="20250911213259 -0300" channel="bis">
+  <programme start="20250911213035 -0300" stop="20250911213456 -0300" channel="bis">
     <title lang="pt">Delacruz - Alma Livre</title>
     <sub-title lang="pt">Setlist</sub-title>
     <desc lang="pt"> - DELACRUZ - ALMA LIVRE (ALTAFONTE) </desc>
@@ -24058,7 +24067,7 @@ superação, determinação e talento.</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250911213400 -0300" stop="20250911213659 -0300" channel="bis">
+  <programme start="20250911213457 -0300" stop="20250911213814 -0300" channel="bis">
     <title lang="pt">Thaíde Part. Djonga E Negravat - Pega A Visão</title>
     <sub-title lang="pt">Setlist</sub-title>
     <desc lang="pt"> - Thaíde Part. Djonga E Negravat - Pega A Visão (Apenas Produções)</desc>
@@ -24066,7 +24075,7 @@ superação, determinação e talento.</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250911213700 -0300" stop="20250911213959 -0300" channel="bis">
+  <programme start="20250911213816 -0300" stop="20250911214309 -0300" channel="bis">
     <title lang="pt">DJ CIA feat. NP Vocal e Cynthia Luz - Não Espere Perfeição</title>
     <sub-title lang="pt">Setlist</sub-title>
     <desc lang="pt"> - DJ CIA feat. NP Vocal e Cynthia Luz - Não Espere Perfeição (Beatloko)</desc>
@@ -24074,7 +24083,7 @@ superação, determinação e talento.</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250911214000 -0300" stop="20250911214259 -0300" channel="bis">
+  <programme start="20250911214310 -0300" stop="20250911214652 -0300" channel="bis">
     <title lang="pt">Thom - Orla Culture</title>
     <sub-title lang="pt">Setlist</sub-title>
     <desc lang="pt"> - THOM - ORLA CULTURE (CACHOEIRA MUSIC)</desc>
@@ -24082,7 +24091,7 @@ superação, determinação e talento.</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250911214500 -0300" stop="20250911214759 -0300" channel="bis">
+  <programme start="20250911214654 -0300" stop="20250911214923 -0300" channel="bis">
     <title lang="pt">Felipe Flip part. Lio - Ruim de esquecer</title>
     <sub-title lang="pt">Setlist</sub-title>
     <desc lang="pt"> - Felipe Flip part. Lio - Ruim de esquecer (Olga Music)</desc>
@@ -24090,7 +24099,7 @@ superação, determinação e talento.</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250911215100 -0300" stop="20250911215359 -0300" channel="bis">
+  <programme start="20250911214924 -0300" stop="20250911215208 -0300" channel="bis">
     <title lang="pt">Marcello Melo Jr - Vagabundo Também Sente Amor</title>
     <sub-title lang="pt">Setlist</sub-title>
     <desc lang="pt"> - MARCELLO MELO JR PART. THIAGO MARTINS - VAGABUNDO TAMBÉM SENTE AMOR (INDEPENDENTE)</desc>
@@ -24098,7 +24107,7 @@ superação, determinação e talento.</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250911215400 -0300" stop="20250911215659 -0300" channel="bis">
+  <programme start="20250911215210 -0300" stop="20250911215517 -0300" channel="bis">
     <title lang="pt">Tuyo - Saudade Impura</title>
     <sub-title lang="pt">Setlist</sub-title>
     <desc lang="pt"> - Tuyo - Saudade Impura (Independente)</desc>
@@ -24106,7 +24115,7 @@ superação, determinação e talento.</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250911215700 -0300" stop="20250911215959 -0300" channel="bis">
+  <programme start="20250911215518 -0300" stop="20250911220035 -0300" channel="bis">
     <title lang="pt">Bin E Vitão - Penelope</title>
     <sub-title lang="pt">Setlist</sub-title>
     <desc lang="pt"> - BIN E VITÃO - PENELOPE (MALIBU STUDIOS)</desc>
@@ -24114,7 +24123,7 @@ superação, determinação e talento.</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250911220000 -0300" stop="20250911230159 -0300" channel="bis">
+  <programme start="20250911220038 -0300" stop="20250911230230 -0300" channel="bis">
     <title lang="pt">Alanis Morrissette: Live At Montreaux</title>
     <sub-title lang="pt">Palco Principal</sub-title>
     <desc lang="pt"> - Show da artista canadense Alanis Morrissette no Montreux Festival em 2012.</desc>
@@ -24122,7 +24131,7 @@ superação, determinação e talento.</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250911230200 -0300" stop="20250911233159 -0300" channel="bis">
+  <programme start="20250911230232 -0300" stop="20250911233159 -0300" channel="bis">
     <title lang="pt">Teddy Swims</title>
     <sub-title lang="pt">Palco Principal</sub-title>
     <desc lang="pt"> - Confira a transmissão ao vivo do festival "Lollapalooza 2025" nos dias 28, 29 e 30 de março, diretamente do Autódromo de Interlagos/SP, no Multishow.</desc>
@@ -24465,7 +24474,7 @@ com muitas semelhanças além dos ingredientes, o pão de queijo e o gougère.</
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250911160604 -0300" stop="20250911164936 -0300" channel="gnt">
+  <programme start="20250911160604 -0300" stop="20250911164935 -0300" channel="gnt">
     <title lang="pt">Que Marravilha!</title>
     <sub-title lang="pt">Eu Como Com os Olhos?</sub-title>
     <desc lang="pt"> - Yan Jordan, o chato pra comer da vez, foi criado pelo pai, Jair. Coitado desse pai! Para mudar seu paladar, Claude e Batista preparam um risotto de camarão com funghi e berinjela.</desc>
@@ -24498,7 +24507,7 @@ com muitas semelhanças além dos ingredientes, o pão de queijo e o gougère.</
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250911171825 -0300" stop="20250911174631 -0300" channel="gnt">
+  <programme start="20250911171825 -0300" stop="20250911174633 -0300" channel="gnt">
     <title lang="pt">Cacau</title>
     <desc lang="pt"> - Nesse episódio Rodrigo Hilbert vai em busca do melhor chocolate da região e cozinha um Bolo de Chocolate com Geléia de Cupuaçu e Castanha do Pará e Brigadeiro de Tapioca com Bacuri.</desc>
     <rating system="Brazil">
@@ -24571,7 +24580,7 @@ com muitas semelhanças além dos ingredientes, o pão de queijo e o gougère.</
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250911204358 -0300" stop="20250911210834 -0300" channel="gnt">
+  <programme start="20250911204358 -0300" stop="20250911214527 -0300" channel="gnt">
     <title lang="pt">Que Seja Doce</title>
     <sub-title lang="pt">Doces Do Contorcionista</sub-title>
     <desc lang="pt"> - As confeiteiras preparam doces com visuais retorcidos que lembram os movimentos circenses dos contorcionistas: bolo de rolo e torta trançada.</desc>
@@ -24595,7 +24604,7 @@ com muitas semelhanças além dos ingredientes, o pão de queijo e o gougère.</
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250911214500 -0300" stop="20250911223159 -0300" channel="gnt">
+  <programme start="20250911214530 -0300" stop="20250911223130 -0300" channel="gnt">
     <title lang="pt">Geladeiras Em Ação</title>
     <sub-title lang="pt">Afrancesada</sub-title>
     <desc lang="pt"> - A mistura do Brasil com a França é a cara do chef Claude Troisgros e o sabor deste episódio. Três cozinheiros serão desafiados a fazer almoço e jantar com inspiração francesa.</desc>
@@ -24603,7 +24612,7 @@ com muitas semelhanças além dos ingredientes, o pão de queijo e o gougère.</
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250911223200 -0300" stop="20250911233959 -0300" channel="gnt">
+  <programme start="20250911223133 -0300" stop="20250911230637 -0300" channel="gnt">
     <title lang="pt">Que História É Essa, Porchat?</title>
     <sub-title lang="pt">Juliana Martins + Flávio Tolezani + Olivia Torres</sub-title>
     <desc lang="pt"> - Porchat recebe Juliana Martins, Olivia Torres e Flavio Tolezani. Na plateia, Raphael pagou caro por uma brincadeira e o trauma do assalto do Savio.</desc>
@@ -24775,7 +24784,7 @@ com muitas semelhanças além dos ingredientes, o pão de queijo e o gougère.</
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250911153917 -0300" stop="20250911163001 -0300" channel="globoplay-novelas">
+  <programme start="20250911153917 -0300" stop="20250911163008 -0300" channel="globoplay-novelas">
     <title lang="pt"></title>
     <desc lang="pt"> - Melissa bola plano para obrigar Felipe a se casar com ela. Afonso anuncia que se casará com Anita. Dorotéia rouba carta de amor do quarto de Condessa Vitória.</desc>
     <rating system="Brazil">
@@ -24855,6 +24864,699 @@ com muitas semelhanças além dos ingredientes, o pão de queijo e o gougère.</
     <desc lang="pt"> - Fernando leva Tânia para conhecer o Rio. Zeca se esconde de Renato no apartamento de Jaqueline. Noêmia encontra Jairo. Darlene entra em trabalho de parto.</desc>
     <rating system="Brazil">
       <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250910233111 -0300" stop="20250911000121 -0300" channel="canal-brasil">
+    <title lang="pt">Homenagem A Angela Ro Ro</title>
+    <sub-title lang="pt">Angela Ro Ro E Barão Vermelho</sub-title>
+    <desc lang="pt"> - Angela Ro Ro e o "Barão Vermelho" não poupam histórias e músicas. "Puro Êxtase" e "A Chave da Porta da Frente", são tocadas no episódio.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911000123 -0300" stop="20250911003116 -0300" channel="canal-brasil">
+    <title lang="pt">Homenagem A Angela Ro Ro</title>
+    <sub-title lang="pt">Angela Ro Ro E Jerry Adriani</sub-title>
+    <desc lang="pt"> - O cantor Jerry Adriani fala sobre a indústria fonográfica e canta alguns de seus sucessos, relembrando Raul Seixas e Renato Russo.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911003117 -0300" stop="20250911010127 -0300" channel="canal-brasil">
+    <title lang="pt">Homenagem A Angela Ro Ro</title>
+    <sub-title lang="pt">Angela Ro Ro E Danilo Caymmi</sub-title>
+    <desc lang="pt"> - Nascido em uma das famílias mais musicais do Brasil, Danilo começou a aprender flauta e violão na adolescência e se tornou músico de referência. No programa, canta o sucesso "A vizinha do lado".</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911010130 -0300" stop="20250911013114 -0300" channel="canal-brasil">
+    <title lang="pt">Homenagem A Angela Ro Ro</title>
+    <sub-title lang="pt">Angela Ro Ro E Toni Platão</sub-title>
+    <desc lang="pt"> - Toni Platão em muitas histórias para contar e muita música para cantar, entre elas, "Pode Ser" e " Caligula Freejack".</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911013116 -0300" stop="20250911020158 -0300" channel="canal-brasil">
+    <title lang="pt">Homenagem A Angela Ro Ro</title>
+    <sub-title lang="pt">Angela Ro Ro E Zé Renato</sub-title>
+    <desc lang="pt"> - Zé Renato já integrou o "Boca Livre", sucesso nos anos 80, e seguiu confiante na carreira solo. O artista entoa "Feitio de Oração", "Anima" e "Foi Deus".</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911020200 -0300" stop="20250911023149 -0300" channel="canal-brasil">
+    <title lang="pt">Homenagem A Angela Ro Ro</title>
+    <sub-title lang="pt">Angela Ro Ro E Arrigo Barnabé</sub-title>
+    <desc lang="pt"> - O convidado de Ro Ro é um músico bastante irreverente. Adepto das inovações, Arrigo Barnabé gosta de misturar os sons e as tendências, criando um modo peculiar de cantar e de compor.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911023151 -0300" stop="20250911030030 -0300" channel="canal-brasil">
+    <title lang="pt">Homenagem A Angela Ro Ro</title>
+    <sub-title lang="pt">Angela Ro Ro E Tavito</sub-title>
+    <desc lang="pt"> - Integrante da banda "Som Imaginário", que fundia rock progressivo e música mineira, Tavito tocou também com Milton Nascimento. É compositor de canções como "Rua Ramalhete" e "Casa de Campo".</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911030032 -0300" stop="20250911033031 -0300" channel="canal-brasil">
+    <title lang="pt">Homenagem A Angela Ro Ro</title>
+    <sub-title lang="pt">Angela Ro Ro E Cida Moreira</sub-title>
+    <desc lang="pt"> - O programa conta com o brilho de Cida Moreira ao piano, cantando clássicos de Chico, Tom e Gonzaguinha, além de canções que lhe deram o apelido de "Janis Joplin Brasileira".</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911033033 -0300" stop="20250911035546 -0300" channel="canal-brasil">
+    <title lang="pt">Homenagem A Angela Ro Ro</title>
+    <sub-title lang="pt">Angela Ro Ro E Wanda Sá</sub-title>
+    <desc lang="pt"> - Um dos grandes nomes da Bossa Nova, Wanda Sá relembra momentos da convivência com João Gilberto, Tom Jobim e João Donato e entoa as canções indispensáveis de seu repertório.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911035547 -0300" stop="20250911042534 -0300" channel="canal-brasil">
+    <title lang="pt">Homenagem A Angela Ro Ro</title>
+    <sub-title lang="pt">Angela Ro Ro E Rita Ribeiro</sub-title>
+    <desc lang="pt"> - Rita Ribeiro cantou no grupo "Vira Canto", fez backing vocals para Chico Maranhão e Josias Sobrinho e participou do "Boi Barrica". Mas atingiu o sucesso com músicas como "Lenha" e "Pra Você Gostar de Mim".</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911042537 -0300" stop="20250911045530 -0300" channel="canal-brasil">
+    <title lang="pt">Homenagem A Angela Ro Ro</title>
+    <sub-title lang="pt">Angela Ro Ro E Alaíde Costa</sub-title>
+    <desc lang="pt"> - A emoção é a tônica do encontro de Angela Ro Ro com Alaíde Costa, que derrama algumas lágrimas ao lembrar sua história.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911045532 -0300" stop="20250911052526 -0300" channel="canal-brasil">
+    <title lang="pt">Homenagem A Angela Ro Ro</title>
+    <sub-title lang="pt">Angela Ro Ro E Olívia Byington</sub-title>
+    <desc lang="pt"> - Olívia Byington relembra os primeiros anos de sua carreira, que começou com o grupo "Barca do Sol". Entre uma história e outra, ela canta "Chega de Saudade", "Eu Não Existo Sem Você" e "Lady Jane".</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911052528 -0300" stop="20250911055530 -0300" channel="canal-brasil">
+    <title lang="pt">Homenagem A Angela Ro Ro</title>
+    <sub-title lang="pt">Angela Ro Ro E Jane Duboc</sub-title>
+    <desc lang="pt"> - Jane Duboc, paranaense de Belém, com a voz macia e a técnica apurada, transitou entre a MPB e o jazz e conquistou o sucesso com as músicas "Chama da Paixão", "Sonhos" e "Nuvens".</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911055532 -0300" stop="20250911062618 -0300" channel="canal-brasil">
+    <title lang="pt">Homenagem A Angela Ro Ro</title>
+    <sub-title lang="pt">Angela Ro Ro E Miúcha</sub-title>
+    <desc lang="pt"> - Miúcha fala sobre estreita convivência com Vinícius, Tom e João Gilberto. A primeira-dama da Bossa Nova fala ainda de sua trajetória e das parcerias com Betânia e Nelson Pereira dos Santos.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911062620 -0300" stop="20250911063249 -0300" channel="canal-brasil">
+    <title lang="pt">Arte Na Capa</title>
+    <sub-title lang="pt">Inimigos Do Rei</sub-title>
+    <desc lang="pt"> - Série mostra as histórias por trás de emblemáticas capas de discos brasileiros.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911063251 -0300" stop="20250911074029 -0300" channel="canal-brasil">
+    <title lang="pt">Gilberto Gil - Kaya N’gan Daya</title>
+    <desc lang="pt"> - Show ao vivo do disco "Kaya N´Gan Daya", de Gilberto Gil, filmado em película, na cidade de São Paulo, em 2001. O álbum foi uma homenagem do músico brasileiro a Bob Marley.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911074032 -0300" stop="20250911092327 -0300" channel="canal-brasil">
+    <title lang="pt">O Dragão Da Maldade Contra O Santo Guerreiro</title>
+    <desc lang="pt"> - O matador de cangaceiros Antônio das Mortes volta a Jardim das Piranhas (BA) para matar o bando de Coraina, que diz ser a encarnação de Lampião.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250911092328 -0300" stop="20250911093106 -0300" channel="canal-brasil">
+    <title lang="pt">Guard Dog &amp; Bill Plympton No Brasil</title>
+    <sub-title lang="pt">Perdido no... Pantanal (sucuri papa cachorro)</sub-title>
+    <desc lang="pt"> - “Guard Dog e Bill Plympton no Brasil” é uma série de animação que nasce da premissa de apresentar o Brasil pelo olhar do lendário animador norte-americano Bill Plympton.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911093108 -0300" stop="20250911094550 -0300" channel="canal-brasil">
+    <title lang="pt">Curta Na Tela</title>
+    <sub-title lang="pt">O Tigre E A Gazela</sub-title>
+    <desc lang="pt"> - O filme justapõe a pobreza e a dignidade de personagens de nossas ruas e praças a textos de Frantz Fanon, importante escritor negro, militante político da Martinica que participou da libertação da Argélia, falecido aos 36 anos.</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250911094552 -0300" stop="20250911100030 -0300" channel="canal-brasil">
+    <title lang="pt">Curta Na Tela</title>
+    <sub-title lang="pt">Meio-Dia</sub-title>
+    <desc lang="pt"> - Um grupo de crianças numa sala de aula iniciam uma rebelião onde ameaçam matar seu professor. O filme é uma resposta a opressão e censura impostos durante a ditadura, embalado pela canção "Proibido Proibir", de Caetano Veloso.</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250911100033 -0300" stop="20250911112531 -0300" channel="canal-brasil">
+    <title lang="pt">Os Condenados</title>
+    <desc lang="pt"> - A prostituta Alma lê para os clientes o diário de João do Carmo, um tímido telegrafista perdidamente apaixonado por ela. Acreditando na recuperação da amada, o rapaz tenta de todas as formas tirá-la do bordel.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250911112533 -0300" stop="20250911113033 -0300" channel="canal-brasil">
+    <title lang="pt">Pílulas Espelho</title>
+    <sub-title lang="pt">O Livro - Sejamos Todos Feministas (Chimamanda Ngozi Adichie)</sub-title>
+    <desc lang="pt"> - Pílulas Espelho.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911113035 -0300" stop="20250911123242 -0300" channel="canal-brasil">
+    <title lang="pt">Milton Nascimento – Intimidade E Poesia</title>
+    <desc lang="pt"> - A herança familiar, a descoberta da música e a crise com a voz na adolescência são os assuntos abordados do episódio. Milton também reflete sobre os anos 1970 e a censura durante a ditadura.</desc>
+    <episode-num system="xmltv_ns">.1.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911123244 -0300" stop="20250911133059 -0300" channel="canal-brasil">
+    <title lang="pt">Jorge Mautner - Kaos Em Ação</title>
+    <desc lang="pt"> - A produção cultural de Jorge Mautner e sua geração durante a ditadura militar faz com que ele e tantos outros tenham que sair do país para escapar da repressão.</desc>
+    <episode-num system="xmltv_ns">.1.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250911133101 -0300" stop="20250911134844 -0300" channel="canal-brasil">
+    <title lang="pt">Curta Na Tela</title>
+    <sub-title lang="pt">Sonata</sub-title>
+    <desc lang="pt"> - Janaína é uma atriz em crise enquanto acompanha o colapso de um país. Parece não haver saída, mas ainda existe alguma coisa a ser feita.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250911134845 -0300" stop="20250911140032 -0300" channel="canal-brasil">
+    <title lang="pt">Curta Na Tela</title>
+    <sub-title lang="pt">Egos</sub-title>
+    <desc lang="pt"> - Com um ator que não consegue atuar e uma equipe insatisfeita, um diretor de cinema tenta criar uma cena emocionante para seu filme… mas os egos envolvidos apresentam verdadeiros obstáculos.</desc>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250911140034 -0300" stop="20250911141642 -0300" channel="canal-brasil">
+    <title lang="pt">Cinejornal</title>
+    <sub-title lang="pt">CineFantasy e FAM - Florianópolis Audiovisual Mercosul_10/09/2025</sub-title>
+    <desc lang="pt"> - O Cinejornal é um programa diário, apresentado por Simone Zuccolotto, no qual é pautado o melhor do cinema brasileiro.</desc>
+  </programme>
+  <programme start="20250911141645 -0300" stop="20250911161131 -0300" channel="canal-brasil">
+    <title lang="pt">Deus É Brasileiro</title>
+    <desc lang="pt"> - Cansado dos erros cometidos pela humanidade, Deus resolve tirar umas férias a fim de descansar de seus aborrecimentos. Mas, para isso, precisa encontrar um santo que se ocupe de seus deveres enquanto Ele estiver ausente.</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250911161133 -0300" stop="20250911180036 -0300" channel="canal-brasil">
+    <title lang="pt">Acqua Movie</title>
+    <desc lang="pt"> - Duda é uma documentarista ambientalista que trabalha com a questão indígena e é mãe de Cícero, de 12 anos. Após a morte do pai, ele convence Duda a viajar de SP ao sertão para jogar as cinzas no rio São Francisco.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250911180038 -0300" stop="20250911192454 -0300" channel="canal-brasil">
+    <title lang="pt">É Tudo Verdade</title>
+    <sub-title lang="pt">Othelo, O Grande</sub-title>
+    <desc lang="pt"> - Grande Othelo foi um dos mais brilhantes atores do século 20. Negro, órfão e neto de escravizados, ele desafiou o racismo ao eternizar seus personagens, abrindo caminhos para as futuras gerações de artistas negros.</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250911192456 -0300" stop="20250911193058 -0300" channel="canal-brasil">
+    <title lang="pt">Inéditas, Dispersas E Animadas</title>
+    <sub-title lang="pt">Gal Costa - Falo Não Calo</sub-title>
+    <desc lang="pt"> - Grandes nomes da cultura brasileira se encontram de forma lúdica nessa série animada de pequenas entrevistas dirigida por Bebeto Abrantes.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911193100 -0300" stop="20250911204534 -0300" channel="canal-brasil">
+    <title lang="pt">Rosa - A Narradora De Outros Brasis</title>
+    <desc lang="pt"> - Nenhuma outra mulher teve tanto êxito na Marquês de Sapucaí. Aos 76 anos, Rosa Magalhães é única em vários aspectos. Ao criar enredos antológicos, descortinou outros Brasis que não estão nos livros de História.</desc>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250911204536 -0300" stop="20250911210029 -0300" channel="canal-brasil">
+    <title lang="pt">Angeli - The Killer</title>
+    <sub-title lang="pt">Mucho Amigos</sub-title>
+    <desc lang="pt"> - Angeli revela acreditar nos encontros e que, a partir deles, uma amizade profunda pode ser construída. Mas, por favor, não precisa se emocionar.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250911210031 -0300" stop="20250911213724 -0300" channel="canal-brasil">
+    <title lang="pt">Polipolar Show</title>
+    <sub-title lang="pt">Lenine/ Clayton Nascimento/ Maria Clara Gueiros</sub-title>
+    <desc lang="pt"> - Lenine comenta a possibilidade de criação do seu arco hidroviário. Clayton Nascimento relembra a história de Terezinha Maria de Jesus. Maria Clara Gueiros fala do amor de seu filho por Michel Melamed.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250911213726 -0300" stop="20250911214543 -0300" channel="canal-brasil">
+    <title lang="pt">Guard Dog &amp; Bill Plympton No Brasil</title>
+    <sub-title lang="pt">Perdido em... São Paulo (cidade do rock louco)</sub-title>
+    <desc lang="pt"> - “Guard Dog e Bill Plympton no Brasil” é uma série de animação que nasce da premissa de apresentar o Brasil pelo olhar do lendário animador norte-americano Bill Plympton.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911214545 -0300" stop="20250911231101 -0300" channel="canal-brasil">
+    <title lang="pt">A Revolta Dos Malês</title>
+    <desc lang="pt"> - Escravos muçulmanos que viviam na Bahia, em 1835, arquitetaram uma rebelião contra os fazendeiros. A escrava Guilhermina, de 27 anos, reúne as condições necessárias para comprar a liberdade de sua filha e de si própria.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250911231103 -0300" stop="20250912004459 -0300" channel="canal-brasil">
+    <title lang="pt">Lispectorante</title>
+    <desc lang="pt"> - Afundada numa crise existencial e financeira, Glória Hartman, 58 anos, retorna ao Recife, sua cidade natal. Através de uma fenda nos escombros da casa onde morou Clarice Lispector, Glória começa a ver coisas misteriosas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250910233143 -0300" stop="20250911000015 -0300" channel="canal-off">
+    <title lang="pt">Todas As Cores Do Brasil</title>
+    <sub-title lang="pt">Para o Alto e Avante</sub-title>
+    <desc lang="pt"> - Um atleta olímpico, um guia de montanhismo e um desbravador de trilhas se encontram no Rio de Janeiro para uma escalada na trilha da Urca.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911002957 -0300" stop="20250911004932 -0300" channel="canal-off">
+    <title lang="pt">Off Docs</title>
+    <sub-title lang="pt">Dream Lines 4</sub-title>
+    <desc lang="pt"> - Quarto vídeo da série produzida por Jokke Summers, o documentário registra espetaculares imagens de wingsuit proximity flying protagonizadas por ele próprio, Robert Pecnik e Ludovic Woerth. Os voos são registrados em Silberhorn e Hintisberg, na Suíça, e Chamonix, na França.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911004934 -0300" stop="20250911010423 -0300" channel="canal-off">
+    <title lang="pt">Off Docs</title>
+    <sub-title lang="pt">BMX Nigeria</sub-title>
+    <desc lang="pt"> - Esta é a história inspiradora de dois pioneiros da cena emergente do BMX em Lagos, Nigéria.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911010425 -0300" stop="20250911013304 -0300" channel="canal-off">
+    <title lang="pt">Crowd Selvagem</title>
+    <sub-title lang="pt">Uluwatu</sub-title>
+    <desc lang="pt"> - Uluwatu é uma das esquerdas mais famosas e democráticas do mundo. O pico, no entanto, também é conhecido por ter um dos crowds mais insanos do planeta reunindo surfistas profissionais, freesurfers e amadores.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911013306 -0300" stop="20250911020129 -0300" channel="canal-off">
+    <title lang="pt">Crowd Selvagem</title>
+    <sub-title lang="pt">Malibu</sub-title>
+    <desc lang="pt"> - Malibu é uma das praias mais famosas do mundo. Conhecida pelas ondas mas também pelo público famoso que a frequenta, a praia pode ser considerada uma das mais populares entre surfistas e amadores em busca da onda perfeita.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911020131 -0300" stop="20250911022917 -0300" channel="canal-off">
+    <title lang="pt">Lendas Em Fiji</title>
+    <sub-title lang="pt">Cloudbreak e oficinas pioneiras</sub-title>
+    <desc lang="pt"> - As lendas do surfe brasileiro surfam as maravilhosas esquerdas de Cloudbreak. Eles contam histórias pouco conhecidas sobre suas primeiras pranchas e primeiras oficinas.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911022920 -0300" stop="20250911025929 -0300" channel="canal-off">
+    <title lang="pt">Yoga Em Todo Lugar</title>
+    <sub-title lang="pt">Ocupando Espaços</sub-title>
+    <desc lang="pt"> - No primeiro episódio da temporada, apresentamos nossos principais personagens e suas visões únicas sobre o yoga. Uma prática plural e inclusiva.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911025932 -0300" stop="20250911034919 -0300" channel="canal-off">
+    <title lang="pt">Skate The World</title>
+    <desc lang="pt"> - Mathieu encontra skatistas criativos e apaixonados. De Buenos Aires a Mar del Plata, ele descobre uma cena em plena efervescência, cheio de amantes do esporte.</desc>
+    <episode-num system="xmltv_ns">.18.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250911034920 -0300" stop="20250911041837 -0300" channel="canal-off">
+    <title lang="pt">História Do Voo Livre</title>
+    <sub-title lang="pt">Governador Valadares - MG</sub-title>
+    <desc lang="pt"> - Considerada a capital mundial do vôo livre, Governador Valadares se tornou o destino favorito da maioria dos voadores devido a incrível condição de vôo que o local oferece. Valadares foi descoberta no inicio dos anos 80 por uma caravana de pilotos cariocas em busca picos de vôo.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911041839 -0300" stop="20250911044631 -0300" channel="canal-off">
+    <title lang="pt">Todas As Cores Do Brasil</title>
+    <sub-title lang="pt">Para o Alto e Avante</sub-title>
+    <desc lang="pt"> - Um atleta olímpico, um guia de montanhismo e um desbravador de trilhas se encontram no Rio de Janeiro para uma escalada na trilha da Urca.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911044634 -0300" stop="20250911050917 -0300" channel="canal-off">
+    <title lang="pt">Off Docs</title>
+    <sub-title lang="pt">The Filer Creek Expedition</sub-title>
+    <desc lang="pt"> - Um time liderdo por Ed Muggridge faz a primeira descida da Filer Creek, uma corredeira canadense de 66 km que vai to topo da montanha ao oceano Pacífico.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911050918 -0300" stop="20250911053727 -0300" channel="canal-off">
+    <title lang="pt">Off Docs</title>
+    <sub-title lang="pt">Chancla Video</sub-title>
+    <desc lang="pt"> - Atravessando o Brasil com uma emocionante corrida de quilômetros por hora, a equipe do Chancla, com os maiores nomes do skate nacional, faz manobras em 15 dias de viagem.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250911053729 -0300" stop="20250911060136 -0300" channel="canal-off">
+    <title lang="pt">Off Docs</title>
+    <sub-title lang="pt">Becoming Bronson</sub-title>
+    <desc lang="pt"> - Bronson Meydi, de 16 anos, cresceu no restaurante de sua mãe em uma ilha, com ondas de qualidade mundial na porta. Será ele o primeiro indonésio a se classificar para o WCT?</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911060138 -0300" stop="20250911063027 -0300" channel="canal-off">
+    <title lang="pt">Off Docs</title>
+    <sub-title lang="pt">Jullieti: Uma Vida Nas Montanhas</sub-title>
+    <desc lang="pt"> - Após alcançarem o cume do Monte Roraima, Juliana, Guilherme e Ben exploram o platô surreal da montanha. Enfrentando novos desafios e celebrando a realização de um sonho.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911063029 -0300" stop="20250911065012 -0300" channel="canal-off">
+    <title lang="pt">Off Docs</title>
+    <sub-title lang="pt">Dream Lines 4</sub-title>
+    <desc lang="pt"> - Quarto vídeo da série produzida por Jokke Summers, o documentário registra espetaculares imagens de wingsuit proximity flying protagonizadas por ele próprio, Robert Pecnik e Ludovic Woerth. Os voos são registrados em Silberhorn e Hintisberg, na Suíça, e Chamonix, na França.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911065013 -0300" stop="20250911070018 -0300" channel="canal-off">
+    <title lang="pt">Curtas Do Off</title>
+    <sub-title lang="pt">Bike Under The Lights</sub-title>
+    <desc lang="pt"> - No meio de uma floresta, os bikers armam uma estrutura de luzes neon para uma sessão noturna dominada por performance e cores. Andar em uma pista colorida a noite é como fazer parte de um quadro enquanto ele está sendo pintado.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911070020 -0300" stop="20250911072836 -0300" channel="canal-off">
+    <title lang="pt">Pela Rua</title>
+    <sub-title lang="pt">De Aracaju a São Paulo</sub-title>
+    <desc lang="pt"> - A perna nordestina da temporada termina nesse episódio, em Aracajú. Em seguida o episódio mostra sessões na pista do Chuvisco, prestes a ser inaugurada e termina na Rajas Skatepark.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911072838 -0300" stop="20250911075616 -0300" channel="canal-off">
+    <title lang="pt">Pela Rua</title>
+    <sub-title lang="pt">Chácara do Jóquei e Cave Pool (SP)</sub-title>
+    <desc lang="pt"> - Mais um episódio em São Paulo, dessa vez nas pistas da Chácara do Jóquei e na Cave Pool. Sessões divertidíssimas com a galera das transições.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911075618 -0300" stop="20250911082422 -0300" channel="canal-off">
+    <title lang="pt">Crowd Selvagem</title>
+    <sub-title lang="pt">Uluwatu</sub-title>
+    <desc lang="pt"> - Uluwatu é uma das esquerdas mais famosas e democráticas do mundo. O pico, no entanto, também é conhecido por ter um dos crowds mais insanos do planeta reunindo surfistas profissionais, freesurfers e amadores.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911082424 -0300" stop="20250911085247 -0300" channel="canal-off">
+    <title lang="pt">Crowd Selvagem</title>
+    <sub-title lang="pt">Malibu</sub-title>
+    <desc lang="pt"> - Malibu é uma das praias mais famosas do mundo. Conhecida pelas ondas mas também pelo público famoso que a frequenta, a praia pode ser considerada uma das mais populares entre surfistas e amadores em busca da onda perfeita.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911085249 -0300" stop="20250911092055 -0300" channel="canal-off">
+    <title lang="pt">Lendas Em Fiji</title>
+    <sub-title lang="pt">Cloudbreak e oficinas pioneiras</sub-title>
+    <desc lang="pt"> - As lendas do surfe brasileiro surfam as maravilhosas esquerdas de Cloudbreak. Eles contam histórias pouco conhecidas sobre suas primeiras pranchas e primeiras oficinas.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911092058 -0300" stop="20250911095047 -0300" channel="canal-off">
+    <title lang="pt">Yoga Em Todo Lugar</title>
+    <sub-title lang="pt">Ocupando Espaços</sub-title>
+    <desc lang="pt"> - No primeiro episódio da temporada, apresentamos nossos principais personagens e suas visões únicas sobre o yoga. Uma prática plural e inclusiva.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911095049 -0300" stop="20250911102146 -0300" channel="canal-off">
+    <title lang="pt">Vida Que Eu Queria, A</title>
+    <sub-title lang="pt">De Volta à Estrada </sub-title>
+    <desc lang="pt"> - O mar sobe e a dupla tem dificuldade de encontrar boas condições no sul de Portugal, deixam o Algarve e partem rumo a Peniche, onde têm uma agradável surpresa em Super Tubos.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911102149 -0300" stop="20250911105056 -0300" channel="canal-off">
+    <title lang="pt">Forças Da Natureza</title>
+    <sub-title lang="pt">Desafio Em 24 Horas</sub-title>
+    <desc lang="pt"> - No primeiro episódio desta segunda temporada, Karina Oliani parte para um novo desafio: escalar duas montanhas super expostas na Suíça e na Itália em menos de 24 horas.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911105058 -0300" stop="20250911112007 -0300" channel="canal-off">
+    <title lang="pt">Off Docs</title>
+    <sub-title lang="pt">Jullieti: Uma Vida Nas Montanhas</sub-title>
+    <desc lang="pt"> - Após alcançarem o cume do Monte Roraima, Juliana, Guilherme e Ben exploram o platô surreal da montanha. Enfrentando novos desafios e celebrando a realização de um sonho.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911112009 -0300" stop="20250911114047 -0300" channel="canal-off">
+    <title lang="pt">Off Docs</title>
+    <sub-title lang="pt">Dream Lines 4</sub-title>
+    <desc lang="pt"> - Quarto vídeo da série produzida por Jokke Summers, o documentário registra espetaculares imagens de wingsuit proximity flying protagonizadas por ele próprio, Robert Pecnik e Ludovic Woerth. Os voos são registrados em Silberhorn e Hintisberg, na Suíça, e Chamonix, na França.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911114049 -0300" stop="20250911122718 -0300" channel="canal-off">
+    <title lang="pt">Off Docs</title>
+    <sub-title lang="pt">João Nas Rodas Da Liberdade</sub-title>
+    <desc lang="pt"> - João Handbike, jovem nascido com mielominingocele, desafia-se a ser o primeiro cadeirante a atravessar os Lençóis Maranhenses.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911122720 -0300" stop="20250911130132 -0300" channel="canal-off">
+    <title lang="pt">Off Docs</title>
+    <sub-title lang="pt">Meu Nome É João Chianca</sub-title>
+    <desc lang="pt"> - Um brasileiro que chegou como um meteoro à elite do surfe, experimentou altos e baixos, lutou e conseguiu se levantar. O nome dele é João Chianca.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911130134 -0300" stop="20250911132950 -0300" channel="canal-off">
+    <title lang="pt">Trilhas E Travessias</title>
+    <sub-title lang="pt">Pelos Caminhos de Hawdon Valley Track</sub-title>
+    <desc lang="pt"> - Saindo do litoral elas partem para a região central da Ilha Sul. Lá elas fazem a trilha Hawdon Valley Track. Pelo caminho elas se apaixonam pela aventura e pelo visual incrível.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911132953 -0300" stop="20250911135830 -0300" channel="canal-off">
+    <title lang="pt">Trilhas E Travessias</title>
+    <sub-title lang="pt">Mar e Montanhas em Chistchurch</sub-title>
+    <desc lang="pt"> - Trilhas em meio às deslumbrantes paisagens da Nova Zelândia, fazem o país se destacar. Na próxima temporada do Trilhas e Travessias as apresentadoras, Júlia Ericson e Marina Machado, vivenciarão nesse destino mágico desde lagos azul turquesa, fiordes em meio a cenários dramáticos, glaciares bem próximos à beira-mar, emocionante salto de brãiungee jump em um cânion até banquetes preparado à moda dos Hobbits.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911135832 -0300" stop="20250911142758 -0300" channel="canal-off">
+    <title lang="pt">Caçadores De Marés</title>
+    <sub-title lang="pt">Primeira parada: Malásia </sub-title>
+    <desc lang="pt"> - Serginho Laus encara uma jornada intensa nas pororocas do interior da Malásia em busca de novas ondas. Um desafio em águas desconhecidas e ondas selvagens.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911142801 -0300" stop="20250911145535 -0300" channel="canal-off">
+    <title lang="pt">Peixe Frito</title>
+    <sub-title lang="pt">Arte</sub-title>
+    <desc lang="pt"> - O processo criativo de artistas dos mais variados meios que compartilham o amor pela vida e por se expressar – dentro do mar e fora dele. Afinal, surfe também é arte?</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911145537 -0300" stop="20250911154524 -0300" channel="canal-off">
+    <title lang="pt">Skate The World</title>
+    <desc lang="pt"> - Mathieu encontra skatistas criativos e apaixonados. De Buenos Aires a Mar del Plata, ele descobre uma cena em plena efervescência, cheio de amantes do esporte.</desc>
+    <episode-num system="xmltv_ns">.18.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250911154526 -0300" stop="20250911161427 -0300" channel="canal-off">
+    <title lang="pt">Pela Rua</title>
+    <sub-title lang="pt">Aracaju na essência</sub-title>
+    <desc lang="pt"> - As sessões desse episódio começam em Maceió, no Rio Grande do Norte e seguem pra Aracajú, Sergipe. Sessões de skate em pistas e nas ruas. Muitos skatistas locais e muitas manobras.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911161429 -0300" stop="20250911164245 -0300" channel="canal-off">
+    <title lang="pt">Pela Rua</title>
+    <sub-title lang="pt">Praças de Aracaju</sub-title>
+    <desc lang="pt"> - A perna nordestina da temporada está quase no fim nesse episódio em Aracajú. Picos clássicos da região, rua, pistas e skatistas locais. A viagem pelo nordeste prestes a fechar com chave de ouro.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911164247 -0300" stop="20250911170625 -0300" channel="canal-off">
+    <title lang="pt">Off Docs</title>
+    <sub-title lang="pt">The Filer Creek Expedition</sub-title>
+    <desc lang="pt"> - Um time liderdo por Ed Muggridge faz a primeira descida da Filer Creek, uma corredeira canadense de 66 km que vai to topo da montanha ao oceano Pacífico.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911170627 -0300" stop="20250911173456 -0300" channel="canal-off">
+    <title lang="pt">Off Docs</title>
+    <sub-title lang="pt">Chancla Video</sub-title>
+    <desc lang="pt"> - Atravessando o Brasil com uma emocionante corrida de quilômetros por hora, a equipe do Chancla, com os maiores nomes do skate nacional, faz manobras em 15 dias de viagem.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250911173458 -0300" stop="20250911175844 -0300" channel="canal-off">
+    <title lang="pt">Off Docs</title>
+    <sub-title lang="pt">Becoming Bronson</sub-title>
+    <desc lang="pt"> - Bronson Meydi, de 16 anos, cresceu no restaurante de sua mãe em uma ilha, com ondas de qualidade mundial na porta. Será ele o primeiro indonésio a se classificar para o WCT?</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911175847 -0300" stop="20250911182647 -0300" channel="canal-off">
+    <title lang="pt">Nalu E Zay Pelo Mundo</title>
+    <sub-title lang="pt">Expectativas pro ano com a chegada do Zay</sub-title>
+    <desc lang="pt"> - A família Nalu faz uma retrospectiva de como foram as primeiras experiências pelo mundo e quais são expectativas para uma nova jornada, agora com o Zay.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911182650 -0300" stop="20250911185431 -0300" channel="canal-off">
+    <title lang="pt">Nalu E Zay Pelo Mundo</title>
+    <sub-title lang="pt">Temporada no Havaí</sub-title>
+    <desc lang="pt"> - A Família arruma as malas para a primeira temporada Havaiana com o Zay. Acomodados em uma casa de frente para o mar, desfrutam do clima e mostram a rotina de treinamento da Bela.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911185433 -0300" stop="20250911192252 -0300" channel="canal-off">
+    <title lang="pt">Mares Do Oriente</title>
+    <sub-title lang="pt">Surfe e Diversão</sub-title>
+    <desc lang="pt"> - Para os japoneses o surfe vai muito além do esporte. Para eles, o surfe é sinônimo de diversão. Desde as roupas até as pranchas, os surfistas japoneses surpreendem na irreverência.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911192253 -0300" stop="20250911195315 -0300" channel="canal-off">
+    <title lang="pt">O Skate Mudou Minha Vida</title>
+    <sub-title lang="pt">Desbravando Pistas</sub-title>
+    <desc lang="pt"> - Os paraskatistas Ruan Silva, Adriano Feitosa e Ruan Felipe viajam à São Paulo para matar a saudade de pistas clássicas e desbravar outras que sonhavam em conhecer.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911195319 -0300" stop="20250911200555 -0300" channel="canal-off">
+    <title lang="pt">Curtas Do Off</title>
+    <sub-title lang="pt">Seres Noturnos</sub-title>
+    <desc lang="pt"> - O verão carioca obrigou alguns seres a fazerem a mutação para se adaptar às altas temperaturas e continuar escalando. Nossos 4 seres mostrarão as dificuldades e as facilidades da noite</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911200556 -0300" stop="20250911203532 -0300" channel="canal-off">
+    <title lang="pt">Kaiak</title>
+    <sub-title lang="pt">Rio Siyoum</sub-title>
+    <desc lang="pt"> - Os três seguem para o rio Siyoum e tentarão ser os primeiros a descer por ele. O rio é cheio de rochas, o que dificulta na hora de remar. Eles chegam num trecho onde árvores bloqueiam o caminho e precisam parar para estudar a linha a seguir.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911203536 -0300" stop="20250911210541 -0300" channel="canal-off">
+    <title lang="pt">Kaiak</title>
+    <sub-title lang="pt">Bengala, Índia</sub-title>
+    <desc lang="pt"> - Ben, Chris e Pedro chegam a um rio em Bengala, fronteira com a China, e logo começam a explorá-lo com os caiaques. Porém, eles encontram um empecilho no caminho: uma cachoeira muito estreita que não tem como passar com os caiaques.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911210544 -0300" stop="20250911213422 -0300" channel="canal-off">
+    <title lang="pt">Visão De Rua</title>
+    <sub-title lang="pt">Algoritmos</sub-title>
+    <desc lang="pt"> - Com o tema  “Algoritmo”, a equipe aborda temas de ferramentas de distribuição de conteúdos das redes sociais para seus usuários.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911213424 -0300" stop="20250911220225 -0300" channel="canal-off">
+    <title lang="pt">Domke's Show</title>
+    <sub-title lang="pt">Tubos e Aéreos no Panamá</sub-title>
+    <desc lang="pt"> - Brad continua na casa do amigo Andrea, em Bocas Del Toro, Panamá. Pegando muitos tubos e mandando aéreos nos seus picos preferidos.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911220229 -0300" stop="20250911223137 -0300" channel="canal-off">
+    <title lang="pt">Sem Fricção</title>
+    <sub-title lang="pt">A Trajetória De Derek Hynd</sub-title>
+    <desc lang="pt"> - A construção da carreira de Derek Hynd e a revolução das pranchas sem quilhas. Seu estilo de vida excêntrico e os momentos que marcaram a trajetória profissional do australiano.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911223139 -0300" stop="20250911230023 -0300" channel="canal-off">
+    <title lang="pt">África 360º</title>
+    <desc lang="pt"> - No último episódio da temporada, os irmãos Azulay relembram os melhores momentos da viagem pelo sul do continente africano, desde os perrengues até as melhores ondas surfadas.</desc>
+    <episode-num system="xmltv_ns">2..</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911230025 -0300" stop="20250911234859 -0300" channel="canal-off">
+    <title lang="pt">Expedition Kayak</title>
+    <desc lang="pt"> - A turma se prepara para descer 10 km do Rio Caopacho - um dos maiores cânions de Quebec. Depois de chuvas torrenciais, o rio está agitado e a missão fica comprometida.</desc>
+    <episode-num system="xmltv_ns">.3.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250911234900 -0300" stop="20250911235959 -0300" channel="canal-off">
+    <title lang="pt">Curtas Do Off</title>
+    <sub-title lang="pt">Arte, Cor E Renascimento</sub-title>
+    <desc lang="pt"> - Um olhar sobre o evento Arte core e o seu retorno pós pandemia. Esse renascimento é importante na vida cultural da cidade e acontece em um dos mais importantes museus o MAM-RJ.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
     </rating>
   </programme>
   <programme start="20250910233851 -0300" stop="20250911000253 -0300" channel="modo-viagem">
@@ -25269,7 +25971,7 @@ gravações de Game of Thrones, Rodrigo faz um tour completo pela cidade."</desc
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250911215051 -0300" stop="20250911222059 -0300" channel="modo-viagem">
+  <programme start="20250911215051 -0300" stop="20250911222146 -0300" channel="modo-viagem">
     <title lang="pt">Brasil Visto De Cima</title>
     <sub-title lang="pt">Serra Fluminense - RJ</sub-title>
     <desc lang="pt"> - A Serra Fluminense é o cenário deste episódio do “Brasil Visto de Cima”. O clima, as montanhas que despertaram curiosidade e a paixão da Família Real nos tempos do Brasil império. Os famosos casarões que se transformaram em museus. As cidades de Petrópolis e Teresópolis na região que é um prato cheio para alpinistas e escaladores. Na serra fluminense também fica a casa da seleção brasileira durante suas temporadas de treinos pelo país. O “Brasil Visto de Cima” mostrará o belo Rio de Janeiro distante do litoral.</desc>
@@ -25277,7 +25979,7 @@ gravações de Game of Thrones, Rodrigo faz um tour completo pela cidade."</desc
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250911222100 -0300" stop="20250911224759 -0300" channel="modo-viagem">
+  <programme start="20250911222148 -0300" stop="20250911224811 -0300" channel="modo-viagem">
     <title lang="pt">Mundo Visto De Cima</title>
     <sub-title lang="pt">País de Gales - Parte 1</sub-title>
     <desc lang="pt"> - O País de Gales é famoso por sua beleza e passado histórico. Tem uma forte herança industrial, e hoje, atrai milhões de visitantes graças as maravilhas de suas paisagens.</desc>
@@ -25285,7 +25987,7 @@ gravações de Game of Thrones, Rodrigo faz um tour completo pela cidade."</desc
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250911224800 -0300" stop="20250911231359 -0300" channel="modo-viagem">
+  <programme start="20250911224813 -0300" stop="20250911231438 -0300" channel="modo-viagem">
     <title lang="pt">Mundo Visto De Cima</title>
     <sub-title lang="pt">País de Gales - Parte 2</sub-title>
     <desc lang="pt"> - O País de Gales tem uma forte herança industrial, mas também é famoso por suas paisagens leves e exuberantes e pela beleza de seu litoral.</desc>
@@ -25293,7 +25995,7 @@ gravações de Game of Thrones, Rodrigo faz um tour completo pela cidade."</desc
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250911231400 -0300" stop="20250912000359 -0300" channel="modo-viagem">
+  <programme start="20250911231441 -0300" stop="20250912000359 -0300" channel="modo-viagem">
     <title lang="pt">As Maravilhas Do Mundo</title>
     <sub-title lang="pt">Córsega - A Beleza do Mediterrâneo</sub-title>
     <desc lang="pt"> - A Corsica é a quarta maior ilha do Mediterrâneo, um território verdadeiramente preservado e autêntico que promete uma viagem rica em emoções em meio às paisagens de tirar o fôlego.</desc>
@@ -25468,14 +26170,14 @@ gravações de Game of Thrones, Rodrigo faz um tour completo pela cidade."</desc
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250911213003 -0300" stop="20250911232959 -0300" channel="premiere">
+  <programme start="20250911213003 -0300" stop="20250911234427 -0300" channel="premiere">
     <title lang="pt">Copa do Brasil: Botafogo x Vasco - ao vivo</title>
     <sub-title lang="pt">Quartas de Final</sub-title>
     <desc lang="pt">O ciclo de 2025 iniciou, os jogos com finais inesperados, com toda e emoção que a Copa do Brasil tem, Tem coisas que só acontecem na Copa do Brasil!
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250911233000 -0300" stop="20250912002959 -0300" channel="premiere">
+  <programme start="20250911234429 -0300" stop="20250912002959 -0300" channel="premiere">
     <title lang="pt">VT - Copa do Brasil: Corinthians x Athletico-PR</title>
     <desc lang="pt">O ciclo de 2025 iniciou, os jogos com finais inesperados, com toda e emoção que a Copa do Brasil tem, Tem coisas que só acontecem na Copa do Brasil! A Copa do Brasil, tem que ver no sportv! 
 </desc>
@@ -25608,7 +26310,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
     <desc lang="pt"> - Uma batalha de técnica, resistência e estratégia. o MAC promete adrenalina pura, superação e um desfecho emocionante.</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250911235109 -0300" stop="20250912014504 -0300" channel="combate">
+  <programme start="20250911235109 -0300" stop="20250912013959 -0300" channel="combate">
     <title lang="pt">One Fight Night 35</title>
     <desc lang="pt"> - Terceira maior franquia de MMA mundial e a principal da Ásia, presente em mais de 170 países, o One é a liga esportiva de diferentes modalidades além do MMA.</desc>
     <category lang="en">sports (general)</category>
@@ -25644,6 +26346,14 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
   </programme>
   <programme start="20250912024500 -0300" stop="20250912032459 -0300" channel="tv-globo">
     <title lang="pt">Comédia na Madruga II</title>
+    <sub-title lang="pt">Vai Que Cola</sub-title>
+    <desc lang="pt"> - Exibição dos melhores momentos do Vai Que Cola.</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250912032500 -0300" stop="20250912035959 -0300" channel="tv-globo">
+    <title lang="pt">Comédia na Madruga III</title>
     <sub-title lang="pt">Vai Que Cola</sub-title>
     <desc lang="pt"> - Exibição dos melhores momentos do Vai Que Cola.</desc>
     <rating system="Brazil">
@@ -25773,7 +26483,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250911233000 -0300" stop="20250912005959 -0300" channel="sportv">
+  <programme start="20250911232854 -0300" stop="20250912004013 -0300" channel="sportv">
     <title lang="pt">Troca de Passes - ao vivo</title>
     <desc lang="pt"> - Felipe Diniz, Carlos Eduardo Mansur e Alex Meschini troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada. Veja os melhores momentos, tire as dúvidas daquele lance polêmico acompanhe a repercussão com jogadores e treinadores no calor do jogo. Aqui ninguém fica em cima do muro.</desc>
     <category lang="en">live broadcast</category>
@@ -25909,7 +26619,12 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250912000000 -0300" stop="20250912015959 -0300" channel="sportv-2">
+  <programme start="20250911203004 -0300" stop="20250912000125 -0300" channel="sportv-2">
+    <title lang="pt">NFL: Commanders x Packers - ao vivo</title>
+    <desc lang="pt">Prepare-se para a energia contagiante da NFL. Equipes duelam em jogadas rápidas e estratégicas, onde velocidade, força e precisão se encontram.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20250912000131 -0300" stop="20250912015959 -0300" channel="sportv-2">
     <title lang="pt">VT - Camp. Paulista de Vôlei Feminino: Sesi-Bauru x Barueri</title>
     <desc lang="pt">As maiores atrações do vôlei paulista você acompanha aqui no sportv! Tá no vôlei, tá no sportv
 </desc>
@@ -25935,7 +26650,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
     <desc lang="pt"> - Acompanhe como está indo os Jogos de Los Angeles em 2028. toda semana, o programa traz entrevistas, atualidades, termômetro de competições e informações do mundo Olímpico com Marcelo Barreto e Fabi Alvim</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250912070000 -0300" stop="20250912072959 -0300" channel="sportv-2">
+  <programme start="20250912070000 -0300" stop="20250912073959 -0300" channel="sportv-2">
     <title lang="pt">Sem Bloqueio: : O Mundo Mágico De Macau</title>
     <desc lang="pt">Veja os bastidores da seleção em Macau para a segunda etapa da VNL. É a hora do Brasil enfrentar Japão e Itália e tentar manter sua invencibilidade. Na folga, atletas se divertem em um mundo lúdico.</desc>
     <category lang="en">sports (general)</category>
@@ -25944,14 +26659,14 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250912073000 -0300" stop="20250912092959 -0300" channel="sportv-2">
+  <programme start="20250912074000 -0300" stop="20250912094959 -0300" channel="sportv-2">
     <title lang="pt">VT - Camp. Paulista de Vôlei Feminino: Sesi-Bauru x Barueri</title>
     <desc lang="pt">As maiores atrações do vôlei paulista você acompanha aqui no sportv! Tá no vôlei, tá no sportv
 </desc>
     <category lang="en">team sports</category>
     <previously-shown />
   </programme>
-  <programme start="20250912100000 -0300" stop="20250912115959 -0300" channel="sportv-2">
+  <programme start="20250912095000 -0300" stop="20250912115959 -0300" channel="sportv-2">
     <title lang="pt">Brasileirão de Futebol de Cegos: Final - ao vivo</title>
     <sub-title lang="pt">Final</sub-title>
     <desc lang="pt">Acompanhe os jogos do campeonato com todos os detalhes, tá no sportv!
@@ -25988,13 +26703,18 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250912190000 -0300" stop="20250912195959 -0300" channel="sportv-2">
-    <title lang="pt">Hello LA - Inédito</title>
-    <desc lang="pt"> - Acompanhe como está indo os Jogos de Los Angeles em 2028. toda semana, o programa traz entrevistas, atualidades, termômetro de competições e informações do mundo Olímpico com Marcelo Barreto e Fabi Alvim</desc>
+  <programme start="20250912180000 -0300" stop="20250912182959 -0300" channel="sportv-2">
+    <title lang="pt">Baú do Esporte: Lendas - Falcão (futsal)</title>
+    <desc lang="pt">Quer reviver aquele jogo inesquecível? Saber o que seu ídolo sentiu na hora do gol decisivo? O Baú do Esporte traz diariamente os grandes momentos e personagens que marcaram a história esportiva do Brasil e do mundo.</desc>
     <category lang="en">sports (general)</category>
-    <new />
   </programme>
-  <programme start="20250912200000 -0300" stop="20250912225959 -0300" channel="sportv-2">
+  <programme start="20250912183000 -0300" stop="20250912192959 -0300" channel="sportv-2">
+    <title lang="pt">Faixa Olímpica: Lendas do Verãoúnico</title>
+    <desc lang="pt">A história de sucesso de duas lendas dos Jogos de Verão: Jackie Silva, do vôlei de praia, e Ian Thorpe, da natação</desc>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">.-1.</episode-num>
+  </programme>
+  <programme start="20250912193000 -0300" stop="20250912225959 -0300" channel="sportv-2">
     <title lang="pt">VT - Mundial de Atletismo: Marcha Atlética 35km E Masculino 35km</title>
     <sub-title lang="pt">Final Feminina</sub-title>
     <desc lang="pt">Atletismo é no SporTV! Acompanhe mais um grande evento. SporTV: Somos Todos Campeões!</desc>
@@ -26007,13 +26727,6 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250911211042 -0300" stop="20250912001932 -0300" channel="sportv-3">
-    <title lang="pt">VT - US Open: Final Masculina</title>
-    <sub-title lang="pt">Final Masculina</sub-title>
-    <desc lang="pt">Assista a competição mais antiga de Tênis do mundo a competição ocorre em Nova York. Us open é um dos torneios Grand Slam. Tá no Us Open, tá no sportv.</desc>
-    <category lang="en">tennis/squash</category>
-    <previously-shown />
-  </programme>
   <programme start="20250911213000 -0300" stop="20250912002959 -0300" channel="sportv-3">
     <title lang="pt">VT - US Open: Final Masculina</title>
     <sub-title lang="pt">Final Masculina</sub-title>
@@ -26021,14 +26734,21 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
     <category lang="en">tennis/squash</category>
     <previously-shown />
   </programme>
-  <programme start="20250912001935 -0300" stop="20250912023433 -0300" channel="sportv-3">
+  <programme start="20250911220458 -0300" stop="20250912011348 -0300" channel="sportv-3">
+    <title lang="pt">VT - US Open: Final Masculina</title>
+    <sub-title lang="pt">Final Masculina</sub-title>
+    <desc lang="pt">Assista a competição mais antiga de Tênis do mundo a competição ocorre em Nova York. Us open é um dos torneios Grand Slam. Tá no Us Open, tá no sportv.</desc>
+    <category lang="en">tennis/squash</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250912011351 -0300" stop="20250912032849 -0300" channel="sportv-3">
     <title lang="pt">VT - US Open: Final Feminina</title>
     <sub-title lang="pt">Final Feminina</sub-title>
     <desc lang="pt">Assista a competição mais antiga de Tênis do mundo a competição ocorre em Nova York. Us open é um dos torneios Grand Slam. Tá no Us Open, tá no sportv.</desc>
     <category lang="en">tennis/squash</category>
     <previously-shown />
   </programme>
-  <programme start="20250912023436 -0300" stop="20250912032332 -0300" channel="sportv-3">
+  <programme start="20250912032851 -0300" stop="20250912052959 -0300" channel="sportv-3">
     <title lang="pt">Faixa Combate: Mac 14</title>
     <desc lang="pt">Uma batalha de técnica, resistência e estratégia. o MAC promete adrenalina pura, superação e um desfecho emocionante.</desc>
     <category lang="en">sports (general)</category>
@@ -26608,7 +27328,7 @@ PROGRAMA EXIBIDO EM 11/09/2025</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250911233200 -0300" stop="20250912010359 -0300" channel="bis">
+  <programme start="20250911233236 -0300" stop="20250912010359 -0300" channel="bis">
     <title lang="pt">Laurent Garnier: Off The Record</title>
     <sub-title lang="pt">Arquivo Musical</sub-title>
     <desc lang="pt"> - Conheça Laurent Garnier, um dos padrinhos da house music, desde seu surgimento no cenário musical até hoje.  Essa visão única é um retrato íntimo do homem por trás da lenda.</desc>
@@ -26884,6 +27604,14 @@ PROGRAMA EXIBIDO EM 11/09/2025</desc>
     <desc lang="pt"> - A 11ª temporada de Experimente apresenta em 12 episódios bandas que estão começando a despontar no cenário musical brasileiro. Nesse episódio, é a vez de conhecer Muamba!</desc>
     <rating system="Brazil">
       <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250912125500 -0300" stop="20250912132459 -0300" channel="bis">
+    <title lang="pt">Lounge</title>
+    <desc lang="pt"> - Na 3ª temporada do Lounge, Ana Canãs, Jesuton, Tassia Reis, Mya Machado, Agnes e Mini Lamers cantam sucessos nacionais e internacionais. Em formato intimista, as cantoras interpretam em arranjos de Jazz e de Bossa Nova.</desc>
+    <episode-num system="xmltv_ns">2..</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
     </rating>
   </programme>
   <programme start="20250912132500 -0300" stop="20250912142459 -0300" channel="bis">
@@ -27291,7 +28019,7 @@ desde 1380.</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250911233600 -0300" stop="20250912003359 -0300" channel="globoplay-novelas">
+  <programme start="20250911233644 -0300" stop="20250912003359 -0300" channel="globoplay-novelas">
     <title lang="pt">Celebridade</title>
     <desc lang="pt"> - Fernando leva Tânia para conhecer o Rio. Zeca se esconde de Renato no apartamento de Jaqueline. Noêmia encontra Jairo. Darlene entra em trabalho de parto.</desc>
     <rating system="Brazil">
@@ -27515,7 +28243,7 @@ desde 1380.</desc>
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250911231000 -0300" stop="20250912004259 -0300" channel="canal-brasil">
+  <programme start="20250911231103 -0300" stop="20250912004459 -0300" channel="canal-brasil">
     <title lang="pt">Lispectorante</title>
     <desc lang="pt"> - Afundada numa crise existencial e financeira, Glória Hartman, 58 anos, retorna ao Recife, sua cidade natal. Através de uma fenda nos escombros da casa onde morou Clarice Lispector, Glória começa a ver coisas misteriosas.</desc>
     <rating system="Brazil">
@@ -27734,6 +28462,14 @@ desde 1380.</desc>
     <title lang="pt">Off Docs</title>
     <sub-title lang="pt">Do Outro Lado Do Céu</sub-title>
     <desc lang="pt"> - Do Outro Lado do Céu é um documentário que trata do cotidiano, memórias e perspectivas futuras de, Iury, jovem morador da Cidade de deus. Ele é um dos poucos praticantes de surfe da comunidade nem tão distante do mar. Abordei o tema de uma maneira que acredito faltar nas mídias, sob uma perspectiva sensível, local e sem o material gráfico que geralmente popula os documentários desse tema, porém sem deixar de mencionar episódios duros dessa rotina. O filme, assim, trabalha em direção da conscientização do espectador que tem preconceito com os moradores de favela, assim como combate o racismo e propõe a importância de inserir jovens favelados nos esportes, e em especial, no surfe, esporte que originalmente é praticado pela elite carioca, mas que merece atenção na forma como têm sido adotado como hobbie fundamental na vida de jovens em condições mais precárias. Iury é um apaixonado pelo surfe.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250912011200 -0300" stop="20250912014059 -0300" channel="canal-off">
+    <title lang="pt">Kaiak</title>
+    <sub-title lang="pt">Rio Siyoum</sub-title>
+    <desc lang="pt"> - Os três seguem para o rio Siyoum e tentarão ser os primeiros a descer por ele. O rio é cheio de rochas, o que dificulta na hora de remar. Eles chegam num trecho onde árvores bloqueiam o caminho e precisam parar para estudar a linha a seguir.</desc>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -28114,14 +28850,6 @@ Fernando de Noronha, marcante em sua vida e fundamental para sua carreira.</desc
     <sub-title lang="pt">Uso consciente da Água</sub-title>
     <desc lang="pt"> - Convidamos especialistas para discutir quais os efeitos e impactos da crise hídrica nas questões climáticas
 vividas em nosso planeta e quais os meios para diminuir tais impactos.</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250911231400 -0300" stop="20250912000359 -0300" channel="modo-viagem">
-    <title lang="pt">As Maravilhas Do Mundo</title>
-    <sub-title lang="pt">Córsega - A Beleza do Mediterrâneo</sub-title>
-    <desc lang="pt"> - A Corsica é a quarta maior ilha do Mediterrâneo, um território verdadeiramente preservado e autêntico que promete uma viagem rica em emoções em meio às paisagens de tirar o fôlego.</desc>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -28550,7 +29278,7 @@ encontramos os Dragões de Komodo"</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250911233000 -0300" stop="20250912002959 -0300" channel="premiere">
+  <programme start="20250911234359 -0300" stop="20250912002959 -0300" channel="premiere">
     <title lang="pt">VT - Copa do Brasil: Corinthians x Athletico-PR</title>
     <desc lang="pt">O ciclo de 2025 iniciou, os jogos com finais inesperados, com toda e emoção que a Copa do Brasil tem, Tem coisas que só acontecem na Copa do Brasil! A Copa do Brasil, tem que ver no sportv! 
 </desc>
@@ -28735,12 +29463,12 @@ encontramos os Dragões de Komodo"</desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250911235109 -0300" stop="20250912014504 -0300" channel="combate">
+  <programme start="20250911235109 -0300" stop="20250912013959 -0300" channel="combate">
     <title lang="pt">One Fight Night 35</title>
     <desc lang="pt"> - Terceira maior franquia de MMA mundial e a principal da Ásia, presente em mais de 170 países, o One é a liga esportiva de diferentes modalidades além do MMA.</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250912014507 -0300" stop="20250912021237 -0300" channel="combate">
+  <programme start="20250912014000 -0300" stop="20250912021459 -0300" channel="combate">
     <title lang="pt">Faixa Brasil: Panteão Olímpico - Judô</title>
     <desc lang="pt">Panteão Olímpico</desc>
     <category lang="en">sports (general)</category>
@@ -28748,7 +29476,7 @@ encontramos os Dragões de Komodo"</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250912021239 -0300" stop="20250912023945 -0300" channel="combate">
+  <programme start="20250912021500 -0300" stop="20250912024459 -0300" channel="combate">
     <title lang="pt">Faixa Brasil: Panteão Olímpico - Boxe</title>
     <desc lang="pt">Panteão Olímpico</desc>
     <category lang="en">sports (general)</category>
@@ -28757,7 +29485,7 @@ encontramos os Dragões de Komodo"</desc>
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250912023946 -0300" stop="20250912035541 -0300" channel="combate">
+  <programme start="20250912024500 -0300" stop="20250912054459 -0300" channel="combate">
     <title lang="pt">Pfl World Tournament - Final</title>
     <desc lang="pt"> - PFL é a liga esportiva mais inovadora e de crescimento mais rápido. A PFL é a única com o formato de temporada esportiva em que lutadores individuais competem na Temporada Regular, Playoffs e Campeonato pelo prêmio de 1 milhão de dólares.</desc>
     <category lang="en">sports (general)</category>
