@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2025-09-21 19:45:05" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2025-09-21 21:15:07" generator-info-url="http://limaalef.com">
   <channel id="Claro TV+ 4K">
     <display-name lang="pt">Claro TV+ 4K</display-name>
   </channel>
@@ -105,9 +105,6 @@
   <channel id="tv-globo">
     <display-name lang="pt">tv-globo</display-name>
   </channel>
-  <channel id="ge-tv">
-    <display-name lang="pt">ge-tv</display-name>
-  </channel>
   <channel id="sportv">
     <display-name lang="pt">sportv</display-name>
   </channel>
@@ -116,6 +113,9 @@
   </channel>
   <channel id="sportv-3">
     <display-name lang="pt">sportv-3</display-name>
+  </channel>
+  <channel id="ge-tv">
+    <display-name lang="pt">ge-tv</display-name>
   </channel>
   <channel id="globonews">
     <display-name lang="pt">globonews</display-name>
@@ -19962,7 +19962,7 @@
     <category lang="en">variety show</category>
   </programme>
   <programme start="20250923000000 -0300" stop="20250923060000 -0300" channel="1682">
-    <title lang="pt">Reapresentação de Comissão</title>
+    <title lang="pt">Reapresentação do Plenário</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
@@ -20071,20 +20071,15 @@
     <desc lang="pt"> - </desc>
     <category lang="en">news/current affairs (general)</category>
   </programme>
-  <programme start="20250923040000 -0300" stop="20250923070000 -0300" channel="1765">
+  <programme start="20250923040000 -0300" stop="20250923073000 -0300" channel="1765">
     <title lang="pt">Sessão do STF</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
-  <programme start="20250923070000 -0300" stop="20250923073000 -0300" channel="1765">
-    <title lang="pt">Documentário Variado</title>
-    <desc lang="pt"> - </desc>
-    <category lang="en">movie/drama (general)</category>
-  </programme>
   <programme start="20250923073000 -0300" stop="20250923080000 -0300" channel="1765">
-    <title lang="pt">Documentário Variado</title>
+    <title lang="pt">Documentário Variado: 200 Anos Do Constitucionalismo</title>
     <desc lang="pt"> - </desc>
-    <category lang="en">movie/drama (general)</category>
+    <category lang="en">documentary</category>
   </programme>
   <programme start="20250923080000 -0300" stop="20250923085800 -0300" channel="1765">
     <title lang="pt">Saber Direito - Aula</title>
@@ -20097,7 +20092,7 @@
     <category lang="en">variety show</category>
   </programme>
   <programme start="20250923090000 -0300" stop="20250923125800 -0300" channel="1765">
-    <title lang="pt">Sessão do STF</title>
+    <title lang="pt">Sessão do TST</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
@@ -20112,9 +20107,9 @@
     <category lang="en">variety show</category>
   </programme>
   <programme start="20250923133000 -0300" stop="20250923135800 -0300" channel="1765">
-    <title lang="pt">STJ Notícias</title>
+    <title lang="pt">STJ Entrevista</title>
     <desc lang="pt"> - </desc>
-    <category lang="en">news/current affairs (general)</category>
+    <category lang="en">variety show</category>
   </programme>
   <programme start="20250923135800 -0300" stop="20250923140000 -0300" channel="1765">
     <title lang="pt">Boletim Justiça Agora</title>
@@ -20212,9 +20207,10 @@
     <category lang="en">documentary</category>
   </programme>
   <programme start="20250923070000 -0300" stop="20250923073000 -0300" channel="1779">
-    <title lang="pt">Tela Brasil</title>
+    <title lang="pt">Tela Brasil: Sankofa, A África Que Te Habita - Guiné Bissau</title>
     <desc lang="pt"> - </desc>
     <category lang="en">documentary</category>
+    <episode-num system="xmltv_ns">.3.</episode-num>
   </programme>
   <programme start="20250923073000 -0300" stop="20250923080000 -0300" channel="1779">
     <title lang="pt">Em Discussão</title>
@@ -20232,12 +20228,12 @@
     <category lang="en">news/current affairs (general)</category>
   </programme>
   <programme start="20250923090000 -0300" stop="20250923100000 -0300" channel="1779">
-    <title lang="pt">Comissão: Comissão de Serviços de Infraestrutura</title>
+    <title lang="pt">Comissão</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
   <programme start="20250923100000 -0300" stop="20250923133000 -0300" channel="1779">
-    <title lang="pt">Comissão: Comissão de Assuntos Econômicos</title>
+    <title lang="pt">Comissão</title>
     <desc lang="pt"> - </desc>
     <category lang="en">variety show</category>
   </programme>
@@ -21596,128 +21592,6 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250920234000 -0300" stop="20250921014459 -0300" channel="ge-tv">
-    <title lang="pt">Faixa sportv - Mundial De Vôlei: Brasil x França</title>
-    <desc lang="pt">Tá de volta! Vem acompanhar jogão do Mundial de Vôlei aqui no sportv!
-</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20250921014500 -0300" stop="20250921021459 -0300" channel="ge-tv">
-    <title lang="pt">Nascidos Para O Combate: Fabricio Andrade</title>
-    <desc lang="pt"> - Fique sabendo como foi a vida e carreira de grandes atletas de MMA.</desc>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">5.0.</episode-num>
-  </programme>
-  <programme start="20250921021500 -0300" stop="20250921024959 -0300" channel="ge-tv">
-    <title lang="pt">Nascidos Para O Combate</title>
-    <desc lang="pt"> - Fique sabendo como foi a vida e carreira de grandes atletas de MMA.</desc>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">.1.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20250921025000 -0300" stop="20250922162159 -0300" channel="ge-tv">
-    <title lang="pt">Jungle Fight 139</title>
-    <desc lang="pt"> - Fique por dentro do melhor do MMA da América Latina no Jungle Fight, aqui no sportv!</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20250921055000 -0300" stop="20250921064959 -0300" channel="ge-tv">
-    <title lang="pt">Giro da Rodada: Brasileirão</title>
-    <sub-title lang="pt">23ª Rodada</sub-title>
-    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20250921065000 -0300" stop="20250921071459 -0300" channel="ge-tv">
-    <title lang="pt">Faixa Off: Viagem Na Europa</title>
-    <desc lang="pt">Leticia embarca em uma viagem longa de ônibus para Berlim com o amigo e skatista, Felipe Gustavo. Já na Alemanha, Leticia aproveita um dia de sol para fazer uma sessão de free skate pelas ruas, em uma praça local e em uma pista de street ao ar livre.</desc>
-    <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250921071500 -0300" stop="20250921074459 -0300" channel="ge-tv">
-    <title lang="pt">Faixa Off: Skate Em Cancún</title>
-    <desc lang="pt">Leticia viaja para Cancun para a inauguração do Woodward, um espaço indoor com várias pistas de skate e outras atividades. Esse lugar perfeito para férias foi diversão garantida para Leticia, que aproveitou para se divertir com os amigos. 
-</desc>
-    <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250921083500 -0300" stop="20250921101459 -0300" channel="ge-tv">
-    <title lang="pt">Faixa sportv - Mundial De Vôlei: Brasil x Porto Rico</title>
-    <desc lang="pt">Tá de volta! Vem acompanhar jogão do Mundial de Vôlei aqui no sportv!
-</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20250921101500 -0300" stop="20250921124459 -0300" channel="ge-tv">
-    <title lang="pt">Faixa sportv - Mundial De Vôlei: Itália x Brasil</title>
-    <sub-title lang="pt">Semifinal</sub-title>
-    <desc lang="pt">Tá de volta! Vem acompanhar jogão do Mundial de Vôlei aqui no sportv!
-</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20250921124500 -0300" stop="20250921132959 -0300" channel="ge-tv">
-    <title lang="pt">Giro da Rodada: Brasileirão</title>
-    <sub-title lang="pt">23ª Rodada</sub-title>
-    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20250921133000 -0300" stop="20250921135959 -0300" channel="ge-tv">
-    <title lang="pt">Baú do Esporte: Frente A Frente - Roberto Dinamite E Osmar</title>
-    <desc lang="pt">Quer reviver aquele jogo inesquecível? Saber o que seu ídolo sentiu na hora do gol decisivo? O Baú do Esporte traz diariamente os grandes momentos e personagens que marcaram a história esportiva do Brasil e do mundo.</desc>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">.1.</episode-num>
-  </programme>
-  <programme start="20250921140000 -0300" stop="20250921155959 -0300" channel="ge-tv">
-    <title lang="pt">VT - Brasileirão: São Paulo x Botafogo</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!
-</desc>
-    <category lang="en">football/soccer</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250921140000 -0300" stop="20250921144959 -0300" channel="ge-tv">
-    <title lang="pt">As Bicampeãs</title>
-    <desc lang="pt"> - A série documental AS BICAMPEÃS, acompanha a história da Seleção de vôlei feminino de 2004 a 2012, quando o time brasileiro conquistou duas medalhas de ouro olímpicas inéditas. A série revela desafios, bastidores, processos e emoções dessa trajetória que reverteu a fama de amarelonas da seleção e alçou o time a uma hegemonia histórica.</desc>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">.0.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250921160000 -0300" stop="20250921172959 -0300" channel="ge-tv">
-    <title lang="pt">Pré-Jogo - Flamengo x Vasco - ao vivo</title>
-    <desc lang="pt"> - Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes.
-</desc>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20250921173000 -0300" stop="20250921192959 -0300" channel="ge-tv">
-    <title lang="pt">Brasileirão: Flamengo x Vasco - ao vivo</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!
-</desc>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20250921193000 -0300" stop="20250921202959 -0300" channel="ge-tv">
-    <title lang="pt">Pós-Jogo - Flamengo x Vasco - ao vivo</title>
-    <desc lang="pt"> - Acompanhe o que aconteceu nos jogos.
-</desc>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20250921203000 -0300" stop="20250921221959 -0300" channel="ge-tv">
-    <title lang="pt">VT - CONMEBOL Libertadores: River Plate (ARG) x Palmeiras</title>
-    <desc lang="pt">Ge tv exibe o torneio de clubes mais prestigioso da América do Sul coloca frente a frente os gigantes do futebol.</desc>
-    <category lang="en">football/soccer</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250921222000 -0300" stop="20250922002459 -0300" channel="ge-tv">
-    <title lang="pt">VT - Copa do Brasil: Botafogo x Vasco</title>
-    <sub-title lang="pt">Quartas de Final</sub-title>
-    <desc lang="pt">O ciclo de 2025 iniciou, os jogos com finais inesperados, com toda e emoção que a Copa do Brasil tem, Tem coisas que só acontecem na Copa do Brasil!
-</desc>
-    <category lang="en">football/soccer</category>
-    <previously-shown />
-  </programme>
   <programme start="20250920234703 -0300" stop="20250921004048 -0300" channel="sportv">
     <title lang="pt">Troca de Passes - ao vivo</title>
     <desc lang="pt"> - Felipe Diniz, Carlos Eduardo Mansur e Alex Meschini troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada. Veja os melhores momentos, tire as dúvidas daquele lance polêmico acompanhe a repercussão com jogadores e treinadores no calor do jogo. Aqui ninguém fica em cima do muro.</desc>
@@ -21840,31 +21714,26 @@
     <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250921174501 -0300" stop="20250921191410 -0300" channel="sportv">
+  <programme start="20250921174501 -0300" stop="20250921194506 -0300" channel="sportv">
     <title lang="pt">Copa das Nações de Futsal: Brasília-DF - ao vivo</title>
     <sub-title lang="pt">Final</sub-title>
     <desc lang="pt">
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250921192308 -0300" stop="20250921202417 -0300" channel="sportv">
-    <title lang="pt">Aquecimento sportv - Santos X São Paulo - ao vivo</title>
-    <desc lang="pt"> - </desc>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20250921202418 -0300" stop="20250921212517 -0300" channel="sportv">
+  <programme start="20250921194510 -0300" stop="20250921201928 -0300" channel="sportv">
     <title lang="pt">Aquecimento sportv: Santos x São Paulo - ao vivo</title>
     <desc lang="pt">Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes.
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250921212519 -0300" stop="20250921232523 -0300" channel="sportv">
+  <programme start="20250921201930 -0300" stop="20250921222609 -0300" channel="sportv">
     <title lang="pt">Brasileirão: Santos x São Paulo - ao vivo</title>
     <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250921232539 -0300" stop="20250922002959 -0300" channel="sportv">
+  <programme start="20250921222613 -0300" stop="20250922002842 -0300" channel="sportv">
     <title lang="pt">Fechamento sportv - ao vivo</title>
     <desc lang="pt"> - André Rizek, Denilson e outros convidados analisam como foi a rodada de futebol,  mantendo você atualizado, sobre os últimos lances, gols e emoções das partidas, todos os domingos o pós-jogo é no sportv!</desc>
     <category lang="en">live broadcast</category>
@@ -21989,7 +21858,7 @@
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250921175329 -0300" stop="20250921185348 -0300" channel="sportv-2">
+  <programme start="20250921175329 -0300" stop="20250921185104 -0300" channel="sportv-2">
     <title lang="pt">Circuito Mundial Vôlei de Praia: João Pessoa-PB - ao vivo</title>
     <sub-title lang="pt">Final Feminina</sub-title>
     <desc lang="pt">Os grandes nomes do Vôlei de Praia Mundial estão no Circuito Mundial de Vôlei de Praia! Assista os melhores jogos, aqui no sportv. Tá no Circuito Mundial de Vôlei de Praia, tá no sportv!
@@ -21997,7 +21866,12 @@
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250921185349 -0300" stop="20250921203846 -0300" channel="sportv-2">
+  <programme start="20250921185107 -0300" stop="20250921190209 -0300" channel="sportv-2">
+    <title lang="pt">1/1 ABRE ASPAS: THAISA, BICAMPEÃ OLIMPICA DE VÔLEI</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250921190210 -0300" stop="20250921204450 -0300" channel="sportv-2">
     <title lang="pt">VT - Mundial de Vôlei Masculino: Bélgica x Finlândia</title>
     <sub-title lang="pt">Oitavas de Final</sub-title>
     <desc lang="pt">Tá de volta! Vem acompanhar jogão do Mundial de Vôlei aqui no sportv!
@@ -22005,18 +21879,10 @@
     <category lang="en">team sports</category>
     <previously-shown />
   </programme>
-  <programme start="20250921203850 -0300" stop="20250921235540 -0300" channel="sportv-2">
+  <programme start="20250921204456 -0300" stop="20250922000146 -0300" channel="sportv-2">
     <title lang="pt">NFL: Chiefs x Giants - ao vivo</title>
     <desc lang="pt">Prepare-se para a energia contagiante da NFL. Equipes duelam em jogadas rápidas e estratégicas, onde velocidade, força e precisão se encontram.</desc>
     <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20250921235546 -0300" stop="20250922003708 -0300" channel="sportv-2">
-    <title lang="pt">VT - Mundial de Vôlei Masculino: Turquia x Holanda</title>
-    <sub-title lang="pt">Oitavas de Final</sub-title>
-    <desc lang="pt">Tá de volta! Vem acompanhar jogão do Mundial de Vôlei aqui no sportv!
-</desc>
-    <category lang="en">team sports</category>
-    <previously-shown />
   </programme>
   <programme start="20250915001600 -0300" stop="20250923233000 -0300" channel="sportv-3">
     <title lang="pt">VT - US Open: Final Masculina</title>
@@ -22095,19 +21961,19 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
     <desc lang="pt">Vem acompanhar um jogão do Brasil Open Series De Beach Tennis aqui no sportv!</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250921165755 -0300" stop="20250921193705 -0300" channel="sportv-3">
+  <programme start="20250921165755 -0300" stop="20250921201909 -0300" channel="sportv-3">
     <title lang="pt">NFL: Denver Broncos x L.A. Chargers - ao vivo</title>
     <desc lang="pt">Prepare-se para a energia contagiante da NFL. Equipes duelam em jogadas rápidas e estratégicas, onde velocidade, força e precisão se encontram.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250921193713 -0300" stop="20250921214038 -0300" channel="sportv-3">
+  <programme start="20250921201920 -0300" stop="20250921222245 -0300" channel="sportv-3">
     <title lang="pt">VT - São Paulo Open</title>
     <sub-title lang="pt">Final - São Paulo, SP</sub-title>
     <desc lang="pt">Tênis de alto nível na capital paulista, não perca grandes talentos em batalhas emocionantes.</desc>
     <category lang="en">tennis/squash</category>
     <previously-shown />
   </programme>
-  <programme start="20250921214040 -0300" stop="20250921221052 -0300" channel="sportv-3">
+  <programme start="20250921222248 -0300" stop="20250921225300 -0300" channel="sportv-3">
     <title lang="pt">Sessão sportv: Cine Marcial</title>
     <sub-title lang="pt">Rocky, Um Lutador</sub-title>
     <desc lang="pt">Nos últimos cinquenta anos, os filmes de luta arrebataram bilheterias, revelaram superestrelas e criaram um segmento extremamente lucrativo. Pelas telas do cinema ou da Sessão da Tarde, gerações de brasileiros, muitos dos quais futuros lutadores, tiveram em Hollywood o - seu primeiro contato com as artes marciais. Nossa proposta é destrinchar este fenômeno mergulhando em dez grandes clássicos. Ao revelar bastidores inéditos das gravações, vamos investigando, de forma irreverente, como esses filmes, no passado, influenciaram nossas estrelas do MMA e porque até hoje são parte da memória afetiva de todo brasileiro</desc>
@@ -22117,11 +21983,133 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250921221054 -0300" stop="20250922005959 -0300" channel="sportv-3">
+  <programme start="20250921225302 -0300" stop="20250922015058 -0300" channel="sportv-3">
     <title lang="pt">Faixa Combate: Mac 15 - Inédito</title>
     <desc lang="pt">Uma batalha de técnica, resistência e estratégia. o MAC promete adrenalina pura, superação e um desfecho emocionante.</desc>
     <category lang="en">sports (general)</category>
     <new />
+  </programme>
+  <programme start="20250920234000 -0300" stop="20250921014459 -0300" channel="ge-tv">
+    <title lang="pt">Faixa sportv - Mundial De Vôlei: Brasil x França</title>
+    <desc lang="pt">Tá de volta! Vem acompanhar jogão do Mundial de Vôlei aqui no sportv!
+</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250921014500 -0300" stop="20250921021459 -0300" channel="ge-tv">
+    <title lang="pt">Nascidos Para O Combate: Fabricio Andrade</title>
+    <desc lang="pt"> - Fique sabendo como foi a vida e carreira de grandes atletas de MMA.</desc>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">5.0.</episode-num>
+  </programme>
+  <programme start="20250921021500 -0300" stop="20250921024959 -0300" channel="ge-tv">
+    <title lang="pt">Nascidos Para O Combate</title>
+    <desc lang="pt"> - Fique sabendo como foi a vida e carreira de grandes atletas de MMA.</desc>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">.1.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250921025000 -0300" stop="20250921054959 -0300" channel="ge-tv">
+    <title lang="pt">Jungle Fight 139</title>
+    <desc lang="pt"> - Fique por dentro do melhor do MMA da América Latina no Jungle Fight, aqui no sportv!</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250921055000 -0300" stop="20250921064959 -0300" channel="ge-tv">
+    <title lang="pt">Giro da Rodada: Brasileirão</title>
+    <sub-title lang="pt">23ª Rodada</sub-title>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250921065000 -0300" stop="20250921071459 -0300" channel="ge-tv">
+    <title lang="pt">Faixa Off: Viagem Na Europa</title>
+    <desc lang="pt">Leticia embarca em uma viagem longa de ônibus para Berlim com o amigo e skatista, Felipe Gustavo. Já na Alemanha, Leticia aproveita um dia de sol para fazer uma sessão de free skate pelas ruas, em uma praça local e em uma pista de street ao ar livre.</desc>
+    <category lang="en">sports (general)</category>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250921071500 -0300" stop="20250921074459 -0300" channel="ge-tv">
+    <title lang="pt">Faixa Off: Skate Em Cancún</title>
+    <desc lang="pt">Leticia viaja para Cancun para a inauguração do Woodward, um espaço indoor com várias pistas de skate e outras atividades. Esse lugar perfeito para férias foi diversão garantida para Leticia, que aproveitou para se divertir com os amigos. 
+</desc>
+    <category lang="en">sports (general)</category>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250921074500 -0300" stop="20250921083459 -0300" channel="ge-tv">
+    <title lang="pt">As Bicampeãs</title>
+    <desc lang="pt"> - A série documental AS BICAMPEÃS, acompanha a história da Seleção de vôlei feminino de 2004 a 2012, quando o time brasileiro conquistou duas medalhas de ouro olímpicas inéditas. A série revela desafios, bastidores, processos e emoções dessa trajetória que reverteu a fama de amarelonas da seleção e alçou o time a uma hegemonia histórica.</desc>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250921083500 -0300" stop="20250921101459 -0300" channel="ge-tv">
+    <title lang="pt">Faixa sportv - Mundial De Vôlei: Brasil x Porto Rico</title>
+    <desc lang="pt">Tá de volta! Vem acompanhar jogão do Mundial de Vôlei aqui no sportv!
+</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250921101500 -0300" stop="20250921124459 -0300" channel="ge-tv">
+    <title lang="pt">Faixa sportv - Mundial De Vôlei: Itália x Brasil</title>
+    <sub-title lang="pt">Semifinal</sub-title>
+    <desc lang="pt">Tá de volta! Vem acompanhar jogão do Mundial de Vôlei aqui no sportv!
+</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250921124500 -0300" stop="20250921132959 -0300" channel="ge-tv">
+    <title lang="pt">Giro da Rodada: Brasileirão</title>
+    <sub-title lang="pt">23ª Rodada</sub-title>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250921133000 -0300" stop="20250921135959 -0300" channel="ge-tv">
+    <title lang="pt">Baú do Esporte: Frente A Frente - Roberto Dinamite E Osmar</title>
+    <desc lang="pt">Quer reviver aquele jogo inesquecível? Saber o que seu ídolo sentiu na hora do gol decisivo? O Baú do Esporte traz diariamente os grandes momentos e personagens que marcaram a história esportiva do Brasil e do mundo.</desc>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">.1.</episode-num>
+  </programme>
+  <programme start="20250921140000 -0300" stop="20250921155959 -0300" channel="ge-tv">
+    <title lang="pt">VT - Brasileirão: São Paulo x Botafogo</title>
+    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!
+</desc>
+    <category lang="en">football/soccer</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250921160000 -0300" stop="20250921172959 -0300" channel="ge-tv">
+    <title lang="pt">Pré-Jogo - Flamengo x Vasco - ao vivo</title>
+    <desc lang="pt"> - Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes.
+</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20250921173000 -0300" stop="20250921192959 -0300" channel="ge-tv">
+    <title lang="pt">Brasileirão: Flamengo x Vasco - ao vivo</title>
+    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!
+</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20250921193000 -0300" stop="20250921202959 -0300" channel="ge-tv">
+    <title lang="pt">Pós-Jogo - Flamengo x Vasco - ao vivo</title>
+    <desc lang="pt"> - Acompanhe o que aconteceu nos jogos.
+</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20250921203000 -0300" stop="20250921221959 -0300" channel="ge-tv">
+    <title lang="pt">VT - CONMEBOL Libertadores: River Plate (ARG) x Palmeiras</title>
+    <desc lang="pt">Ge tv exibe o torneio de clubes mais prestigioso da América do Sul coloca frente a frente os gigantes do futebol.</desc>
+    <category lang="en">football/soccer</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250921222000 -0300" stop="20250922002459 -0300" channel="ge-tv">
+    <title lang="pt">VT - Copa do Brasil: Botafogo x Vasco</title>
+    <sub-title lang="pt">Quartas de Final</sub-title>
+    <desc lang="pt">O ciclo de 2025 iniciou, os jogos com finais inesperados, com toda e emoção que a Copa do Brasil tem, Tem coisas que só acontecem na Copa do Brasil!
+</desc>
+    <category lang="en">football/soccer</category>
+    <previously-shown />
   </programme>
   <programme start="20250921000000 -0300" stop="20250921012959 -0300" channel="globonews">
     <title lang="pt">Jornal GloboNews Edição da Meia-noite - ao vivo</title>
@@ -22589,22 +22577,6 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250921165725 -0300" stop="20250921172927 -0300" channel="multishow">
-    <title lang="pt">Grande Família, A</title>
-    <sub-title lang="pt">Consciência É Fogo</sub-title>
-    <desc lang="pt"> - A família fala para Lineu que ele é muito certinho e ele fica pensativo. Lineu decide se aventurar com Agostinho e surpreende a todos.</desc>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250921172933 -0300" stop="20250921180032 -0300" channel="multishow">
-    <title lang="pt">Grande Família, A</title>
-    <sub-title lang="pt">Insista No Dentista</sub-title>
-    <desc lang="pt"> - Bebel faz biscoitos para família e o avô quebra o dente. Agostinho indica um dentista e Lineu desdenha. Lineu também quebra o dente a acaba precisando da ajuda do genro.</desc>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
   <programme start="20250921180034 -0300" stop="20250921185324 -0300" channel="multishow">
     <title lang="pt">Vai que Cola</title>
     <sub-title lang="pt">Nem Tudo Muda</sub-title>
@@ -22613,7 +22585,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250921185327 -0300" stop="20250921185853 -0300" channel="multishow">
+  <programme start="20250921185327 -0300" stop="20250921185852 -0300" channel="multishow">
     <title lang="pt">Flash Ao Vivo Estrela Da Casa - ao vivo</title>
     <sub-title lang="pt">Estrela Da Casa 2025 - Flash Ao Vivo</sub-title>
     <desc lang="pt"> - Flash Ao vivo Estrela Da Casa</desc>
@@ -22631,7 +22603,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250921194916 -0300" stop="20250921195442 -0300" channel="multishow">
+  <programme start="20250921194916 -0300" stop="20250921195441 -0300" channel="multishow">
     <title lang="pt">Flash Ao Vivo Estrela Da Casa - ao vivo</title>
     <sub-title lang="pt">Estrela Da Casa 2025 - Flash Ao Vivo</sub-title>
     <desc lang="pt"> - Flash Ao vivo Estrela Da Casa</desc>
@@ -22681,7 +22653,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250921233900 -0300" stop="20250922000459 -0300" channel="multishow">
+  <programme start="20250921233758 -0300" stop="20250922000603 -0300" channel="multishow">
     <title lang="pt">Tô de Graça</title>
     <sub-title lang="pt">Um Dia Belo</sub-title>
     <desc lang="pt"> - Graça foi sorteada numa promoção e vai assistir ao show do cantor Belo da área VIP, além de ter o privilégio de ser buscada em casa pelo cantor. Só não contava que não teria com quem deixar sua caçula, Shubakira.
@@ -22902,7 +22874,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250921183351 -0300" stop="20250921190444 -0300" channel="gnt">
+  <programme start="20250921183351 -0300" stop="20250921190441 -0300" channel="gnt">
     <title lang="pt">Uma Senhora Panela</title>
     <sub-title lang="pt">Caruru de Rabada – Criolo</sub-title>
     <desc lang="pt"> - O caruru de rabada, delícia que tem origem no continente africano, tem sua história revelada por Carmem Virginia, que recebe em sua cozinha Criolo.</desc>
@@ -23436,14 +23408,6 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250921173106 -0300" stop="20250921174412 -0300" channel="canal-brasil">
-    <title lang="pt">Maratona Dia Nacional De Luta Da Pessoa Com Deficiência</title>
-    <sub-title lang="pt">Seremos Ouvidas</sub-title>
-    <desc lang="pt"> - Como existir em uma estrutura sexista e ouvinte? Gabriela, Celma e Klicia, três mulheres surdas com realidade diferentes, compartilham suas lutas e trajetórias no movimento feminista surdo.</desc>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
   <programme start="20250921174414 -0300" stop="20250921175038 -0300" channel="canal-brasil">
     <title lang="pt">Maratona Dia Nacional De Luta Da Pessoa Com Deficiência</title>
     <sub-title lang="pt">A Pessoa é Para o Que Nasce</sub-title>
@@ -23516,7 +23480,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250921233045 -0300" stop="20250922011459 -0300" channel="canal-brasil">
+  <programme start="20250921233045 -0300" stop="20250922011519 -0300" channel="canal-brasil">
     <title lang="pt">Matou A Família e Foi ao Cinema (1991)</title>
     <desc lang="pt"> - O filme traz cinco histórias: um rapaz que mata os pais e vai ao cinema; uma mulher que recebe uma amiga; um casal à beira da destruição; duas jovens que vivem um amor não-aceito e um homem que rouba calcinhas.</desc>
     <rating system="Brazil">
@@ -23819,7 +23783,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250921192622 -0300" stop="20250921195419 -0300" channel="canal-off">
+  <programme start="20250921192622 -0300" stop="20250921195420 -0300" channel="canal-off">
     <title lang="pt">Peixe Frito</title>
     <sub-title lang="pt">Retrô</sub-title>
     <desc lang="pt"> - A origem do movimento retrô que vem ganhando espaço no surfe. São surfistas que escolheram trazer o passado de volta, seja nas pranchas, nas roupas, ou no estilo de vida.</desc>
@@ -23953,6 +23917,14 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
     <desc lang="pt"> - Hip Hop Machine é o encontro do Jazz com o Rap. Leo Gandelman se junta aos artistas em ascensão do Rap nacional para bater um papo com eles e fazer mais performances incríveis nessa segunda temporada!</desc>
     <rating system="Brazil">
       <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250921022639 -0300" stop="20250921025634 -0300" channel="bis">
+    <title lang="pt">Inesquecíveis Da Música Brasileira 2</title>
+    <desc lang="pt"> - A cantora Beatriz Rabello homenageia os 50 anos de carreira do pai, Paulinho da Viola, com grandes composições dele que marcaram o samba, e sua participação em algumas músicas.</desc>
+    <episode-num system="xmltv_ns">0..</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
     </rating>
   </programme>
   <programme start="20250921022639 -0300" stop="20250921025634 -0300" channel="bis">
@@ -24267,7 +24239,7 @@ superação, determinação e talento.</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250921155111 -0300" stop="20250921175108 -0300" channel="bis">
+  <programme start="20250921155111 -0300" stop="20250921175106 -0300" channel="bis">
     <title lang="pt">Katy Perry: Prismatic Tour</title>
     <sub-title lang="pt">Palco Principal</sub-title>
     <desc lang="pt"> - Show da cantora e compositora americana Katy Perry, realizado em Sidney em dezembro de 2014. Ele fez parte da turnê para Prism, o quarto álbum de estúdio da cantora, lançado em 2013, e contou com hits como Roar, Firework e Hot 'n' Cold.</desc>
@@ -24422,7 +24394,7 @@ superação, determinação e talento.</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250921234442 -0300" stop="20250922004259 -0300" channel="bis">
+  <programme start="20250921234442 -0300" stop="20250922004437 -0300" channel="bis">
     <title lang="pt">Experimente: Tagore</title>
     <desc lang="pt"> - Série de 16 episódios, que está em sua 9ª temporada, apresentando bandas que começam a despontar no cenário musical brasileiro. No décimo quinto episódio, iremos conhecer a banda pernambucana Tagore, um quinteto de Rock pernambucano, com influências que vão de Tom Zé à Tame Impala.</desc>
     <rating system="Brazil">
@@ -25023,25 +24995,35 @@ turístico cheio de natureza em meio a construções impressionantes."</desc>
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250921171126 -0300" stop="20250921192749 -0300" channel="premiere">
+  <programme start="20250921171126 -0300" stop="20250921193510 -0300" channel="premiere">
     <title lang="pt">Brasileirão: Flamengo x Vasco - ao vivo</title>
     <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250921192752 -0300" stop="20250921203154 -0300" channel="premiere">
+  <programme start="20250921193514 -0300" stop="20250921194055 -0300" channel="premiere">
+    <title lang="pt">1/1 GIRO - VITÓRIA X FLUMINENSE</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250921194056 -0300" stop="20250921194606 -0300" channel="premiere">
+    <title lang="pt">1/1 GIRO  - BOTAFOGO X ATLETICO MINEIRO</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250921194609 -0300" stop="20250921201931 -0300" channel="premiere">
     <title lang="pt">Pré-Jogo - Santos x São Paulo - ao vivo</title>
     <desc lang="pt"> - Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes.
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250921203156 -0300" stop="20250921222405 -0300" channel="premiere">
+  <programme start="20250921201933 -0300" stop="20250921222014 -0300" channel="premiere">
     <title lang="pt">Brasileirão: Santos x São Paulo - ao vivo</title>
     <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250921222408 -0300" stop="20250921232632 -0300" channel="premiere">
+  <programme start="20250921222017 -0300" stop="20250921232241 -0300" channel="premiere">
     <title lang="pt">Retrô - Brasileirão 2015: Santos x São Paulo</title>
     <sub-title lang="pt">24ª Rodada, realizado em 09/09/2015</sub-title>
     <desc lang="pt">Reveja partidas históricas do seu esporte favorito!
@@ -25050,7 +25032,7 @@ turístico cheio de natureza em meio a construções impressionantes."</desc>
     <category lang="en">sports (general)</category>
     <date>09/09/2015</date>
   </programme>
-  <programme start="20250921232634 -0300" stop="20250922002505 -0300" channel="premiere">
+  <programme start="20250921232244 -0300" stop="20250922002115 -0300" channel="premiere">
     <title lang="pt">Retrô - Brasileirão 2019: São Paulo x Santos</title>
     <sub-title lang="pt">14ª Rodada, realizado em 10/08/2019</sub-title>
     <desc lang="pt">Reveja partidas históricas do seu esporte favorito!
@@ -25059,7 +25041,7 @@ turístico cheio de natureza em meio a construções impressionantes."</desc>
     <category lang="en">sports (general)</category>
     <date>10/08/2019</date>
   </programme>
-  <programme start="20250921020130 -0300" stop="20250921023129 -0300" channel="premiere-2">
+  <programme start="20250921143000 -0300" stop="20250921145959 -0300" channel="premiere-2">
     <title lang="pt">Giro da Rodada: Brasileirão</title>
     <sub-title lang="pt">24ª Rodada</sub-title>
     <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
@@ -25190,7 +25172,7 @@ turístico cheio de natureza em meio a construções impressionantes."</desc>
     <category lang="en">sports (general)</category>
     <previously-shown />
   </programme>
-  <programme start="20250921173643 -0300" stop="20250921191623 -0300" channel="combate">
+  <programme start="20250921173643 -0300" stop="20250921191626 -0300" channel="combate">
     <title lang="pt">Boxe  [Top Rank]: Boxe: Oscar Valdez x Ricky Medina</title>
     <desc lang="pt">Top Rank, é uma das maiores promotora de lutas de boxe do mundo. Fundada em 1973, e por quase meio século, promove as lutas mais importantes de algumas lendas do boxe, como Muhammad Ali, Sugar Ray Leonard, Oscar de La Hoya, Floyd Mayweather, Tyson Fury e Manny Pacquiao.
 A top rank conta com a participação de grandes nobres da nobre arte da atualidade, entre eles os brasileiros e medalhistas olímpicos Robson Conceição e Esquiva Falcão.
@@ -25351,161 +25333,32 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
     <desc lang="pt"> - As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250921025000 -0300" stop="20250922162159 -0300" channel="ge-tv">
-    <title lang="pt">Jungle Fight 139</title>
-    <desc lang="pt"> - Fique por dentro do melhor do MMA da América Latina no Jungle Fight, aqui no sportv!</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20250921222000 -0300" stop="20250922002459 -0300" channel="ge-tv">
-    <title lang="pt">VT - Copa do Brasil: Botafogo x Vasco</title>
-    <sub-title lang="pt">Quartas de Final</sub-title>
-    <desc lang="pt">O ciclo de 2025 iniciou, os jogos com finais inesperados, com toda e emoção que a Copa do Brasil tem, Tem coisas que só acontecem na Copa do Brasil!
-</desc>
-    <category lang="en">football/soccer</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250922002500 -0300" stop="20250922014959 -0300" channel="ge-tv">
-    <title lang="pt">Faixa sportv - Mundial De Vôlei: Itália x Polônia</title>
-    <sub-title lang="pt">Quartas de Final</sub-title>
-    <desc lang="pt">Tá de volta! Vem acompanhar jogão do Mundial de Vôlei aqui no sportv!
-</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20250922015000 -0300" stop="20250922035459 -0300" channel="ge-tv">
-    <title lang="pt">Faixa sportv - Mundial De Vôlei: Holanda x Japão</title>
-    <sub-title lang="pt">Quartas de Final</sub-title>
-    <desc lang="pt">Tá de volta! Vem acompanhar jogão do Mundial de Vôlei aqui no sportv!
-</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20250922035500 -0300" stop="20250922055459 -0300" channel="ge-tv">
-    <title lang="pt">Faixa sportv - Mundial De Vôlei: Polônia x Bélgica</title>
-    <sub-title lang="pt">Oitavas de Final</sub-title>
-    <desc lang="pt">Tá de volta! Vem acompanhar jogão do Mundial de Vôlei aqui no sportv!
-</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20250922055500 -0300" stop="20250922062959 -0300" channel="ge-tv">
-    <title lang="pt">Giro da Rodada: Melhores Momentos Corinthians - Campeão Brasileirão Feminino 2025</title>
-    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20250922063000 -0300" stop="20250922065959 -0300" channel="ge-tv">
-    <title lang="pt">Baú do Esporte: Lendas - Usain Bolt</title>
-    <desc lang="pt">Quer reviver aquele jogo inesquecível? Saber o que seu ídolo sentiu na hora do gol decisivo? O Baú do Esporte traz diariamente os grandes momentos e personagens que marcaram a história esportiva do Brasil e do mundo.</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20250922070000 -0300" stop="20250922085459 -0300" channel="ge-tv">
-    <title lang="pt">Faixa sportv - Diamond League: 14ª Etapa</title>
-    <sub-title lang="pt">Bruxelas,Bélgica</sub-title>
-    <desc lang="pt">Acompanhe a Diamond League, uma das principais competições de atletismo com grandes nomes do esporte.</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20250922085500 -0300" stop="20250922092459 -0300" channel="ge-tv">
-    <title lang="pt">Baú do Esporte: Lendas - Usain Bolt</title>
-    <desc lang="pt">Quer reviver aquele jogo inesquecível? Saber o que seu ídolo sentiu na hora do gol decisivo? O Baú do Esporte traz diariamente os grandes momentos e personagens que marcaram a história esportiva do Brasil e do mundo.</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20250922092500 -0300" stop="20250922102459 -0300" channel="ge-tv">
-    <title lang="pt">Faixa sportv - Brasileirão: Bahia x Cruzeiro</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!
-</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20250922102500 -0300" stop="20250922112459 -0300" channel="ge-tv">
-    <title lang="pt">Faixa sportv - Brasileirão: Atlético-MG x Santos</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!
-</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20250922112500 -0300" stop="20250922122459 -0300" channel="ge-tv">
-    <title lang="pt">Faixa sportv - Brasileirão: Grêmio x Mirassol</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!
-</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20250922122500 -0300" stop="20250922131459 -0300" channel="ge-tv">
-    <title lang="pt">Giro da Rodada: Melhores Momentos Corinthians - Campeão Brasileirão Feminino 2025</title>
-    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20250922131500 -0300" stop="20250922151959 -0300" channel="ge-tv">
-    <title lang="pt">VT - Copa do Brasil: Botafogo x Vasco</title>
-    <sub-title lang="pt">Quartas de Final</sub-title>
-    <desc lang="pt">O ciclo de 2025 iniciou, os jogos com finais inesperados, com toda e emoção que a Copa do Brasil tem, Tem coisas que só acontecem na Copa do Brasil!
-</desc>
-    <category lang="en">football/soccer</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250922152000 -0300" stop="20250922164459 -0300" channel="ge-tv">
-    <title lang="pt">VT - Pré-Jogo - São Paulo x Botafogo</title>
-    <desc lang="pt"> - Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes.
-</desc>
-    <category lang="en">sports (general)</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250922164500 -0300" stop="20250922184459 -0300" channel="ge-tv">
-    <title lang="pt">VT - Brasileirão: São Paulo x Botafogo</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!
-</desc>
-    <category lang="en">football/soccer</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250922184500 -0300" stop="20250922191959 -0300" channel="ge-tv">
-    <title lang="pt">VT - Pós-Jogo - São Paulo x Botafogo</title>
-    <desc lang="pt"> - Acompanhe o que aconteceu nos jogos.
-</desc>
-    <category lang="en">sports (general)</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250922192000 -0300" stop="20250922210959 -0300" channel="ge-tv">
-    <title lang="pt">VT - Eliminatórias da Copa 2026: Brasil x Chile</title>
-    <desc lang="pt">Brasil, já classificado, enfrenta o Chile em confronto pela 17ª rodada das Eliminatórias.</desc>
-    <category lang="en">football/soccer</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250922211000 -0300" stop="20250922213959 -0300" channel="ge-tv">
-    <title lang="pt">Baú do Esporte: Jogos Fabuloso Em Rosário</title>
-    <desc lang="pt">Quer reviver aquele jogo inesquecível? Saber o que seu ídolo sentiu na hora do gol decisivo? O Baú do Esporte traz diariamente os grandes momentos e personagens que marcaram a história esportiva do Brasil e do mundo.</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20250922214000 -0300" stop="20250922220959 -0300" channel="ge-tv">
-    <title lang="pt">Baú do Esporte: Vozes - Galvão - É Tetra</title>
-    <desc lang="pt">Quer reviver aquele jogo inesquecível? Saber o que seu ídolo sentiu na hora do gol decisivo? O Baú do Esporte traz diariamente os grandes momentos e personagens que marcaram a história esportiva do Brasil e do mundo.</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20250922221000 -0300" stop="20250923004959 -0300" channel="ge-tv">
-    <title lang="pt">VT - NFL: Pittsburgh Steelers x Seattle Seahawks</title>
-    <desc lang="pt">Prepare-se para a energia contagiante da NFL. Equipes duelam em jogadas rápidas e estratégicas, onde velocidade, força e precisão se encontram.</desc>
-    <category lang="en">sports (general)</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250921232957 -0300" stop="20250922002959 -0300" channel="sportv">
+  <programme start="20250921222613 -0300" stop="20250922002842 -0300" channel="sportv">
     <title lang="pt">Fechamento sportv - ao vivo</title>
     <desc lang="pt"> - André Rizek, Denilson e outros convidados analisam como foi a rodada de futebol,  mantendo você atualizado, sobre os últimos lances, gols e emoções das partidas, todos os domingos o pós-jogo é no sportv!</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250922003000 -0300" stop="20250922012959 -0300" channel="sportv">
+  <programme start="20250922002844 -0300" stop="20250922013033 -0300" channel="sportv">
     <title lang="pt">VT - Brasileirão: Flamengo x Vasco</title>
     <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!
 </desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250922013000 -0300" stop="20250922022959 -0300" channel="sportv">
+  <programme start="20250922013036 -0300" stop="20250922022935 -0300" channel="sportv">
     <title lang="pt">VT - Brasileirão: Internacional x Grêmio</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250922023000 -0300" stop="20250922032959 -0300" channel="sportv">
+  <programme start="20250922022936 -0300" stop="20250922032735 -0300" channel="sportv">
     <title lang="pt">VT - Brasileirão: Santos x São Paulo</title>
     <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!
 </desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250922033000 -0300" stop="20250922042959 -0300" channel="sportv">
+  <programme start="20250922032736 -0300" stop="20250922035439 -0300" channel="sportv">
     <title lang="pt">VT - Brasileirão: Sport x Corinthians</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <category lang="en">football/soccer</category>
@@ -25592,12 +25445,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
     <category lang="en">sports (general)</category>
     <new />
   </programme>
-  <programme start="20250921204456 -0300" stop="20250922000146 -0300" channel="sportv-2">
-    <title lang="pt">NFL: Chiefs x Giants - ao vivo</title>
-    <desc lang="pt">Prepare-se para a energia contagiante da NFL. Equipes duelam em jogadas rápidas e estratégicas, onde velocidade, força e precisão se encontram.</desc>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20250922000152 -0300" stop="20250922015959 -0300" channel="sportv-2">
+  <programme start="20250921234022 -0300" stop="20250922015856 -0300" channel="sportv-2">
     <title lang="pt">VT - Mundial de Vôlei Masculino: Turquia x Holanda</title>
     <sub-title lang="pt">Oitavas de Final</sub-title>
     <desc lang="pt">Tá de volta! Vem acompanhar jogão do Mundial de Vôlei aqui no sportv!
@@ -25605,13 +25453,20 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
     <category lang="en">team sports</category>
     <previously-shown />
   </programme>
-  <programme start="20250922020000 -0300" stop="20250922035959 -0300" channel="sportv-2">
-    <title lang="pt">VT - Mundial de Vôlei Masculino: Polônia x Canada</title>
-    <sub-title lang="pt">Oitavas de Final</sub-title>
-    <desc lang="pt">Tá de volta! Vem acompanhar jogão do Mundial de Vôlei aqui no sportv!
-</desc>
-    <category lang="en">team sports</category>
-    <previously-shown />
+  <programme start="20250922015900 -0300" stop="20250922022345 -0300" channel="sportv-2">
+    <title lang="pt">1/3 BRASIL X JAPÃO - MUNDIAL FEMININO DE VÔLEI - DISPUTA 3 LUGAR</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250922022347 -0300" stop="20250922025241 -0300" channel="sportv-2">
+    <title lang="pt">2/3 BRASIL X JAPÃO - MUNDIAL FEMININO DE VÔLEI - DISPUTA 3 LUGAR</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250922025244 -0300" stop="20250922035959 -0300" channel="sportv-2">
+    <title lang="pt">3/3 BRASIL X JAPÃO - MUNDIAL FEMININO DE VÔLEI - DISPUTA 3 LUGAR</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">sports (general)</category>
   </programme>
   <programme start="20250922040000 -0300" stop="20250922041959 -0300" channel="sportv-2">
     <title lang="pt">Galeria sportv</title>
@@ -25728,24 +25583,24 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
     <category lang="en">tennis/squash</category>
     <previously-shown />
   </programme>
-  <programme start="20250921221825 -0300" stop="20250922011621 -0300" channel="sportv-3">
+  <programme start="20250921223657 -0300" stop="20250922013453 -0300" channel="sportv-3">
     <title lang="pt">Faixa Combate: Mac 15 - Inédito</title>
     <desc lang="pt">Uma batalha de técnica, resistência e estratégia. o MAC promete adrenalina pura, superação e um desfecho emocionante.</desc>
     <category lang="en">sports (general)</category>
     <new />
   </programme>
-  <programme start="20250922011624 -0300" stop="20250922050310 -0300" channel="sportv-3">
+  <programme start="20250922013456 -0300" stop="20250922052142 -0300" channel="sportv-3">
     <title lang="pt">Faixa Combate: Attack Fight 38 - Inédito</title>
     <desc lang="pt">O ATTACK FIGHT é uma organização de esportes de contato fundada por Adriano Souza em 2015, é um dos maiores eventos de Muay Thai profissional do Brasil.</desc>
     <category lang="en">sports (general)</category>
     <new />
   </programme>
-  <programme start="20250922050312 -0300" stop="20250922062459 -0300" channel="sportv-3">
+  <programme start="20250922052144 -0300" stop="20250922071356 -0300" channel="sportv-3">
     <title lang="pt">Fms Fight Night 6 - Esquiva Falcão X Vinícius Barros - Curitiba-PR</title>
     <desc lang="pt"> - O maior evento de influenciadores da América Latina, traz em mais uma edição, uma luta histórica no Paraná! São 10 lutas de MMA e 3 lutas de Boxe que prometem muito!</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250922062500 -0300" stop="20250922102959 -0300" channel="sportv-3">
+  <programme start="20250922071400 -0300" stop="20250922102959 -0300" channel="sportv-3">
     <title lang="pt">Mundial De Natação Paralímpica: Singapura - ao vivo</title>
     <sub-title lang="pt">Finais</sub-title>
     <desc lang="pt">O Mundial Paralímpico de Natação reúne os melhores atletas do mundo em provas emocionantes. tá no coração, tá no sportv!</desc>
@@ -25788,6 +25643,122 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
     <title lang="pt">Faixa Combate: PFL World Tournament</title>
     <sub-title lang="pt">Final</sub-title>
     <desc lang="pt">PFL é a liga esportiva mais inovadora e de crescimento mais rápido. A PFL é a única com o formato de temporada esportiva em que lutadores individuais competem na Temporada Regular, Playoffs e Campeonato pelo prêmio de 1 milhão de dólares.</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250921222000 -0300" stop="20250922002459 -0300" channel="ge-tv">
+    <title lang="pt">VT - Copa do Brasil: Botafogo x Vasco</title>
+    <sub-title lang="pt">Quartas de Final</sub-title>
+    <desc lang="pt">O ciclo de 2025 iniciou, os jogos com finais inesperados, com toda e emoção que a Copa do Brasil tem, Tem coisas que só acontecem na Copa do Brasil!
+</desc>
+    <category lang="en">football/soccer</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250922002500 -0300" stop="20250922014959 -0300" channel="ge-tv">
+    <title lang="pt">Faixa sportv - Mundial De Vôlei: Itália x Polônia</title>
+    <sub-title lang="pt">Quartas de Final</sub-title>
+    <desc lang="pt">Tá de volta! Vem acompanhar jogão do Mundial de Vôlei aqui no sportv!
+</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250922015000 -0300" stop="20250922035459 -0300" channel="ge-tv">
+    <title lang="pt">Faixa sportv - Mundial De Vôlei: Holanda x Japão</title>
+    <sub-title lang="pt">Quartas de Final</sub-title>
+    <desc lang="pt">Tá de volta! Vem acompanhar jogão do Mundial de Vôlei aqui no sportv!
+</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250922035500 -0300" stop="20250922055459 -0300" channel="ge-tv">
+    <title lang="pt">Faixa sportv - Mundial De Vôlei: Polônia x Bélgica</title>
+    <sub-title lang="pt">Oitavas de Final</sub-title>
+    <desc lang="pt">Tá de volta! Vem acompanhar jogão do Mundial de Vôlei aqui no sportv!
+</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250922041000 -0300" stop="20250922064959 -0300" channel="ge-tv">
+    <title lang="pt">VT - NFL: Pittsburgh Steelers x Seattle Seahawks</title>
+    <desc lang="pt">Prepare-se para a energia contagiante da NFL. Equipes duelam em jogadas rápidas e estratégicas, onde velocidade, força e precisão se encontram.</desc>
+    <category lang="en">sports (general)</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250922055500 -0300" stop="20250922062959 -0300" channel="ge-tv">
+    <title lang="pt">Giro da Rodada: Melhores Momentos Corinthians - Campeão Brasileirão Feminino 2025</title>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250922063000 -0300" stop="20250922065959 -0300" channel="ge-tv">
+    <title lang="pt">Baú do Esporte: Lendas - Usain Bolt</title>
+    <desc lang="pt">Quer reviver aquele jogo inesquecível? Saber o que seu ídolo sentiu na hora do gol decisivo? O Baú do Esporte traz diariamente os grandes momentos e personagens que marcaram a história esportiva do Brasil e do mundo.</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250922070000 -0300" stop="20250922085459 -0300" channel="ge-tv">
+    <title lang="pt">Faixa sportv - Diamond League: 14ª Etapa</title>
+    <sub-title lang="pt">Bruxelas,Bélgica</sub-title>
+    <desc lang="pt">Acompanhe a Diamond League, uma das principais competições de atletismo com grandes nomes do esporte.</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250922085500 -0300" stop="20250922092459 -0300" channel="ge-tv">
+    <title lang="pt">Baú do Esporte: Lendas - Usain Bolt</title>
+    <desc lang="pt">Quer reviver aquele jogo inesquecível? Saber o que seu ídolo sentiu na hora do gol decisivo? O Baú do Esporte traz diariamente os grandes momentos e personagens que marcaram a história esportiva do Brasil e do mundo.</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250922092500 -0300" stop="20250922102459 -0300" channel="ge-tv">
+    <title lang="pt">Faixa sportv - Brasileirão: Bahia x Cruzeiro</title>
+    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!
+</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250922102500 -0300" stop="20250922112459 -0300" channel="ge-tv">
+    <title lang="pt">Faixa sportv - Brasileirão: Atlético-MG x Santos</title>
+    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!
+</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250922112500 -0300" stop="20250922122459 -0300" channel="ge-tv">
+    <title lang="pt">Faixa sportv - Brasileirão: Grêmio x Mirassol</title>
+    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!
+</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250922122500 -0300" stop="20250922131459 -0300" channel="ge-tv">
+    <title lang="pt">Giro da Rodada: Melhores Momentos Corinthians - Campeão Brasileirão Feminino 2025</title>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250922152000 -0300" stop="20250922191000 -0300" channel="ge-tv">
+    <title lang="pt">VT - Pré-Jogo - São Paulo x Botafogo</title>
+    <desc lang="pt"> - Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes.
+</desc>
+    <category lang="en">sports (general)</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250922164500 -0300" stop="20250922184459 -0300" channel="ge-tv">
+    <title lang="pt">VT - Brasileirão: São Paulo x Botafogo</title>
+    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!
+</desc>
+    <category lang="en">football/soccer</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250922184500 -0300" stop="20250922191959 -0300" channel="ge-tv">
+    <title lang="pt">VT - Pós-Jogo - São Paulo x Botafogo</title>
+    <desc lang="pt"> - Acompanhe o que aconteceu nos jogos.
+</desc>
+    <category lang="en">sports (general)</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250922192000 -0300" stop="20250922213000 -0300" channel="ge-tv">
+    <title lang="pt">VT - Eliminatórias da Copa 2026: Brasil x Chile</title>
+    <desc lang="pt">Brasil, já classificado, enfrenta o Chile em confronto pela 17ª rodada das Eliminatórias.</desc>
+    <category lang="en">football/soccer</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250922211000 -0300" stop="20250922213000 -0300" channel="ge-tv">
+    <title lang="pt">Baú do Esporte: Jogos Fabuloso Em Rosário</title>
+    <desc lang="pt">Quer reviver aquele jogo inesquecível? Saber o que seu ídolo sentiu na hora do gol decisivo? O Baú do Esporte traz diariamente os grandes momentos e personagens que marcaram a história esportiva do Brasil e do mundo.</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250922214000 -0300" stop="20250922220959 -0300" channel="ge-tv">
+    <title lang="pt">Baú do Esporte: Vozes - Galvão - É Tetra</title>
+    <desc lang="pt">Quer reviver aquele jogo inesquecível? Saber o que seu ídolo sentiu na hora do gol decisivo? O Baú do Esporte traz diariamente os grandes momentos e personagens que marcaram a história esportiva do Brasil e do mundo.</desc>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20250921233500 -0300" stop="20250922023459 -0300" channel="globonews">
@@ -25873,7 +25844,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250922000606 -0300" stop="20250922005359 -0300" channel="multishow">
+  <programme start="20250922000606 -0300" stop="20250922005459 -0300" channel="multishow">
     <title lang="pt">Estrela Da Casa Ao Vivo No Mul - ao vivo</title>
     <sub-title lang="pt">Estrela Da Casa</sub-title>
     <desc lang="pt"> - Acompanhe também o Estrela Da Casa ao vivo no Multishow</desc>
@@ -25882,7 +25853,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250922005400 -0300" stop="20250922012059 -0300" channel="multishow">
+  <programme start="20250922005502 -0300" stop="20250922012210 -0300" channel="multishow">
     <title lang="pt">Tô de Graça</title>
     <sub-title lang="pt">Imagem é Tudo!</sub-title>
     <desc lang="pt"> - A franquia de pedintes de Graça não vai bem das pernas, mas o interesse de um investidor faz Graça fingir que tudo vai muito bem para conseguir empurrar uma franquia para o interessado.
@@ -25891,7 +25862,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250922012100 -0300" stop="20250922012359 -0300" channel="multishow">
+  <programme start="20250922012211 -0300" stop="20250922012537 -0300" channel="multishow">
     <title lang="pt">Flash Ao Vivo Estrela Da Casa - ao vivo</title>
     <sub-title lang="pt">Estrela Da Casa 2025 - Flash Ao Vivo</sub-title>
     <desc lang="pt"> - Flash Ao vivo Estrela Da Casa</desc>
@@ -25900,7 +25871,7 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250922012400 -0300" stop="20250922015159 -0300" channel="multishow">
+  <programme start="20250922012538 -0300" stop="20250922015159 -0300" channel="multishow">
     <title lang="pt">Chaves</title>
     <sub-title lang="pt">Com Quantos Ovos Se Faz Um Bolo?</sub-title>
     <desc lang="pt"> - Dona Clotilde pede ao Chaves que deixe um bolo na casa do Seu Madruga. Ao mesmo tempo, Dona Florinda pede ao Quico que compre um bolo para o Professor Girafales. Mas uma série de confusões provoca um grande mal-entendido na vila.
@@ -26240,6 +26211,14 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[12]</value>
     </rating>
   </programme>
+  <programme start="20250922165725 -0300" stop="20250922172927 -0300" channel="multishow">
+    <title lang="pt">Grande Família, A</title>
+    <sub-title lang="pt">Consciência É Fogo</sub-title>
+    <desc lang="pt"> - A família fala para Lineu que ele é muito certinho e ele fica pensativo. Lineu decide se aventurar com Agostinho e surpreende a todos.</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
   <programme start="20250922172200 -0300" stop="20250922175959 -0300" channel="multishow">
     <title lang="pt">Sessão Nostalgia</title>
     <sub-title lang="pt">Flavinha É A Mais Nova Dançarina Da La Conga</sub-title>
@@ -26366,7 +26345,7 @@ PROGRAMA EXIBIDO EM 22/09/2025</desc>
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250922004639 -0300" stop="20250922013259 -0300" channel="gnt">
+  <programme start="20250922004639 -0300" stop="20250922013103 -0300" channel="gnt">
     <title lang="pt">Alma De Cozinheira</title>
     <sub-title lang="pt">Marina Sena e Samuel de Assis</sub-title>
     <desc lang="pt"> - Paola Carosella recebe Marina Sena e Samuel de Assis. No cardápio: brusquetas, linguine com guanciale, alcaparras, mascarpone e farofa de pão tostado e pavlova de frutas vermelhas.</desc>
@@ -26374,7 +26353,7 @@ PROGRAMA EXIBIDO EM 22/09/2025</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250922013300 -0300" stop="20250922023259 -0300" channel="gnt">
+  <programme start="20250922013106 -0300" stop="20250922023145 -0300" channel="gnt">
     <title lang="pt">Que Seja Doce</title>
     <sub-title lang="pt">Doces Do Samba</sub-title>
     <desc lang="pt"> - Os confeiteiros homenageiam Cartola, o sambista que tem nome de doce, e sua amada escola de samba Mangueira ao preparar doces com banana, queijo e canela e doces com manga.</desc>
@@ -26382,7 +26361,7 @@ PROGRAMA EXIBIDO EM 22/09/2025</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250922023300 -0300" stop="20250922033259 -0300" channel="gnt">
+  <programme start="20250922023148 -0300" stop="20250922031815 -0300" channel="gnt">
     <title lang="pt">Que Seja Doce</title>
     <sub-title lang="pt">Moçambique</sub-title>
     <desc lang="pt"> - As confeiteiras mostram que a confeitaria de um país distante pode ser bem familiar, preparando doces com quebra-queixo e doces com mandioca.</desc>
@@ -26599,21 +26578,21 @@ PROGRAMA EXIBIDO EM 22/09/2025</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250922002948 -0300" stop="20250922012759 -0300" channel="globoplay-novelas">
+  <programme start="20250922002948 -0300" stop="20250922012714 -0300" channel="globoplay-novelas">
     <title lang="pt">Fina Estampa</title>
     <desc lang="pt"> - Guaracy livra Griselda e René de uma saia justa com Tereza. Danielle avisa os avós de Pedro que vai assumir a guarda do sobrinho. Marcela publica a matéria sobre Teodora no jornal.</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250922012800 -0300" stop="20250922021859 -0300" channel="globoplay-novelas">
+  <programme start="20250922012717 -0300" stop="20250922021825 -0300" channel="globoplay-novelas">
     <title lang="pt">Fina Estampa</title>
     <desc lang="pt"> - Leandro sequestra os cachorros de Tereza. Joana ajuda Amália a entender o legado de Dona Zilá. Crô é humilhado pela galera da praia. Quinzé beija Dagmar.</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250922021900 -0300" stop="20250922025959 -0300" channel="globoplay-novelas">
+  <programme start="20250922021829 -0300" stop="20250922024429 -0300" channel="globoplay-novelas">
     <title lang="pt">Hipertensão</title>
     <desc lang="pt"> - Napoleão explica o motivo da discussão com Candinho e Romeu para Sandro. Gioconda desconfia da relação entre Laerte e Donana. Os convidados chegam para a festa de Carola.  
 
@@ -26821,14 +26800,14 @@ PROGRAMA EXIBIDO EM 22/09/2025</desc>
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250921233045 -0300" stop="20250922011459 -0300" channel="canal-brasil">
+  <programme start="20250921233045 -0300" stop="20250922011519 -0300" channel="canal-brasil">
     <title lang="pt">Matou A Família e Foi ao Cinema (1991)</title>
     <desc lang="pt"> - O filme traz cinco histórias: um rapaz que mata os pais e vai ao cinema; uma mulher que recebe uma amiga; um casal à beira da destruição; duas jovens que vivem um amor não-aceito e um homem que rouba calcinhas.</desc>
     <rating system="Brazil">
       <value>[18]</value>
     </rating>
   </programme>
-  <programme start="20250922011500 -0300" stop="20250922011659 -0300" channel="canal-brasil">
+  <programme start="20250922011522 -0300" stop="20250922012048 -0300" channel="canal-brasil">
     <title lang="pt">As Pragas</title>
     <sub-title lang="pt">Dingo Bell</sub-title>
     <desc lang="pt"> - As Pragas de Zé do Caixão.</desc>
@@ -26836,7 +26815,7 @@ PROGRAMA EXIBIDO EM 22/09/2025</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250922012000 -0300" stop="20250922030359 -0300" channel="canal-brasil">
+  <programme start="20250922012050 -0300" stop="20250922030559 -0300" channel="canal-brasil">
     <title lang="pt">Tinnitus</title>
     <desc lang="pt"> - Marina Lenk é uma experiente atleta de Saltos Ornamentais. A jovem sofre de um zumbido no ouvido, afetando sua estabilidade física e emocional. Aterrorizada pela súbita crise de Tinnitus, ela se afasta de competições.</desc>
     <rating system="Brazil">
@@ -26916,6 +26895,13 @@ PROGRAMA EXIBIDO EM 22/09/2025</desc>
     <desc lang="pt"> - Pílulas Espelho.</desc>
     <rating system="Brazil">
       <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250922114000 -0300" stop="20250922131959 -0300" channel="canal-brasil">
+    <title lang="pt">O Dragão Da Maldade Contra O Santo Guerreiro</title>
+    <desc lang="pt"> - O matador de cangaceiros Antônio das Mortes volta a Jardim das Piranhas (BA) para matar o bando de Coraina, que diz ser a encarnação de Lampião.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
     </rating>
   </programme>
   <programme start="20250922132300 -0300" stop="20250922132559 -0300" channel="canal-brasil">
@@ -27024,7 +27010,7 @@ PROGRAMA EXIBIDO EM 22/09/2025</desc>
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250921232307 -0300" stop="20250922001959 -0300" channel="canal-off">
+  <programme start="20250921232307 -0300" stop="20250922002104 -0300" channel="canal-off">
     <title lang="pt">Manual De Ondas Grandes</title>
     <sub-title lang="pt">O Manual Completo</sub-title>
     <desc lang="pt"> - Um retrato das pessoas que passam a vida perseguindo tempestades e sonhando em surfar as maiores ondas do mundo. Os maiores nomes do esporte falam sobre a emoção de descer uma montanha de água e o que faz parte da vida de um big rider.</desc>
@@ -27032,7 +27018,7 @@ PROGRAMA EXIBIDO EM 22/09/2025</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250922002000 -0300" stop="20250922010959 -0300" channel="canal-off">
+  <programme start="20250922002105 -0300" stop="20250922011107 -0300" channel="canal-off">
     <title lang="pt">Skate The World</title>
     <desc lang="pt"> - No Peru, Mathieu explora uma cena de skate em rápido crescimento, onde tradições ancestrais e modernidade coexistem, impulsionadas por um forte espírito de apoio na comunidade.</desc>
     <episode-num system="xmltv_ns">.19.</episode-num>
@@ -27040,7 +27026,7 @@ PROGRAMA EXIBIDO EM 22/09/2025</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250922011000 -0300" stop="20250922014259 -0300" channel="canal-off">
+  <programme start="20250922011109 -0300" stop="20250922014358 -0300" channel="canal-off">
     <title lang="pt">Off - Euceano</title>
     <sub-title lang="pt">2 - O novo turismo conectado com a preservação nas Maldivas </sub-title>
     <desc lang="pt"> - Rodrigo Thomé e Rodrigo Cebrian conhecem as iniciativas sustentáveis de um resort, que oferece experiências para os turistas se conectarem com a preservação do meio-ambiente.</desc>
@@ -27048,7 +27034,7 @@ PROGRAMA EXIBIDO EM 22/09/2025</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250922014300 -0300" stop="20250922024059 -0300" channel="canal-off">
+  <programme start="20250922014400 -0300" stop="20250922024059 -0300" channel="canal-off">
     <title lang="pt">Manual De Ondas Grandes</title>
     <sub-title lang="pt">O Manual Completo</sub-title>
     <desc lang="pt"> - Um retrato das pessoas que passam a vida perseguindo tempestades e sonhando em surfar as maiores ondas do mundo. Os maiores nomes do esporte falam sobre a emoção de descer uma montanha de água e o que faz parte da vida de um big rider.</desc>
@@ -27212,6 +27198,14 @@ PROGRAMA EXIBIDO EM 22/09/2025</desc>
     <title lang="pt">Off Docs</title>
     <sub-title lang="pt">Asas Do Maranhão</sub-title>
     <desc lang="pt"> - Expedição entre amigos nos Lençóis Maranhenses para descobrir as belezas naturais e explorar a pratica de Paragliding na região.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250922124000 -0300" stop="20250922130859 -0300" channel="canal-off">
+    <title lang="pt">Kaiak</title>
+    <sub-title lang="pt">Laos</sub-title>
+    <desc lang="pt"> - Chegando em Laos, os kayakers Ben, Chris e Pedro descem um rio perigoso, com grande volume de água, cheio de armadilhas para peixes, corredeiras estreitas e pedras.</desc>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -27886,7 +27880,7 @@ turístico cheio de natureza em meio a construções impressionantes."</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250922004007 -0300" stop="20250922010459 -0300" channel="modo-viagem">
+  <programme start="20250922004007 -0300" stop="20250922010426 -0300" channel="modo-viagem">
     <title lang="pt">Expedição Austrália-T4</title>
     <sub-title lang="pt">Rio Mary</sub-title>
     <desc lang="pt"> - Ao longo do Rio Mary no Território do Norte, Ernie enfrenta o calor e explora a região selvagem por terra, mar e ar.</desc>
@@ -27895,14 +27889,14 @@ turístico cheio de natureza em meio a construções impressionantes."</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250922010500 -0300" stop="20250922015659 -0300" channel="modo-viagem">
+  <programme start="20250922010428 -0300" stop="20250922015642 -0300" channel="modo-viagem">
     <title lang="pt">As Maravilhas Do Mundo</title>
     <desc lang="pt"> - Com uma variedade de paisagens únicas e selvagens, a Patagônia é conhecida mundialmente por seus grandes campos de gelo, que são um verdadeiro deleite para os olhos.</desc>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250922015700 -0300" stop="20250922022359 -0300" channel="modo-viagem">
+  <programme start="20250922015645 -0300" stop="20250922022350 -0300" channel="modo-viagem">
     <title lang="pt">Ruas Mundo Afora</title>
     <sub-title lang="pt">Escócia - Edimburgo</sub-title>
     <desc lang="pt"> - No primeiro episódio da Escócia, Rodrigo Ruas te leva para Edimburgo, capital do país, passando pelo Castelo de Edimburgo,  pela Catedral de ST Giles e muito mais.</desc>
@@ -27910,7 +27904,7 @@ turístico cheio de natureza em meio a construções impressionantes."</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250922022400 -0300" stop="20250922025359 -0300" channel="modo-viagem">
+  <programme start="20250922022353 -0300" stop="20250922023640 -0300" channel="modo-viagem">
     <title lang="pt">Ruas Mundo Afora</title>
     <sub-title lang="pt">Escócia - Gastronomia de Edimburgo</sub-title>
     <desc lang="pt"> - No segundo episódio da Escócia, Rodrigo Ruas continua em Edimburgo e te leva para conhecer a gastronomia local, com dicas dos melhores restaurantes da cidade.</desc>
@@ -28307,7 +28301,22 @@ gastronomia local e ainda conhece uma destilaria de Whisky. "</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250921232634 -0300" stop="20250922002505 -0300" channel="premiere">
+  <programme start="20250921201933 -0300" stop="20250921222014 -0300" channel="premiere">
+    <title lang="pt">Brasileirão: Santos x São Paulo - ao vivo</title>
+    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!
+</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20250921222017 -0300" stop="20250921232241 -0300" channel="premiere">
+    <title lang="pt">Retrô - Brasileirão 2015: Santos x São Paulo</title>
+    <sub-title lang="pt">24ª Rodada, realizado em 09/09/2015</sub-title>
+    <desc lang="pt">Reveja partidas históricas do seu esporte favorito!
+
+</desc>
+    <category lang="en">sports (general)</category>
+    <date>09/09/2015</date>
+  </programme>
+  <programme start="20250921232244 -0300" stop="20250922002115 -0300" channel="premiere">
     <title lang="pt">Retrô - Brasileirão 2019: São Paulo x Santos</title>
     <sub-title lang="pt">14ª Rodada, realizado em 10/08/2019</sub-title>
     <desc lang="pt">Reveja partidas históricas do seu esporte favorito!
@@ -28316,45 +28325,45 @@ gastronomia local e ainda conhece uma destilaria de Whisky. "</desc>
     <category lang="en">sports (general)</category>
     <date>10/08/2019</date>
   </programme>
-  <programme start="20250922002508 -0300" stop="20250922012422 -0300" channel="premiere">
+  <programme start="20250922002117 -0300" stop="20250922012031 -0300" channel="premiere">
     <title lang="pt">VT - Brasileirão: Santos x São Paulo</title>
     <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!
 </desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250922013000 -0300" stop="20250922022959 -0300" channel="premiere">
+  <programme start="20250922012032 -0300" stop="20250922021901 -0300" channel="premiere">
     <title lang="pt">VT - Brasileirão: Flamengo x Vasco</title>
     <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!
 </desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250922023000 -0300" stop="20250922032959 -0300" channel="premiere">
+  <programme start="20250922021903 -0300" stop="20250922031747 -0300" channel="premiere">
     <title lang="pt">VT - Brasileirão: Internacional x Grêmio</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250922033000 -0300" stop="20250922042959 -0300" channel="premiere">
+  <programme start="20250922031748 -0300" stop="20250922041702 -0300" channel="premiere">
     <title lang="pt">VT - Brasileirão: Sport x Corinthians</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250922043000 -0300" stop="20250922052959 -0300" channel="premiere">
+  <programme start="20250922041703 -0300" stop="20250922051532 -0300" channel="premiere">
     <title lang="pt">VT - Brasileirão: Cruzeiro x Bragantino</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250922053000 -0300" stop="20250922062959 -0300" channel="premiere">
+  <programme start="20250922051533 -0300" stop="20250922061402 -0300" channel="premiere">
     <title lang="pt">VT - Brasileirão: Mirassol x Juventude</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250922063000 -0300" stop="20250922072959 -0300" channel="premiere">
+  <programme start="20250922061404 -0300" stop="20250922062826 -0300" channel="premiere">
     <title lang="pt">VT - Brasileirão: Vitória x Fluminense</title>
     <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!
 </desc>
@@ -28451,32 +28460,13 @@ gastronomia local e ainda conhece uma destilaria de Whisky. "</desc>
     <category lang="en">football/soccer</category>
     <previously-shown />
   </programme>
-  <programme start="20250922213000 -0300" stop="20250922222959 -0300" channel="premiere">
-    <title lang="pt">VT - Brasileirão: Flamengo x Vasco</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!
-</desc>
-    <category lang="en">football/soccer</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250922223000 -0300" stop="20250922232959 -0300" channel="premiere">
-    <title lang="pt">VT - Brasileirão: Internacional x Grêmio</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <category lang="en">football/soccer</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250922233000 -0300" stop="20250923002959 -0300" channel="premiere">
-    <title lang="pt">VT - Brasileirão: Sport x Corinthians</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <category lang="en">football/soccer</category>
-    <previously-shown />
-  </programme>
   <programme start="20250921225517 -0300" stop="20250922012434 -0300" channel="combate">
     <title lang="pt">VT - Jungle Fight 140</title>
     <desc lang="pt"> - Fique por dentro do melhor do MMA da América Latina no Jungle Fight, aqui no sportv!</desc>
     <category lang="en">sports (general)</category>
     <previously-shown />
   </programme>
-  <programme start="20250922012437 -0300" stop="20250922014459 -0300" channel="combate">
+  <programme start="20250922012437 -0300" stop="20250922040007 -0300" channel="combate">
     <title lang="pt">VT - Boxe</title>
     <sub-title lang="pt">Finais</sub-title>
     <desc lang="pt">Os grandes nomes do boxe estão no Mundial de boxe! Assista os melhores agora!
@@ -28484,11 +28474,10 @@ gastronomia local e ainda conhece uma destilaria de Whisky. "</desc>
     <category lang="en">sports (general)</category>
     <previously-shown />
   </programme>
-  <programme start="20250922014500 -0300" stop="20250922044459 -0300" channel="combate">
-    <title lang="pt">VT - Jungle Fight 140</title>
-    <desc lang="pt"> - Fique por dentro do melhor do MMA da América Latina no Jungle Fight, aqui no sportv!</desc>
+  <programme start="20250922040008 -0300" stop="20250922044459 -0300" channel="combate">
+    <title lang="pt">KSW 110</title>
+    <desc lang="pt"> - É a principal organização de artes marciais mistas da Polônia e uma das ligas líderes na Europa.</desc>
     <category lang="en">sports (general)</category>
-    <previously-shown />
   </programme>
   <programme start="20250922044500 -0300" stop="20250922072459 -0300" channel="combate">
     <title lang="pt">VT - Boxe</title>
@@ -28702,113 +28691,6 @@ gastronomia local e ainda conhece uma destilaria de Whisky. "</desc>
   <programme start="20250923232500 -0300" stop="20250924000459 -0300" channel="tv-globo">
     <title lang="pt">Profissão Repórter</title>
     <desc lang="pt"> -  Os bastidores da notícia e os desafios da reportagem. Diferentes olhares sob o comando de Caco Barcellos</desc>
-  </programme>
-  <programme start="20250922221000 -0300" stop="20250923004959 -0300" channel="ge-tv">
-    <title lang="pt">VT - NFL: Pittsburgh Steelers x Seattle Seahawks</title>
-    <desc lang="pt">Prepare-se para a energia contagiante da NFL. Equipes duelam em jogadas rápidas e estratégicas, onde velocidade, força e precisão se encontram.</desc>
-    <category lang="en">sports (general)</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250923005000 -0300" stop="20250923035459 -0300" channel="ge-tv">
-    <title lang="pt">VT - NFL: Washington Commanders x New York Giants</title>
-    <desc lang="pt">Prepare-se para a energia contagiante da NFL. Equipes duelam em jogadas rápidas e estratégicas, onde velocidade, força e precisão se encontram.</desc>
-    <category lang="en">sports (general)</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250923035500 -0300" stop="20250923044459 -0300" channel="ge-tv">
-    <title lang="pt">Faixa sportv - Stock Car: Etapa 6 - Corrida 1</title>
-    <desc lang="pt">Acompanhe uma das mais importantes e tradicionais competições de automobilismo, no sportv</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20250923044500 -0300" stop="20250923054459 -0300" channel="ge-tv">
-    <title lang="pt">Faixa sportv - Stock Car: Etapa 6 - Corrida 2</title>
-    <desc lang="pt">Acompanhe uma das mais importantes e tradicionais competições de automobilismo, no sportv</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20250923054500 -0300" stop="20250923061959 -0300" channel="ge-tv">
-    <title lang="pt">Giro da Rodada: Copa Do Brasil - Volta</title>
-    <sub-title lang="pt">Quartas de Final</sub-title>
-    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20250923062000 -0300" stop="20250923071959 -0300" channel="ge-tv">
-    <title lang="pt">Giro da Rodada: Brasileirão</title>
-    <sub-title lang="pt">24ª Rodada</sub-title>
-    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20250923072000 -0300" stop="20250923085959 -0300" channel="ge-tv">
-    <title lang="pt">Faixa sportv - Mundial De Vôlei: Brasil x França</title>
-    <sub-title lang="pt">Quartas de Final</sub-title>
-    <desc lang="pt">Tá de volta! Vem acompanhar jogão do Mundial de Vôlei aqui no sportv!
-</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20250923090000 -0300" stop="20250923092959 -0300" channel="ge-tv">
-    <title lang="pt">Baú do Esporte: Lendas - Mulheres de Ouro</title>
-    <desc lang="pt">Quer reviver aquele jogo inesquecível? Saber o que seu ídolo sentiu na hora do gol decisivo? O Baú do Esporte traz diariamente os grandes momentos e personagens que marcaram a história esportiva do Brasil e do mundo.</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20250923093000 -0300" stop="20250923122959 -0300" channel="ge-tv">
-    <title lang="pt">VT - NFL: Los Angeles Rams x Philadelphia Eagles</title>
-    <desc lang="pt">Prepare-se para a energia contagiante da NFL. Equipes duelam em jogadas rápidas e estratégicas, onde velocidade, força e precisão se encontram.</desc>
-    <category lang="en">sports (general)</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250923123000 -0300" stop="20250923135959 -0300" channel="ge-tv">
-    <title lang="pt">VT - Pré-Jogo - Flamengo x Vasco</title>
-    <desc lang="pt"> - Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes.
-</desc>
-    <category lang="en">sports (general)</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250923140000 -0300" stop="20250923155959 -0300" channel="ge-tv">
-    <title lang="pt">VT - Brasileirão: Flamengo x Vasco</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!
-</desc>
-    <category lang="en">football/soccer</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250923160000 -0300" stop="20250923165959 -0300" channel="ge-tv">
-    <title lang="pt">VT - Pós-Jogo - Flamengo x Vasco</title>
-    <desc lang="pt"> - Acompanhe o que aconteceu nos jogos.
-</desc>
-    <category lang="en">sports (general)</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250923170000 -0300" stop="20250923184959 -0300" channel="ge-tv">
-    <title lang="pt">VT - CONMEBOL Libertadores: River Plate (ARG) x Palmeiras</title>
-    <desc lang="pt">Ge tv exibe o torneio de clubes mais prestigioso da América do Sul coloca frente a frente os gigantes do futebol.</desc>
-    <category lang="en">football/soccer</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250923185000 -0300" stop="20250923194959 -0300" channel="ge-tv">
-    <title lang="pt">VT - Pós-Jogo - River Plate (ARG) x Palmeiras</title>
-    <desc lang="pt"> - Acompanhe o que aconteceu nos jogos.
-</desc>
-    <category lang="en">sports (general)</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250923195000 -0300" stop="20250923211959 -0300" channel="ge-tv">
-    <title lang="pt">VT - Pré-Jogo - Flamengo x Vasco</title>
-    <desc lang="pt"> - Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes.
-</desc>
-    <category lang="en">sports (general)</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250923212000 -0300" stop="20250923231959 -0300" channel="ge-tv">
-    <title lang="pt">VT - Brasileirão: Flamengo x Vasco</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!
-</desc>
-    <category lang="en">football/soccer</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250923232000 -0300" stop="20250924001959 -0300" channel="ge-tv">
-    <title lang="pt">VT - Pós-Jogo - Flamengo x Vasco</title>
-    <desc lang="pt"> - Acompanhe o que aconteceu nos jogos.
-</desc>
-    <category lang="en">sports (general)</category>
-    <previously-shown />
   </programme>
   <programme start="20250922233000 -0300" stop="20250923002959 -0300" channel="sportv">
     <title lang="pt">Giro da Rodada: Brasileirão - Inédito</title>
@@ -29146,6 +29028,113 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
     <title lang="pt">Faixa Combate: Attack Fight 38</title>
     <desc lang="pt">O ATTACK FIGHT é uma organização de esportes de contato fundada por Adriano Souza em 2015, é um dos maiores eventos de Muay Thai profissional do Brasil.</desc>
     <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250922221000 -0300" stop="20250923004959 -0300" channel="ge-tv">
+    <title lang="pt">VT - NFL: Pittsburgh Steelers x Seattle Seahawks</title>
+    <desc lang="pt">Prepare-se para a energia contagiante da NFL. Equipes duelam em jogadas rápidas e estratégicas, onde velocidade, força e precisão se encontram.</desc>
+    <category lang="en">sports (general)</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250923005000 -0300" stop="20250923035459 -0300" channel="ge-tv">
+    <title lang="pt">VT - NFL: Washington Commanders x New York Giants</title>
+    <desc lang="pt">Prepare-se para a energia contagiante da NFL. Equipes duelam em jogadas rápidas e estratégicas, onde velocidade, força e precisão se encontram.</desc>
+    <category lang="en">sports (general)</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250923035500 -0300" stop="20250923044459 -0300" channel="ge-tv">
+    <title lang="pt">Faixa sportv - Stock Car: Etapa 6 - Corrida 1</title>
+    <desc lang="pt">Acompanhe uma das mais importantes e tradicionais competições de automobilismo, no sportv</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250923044500 -0300" stop="20250923054459 -0300" channel="ge-tv">
+    <title lang="pt">Faixa sportv - Stock Car: Etapa 6 - Corrida 2</title>
+    <desc lang="pt">Acompanhe uma das mais importantes e tradicionais competições de automobilismo, no sportv</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250923054500 -0300" stop="20250923061959 -0300" channel="ge-tv">
+    <title lang="pt">Giro da Rodada: Copa Do Brasil - Volta</title>
+    <sub-title lang="pt">Quartas de Final</sub-title>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250923062000 -0300" stop="20250923071959 -0300" channel="ge-tv">
+    <title lang="pt">Giro da Rodada: Brasileirão</title>
+    <sub-title lang="pt">24ª Rodada</sub-title>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250923072000 -0300" stop="20250923085959 -0300" channel="ge-tv">
+    <title lang="pt">Faixa sportv - Mundial De Vôlei: Brasil x França</title>
+    <sub-title lang="pt">Quartas de Final</sub-title>
+    <desc lang="pt">Tá de volta! Vem acompanhar jogão do Mundial de Vôlei aqui no sportv!
+</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250923090000 -0300" stop="20250923092959 -0300" channel="ge-tv">
+    <title lang="pt">Baú do Esporte: Lendas - Mulheres de Ouro</title>
+    <desc lang="pt">Quer reviver aquele jogo inesquecível? Saber o que seu ídolo sentiu na hora do gol decisivo? O Baú do Esporte traz diariamente os grandes momentos e personagens que marcaram a história esportiva do Brasil e do mundo.</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250923093000 -0300" stop="20250923122959 -0300" channel="ge-tv">
+    <title lang="pt">VT - NFL: Los Angeles Rams x Philadelphia Eagles</title>
+    <desc lang="pt">Prepare-se para a energia contagiante da NFL. Equipes duelam em jogadas rápidas e estratégicas, onde velocidade, força e precisão se encontram.</desc>
+    <category lang="en">sports (general)</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250923123000 -0300" stop="20250923135959 -0300" channel="ge-tv">
+    <title lang="pt">VT - Pré-Jogo - Flamengo x Vasco</title>
+    <desc lang="pt"> - Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes.
+</desc>
+    <category lang="en">sports (general)</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250923140000 -0300" stop="20250923155959 -0300" channel="ge-tv">
+    <title lang="pt">VT - Brasileirão: Flamengo x Vasco</title>
+    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!
+</desc>
+    <category lang="en">football/soccer</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250923160000 -0300" stop="20250923165959 -0300" channel="ge-tv">
+    <title lang="pt">VT - Pós-Jogo - Flamengo x Vasco</title>
+    <desc lang="pt"> - Acompanhe o que aconteceu nos jogos.
+</desc>
+    <category lang="en">sports (general)</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250923170000 -0300" stop="20250923184959 -0300" channel="ge-tv">
+    <title lang="pt">VT - CONMEBOL Libertadores: River Plate (ARG) x Palmeiras</title>
+    <desc lang="pt">Ge tv exibe o torneio de clubes mais prestigioso da América do Sul coloca frente a frente os gigantes do futebol.</desc>
+    <category lang="en">football/soccer</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250923185000 -0300" stop="20250923194959 -0300" channel="ge-tv">
+    <title lang="pt">VT - Pós-Jogo - River Plate (ARG) x Palmeiras</title>
+    <desc lang="pt"> - Acompanhe o que aconteceu nos jogos.
+</desc>
+    <category lang="en">sports (general)</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250923195000 -0300" stop="20250923211959 -0300" channel="ge-tv">
+    <title lang="pt">VT - Pré-Jogo - Flamengo x Vasco</title>
+    <desc lang="pt"> - Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes.
+</desc>
+    <category lang="en">sports (general)</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250923212000 -0300" stop="20250923231959 -0300" channel="ge-tv">
+    <title lang="pt">VT - Brasileirão: Flamengo x Vasco</title>
+    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!
+</desc>
+    <category lang="en">football/soccer</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250923232000 -0300" stop="20250924001959 -0300" channel="ge-tv">
+    <title lang="pt">VT - Pós-Jogo - Flamengo x Vasco</title>
+    <desc lang="pt"> - Acompanhe o que aconteceu nos jogos.
+</desc>
+    <category lang="en">sports (general)</category>
+    <previously-shown />
   </programme>
   <programme start="20250923000000 -0300" stop="20250923005959 -0300" channel="globonews">
     <title lang="pt">Jornal GloboNews Edição da Meia-noite - ao vivo</title>
@@ -30205,123 +30194,6 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250923232000 -0300" stop="20250924001959 -0300" channel="ge-tv">
-    <title lang="pt">VT - Pós-Jogo - Flamengo x Vasco</title>
-    <desc lang="pt"> - Acompanhe o que aconteceu nos jogos.
-</desc>
-    <category lang="en">sports (general)</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250924002000 -0300" stop="20250924005959 -0300" channel="ge-tv">
-    <title lang="pt">Brasil Vs Dunga - Futebol Em Pé De Guerra: Brasil Vs. Dunga - Futebol Em Pé De Guerra - Virada De Jogo</title>
-    <desc lang="pt">A conquista do Tetra, na Copa do Mundo de 1994, calou os céticos que reprovavam a escalação e o esquema tático proposto para a Seleção Brasileira. O que poucos percebem, ou admitem, é que o sucesso da campanha nos Estados Unidos começou na passagem da braçadeira de capitão para Carlos Caetano Bledorn Verri, mais conhecido como Dunga. Esta escolha, que na época parecia tão controversa, nos leva a pensar: o que faz de um jogador, um grande capitão? Ele nem sempre é o craque do time, nem o mais forte, ou o mais carismático. O capitão possui uma habilidade rara, impalpável e invisível aos holofotes. É alguém que comanda seu pelotão para o campo de batalha, sem medo de matar ou morrer. Trata-se de um líder, capaz de transformar um grupo de 11 homens em um time campeão do mundo. Esse capitão, queiram ou não, foi Dunga</desc>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">.1.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250924010000 -0300" stop="20250924014459 -0300" channel="ge-tv">
-    <title lang="pt">Brasil Vs Dunga - Futebol Em Pé De Guerra: Brasil Vs. Dunga - Futebol Em Pé De Guerra - Essa É Pra Vocês!</title>
-    <desc lang="pt">A conquista do Tetra, na Copa do Mundo de 1994, calou os céticos que reprovavam a escalação e o esquema tático proposto para a Seleção Brasileira. O que poucos percebem, ou admitem, é que o sucesso da campanha nos Estados Unidos começou na passagem da braçadeira de capitão para Carlos Caetano Bledorn Verri, mais conhecido como Dunga. Esta escolha, que na época parecia tão controversa, nos leva a pensar: o que faz de um jogador, um grande capitão? Ele nem sempre é o craque do time, nem o mais forte, ou o mais carismático. O capitão possui uma habilidade rara, impalpável e invisível aos holofotes. É alguém que comanda seu pelotão para o campo de batalha, sem medo de matar ou morrer. Trata-se de um líder, capaz de transformar um grupo de 11 homens em um time campeão do mundo. Esse capitão, queiram ou não, foi Dunga</desc>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">.2.</episode-num>
-  </programme>
-  <programme start="20250924014500 -0300" stop="20250924034459 -0300" channel="ge-tv">
-    <title lang="pt">Faixa sportv - Mundial De Vôlei: Polônia x Catar</title>
-    <desc lang="pt">Tá de volta! Vem acompanhar jogão do Mundial de Vôlei aqui no sportv!
-</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20250924034500 -0300" stop="20250924054459 -0300" channel="ge-tv">
-    <title lang="pt">Faixa sportv - Mundial De Vôlei: França x Finlândia</title>
-    <desc lang="pt">Tá de volta! Vem acompanhar jogão do Mundial de Vôlei aqui no sportv!
-</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20250924054500 -0300" stop="20250924064459 -0300" channel="ge-tv">
-    <title lang="pt">Giro da Rodada: Brasileirão</title>
-    <sub-title lang="pt">24ª Rodada</sub-title>
-    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20250924064500 -0300" stop="20250924085459 -0300" channel="ge-tv">
-    <title lang="pt">Faixa sportv - Mundial De Vôlei: Brasil x China</title>
-    <desc lang="pt">Tá de volta! Vem acompanhar jogão do Mundial de Vôlei aqui no sportv!
-</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20250924085500 -0300" stop="20250924105959 -0300" channel="ge-tv">
-    <title lang="pt">Faixa sportv - Mundial De Vôlei: Turquia x Itália</title>
-    <sub-title lang="pt">Final</sub-title>
-    <desc lang="pt">Tá de volta! Vem acompanhar jogão do Mundial de Vôlei aqui no sportv!
-</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20250924110000 -0300" stop="20250924115959 -0300" channel="ge-tv">
-    <title lang="pt">As Bicampeãs</title>
-    <desc lang="pt"> - A série documental AS BICAMPEÃS, acompanha a história da 
-Seleção de vôlei feminino de 2004 a 2012, quando o time brasileiro 
-conquistou duas medalhas de ouro olímpicas inéditas. A série revela 
-desafios, bastidores, processos e emoções dessa trajetória que reverteu a 
-fama de amarelonas da seleção e alçou o time a uma hegemonia histórica. 
-Através do olhar dessas grandes ídolas, abordaremos temas relevantes e 
-sensíveis ao universo feminino esportivo hoje.</desc>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">.3.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250924120000 -0300" stop="20250924125459 -0300" channel="ge-tv">
-    <title lang="pt">Faixa sportv - Brasileirão: Palmeiras x Internacional</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!
-</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20250924125500 -0300" stop="20250924155459 -0300" channel="ge-tv">
-    <title lang="pt">VT - NFL: Los Angeles Rams x Philadelphia Eagles</title>
-    <desc lang="pt">Prepare-se para a energia contagiante da NFL. Equipes duelam em jogadas rápidas e estratégicas, onde velocidade, força e precisão se encontram.</desc>
-    <category lang="en">sports (general)</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250924155500 -0300" stop="20250924172459 -0300" channel="ge-tv">
-    <title lang="pt">VT - Pré-Jogo - Flamengo x Vasco</title>
-    <desc lang="pt"> - Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes.
-</desc>
-    <category lang="en">sports (general)</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250924172500 -0300" stop="20250924192459 -0300" channel="ge-tv">
-    <title lang="pt">VT - Brasileirão: Flamengo x Vasco</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!
-</desc>
-    <category lang="en">football/soccer</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250924192500 -0300" stop="20250924195959 -0300" channel="ge-tv">
-    <title lang="pt">Giro da Rodada: Brasileirão</title>
-    <sub-title lang="pt">24ª Rodada</sub-title>
-    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20250924200000 -0300" stop="20250924212959 -0300" channel="ge-tv">
-    <title lang="pt">Pré-Jogo - Palmeiras x River Plate (ARG) - ao vivo</title>
-    <desc lang="pt"> - Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes.
-</desc>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20250924213000 -0300" stop="20250924232959 -0300" channel="ge-tv">
-    <title lang="pt">CONMEBOL Libertadores: Palmeiras x River Plate (ARG) - ao vivo</title>
-    <desc lang="pt">Libertadores - Palmeiras X River Plate (ARG)</desc>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20250924233000 -0300" stop="20250924235959 -0300" channel="ge-tv">
-    <title lang="pt">Pós-Jogo - Palmeiras x River Plate (ARG) - ao vivo</title>
-    <desc lang="pt"> - Acompanhe o que aconteceu nos jogos.
-</desc>
-    <category lang="en">live broadcast</category>
-  </programme>
   <programme start="20250923233000 -0300" stop="20250924005959 -0300" channel="sportv">
     <title lang="pt">Troca de Passes - ao vivo</title>
     <desc lang="pt"> - Felipe Diniz, Carlos Eduardo Mansur e Alex Meschini troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada. Veja os melhores momentos, tire as dúvidas daquele lance polêmico acompanhe a repercussão com jogadores e treinadores no calor do jogo. Aqui ninguém fica em cima do muro.</desc>
@@ -30552,6 +30424,123 @@ sensíveis ao universo feminino esportivo hoje.</desc>
     <desc lang="pt">Tênis de alto nível na capital paulista, não perca grandes talentos em batalhas emocionantes.</desc>
     <category lang="en">tennis/squash</category>
     <previously-shown />
+  </programme>
+  <programme start="20250923232000 -0300" stop="20250924001959 -0300" channel="ge-tv">
+    <title lang="pt">VT - Pós-Jogo - Flamengo x Vasco</title>
+    <desc lang="pt"> - Acompanhe o que aconteceu nos jogos.
+</desc>
+    <category lang="en">sports (general)</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250924002000 -0300" stop="20250924005959 -0300" channel="ge-tv">
+    <title lang="pt">Brasil Vs Dunga - Futebol Em Pé De Guerra: Brasil Vs. Dunga - Futebol Em Pé De Guerra - Virada De Jogo</title>
+    <desc lang="pt">A conquista do Tetra, na Copa do Mundo de 1994, calou os céticos que reprovavam a escalação e o esquema tático proposto para a Seleção Brasileira. O que poucos percebem, ou admitem, é que o sucesso da campanha nos Estados Unidos começou na passagem da braçadeira de capitão para Carlos Caetano Bledorn Verri, mais conhecido como Dunga. Esta escolha, que na época parecia tão controversa, nos leva a pensar: o que faz de um jogador, um grande capitão? Ele nem sempre é o craque do time, nem o mais forte, ou o mais carismático. O capitão possui uma habilidade rara, impalpável e invisível aos holofotes. É alguém que comanda seu pelotão para o campo de batalha, sem medo de matar ou morrer. Trata-se de um líder, capaz de transformar um grupo de 11 homens em um time campeão do mundo. Esse capitão, queiram ou não, foi Dunga</desc>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">.1.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250924010000 -0300" stop="20250924014459 -0300" channel="ge-tv">
+    <title lang="pt">Brasil Vs Dunga - Futebol Em Pé De Guerra: Brasil Vs. Dunga - Futebol Em Pé De Guerra - Essa É Pra Vocês!</title>
+    <desc lang="pt">A conquista do Tetra, na Copa do Mundo de 1994, calou os céticos que reprovavam a escalação e o esquema tático proposto para a Seleção Brasileira. O que poucos percebem, ou admitem, é que o sucesso da campanha nos Estados Unidos começou na passagem da braçadeira de capitão para Carlos Caetano Bledorn Verri, mais conhecido como Dunga. Esta escolha, que na época parecia tão controversa, nos leva a pensar: o que faz de um jogador, um grande capitão? Ele nem sempre é o craque do time, nem o mais forte, ou o mais carismático. O capitão possui uma habilidade rara, impalpável e invisível aos holofotes. É alguém que comanda seu pelotão para o campo de batalha, sem medo de matar ou morrer. Trata-se de um líder, capaz de transformar um grupo de 11 homens em um time campeão do mundo. Esse capitão, queiram ou não, foi Dunga</desc>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">.2.</episode-num>
+  </programme>
+  <programme start="20250924014500 -0300" stop="20250924034459 -0300" channel="ge-tv">
+    <title lang="pt">Faixa sportv - Mundial De Vôlei: Polônia x Catar</title>
+    <desc lang="pt">Tá de volta! Vem acompanhar jogão do Mundial de Vôlei aqui no sportv!
+</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250924034500 -0300" stop="20250924054459 -0300" channel="ge-tv">
+    <title lang="pt">Faixa sportv - Mundial De Vôlei: França x Finlândia</title>
+    <desc lang="pt">Tá de volta! Vem acompanhar jogão do Mundial de Vôlei aqui no sportv!
+</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250924054500 -0300" stop="20250924064459 -0300" channel="ge-tv">
+    <title lang="pt">Giro da Rodada: Brasileirão</title>
+    <sub-title lang="pt">24ª Rodada</sub-title>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250924064500 -0300" stop="20250924085459 -0300" channel="ge-tv">
+    <title lang="pt">Faixa sportv - Mundial De Vôlei: Brasil x China</title>
+    <desc lang="pt">Tá de volta! Vem acompanhar jogão do Mundial de Vôlei aqui no sportv!
+</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250924085500 -0300" stop="20250924105959 -0300" channel="ge-tv">
+    <title lang="pt">Faixa sportv - Mundial De Vôlei: Turquia x Itália</title>
+    <sub-title lang="pt">Final</sub-title>
+    <desc lang="pt">Tá de volta! Vem acompanhar jogão do Mundial de Vôlei aqui no sportv!
+</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250924110000 -0300" stop="20250924115959 -0300" channel="ge-tv">
+    <title lang="pt">As Bicampeãs</title>
+    <desc lang="pt"> - A série documental AS BICAMPEÃS, acompanha a história da 
+Seleção de vôlei feminino de 2004 a 2012, quando o time brasileiro 
+conquistou duas medalhas de ouro olímpicas inéditas. A série revela 
+desafios, bastidores, processos e emoções dessa trajetória que reverteu a 
+fama de amarelonas da seleção e alçou o time a uma hegemonia histórica. 
+Através do olhar dessas grandes ídolas, abordaremos temas relevantes e 
+sensíveis ao universo feminino esportivo hoje.</desc>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">.3.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250924120000 -0300" stop="20250924125459 -0300" channel="ge-tv">
+    <title lang="pt">Faixa sportv - Brasileirão: Palmeiras x Internacional</title>
+    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!
+</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250924125500 -0300" stop="20250924155459 -0300" channel="ge-tv">
+    <title lang="pt">VT - NFL: Los Angeles Rams x Philadelphia Eagles</title>
+    <desc lang="pt">Prepare-se para a energia contagiante da NFL. Equipes duelam em jogadas rápidas e estratégicas, onde velocidade, força e precisão se encontram.</desc>
+    <category lang="en">sports (general)</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250924155500 -0300" stop="20250924172459 -0300" channel="ge-tv">
+    <title lang="pt">VT - Pré-Jogo - Flamengo x Vasco</title>
+    <desc lang="pt"> - Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes.
+</desc>
+    <category lang="en">sports (general)</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250924172500 -0300" stop="20250924192459 -0300" channel="ge-tv">
+    <title lang="pt">VT - Brasileirão: Flamengo x Vasco</title>
+    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!
+</desc>
+    <category lang="en">football/soccer</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250924192500 -0300" stop="20250924195959 -0300" channel="ge-tv">
+    <title lang="pt">Giro da Rodada: Brasileirão</title>
+    <sub-title lang="pt">24ª Rodada</sub-title>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250924200000 -0300" stop="20250924212959 -0300" channel="ge-tv">
+    <title lang="pt">Pré-Jogo - Palmeiras x River Plate (ARG) - ao vivo</title>
+    <desc lang="pt"> - Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes.
+</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20250924213000 -0300" stop="20250924232959 -0300" channel="ge-tv">
+    <title lang="pt">CONMEBOL Libertadores: Palmeiras x River Plate (ARG) - ao vivo</title>
+    <desc lang="pt">Libertadores - Palmeiras X River Plate (ARG)</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20250924233000 -0300" stop="20250924235959 -0300" channel="ge-tv">
+    <title lang="pt">Pós-Jogo - Palmeiras x River Plate (ARG) - ao vivo</title>
+    <desc lang="pt"> - Acompanhe o que aconteceu nos jogos.
+</desc>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20250924000000 -0300" stop="20250924005959 -0300" channel="globonews">
     <title lang="pt">Jornal GloboNews Edição da Meia-noite - ao vivo</title>
@@ -31646,102 +31635,6 @@ cozinheiro profissional. Será que ele vai enganar os jurados?</desc>
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250925000000 -0300" stop="20250925014959 -0300" channel="ge-tv">
-    <title lang="pt">VT - CONMEBOL Libertadores: River Plate (ARG) x Palmeiras</title>
-    <desc lang="pt">Ge tv exibe o torneio de clubes mais prestigioso da América do Sul coloca frente a frente os gigantes do futebol.</desc>
-    <category lang="en">football/soccer</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250925015000 -0300" stop="20250925021459 -0300" channel="ge-tv">
-    <title lang="pt">Baú do Esporte: Zebras - Palmeiras x Asa</title>
-    <desc lang="pt">Quer reviver aquele jogo inesquecível? Saber o que seu ídolo sentiu na hora do gol decisivo? O Baú do Esporte traz diariamente os grandes momentos e personagens que marcaram a história esportiva do Brasil e do mundo.</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20250925021500 -0300" stop="20250925030959 -0300" channel="ge-tv">
-    <title lang="pt">Faixa sportv - Brasileirão: Palmeiras x Internacional</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!
-</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20250925031000 -0300" stop="20250925055459 -0300" channel="ge-tv">
-    <title lang="pt">VT - NFL: Los Angeles Rams x Philadelphia Eagles</title>
-    <desc lang="pt">Prepare-se para a energia contagiante da NFL. Equipes duelam em jogadas rápidas e estratégicas, onde velocidade, força e precisão se encontram.</desc>
-    <category lang="en">sports (general)</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250925055500 -0300" stop="20250925063459 -0300" channel="ge-tv">
-    <title lang="pt">Giro da Rodada: Melhores Momentos Corinthians - Campeão Brasileirão Feminino 2025</title>
-    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20250925063500 -0300" stop="20250925071459 -0300" channel="ge-tv">
-    <title lang="pt">Sem Bloqueio</title>
-    <desc lang="pt"> - Sem Bloqueio é uma obra seriada documental que apresenta ao público, os bastidores, o dia a dia, a preparação, o nervosismo, o sentimento e a realidade fora de quadra das vitoriosas meninas que compõem o esquadrão tupiniquim. Toda a temporada de 2023 será acompanhada de dentro do vestiário, o ano pós-Tóquio, os traumas e aprendizagens da prata olímpica. A preparação e a trajetória na Liga das Nações e o pré-olímpico. Além, é claro, de conhecer de perto as estrelas medalhistas olímpicas, suas perspectivas, medos, vontades e todas as nuances do voleibol feminino de mais alto nível.</desc>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">1.0.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250925071500 -0300" stop="20250925091459 -0300" channel="ge-tv">
-    <title lang="pt">Faixa sportv - Diamond League: 13ª Etapa</title>
-    <sub-title lang="pt">Lausanne,Suíça</sub-title>
-    <desc lang="pt">Acompanhe a Diamond League, uma das principais competições de atletismo com grandes nomes do esporte.</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20250925091500 -0300" stop="20250925112959 -0300" channel="ge-tv">
-    <title lang="pt">Faixa sportv - Mundial De Vôlei: Itália x Bélgica</title>
-    <desc lang="pt">Tá de volta! Vem acompanhar jogão do Mundial de Vôlei aqui no sportv!
-</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20250925113000 -0300" stop="20250925132959 -0300" channel="ge-tv">
-    <title lang="pt">Faixa sportv - Mundial De Vôlei: Brasil x Sérvia</title>
-    <desc lang="pt">Tá de volta! Vem acompanhar jogão do Mundial de Vôlei aqui no sportv!
-</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20250925133000 -0300" stop="20250925162959 -0300" channel="ge-tv">
-    <title lang="pt">VT - NFL: Los Angeles Rams x Philadelphia Eagles</title>
-    <desc lang="pt">Prepare-se para a energia contagiante da NFL. Equipes duelam em jogadas rápidas e estratégicas, onde velocidade, força e precisão se encontram.</desc>
-    <category lang="en">sports (general)</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250925163000 -0300" stop="20250925183459 -0300" channel="ge-tv">
-    <title lang="pt">VT - Copa do Brasil: Botafogo x Vasco</title>
-    <sub-title lang="pt">Quartas de Final</sub-title>
-    <desc lang="pt">O ciclo de 2025 iniciou, os jogos com finais inesperados, com toda e emoção que a Copa do Brasil tem, Tem coisas que só acontecem na Copa do Brasil!
-</desc>
-    <category lang="en">football/soccer</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250925183500 -0300" stop="20250925200459 -0300" channel="ge-tv">
-    <title lang="pt">VT - Pré-Jogo - Flamengo x Vasco</title>
-    <desc lang="pt"> - Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes.
-</desc>
-    <category lang="en">sports (general)</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250925200500 -0300" stop="20250925220459 -0300" channel="ge-tv">
-    <title lang="pt">VT - Brasileirão: Flamengo x Vasco</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!
-</desc>
-    <category lang="en">football/soccer</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250925220500 -0300" stop="20250925230459 -0300" channel="ge-tv">
-    <title lang="pt">VT - Pós-Jogo - Flamengo x Vasco</title>
-    <desc lang="pt"> - Acompanhe o que aconteceu nos jogos.
-</desc>
-    <category lang="en">sports (general)</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250925230500 -0300" stop="20250926000459 -0300" channel="ge-tv">
-    <title lang="pt">Giro da Rodada: Brasileirão</title>
-    <sub-title lang="pt">24ª Rodada</sub-title>
-    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
   <programme start="20250924233000 -0300" stop="20250925005959 -0300" channel="sportv">
     <title lang="pt">Troca de Passes - ao vivo</title>
     <desc lang="pt"> - Felipe Diniz, Carlos Eduardo Mansur e Alex Meschini troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada. Veja os melhores momentos, tire as dúvidas daquele lance polêmico acompanhe a repercussão com jogadores e treinadores no calor do jogo. Aqui ninguém fica em cima do muro.</desc>
@@ -31918,6 +31811,102 @@ cozinheiro profissional. Será que ele vai enganar os jurados?</desc>
     <desc lang="pt">Tênis de alto nível na capital paulista, não perca grandes talentos em batalhas emocionantes.</desc>
     <category lang="en">tennis/squash</category>
     <previously-shown />
+  </programme>
+  <programme start="20250925000000 -0300" stop="20250925014959 -0300" channel="ge-tv">
+    <title lang="pt">VT - CONMEBOL Libertadores: River Plate (ARG) x Palmeiras</title>
+    <desc lang="pt">Ge tv exibe o torneio de clubes mais prestigioso da América do Sul coloca frente a frente os gigantes do futebol.</desc>
+    <category lang="en">football/soccer</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250925015000 -0300" stop="20250925021459 -0300" channel="ge-tv">
+    <title lang="pt">Baú do Esporte: Zebras - Palmeiras x Asa</title>
+    <desc lang="pt">Quer reviver aquele jogo inesquecível? Saber o que seu ídolo sentiu na hora do gol decisivo? O Baú do Esporte traz diariamente os grandes momentos e personagens que marcaram a história esportiva do Brasil e do mundo.</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250925021500 -0300" stop="20250925030959 -0300" channel="ge-tv">
+    <title lang="pt">Faixa sportv - Brasileirão: Palmeiras x Internacional</title>
+    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!
+</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250925031000 -0300" stop="20250925055459 -0300" channel="ge-tv">
+    <title lang="pt">VT - NFL: Los Angeles Rams x Philadelphia Eagles</title>
+    <desc lang="pt">Prepare-se para a energia contagiante da NFL. Equipes duelam em jogadas rápidas e estratégicas, onde velocidade, força e precisão se encontram.</desc>
+    <category lang="en">sports (general)</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250925055500 -0300" stop="20250925063459 -0300" channel="ge-tv">
+    <title lang="pt">Giro da Rodada: Melhores Momentos Corinthians - Campeão Brasileirão Feminino 2025</title>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250925063500 -0300" stop="20250925071459 -0300" channel="ge-tv">
+    <title lang="pt">Sem Bloqueio</title>
+    <desc lang="pt"> - Sem Bloqueio é uma obra seriada documental que apresenta ao público, os bastidores, o dia a dia, a preparação, o nervosismo, o sentimento e a realidade fora de quadra das vitoriosas meninas que compõem o esquadrão tupiniquim. Toda a temporada de 2023 será acompanhada de dentro do vestiário, o ano pós-Tóquio, os traumas e aprendizagens da prata olímpica. A preparação e a trajetória na Liga das Nações e o pré-olímpico. Além, é claro, de conhecer de perto as estrelas medalhistas olímpicas, suas perspectivas, medos, vontades e todas as nuances do voleibol feminino de mais alto nível.</desc>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250925071500 -0300" stop="20250925091459 -0300" channel="ge-tv">
+    <title lang="pt">Faixa sportv - Diamond League: 13ª Etapa</title>
+    <sub-title lang="pt">Lausanne,Suíça</sub-title>
+    <desc lang="pt">Acompanhe a Diamond League, uma das principais competições de atletismo com grandes nomes do esporte.</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250925091500 -0300" stop="20250925112959 -0300" channel="ge-tv">
+    <title lang="pt">Faixa sportv - Mundial De Vôlei: Itália x Bélgica</title>
+    <desc lang="pt">Tá de volta! Vem acompanhar jogão do Mundial de Vôlei aqui no sportv!
+</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250925113000 -0300" stop="20250925132959 -0300" channel="ge-tv">
+    <title lang="pt">Faixa sportv - Mundial De Vôlei: Brasil x Sérvia</title>
+    <desc lang="pt">Tá de volta! Vem acompanhar jogão do Mundial de Vôlei aqui no sportv!
+</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250925133000 -0300" stop="20250925162959 -0300" channel="ge-tv">
+    <title lang="pt">VT - NFL: Los Angeles Rams x Philadelphia Eagles</title>
+    <desc lang="pt">Prepare-se para a energia contagiante da NFL. Equipes duelam em jogadas rápidas e estratégicas, onde velocidade, força e precisão se encontram.</desc>
+    <category lang="en">sports (general)</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250925163000 -0300" stop="20250925183459 -0300" channel="ge-tv">
+    <title lang="pt">VT - Copa do Brasil: Botafogo x Vasco</title>
+    <sub-title lang="pt">Quartas de Final</sub-title>
+    <desc lang="pt">O ciclo de 2025 iniciou, os jogos com finais inesperados, com toda e emoção que a Copa do Brasil tem, Tem coisas que só acontecem na Copa do Brasil!
+</desc>
+    <category lang="en">football/soccer</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250925183500 -0300" stop="20250925200459 -0300" channel="ge-tv">
+    <title lang="pt">VT - Pré-Jogo - Flamengo x Vasco</title>
+    <desc lang="pt"> - Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes.
+</desc>
+    <category lang="en">sports (general)</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250925200500 -0300" stop="20250925220459 -0300" channel="ge-tv">
+    <title lang="pt">VT - Brasileirão: Flamengo x Vasco</title>
+    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!
+</desc>
+    <category lang="en">football/soccer</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250925220500 -0300" stop="20250925230459 -0300" channel="ge-tv">
+    <title lang="pt">VT - Pós-Jogo - Flamengo x Vasco</title>
+    <desc lang="pt"> - Acompanhe o que aconteceu nos jogos.
+</desc>
+    <category lang="en">sports (general)</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250925230500 -0300" stop="20250926000459 -0300" channel="ge-tv">
+    <title lang="pt">Giro da Rodada: Brasileirão</title>
+    <sub-title lang="pt">24ª Rodada</sub-title>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <category lang="en">sports (general)</category>
   </programme>
   <programme start="20250925000000 -0300" stop="20250925005959 -0300" channel="globonews">
     <title lang="pt">Jornal GloboNews Edição da Meia-noite - ao vivo</title>
