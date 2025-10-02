@@ -7,9 +7,6 @@ Serão duas atualizações por dia. Uma entre 11h30 e 12h00 e outra entre 23h30 
 
 Você vai encontrar 7 arquivos diferentes e aqui eu vou te explicar o que cada um tem para você escolher o melhor (ou usar todos também, por que não?):
 
-### <b>band.xml</b>
-Pra começar, trazemos as grades de programção de diversas Bands pelo Brasil. Aqui você vai achar: Band São Paulo, Band Aracaju, Band Bahia, Band Brasília, Band Mais (Campinas/Sorocaba), Band Ceará, Band Imperatriz, Band Maceió, Band Maranhão, Band Minas, Band Paraná, Band Paulista, Band Piauí, Band RN, Band RS, Band Rio, Band Tocantins, Band Triângulo e Band Vale 👀.
-
 ### <b>claro.xml</b>
 Aqui você tem a grade de praticamente de todos os canais disponíveis no Claro TV+. Se você não achar, é porque a Claro não quis compartilhar 😔.
 
@@ -27,6 +24,9 @@ Nem lançou, mas numa exclusividade exclusiva você encontra a grade de programa
 
 ### <b>vivoplay.xml</b>
 Esse é perfeito pra você que é Fora Globo das ideias. A Vivo até tem os canais Globo, mas carrega quase nenhum dado de EPG. De resto, tem todo o resto ⛄.
+
+### <b>xsports.xml</b>
+A grade de programação direto do sinal de digital de São Paulo do canal esportivo da tv aberta.
 
 ## Como configurar no DVBViewer?
 
