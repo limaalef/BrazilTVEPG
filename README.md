@@ -1,7 +1,7 @@
 # Bem vindo ao repositório de grades de programação de canais de TV brasileiros 🇧🇷
 
 Utilizando-se na sua totalidade de recursos e soluções próprias eu coleto, organizo e crio arquivos XML com a grade de programação de canais abertos, pagos, streaming e FAST. E agora eu compartilho aqui para quem quiser ou precisar.
-Serão duas atualizações por dia. Uma entre 11h30 e 12h00 e outra entre 23h30 e 00h00. Sempre no horário de Brasília.
+Temos cinco atualizações por dia: Às 11h30, 14h30, 17h30, 20h30 e 23h30. Sempre no horário de Brasília.
 
 
 
