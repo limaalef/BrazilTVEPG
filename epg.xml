@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-11-20 20:50:41" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-11-20 23:59:40" generator-info-url="http://limaalef.com">
   <channel id="+SBT Kids">
     <display-name lang="pt">+SBT Kids</display-name>
   </channel>
@@ -11577,6 +11577,15 @@
       <value>[16]</value>
     </rating>
   </programme>
+  <programme start="20261120223000 -0300" stop="20261121000000 -0300" channel="BAND HD">
+    <title lang="pt">De Férias Com o Ex Brasil</title>
+    <desc lang="pt">Dez solteiros passam férias em um paraíso tropical. Entretanto, o sonho deles pode se transformar em pesadelo quando os ex-parceiros do passado começam a assombrar seus dias e noites.</desc>
+    <length units="minutes">5400</length>
+    <episode-num system="xmltv_ns">22.324.</episode-num>
+    <rating system="Brazil">
+      <value>[16]</value>
+    </rating>
+  </programme>
   <programme start="20261121000000 -0300" stop="20261121010000 -0300" channel="BAND HD">
     <title lang="pt">Jornal da Noite</title>
     <desc lang="pt">Análises, entrevistas, matérias especiais e todos os fatos relevantes do dia no Brasil e no Mundo.</desc>
@@ -12275,6 +12284,13 @@
     <length units="minutes">7200</length>
     <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">81.324.</episode-num>
+  </programme>
+  <programme start="20261120233000 -0300" stop="20261121000000 -0300" channel="BAND NEWS">
+    <title lang="pt">Questão De Regra</title>
+    <desc lang="pt">Acompanhe  o programa Questão de Regra.</desc>
+    <length units="minutes">1800</length>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">83.324.</episode-num>
   </programme>
   <programme start="20261120233000 -0300" stop="20261121000000 -0300" channel="BAND NEWS">
     <title lang="pt">Questão De Regra</title>
@@ -13759,10 +13775,6 @@
     <length units="minutes">3600</length>
     <previously-shown/>
   </programme>
-  <programme start="20261119090000 -0300" stop="20261119110000 -0300" channel="Band SP_local">
-    <title lang="pt">Bora Brasil</title>
-    <desc lang="pt">As principais informações do Brasil e Mundo com leveza, interatividade e credibilidaden</desc>
-  </programme>
   <programme start="20261120090000 -0300" stop="20261120110000 -0300" channel="Band SP_local">
     <title lang="pt">Bora Brasil</title>
     <desc lang="pt">As principais informações do Brasil e Mundo com leveza, interatividade e credibilidaden</desc>
@@ -14807,6 +14819,14 @@
     <title lang="pt">S.O.S. Espiritual</title>
     <desc lang="pt">Pastores e bispos atendem e orientam as pessoas que ligam aflitas. Conheça histórias de superação.</desc>
     <length units="minutes">1920</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20261120230000 -0300" stop="20261121000000 -0300" channel="CBI">
+    <title lang="pt">Fogo E Poder</title>
+    <desc lang="pt">Programa Fogo e Poder com o Pastor Claudesson.</desc>
+    <length units="minutes">3600</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -18767,6 +18787,13 @@
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">83.324.</episode-num>
   </programme>
+  <programme start="20261120230000 -0300" stop="20261121000000 -0300" channel="ESPN">
+    <title lang="pt">Sportscenter - ao vivo</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">83.324.</episode-num>
+  </programme>
   <programme start="20261121000000 -0300" stop="20261121003000 -0300" channel="ESPN">
     <title lang="pt">Programação indisponível</title>
     <length units="minutes">1800</length>
@@ -21047,6 +21074,12 @@
     <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
+  <programme start="20261120220000 -0300" stop="20261121000000 -0300" channel="ESPN 5">
+    <title lang="pt">Benfica x Roma</title>
+    <desc lang="pt">A UEFA Women's Champions League representa o que há de melhor no futebol europeu de clubes. Na renovada edição 2025/26, cada jogo conta!</desc>
+    <length units="minutes">7200</length>
+    <previously-shown/>
+  </programme>
   <programme start="20261121000000 -0300" stop="20261121020000 -0300" channel="ESPN 5">
     <title lang="pt">Mundo F</title>
     <desc lang="pt">Tudo que gira em torno do universo do futebol internacional. Grandes temas, clubes e personagens ganham holofotes e são tratados com uma linguagem contemporânea e jovem.</desc>
@@ -21909,10 +21942,6 @@
     <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
-  <programme start="20261119093000 -0300" stop="20261119103500 -0300" channel="Globo SP_local">
-    <title lang="pt">Encontro com Patrícia Poeta</title>
-    <desc lang="pt">Patrícia Poeta comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.</desc>
-  </programme>
   <programme start="20261120093000 -0300" stop="20261120103500 -0300" channel="Globo SP_local">
     <title lang="pt">Encontro com Patrícia Poeta</title>
     <desc lang="pt">Patrícia Poeta comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.</desc>
@@ -22740,6 +22769,12 @@
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
+  <programme start="20261120220000 -0300" stop="20261121000000 -0300" channel="PREMIERE 2 HD">
+    <title lang="pt">Dia 21/11: Bahia x Coritiba</title>
+    <desc lang="pt">Bahia e Coritiba jogam pela 36ª rodada do Segundo Turno do Brasileirão, na Casa de Apostas Arena Fonte Nova, em Salvador (BA).</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">sports (general)</category>
+  </programme>
   <programme start="20261121000000 -0300" stop="20261121020000 -0300" channel="PREMIERE 2 HD">
     <title lang="pt">Hoje a partir das 17:30: Bahia x Coritiba</title>
     <desc lang="pt">Bahia e Coritiba jogam pela 36ª rodada do Segundo Turno do Brasileirão, na Casa de Apostas Arena Fonte Nova, em Salvador (BA).</desc>
@@ -23089,6 +23124,12 @@
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20261120200000 -0300" stop="20261120220000 -0300" channel="PREMIERE 3 HD">
+    <title lang="pt">Dia 23/11: Santos x Grêmio</title>
+    <desc lang="pt">Santos e Grêmio jogam pela 36ª rodada do Segundo Turno do Campeonato Brasileirão, no Morumbis, em São Paulo (SP).</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20261120220000 -0300" stop="20261121000000 -0300" channel="PREMIERE 3 HD">
     <title lang="pt">Dia 23/11: Santos x Grêmio</title>
     <desc lang="pt">Santos e Grêmio jogam pela 36ª rodada do Segundo Turno do Campeonato Brasileirão, no Morumbis, em São Paulo (SP).</desc>
     <length units="minutes">7200</length>
@@ -23461,6 +23502,12 @@
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
+  <programme start="20261120220000 -0300" stop="20261121000000 -0300" channel="PREMIERE 4 HD">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">sports (general)</category>
+  </programme>
   <programme start="20261121000000 -0300" stop="20261121020000 -0300" channel="PREMIERE 4 HD">
     <title lang="pt">Com o PREMIERE dá jogo!</title>
     <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
@@ -23810,6 +23857,12 @@
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20261120200000 -0300" stop="20261120220000 -0300" channel="PREMIERE 5 HD">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20261120220000 -0300" stop="20261121000000 -0300" channel="PREMIERE 5 HD">
     <title lang="pt">Com o PREMIERE dá jogo!</title>
     <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
     <length units="minutes">7200</length>
@@ -24181,6 +24234,12 @@
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
+  <programme start="20261120220000 -0300" stop="20261121000000 -0300" channel="PREMIERE 6 HD">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">sports (general)</category>
+  </programme>
   <programme start="20261121000000 -0300" stop="20261121020000 -0300" channel="PREMIERE 6 HD">
     <title lang="pt">Com o PREMIERE dá jogo!</title>
     <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
@@ -24530,6 +24589,12 @@
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20261120200000 -0300" stop="20261120220000 -0300" channel="PREMIERE 7 HD">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20261120220000 -0300" stop="20261121000000 -0300" channel="PREMIERE 7 HD">
     <title lang="pt">Com o PREMIERE dá jogo!</title>
     <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
     <length units="minutes">7200</length>
@@ -25138,6 +25203,13 @@
   <programme start="20261120230000 -0300" stop="20261120233000 -0300" channel="PREMIERE CLUBES HD">
     <title lang="pt">Botafogo x Atlético-MG</title>
     <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
+    <length units="minutes">1800</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20261120233000 -0300" stop="20261121000000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Palmeiras x Remo</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
@@ -26210,6 +26282,11 @@
     <desc lang="pt">Libertadores e Sulamericana com jogos exclusivos.</desc>
     <length units="minutes">10800</length>
   </programme>
+  <programme start="20261120210000 -0300" stop="20261121000000 -0300" channel="Paramount+ 1">
+    <title lang="pt">Libertadores e Sulamericana</title>
+    <desc lang="pt">Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <length units="minutes">10800</length>
+  </programme>
   <programme start="20261121000000 -0300" stop="20261121030000 -0300" channel="Paramount+ 1">
     <title lang="pt">Libertadores e Sulamericana</title>
     <desc lang="pt">Libertadores e Sulamericana com jogos exclusivos.</desc>
@@ -26401,6 +26478,11 @@
     <length units="minutes">10800</length>
   </programme>
   <programme start="20261120180000 -0300" stop="20261120210000 -0300" channel="Paramount+ 2">
+    <title lang="pt">Libertadores e Sulamericana</title>
+    <desc lang="pt">Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <length units="minutes">10800</length>
+  </programme>
+  <programme start="20261120210000 -0300" stop="20261121000000 -0300" channel="Paramount+ 2">
     <title lang="pt">Libertadores e Sulamericana</title>
     <desc lang="pt">Libertadores e Sulamericana com jogos exclusivos.</desc>
     <length units="minutes">10800</length>
@@ -26610,6 +26692,11 @@
     <desc lang="pt">Libertadores e Sulamericana com jogos exclusivos.</desc>
     <length units="minutes">10800</length>
   </programme>
+  <programme start="20261120210000 -0300" stop="20261121000000 -0300" channel="Paramount+ 3">
+    <title lang="pt">Libertadores e Sulamericana</title>
+    <desc lang="pt">Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <length units="minutes">10800</length>
+  </programme>
   <programme start="20261121000000 -0300" stop="20261121030000 -0300" channel="Paramount+ 3">
     <title lang="pt">Libertadores e Sulamericana</title>
     <desc lang="pt">Libertadores e Sulamericana com jogos exclusivos.</desc>
@@ -26806,6 +26893,11 @@
     <length units="minutes">10800</length>
   </programme>
   <programme start="20261120180000 -0300" stop="20261120210000 -0300" channel="Paramount+ 4">
+    <title lang="pt">Libertadores e Sulamericana</title>
+    <desc lang="pt">Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <length units="minutes">10800</length>
+  </programme>
+  <programme start="20261120210000 -0300" stop="20261121000000 -0300" channel="Paramount+ 4">
     <title lang="pt">Libertadores e Sulamericana</title>
     <desc lang="pt">Libertadores e Sulamericana com jogos exclusivos.</desc>
     <length units="minutes">10800</length>
@@ -27933,6 +28025,15 @@
       <value>[L]</value>
     </rating>
   </programme>
+  <programme start="20261120233000 -0300" stop="20261121000000 -0300" channel="REDE GOSPEL">
+    <title lang="pt">Show Especial da Rede Gospel</title>
+    <desc lang="pt">Um especial musical com os maiores talentos da música Gospel da atualidade em shows gravados em eventos promovidos pela igreja Renascer em Cristo.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">23.324.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
   <programme start="20261121000000 -0300" stop="20261121003000 -0300" channel="REDE GOSPEL">
     <title lang="pt">Live Bispa Fernanda Hernandes</title>
     <desc lang="pt">Programa religioso.</desc>
@@ -28716,14 +28817,6 @@
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
-  </programme>
-  <programme start="20261119084000 -0300" stop="20261119095000 -0300" channel="Record SP_local">
-    <title lang="pt">Fala Brasil</title>
-    <desc lang="pt">As manhãs da RECORD são marcadas pelo jornalismo do Fala Brasil. O telejornal traz, em primeira mão, as notícias do dia do Brasil e do mundo e leva ao público as novidades do esporte, saúde, comportamento, entretenimento, além de política</desc>
-  </programme>
-  <programme start="20261119095000 -0300" stop="20261119113000 -0300" channel="Record SP_local">
-    <title lang="pt">Hoje em Dia</title>
-    <desc lang="pt">Jornalismo, prestação de serviço e entretenimento na medida certa dão o ritmo do Hoje em Dia, a sua revista eletrônica matinal da RECORD. Todos os dias, os apresentadores levam informação, receitas, dicas e orientações sobre saúde, novidad</desc>
   </programme>
   <programme start="20261119113000 -0300" stop="20261119153000 -0300" channel="Record SP_local">
     <title lang="pt">Balanço Geral SP</title>
@@ -45303,47 +45396,6 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261119081500 -0300" stop="20261119083000 -0300" channel="TV Cultura SP_local">
-    <title lang="pt">Cocoricó</title>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20261119083000 -0300" stop="20261119084000 -0300" channel="TV Cultura SP_local">
-    <title lang="pt">JACARELVIS E AMIGOS II</title>
-    <desc lang="pt">No primeiro episódio, Jacarelvis e sua turma convidam as crianças para uma aventura musical animada! Comece aprendendo o alfabeto com "ABC do Jacarelvis", divirta-se com a história engraçada de "Baratinha", e encerre cantando so</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20261119084000 -0300" stop="20261119084500 -0300" channel="TV Cultura SP_local">
-    <title lang="pt">PARAMIGOS IMPARÁVEIS</title>
-    <desc lang="pt">8 - Siga o plano  Os Paramigos Imparáveis vão enfrentar Zé Madeira no Central Park, em Nova Iorque. Narciso e Turi são os escolhidos para impedir o vilão e irão enfrentar um novo tipo de Tratorossauro!</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20261119084500 -0300" stop="20261119090000 -0300" channel="TV Cultura SP_local">
-    <title lang="pt">Meu AmigãoZão</title>
-    <desc lang="pt">Lili inventa tantas regras que acaba expulsando todos os amigos do seu jogo. Ela e Nessa se isolam num imenso deserto!</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20261119094017 -0300" stop="20261119095420 -0300" channel="TV Cultura SP_local">
-    <title lang="pt">NINHOS EM MOVIMENTO</title>
-    <desc lang="pt">As descobertas de Hermie  Hermie é uma menininha que tem origem filipina e mora em São Paulo com seus pais. Ela está aprendendo a ler na escola e como é muito curiosa adora descobrir coisas novas, como visitar um aquário gigante, o</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20261119095420 -0300" stop="20261119095520 -0300" channel="TV Cultura SP_local">
-    <title lang="pt">OS ÓCULOS MÁGICOS DE CHARLOTTE</title>
-    <desc lang="pt">07  - Canudinhos Nunca Mais  Durante um almoço de toda a turma na casa de Charlotte ao servir um peixe para a refeição eles encontram canudinhos plásticos dentro do pobre peixe. Dora explica a todos o problema do plástic</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
   <programme start="20261119120000 -0300" stop="20261119124500 -0300" channel="TV Cultura SP_local">
     <title lang="pt">Jornal da Tarde</title>
     <rating system="Brazil">
@@ -45871,25 +45923,19 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261120220040 -0300" stop="20261120223000 -0300" channel="TV Cultura SP_local">
+  <programme start="20261120220040 -0300" stop="20261120223355 -0300" channel="TV Cultura SP_local">
     <title lang="pt">Metrópolis</title>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261120223000 -0300" stop="20261120223355 -0300" channel="TV Cultura SP_local">
+  <programme start="20261120223355 -0300" stop="20261120233038 -0300" channel="TV Cultura SP_local">
     <title lang="pt">PROGRAMA ENTRELINHAS</title>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261120223355 -0300" stop="20261120233000 -0300" channel="TV Cultura SP_local">
-    <title lang="pt">PROGRAMA ENTRELINHAS</title>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20261120233000 -0300" stop="20261120233100 -0300" channel="TV Cultura SP_local">
+  <programme start="20261120233038 -0300" stop="20261121003555 -0300" channel="TV Cultura SP_local">
     <title lang="pt">Cultura Memória</title>
     <sub-title lang="pt">CARAM O CINEMA NACIONAL (MACUNAIMA, RIO ZONA NORTE,</sub-title>
     <desc lang="pt">NESTE PROGRAMA ELE FALA SOBRE SUA VIDA E CARREIRA, RELEM-    BRANDO MOMENTOS MARCANTES, COMO AS INUMERAS CHANCHADAS NA    ATLANTIDA AO LADO DE OSCARITO E A ATUACAO EM FILMES QUE MAR</desc>
@@ -45897,58 +45943,25 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261120233038 -0300" stop="20261121003000 -0300" channel="TV Cultura SP_local">
-    <title lang="pt">Cultura Memória</title>
-    <sub-title lang="pt">CARAM O CINEMA NACIONAL (MACUNAIMA, RIO ZONA NORTE,</sub-title>
-    <desc lang="pt">NESTE PROGRAMA ELE FALA SOBRE SUA VIDA E CARREIRA, RELEM-    BRANDO MOMENTOS MARCANTES, COMO AS INUMERAS CHANCHADAS NA    ATLANTIDA AO LADO DE OSCARITO E A ATUACAO EM FILMES QUE MAR</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20261121003000 -0300" stop="20261121003555 -0300" channel="TV Cultura SP_local">
+  <programme start="20261121003555 -0300" stop="20261121010740 -0300" channel="TV Cultura SP_local">
     <title lang="pt">Metrópolis</title>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121003555 -0300" stop="20261121010000 -0300" channel="TV Cultura SP_local">
-    <title lang="pt">Metrópolis</title>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20261121010000 -0300" stop="20261121010740 -0300" channel="TV Cultura SP_local">
+  <programme start="20261121010740 -0300" stop="20261121020449 -0300" channel="TV Cultura SP_local">
     <title lang="pt">Linhas Cruzadas</title>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121010740 -0300" stop="20261121020000 -0300" channel="TV Cultura SP_local">
-    <title lang="pt">Linhas Cruzadas</title>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20261121020000 -0300" stop="20261121020449 -0300" channel="TV Cultura SP_local">
+  <programme start="20261121020449 -0300" stop="20261121030039 -0300" channel="TV Cultura SP_local">
     <title lang="pt">Jornal da Cultura</title>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121020449 -0300" stop="20261121030000 -0300" channel="TV Cultura SP_local">
-    <title lang="pt">Jornal da Cultura</title>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20261121030000 -0300" stop="20261121030100 -0300" channel="TV Cultura SP_local">
-    <title lang="pt">Arena dos Saberes</title>
-    <desc lang="pt">BOA NOITE! GILBERTO GIL, EM REFAZENDA, OLHA PARA A NATUREZA E TRANSFORMA O TEMPO, OS FRUTOS E A ESPERA EM POESIA. E NOS DEIXA ESTES VERSOS TÃO CHEIOS DE ENCANTO.  ENQUANTO O TEMPO NÃO TROUXER TEU ABACATE AMANHECERÁ TOMATE E ANOITECE</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20261121030039 -0300" stop="20261121040000 -0300" channel="TV Cultura SP_local">
+  <programme start="20261121030039 -0300" stop="20261121040022 -0300" channel="TV Cultura SP_local">
     <title lang="pt">Arena dos Saberes</title>
     <desc lang="pt">BOA NOITE! GILBERTO GIL, EM REFAZENDA, OLHA PARA A NATUREZA E TRANSFORMA O TEMPO, OS FRUTOS E A ESPERA EM POESIA. E NOS DEIXA ESTES VERSOS TÃO CHEIOS DE ENCANTO.  ENQUANTO O TEMPO NÃO TROUXER TEU ABACATE AMANHECERÁ TOMATE E ANOITECE</desc>
     <rating system="Brazil">
@@ -45964,7 +45977,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121040022 -0300" stop="20261121050000 -0300" channel="TV Cultura SP_local">
+  <programme start="20261121040022 -0300" stop="20261121050026 -0300" channel="TV Cultura SP_local">
     <title lang="pt">Inglês com Música</title>
     <sub-title lang="pt">realizado em 10/10/2011</sub-title>
     <desc lang="pt">A TERCEIRA TEMPORADA DO PROGRAMA INGLÊS COM MÚSICA FOI AO AR NAS VERSÕES DIÁRIAS E DE SÁBADO. TEVE INÍCIO NA TV CULTURA DIA (SEGUNDA) E NA UNIVESP TV NO DIA 26/09/11 (SEGUNDA) NA TV CULTURA = SEGUNDA A SEXTA DAS 19H30MIN ÀS</desc>
@@ -47330,6 +47343,283 @@
   <programme start="20261125233000 -0300" stop="20261126003000 -0300" channel="TV Cultura SP_local">
     <title lang="pt">Clássicos</title>
     <desc lang="pt">Orquestra Sinfônica Heliópolis se apresenta no Theatro Municipal de São Paulo, sob a regência do maestro Isaac Karabtchevsky, apresenta concerto com repertório:  LUDWING VAN BEETHOVEN (1770  1827)  A Consagração da Casa: abertura, op. 124</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20261126003000 -0300" stop="20261126010000 -0300" channel="TV Cultura SP_local">
+    <title lang="pt">Metrópolis</title>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20261126010000 -0300" stop="20261126020000 -0300" channel="TV Cultura SP_local">
+    <title lang="pt">PROGRAMA ENTRELINHAS</title>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20261126020000 -0300" stop="20261126030000 -0300" channel="TV Cultura SP_local">
+    <title lang="pt">Jornal da Cultura</title>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20261126030000 -0300" stop="20261126040000 -0300" channel="TV Cultura SP_local">
+    <title lang="pt">Provoca</title>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20261126040000 -0300" stop="20261126050000 -0300" channel="TV Cultura SP_local">
+    <title lang="pt">Inglês com Música</title>
+    <sub-title lang="pt">realizado em 10/10/2011</sub-title>
+    <desc lang="pt">A TERCEIRA TEMPORADA DO PROGRAMA INGLÊS COM MÚSICA FOI AO AR NAS VERSÕES DIÁRIAS E DE SÁBADO. TEVE INÍCIO NA TV CULTURA DIA (SEGUNDA) E NA UNIVESP TV NO DIA 26/09/11 (SEGUNDA) NA TV CULTURA = SEGUNDA A SEXTA DAS 19H30MIN ÀS</desc>
+    <date>20111010</date>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20261126050000 -0300" stop="20261126060000 -0300" channel="TV Cultura SP_local">
+    <title lang="pt">Jornal da Cultura</title>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20261126060000 -0300" stop="20261126063000 -0300" channel="TV Cultura SP_local">
+    <title lang="pt">Energia</title>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20261126063000 -0300" stop="20261126070000 -0300" channel="TV Cultura SP_local">
+    <title lang="pt">Negros em Foco</title>
+    <desc lang="pt">[REPRISAR ATÉ 2028]  A CULTURA É CONSIDERADA, MUNDIALMENTE, COMO UM SETOR IMPORTANTE PARA O DESENVOLVIMENTO SOCIOECONÔMICO DE UM PAÍS. EXPRESSÕES CULTURAIS NÃO SÓ GERAM RENDA E EMPREGO COMO TAMBÉM PODEM EDUCAR E VALORIZAR UM PAÍS.  A AR</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20261126070000 -0300" stop="20261126071500 -0300" channel="TV Cultura SP_local">
+    <title lang="pt">Peppa Pig</title>
+    <desc lang="pt">Sinopse da Série Na nona temporada, Peppa e sua família continuam explorando situações do cotidiano com humor e imaginação, reforçando temas como amizade, cooperação e descoberta. Os episódios acompanham Peppa e George em novas aventuras na</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20261126071500 -0300" stop="20261126073000 -0300" channel="TV Cultura SP_local">
+    <title lang="pt">LUPITA NO PLANETA DE GENTE GRANDE II</title>
+    <sub-title lang="pt">Lupita vai ao Parque de diversões  Mama, Papa e Lupita vão ao Parque de diversões. Lupita explora o novo lugar e descobre várias coisas divertidas. Eles encontram Lily, a amiguinha de Lupita da creche, que aca</sub-title>
+    <desc lang="pt">12</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20261126073000 -0300" stop="20261126073500 -0300" channel="TV Cultura SP_local">
+    <title lang="pt">Léo, o Caminhão</title>
+    <desc lang="pt">Léo, o caminhão constrói um carrinho de pilha! Scoop cava uma pista para maior diversão! Pegue seu controle remoto e venha correr com o Léo.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20261126073500 -0300" stop="20261126074500 -0300" channel="TV Cultura SP_local">
+    <title lang="pt">PORTÃO MÁGICO</title>
+    <desc lang="pt">Sinopse da Série Uma turma de amigos, de diferentes regiões do Brasil, descobre um Portão Mágico que, ao ser ultrapassado, transporta-os para um mundo de fantasias onde todas as suas questões podem ser resolvidas.  Sinopse do Episódio Ze</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20261126074500 -0300" stop="20261126075500 -0300" channel="TV Cultura SP_local">
+    <title lang="pt">Turbossauros</title>
+    <desc lang="pt">Os garotos se divertiam brincando de esconde-esconde na floresta quando Charlie apareceu. Com pressa, os Turbossauros se transformaram em carros, e Jerry se transformou em um drone. Charlie estava testando seu drone antes e o perdeu em al</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20261126075500 -0300" stop="20261126080000 -0300" channel="TV Cultura SP_local">
+    <title lang="pt">Parquinho Jurássico</title>
+    <desc lang="pt">Lavar as mãos.  Para a gente ser mais saudável e viver melhor é preciso lavar bem as mãos! Dos dedinhos, às unhas e palma. Acompanhe essa trajetória divertida e educativa que ensina as crianças e os adultos a importância de manter</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20261126080000 -0300" stop="20261126081500 -0300" channel="TV Cultura SP_local">
+    <title lang="pt">COCORICÓ CONTA CLÁSSICOS</title>
+    <desc lang="pt">A turma do cocoricó faz uma adaptação da Fábula " O Corcunda de Notre Dame"</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20261126081500 -0300" stop="20261126083000 -0300" channel="TV Cultura SP_local">
+    <title lang="pt">Cocoricó</title>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20261126083000 -0300" stop="20261126084000 -0300" channel="TV Cultura SP_local">
+    <title lang="pt">JACARELVIS E AMIGOS II</title>
+    <desc lang="pt">No sétimo episódio, Jacarelvis e sua turma despertam o dia com muita música e diversão! Comece com o animado "Bom Dia do Jacarelvis", acompanhe o trabalho da "Formiguinha", e celebre a liberdade e alegria de "Tô de Férias". Três</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20261126084000 -0300" stop="20261126084500 -0300" channel="TV Cultura SP_local">
+    <title lang="pt">PARAMIGOS IMPARÁVEIS</title>
+    <desc lang="pt">14 - Ataque do Chiclete Espacial  Dona Tella e os Xuruminhos estão jogando lixo em São Paulo. Turi e Zoom precisam combatê-los... Mas, será que realmente existe um Chiclete Espacial Sabor Banana?</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20261126084500 -0300" stop="20261126090000 -0300" channel="TV Cultura SP_local">
+    <title lang="pt">Meu AmigãoZão</title>
+    <desc lang="pt">Yuri vai à praia mas não quer pisar na água. Golias bebe o mar inteiro e a turma explora o mundo submarino sem se molhar!</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20261126120000 -0300" stop="20261126124500 -0300" channel="TV Cultura SP_local">
+    <title lang="pt">Jornal da Tarde</title>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20261126124500 -0300" stop="20261126130000 -0300" channel="TV Cultura SP_local">
+    <title lang="pt">COCORICÓ CONTA CLÁSSICOS</title>
+    <desc lang="pt">A turma do cocoricó faz uma adaptação da Fábula " O Corcunda de Notre Dame"</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20261126130000 -0300" stop="20261126131500 -0300" channel="TV Cultura SP_local">
+    <title lang="pt">Cocoricó</title>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20261126131500 -0300" stop="20261126132500 -0300" channel="TV Cultura SP_local">
+    <title lang="pt">JACARELVIS E AMIGOS II</title>
+    <desc lang="pt">No sétimo episódio, Jacarelvis e sua turma despertam o dia com muita música e diversão! Comece com o animado "Bom Dia do Jacarelvis", acompanhe o trabalho da "Formiguinha", e celebre a liberdade e alegria de "Tô de Férias". Três</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20261126132500 -0300" stop="20261126133000 -0300" channel="TV Cultura SP_local">
+    <title lang="pt">Léo, o Caminhão</title>
+    <desc lang="pt">Léo, o caminhão constrói um carrinho de pilha! Scoop cava uma pista para maior diversão! Pegue seu controle remoto e venha correr com o Léo.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20261126133000 -0300" stop="20261126134000 -0300" channel="TV Cultura SP_local">
+    <title lang="pt">PORTÃO MÁGICO</title>
+    <desc lang="pt">Sinopse da Série Uma turma de amigos, de diferentes regiões do Brasil, descobre um Portão Mágico que, ao ser ultrapassado, transporta-os para um mundo de fantasias onde todas as suas questões podem ser resolvidas.  Sinopse do Episódio Ze</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20261126134000 -0300" stop="20261126135000 -0300" channel="TV Cultura SP_local">
+    <title lang="pt">BINO E FINO</title>
+    <desc lang="pt">15  FESTIVAL DURBAR  É dia de praia! Fino e Bino estão brincando quando, do nada, conhecem Banta, um potro falante. A mágica vem da Zeena, a Borboleta Mágica, que deu a voz ao cavalo para contar seu grande sonho: participar do tradicional</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20261126135000 -0300" stop="20261126140000 -0300" channel="TV Cultura SP_local">
+    <title lang="pt">Milo</title>
+    <desc lang="pt">Quando marcam a participação de Dama Dolores na Dança de Patins e na Ópera na mesma hora, Milo, Lofty e Lark vão substituí-la. Mas será que vão dominar o básico e vencer a competição, o Sr. Croc e o seu exército de abelhas?</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20261126140000 -0300" stop="20261126141500 -0300" channel="TV Cultura SP_local">
+    <title lang="pt">Meu AmigãoZão</title>
+    <desc lang="pt">Yuri vai à praia mas não quer pisar na água. Golias bebe o mar inteiro e a turma explora o mundo submarino sem se molhar!</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20261126141500 -0300" stop="20261126143000 -0300" channel="TV Cultura SP_local">
+    <title lang="pt">Masha e o Urso</title>
+    <desc lang="pt">O Urso, acordado no meio do inverno, não consegue dormir. Primeiro são os lobos que não o deixam dormir, depois a Masha e a Rosie, que o convidam para andar de trenó. Depois, o Urso até consegue dormir, mas Masha garante que o amigo não</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20261126143000 -0300" stop="20261126144500 -0300" channel="TV Cultura SP_local">
+    <title lang="pt">NINHOS EM MOVIMENTO</title>
+    <desc lang="pt">Argenis e Fabiana: a amizade que atravessa as fronteiras Fabiana é uma menina venezuelana que mora em Boa Vista-RR com sua família. Argenis é um menino venezuelano que acaba de chegar em Boa Vista-RR com sua mãe e seus irmãos. O qu</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20261126144500 -0300" stop="20261126150000 -0300" channel="TV Cultura SP_local">
+    <title lang="pt">QUINTAL TV II</title>
+    <desc lang="pt">Sinopse da Série A de Quintal TV apresenta temas contemporâneos do cotidiano infantil por meio do olhar de crianças, especialistas e cuidadores. Em um formato leve e lúdico, a série convida o público a refletir sobre questõe</desc>
+    <episode-num system="xmltv_ns">1..</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20261126180000 -0300" stop="20261126183000 -0300" channel="TV Cultura SP_local">
+    <title lang="pt">O Mundo de Beakman</title>
+    <desc lang="pt">Com uma pergunta sobre o velho mito dos gatos terem sete vidas, o cientista Beakman e sua equipe desvendam vários fatos sobre os felinos. Contrariamente à crença popular, os gatos só têm uma vida. Acontece que eles possuem uma habil</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20261126183000 -0300" stop="20261126184000 -0300" channel="TV Cultura SP_local">
+    <title lang="pt">Shaun, o Carneiro</title>
+    <desc lang="pt">Quando o canil de Bitzer é destruído acidentalmente, ele espera que o fazendeiro vá reconstrui-lo em um modelo de luxo.. Mas quando ele vê seu dono, em uma tentativa desastrada de  de construir um novo canil,  Bitzer fica tão horrori</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20261126184000 -0300" stop="20261126185000 -0300" channel="TV Cultura SP_local">
+    <title lang="pt">Shaun, o Carneiro</title>
+    <desc lang="pt">O fazendeiro pede ajuda a Bitzer para reformar um velho barco. Mas assim que ele vira as costas, o o carneiro e os porcos transformam a reforma em uma farra, brincando de piratas.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20261126185000 -0300" stop="20261126190000 -0300" channel="TV Cultura SP_local">
+    <title lang="pt">Shaun, o Carneiro</title>
+    <desc lang="pt">Um balonista aventureiro pousa no campo dos carneiros. Shaun e seus amigos ficam intrigados pelo balão de ar quente e, sem querer, o levam para as alturas.  E, no  chãoa, Bitzer, cada vez mais desesperado, tenta um modo de trazer o c</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20261126190000 -0300" stop="20261126200000 -0300" channel="TV Cultura SP_local">
+    <title lang="pt">Antimatéria</title>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20261126200000 -0300" stop="20261126210000 -0300" channel="TV Cultura SP_local">
+    <title lang="pt">Arena dos Saberes</title>
+    <desc lang="pt">HOJE EU QUERO COMEÇAR O NOSSO ENCONTRO COM VERSOS. VERSOS QUE FORAM ESCRITOS POR UM DOS NOSSOS CONVIDADOS.  UM POETA NUNCA SABE ONDE SUA VOZ TERMINA, SE É DELE DE FATO A VOZ QUE NO SEU NOME SE ASSINA. [...] POR SOB A ZONA DA SOMBR</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20261126210000 -0300" stop="20261126220000 -0300" channel="TV Cultura SP_local">
+    <title lang="pt">Jornal da Cultura</title>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20261126220000 -0300" stop="20261126223000 -0300" channel="TV Cultura SP_local">
+    <title lang="pt">Metrópolis</title>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20261126223000 -0300" stop="20261126233000 -0300" channel="TV Cultura SP_local">
+    <title lang="pt">Linhas Cruzadas</title>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20261126233000 -0300" stop="20261127003000 -0300" channel="TV Cultura SP_local">
+    <title lang="pt">Brasil Jazz Sinfônica</title>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -49466,6 +49756,16 @@
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20261120231500 -0300" stop="20261121000000 -0300" channel="UNIVERSAL PREMIERE HD">
+    <title lang="pt">FBI: Most Wanted: Exposto</title>
+    <desc lang="pt">Um caso do FBI local envolvendo duas mulheres assassinadas e um grupo de homens poderosos se torna uma grande caça ao líder de uma empresa criminosa.</desc>
+    <length units="minutes">2700</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">3.1.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20261121000000 -0300" stop="20261121004500 -0300" channel="UNIVERSAL PREMIERE HD">
     <title lang="pt">FBI: Most Wanted: Patriotas</title>
     <desc lang="pt">A nova membra da força-tarefa, Kristin Gaines, junta-se a Jess e a equipe enquanto eles vão para D.C. achar um perigoso fugitivo da invasão ao Capitólio de 6 de janeiro.</desc>
@@ -50903,15 +51203,6 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20261119090000 -0300" stop="20261119103000 -0300" channel="X Sports_local">
-    <title lang="pt">WTCS: MUNDIAL DE TRIATLO: Etapa da Abu Dhabi - Feminino</title>
-    <desc lang="pt">A World Triathlon Championship Series é a principal liga mundial de triathlon de curta distância, reunindo a elite do esporte para definir o campeão mundial anual.</desc>
-  </programme>
-  <programme start="20261119103000 -0300" stop="20261119130000 -0300" channel="X Sports_local">
-    <title lang="pt">O MELHOR DA XSPORTS - inédito</title>
-    <desc lang="pt">Os melhores momentos, lances e conteúdos das grandes transmissões da Xsports em um só lugar. Diariamente, "O Melhor da Xsports" reúne o que de mais emocionante aconteceu no mundo dos esportes.</desc>
-    <premiere/>
-  </programme>
   <programme start="20261119130000 -0300" stop="20261119143000 -0300" channel="X Sports_local">
     <title lang="pt">NATAÇÃO: MAR ABERTO: Travessia do Canal da Ilha Bela</title>
     <desc lang="pt">Acompanhe a tradicional Travessia do Canal de Ilhabela. Mil atletas encaram 3,8 km de águas abertas entre São Sebastião e o Píer do Pequeá.</desc>
@@ -51050,14 +51341,9 @@
     <title lang="pt">CAMPEONATO SAUDITA: Al Ahli x Al Nassr</title>
     <desc lang="pt">Os grandes duelos do Campeonato Saudita, com muita emoção, craques em campo, gols e disputas intensas em busca da vitória.</desc>
   </programme>
-  <programme start="20261121074500 -0300" stop="20261121080000 -0300" channel="X Sports_local">
-    <title lang="pt">CAMPEONATO ALEMÃO: Bayern de Munique x Colônia - COMPACTO</title>
+  <programme start="20261121074500 -0300" stop="20261121093000 -0300" channel="X Sports_local">
+    <title lang="pt">CAMPEONATO ALEMÃO: Bayern de Munique x Colônia</title>
     <desc lang="pt">Bundesliga: Gols, dribles e confrontos acirrados marcam cada rodada da Bundesliga.</desc>
-  </programme>
-  <programme start="20261121080000 -0300" stop="20261121093000 -0300" channel="X Sports_local">
-    <title lang="pt">SURF BRASIL PRO: Etapa da Guarda do Embaú: Dia 1 - ao vivo</title>
-    <desc lang="pt">O Surf Brasil Pro é o principal circuito profissional de surfe brasileiro, consolidado como um dos mais ricos do país.</desc>
-    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20261121093000 -0300" stop="20261121114000 -0300" channel="X Sports_local">
     <title lang="pt">CAMPEONATO INGLÊS FEMININO: Liverpool x Chelsea - ao vivo</title>
@@ -51094,11 +51380,7 @@
     <desc lang="pt">A Liga Nacional de Futsal reúne os melhores clubes do Brasil em uma disputa intensa, com técnica, emoção e a paixão pelo esporte em quadra.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20261121204500 -0300" stop="20261121210000 -0300" channel="X Sports_local">
-    <title lang="pt">CAMPEONATO FRANCÊS: Nice x PSG - COMPACTO</title>
-    <desc lang="pt">Ligue 1: Grandes disputas, jogadas de destaque e muita intensidade em campo, em uma das principais competições do futebol europeu.</desc>
-  </programme>
-  <programme start="20261121210000 -0300" stop="20261121214500 -0300" channel="X Sports_local">
+  <programme start="20261121204500 -0300" stop="20261121214500 -0300" channel="X Sports_local">
     <title lang="pt">SURF BRASIL PRO: HIGHLIGHTS: Etapa da Guarda do Embaú: Dia 1 - inédito</title>
     <desc lang="pt">Os melhores momentos do Surf Brasil Pro 2026, o principal circuito profissional de surfe brasileiro.</desc>
     <rating system="Brazil">
@@ -51246,8 +51528,8 @@
     <desc lang="pt">Bundesliga: Gols, dribles e confrontos acirrados marcam cada rodada da Bundesliga.</desc>
   </programme>
   <programme start="20261123154500 -0300" stop="20261123171500 -0300" channel="X Sports_local">
-    <title lang="pt">AMISTOSO DE FUTSAL FEMININO: Brasil x Portugal - inédito</title>
-    <desc lang="pt">Seleções disputam amistosos para testar o elenco e ganhar ritmo antes dos próximos desafios.</desc>
+    <title lang="pt">DESAFIO INTERNACIONAL DE FUTSAL FEMININO: Brasil x Portugal - inédito</title>
+    <desc lang="pt">Gigantes do futsal mundial entram em quadra para disputar o título do Desafio Intercontinental.</desc>
     <premiere/>
   </programme>
   <programme start="20261123171500 -0300" stop="20261123190000 -0300" channel="X Sports_local">
@@ -51349,8 +51631,8 @@
     </rating>
   </programme>
   <programme start="20261124192500 -0300" stop="20261124211500 -0300" channel="X Sports_local">
-    <title lang="pt">AMISTOSO DE FUTSAL FEMININO: Brasil x Portugal - ao vivo</title>
-    <desc lang="pt">Seleções disputam amistosos para testar o elenco e ganhar ritmo antes dos próximos desafios.</desc>
+    <title lang="pt">DESAFIO INTERNACIONAL DE FUTSAL FEMININO: Brasil x Portugal - ao vivo</title>
+    <desc lang="pt">Gigantes do futsal mundial entram em quadra para disputar o título do Desafio Intercontinental.</desc>
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20261124211500 -0300" stop="20261124230000 -0300" channel="X Sports_local">
@@ -51367,13 +51649,12 @@
     <premiere/>
   </programme>
   <programme start="20261124234500 -0300" stop="20261125013000 -0300" channel="X Sports_local">
-    <title lang="pt">CAMPEONATO AMERICANO FEMININO: Washington Spirit x Kansas City Current - COMPACTO</title>
-    <sub-title lang="pt">Final</sub-title>
-    <desc lang="pt">NWSL: O melhor do futebol feminino dos EUA, com clubes fortes, craques internacionais e jogos cheios de emoção</desc>
+    <title lang="pt">CAMPEONATO FRANCÊS: Nice x PSG</title>
+    <desc lang="pt">Ligue 1: Grandes disputas, jogadas de destaque e muita intensidade em campo, em uma das principais competições do futebol europeu.</desc>
   </programme>
   <programme start="20261125013000 -0300" stop="20261125031500 -0300" channel="X Sports_local">
-    <title lang="pt">CAMPEONATO INGLÊS FEMININO: Liverpool x Chelsea</title>
-    <desc lang="pt">FA Womens Super League: Duelo de estrelas do futebol feminino em partidas intensas e cheias de talento.</desc>
+    <title lang="pt">COPA DO MUNDO DE ESQUI ALPINO: Categoria Slalom Especial - Etapa de Gurgl - COMPACTO</title>
+    <desc lang="pt">Os maiores nomes do esqui alpino mundial disputam a prestigiosa Copa do Mundo da FIS (Federação Internacional de Esqui e Snowboard).</desc>
   </programme>
   <programme start="20261125031500 -0300" stop="20261125033000 -0300" channel="X Sports_local">
     <title lang="pt">BUNDESLIGA CLUBS/27</title>
@@ -51429,8 +51710,9 @@
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20261125180000 -0300" stop="20261125190000 -0300" channel="X Sports_local">
-    <title lang="pt">CAMPEONATO ALEMÃO: Werder Bremen x Hamburgo - COMPACTO</title>
-    <desc lang="pt">Bundesliga: Gols, dribles e confrontos acirrados marcam cada rodada da Bundesliga.</desc>
+    <title lang="pt">CAMPEONATO AMERICANO FEMININO: Washington Spirit x Kansas City Current - COMPACTO</title>
+    <sub-title lang="pt">Final</sub-title>
+    <desc lang="pt">NWSL: O melhor do futebol feminino dos EUA, com clubes fortes, craques internacionais e jogos cheios de emoção</desc>
   </programme>
   <programme start="20261125190000 -0300" stop="20261125203000 -0300" channel="X Sports_local">
     <title lang="pt">CENTRAL XSPORTS - ao vivo</title>
@@ -51461,8 +51743,177 @@
     <desc lang="pt">As emoções da principal liga de futebol da Rússia, com partidas disputadas entre grandes clubes em uma competição marcada por rivalidade, técnica e muita intensidade do início ao fim.</desc>
   </programme>
   <programme start="20261126020000 -0300" stop="20261126033000 -0300" channel="X Sports_local">
-    <title lang="pt">AMISTOSO DE FUTSAL FEMININO: Brasil x Portugal</title>
-    <desc lang="pt">Seleções disputam amistosos para testar o elenco e ganhar ritmo antes dos próximos desafios.</desc>
+    <title lang="pt">DESAFIO INTERNACIONAL DE FUTSAL FEMININO: Brasil x Portugal</title>
+    <desc lang="pt">Gigantes do futsal mundial entram em quadra para disputar o título do Desafio Intercontinental.</desc>
+  </programme>
+  <programme start="20261126033000 -0300" stop="20261126050000 -0300" channel="X Sports_local">
+    <title lang="pt">MUNDO EM FOCO</title>
+    <desc lang="pt">Mundo em Foco: traz as principais notícias do dia com análise, contexto e informação de qualidade sobre o que acontece no Brasil e no mundo.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20261126050000 -0300" stop="20261126051500 -0300" channel="X Sports_local">
+    <title lang="pt">BUNDESLIGA CLUBS/27</title>
+    <desc lang="pt">Série apresenta os clubes da Bundesliga em episódios de 12 min, com foco na história, identidade, estádio e cidade de cada time.</desc>
+    <episode-num system="xmltv_ns">2025.3.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20261126051500 -0300" stop="20261126071500 -0300" channel="X Sports_local">
+    <title lang="pt">TRIATLO: Etapa da Riviera Francesa</title>
+    <desc lang="pt"> Triathlon: atletas enfrentam provas extremas de natação, ciclismo e corrida, testando resistência, força e superação em cada desafio</desc>
+    <episode-num system="xmltv_ns">99..</episode-num>
+  </programme>
+  <programme start="20261126071500 -0300" stop="20261126090000 -0300" channel="X Sports_local">
+    <title lang="pt">CAMPEONATO FRANCÊS: Paris FC x Angers</title>
+    <desc lang="pt">Ligue 1: Grandes disputas, jogadas de destaque e muita intensidade em campo, em uma das principais competições do futebol europeu.</desc>
+  </programme>
+  <programme start="20261126090000 -0300" stop="20261126110000 -0300" channel="X Sports_local">
+    <title lang="pt">O MELHOR DA XSPORTS - inédito</title>
+    <desc lang="pt">Os melhores momentos, lances e conteúdos das grandes transmissões da Xsports em um só lugar. Diariamente, "O Melhor da Xsports" reúne o que de mais emocionante aconteceu no mundo dos esportes.</desc>
+    <premiere/>
+  </programme>
+  <programme start="20261126110000 -0300" stop="20261126140000 -0300" channel="X Sports_local">
+    <title lang="pt">SURF BRASIL PRO: Etapa da Guarda do Embaú: Dia 6 - ao vivo</title>
+    <desc lang="pt">O Surf Brasil Pro é o principal circuito profissional de surfe brasileiro, consolidado como um dos mais ricos do país.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20261126140000 -0300" stop="20261126154500 -0300" channel="X Sports_local">
+    <title lang="pt">PAULISTÃO SUB-20: Corinthians x Palmeiras</title>
+    <sub-title lang="pt">Final</sub-title>
+    <desc lang="pt">A emoção do campeonato de base com jovens talentos em busca da vitória. Grandes partidas, rivalidade e a promessa dos futuros destaques do futebol em mais uma rodada da competição.</desc>
+  </programme>
+  <programme start="20261126154500 -0300" stop="20261126161500 -0300" channel="X Sports_local">
+    <title lang="pt">DESAFIO INTERNACIONAL DE FUTSAL FEMININO: Brasil x Portugal - COMPACTO</title>
+    <desc lang="pt">Gigantes do futsal mundial entram em quadra para disputar o título do Desafio Intercontinental.</desc>
+  </programme>
+  <programme start="20261126161500 -0300" stop="20261126183000 -0300" channel="X Sports_local">
+    <title lang="pt">CHAMPIONS LEAGUE DE VÔLEI FEMININO: Conegliano x Novara - ao vivo</title>
+    <desc lang="pt">A Champions League de vôlei reúne os melhores clubes da Europa em disputas eletrizantes pelo título continental.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20261126183000 -0300" stop="20261126195000 -0300" channel="X Sports_local">
+    <title lang="pt">CENTRAL XSPORTS - ao vivo</title>
+    <desc lang="pt">Central Xsports: informação, bastidores e os principais destaques do mundo dos esportes, com repórteres espalhados por todo o Brasil.</desc>
+    <category lang="en">live broadcast</category>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20261126195000 -0300" stop="20261126214500 -0300" channel="X Sports_local">
+    <title lang="pt">TALENTOS LNF SUB-20: Corinthians x Minas - ao vivo</title>
+    <sub-title lang="pt">Final</sub-title>
+    <desc lang="pt">As principais promessas do futsal brasileiro duelam na Talentos LNF Sub-20, o torneio oficial de base da Liga Nacional de Futsal.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20261126214500 -0300" stop="20261126223000 -0300" channel="X Sports_local">
+    <title lang="pt">SURF BRASIL PRO: HIGHLIGHTS: Etapa da Guarda do Embaú: Dia 6 - inédito</title>
+    <desc lang="pt">Os melhores momentos do Surf Brasil Pro 2026, o principal circuito profissional de surfe brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+    <premiere/>
+  </programme>
+  <programme start="20261126223000 -0300" stop="20261127001500 -0300" channel="X Sports_local">
+    <title lang="pt">CAMPEONATO AMERICANO FEMININO: Washington Spirit x Kansas City Current - COMPACTO</title>
+    <sub-title lang="pt">Final</sub-title>
+    <desc lang="pt">NWSL: O melhor do futebol feminino dos EUA, com clubes fortes, craques internacionais e jogos cheios de emoção</desc>
+  </programme>
+  <programme start="20261127001500 -0300" stop="20261127021500 -0300" channel="X Sports_local">
+    <title lang="pt">MUNDIAL DE HIPISMO: LGCT Super Grand Prix: Etapa de Verona - inédito</title>
+    <desc lang="pt">Hipismo: saltos, adestramento e provas de resistência em um esporte de precisão e elegância, onde cavalo e cavaleiro formam uma parceria perfeita.</desc>
+    <premiere/>
+  </programme>
+  <programme start="20261127021500 -0300" stop="20261127033000 -0300" channel="X Sports_local">
+    <title lang="pt">CHAMPIONS LEAGUE DE VÔLEI FEMININO: Conegliano x Novara - COMPACTO</title>
+    <desc lang="pt">A Champions League de vôlei reúne os melhores clubes da Europa em disputas eletrizantes pelo título continental.</desc>
+  </programme>
+  <programme start="20261127033000 -0300" stop="20261127050000 -0300" channel="X Sports_local">
+    <title lang="pt">MUNDO EM FOCO</title>
+    <desc lang="pt">Mundo em Foco: traz as principais notícias do dia com análise, contexto e informação de qualidade sobre o que acontece no Brasil e no mundo.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20261127050000 -0300" stop="20261127051500 -0300" channel="X Sports_local">
+    <title lang="pt">BUNDESLIGA CLUBS/27</title>
+    <desc lang="pt">Série apresenta os clubes da Bundesliga em episódios de 12 min, com foco na história, identidade, estádio e cidade de cada time.</desc>
+    <episode-num system="xmltv_ns">2025.4.</episode-num>
+  </programme>
+  <programme start="20261127051500 -0300" stop="20261127071500 -0300" channel="X Sports_local">
+    <title lang="pt">TRIATLO: Etapa de Dubai</title>
+    <desc lang="pt"> Triathlon: atletas enfrentam provas extremas de natação, ciclismo e corrida, testando resistência, força e superação em cada desafio</desc>
+    <episode-num system="xmltv_ns">99..</episode-num>
+  </programme>
+  <programme start="20261127071500 -0300" stop="20261127084500 -0300" channel="X Sports_local">
+    <title lang="pt">TALENTOS LNF SUB-20: Corinthians x Minas</title>
+    <sub-title lang="pt">Final</sub-title>
+    <desc lang="pt">As principais promessas do futsal brasileiro duelam na Talentos LNF Sub-20, o torneio oficial de base da Liga Nacional de Futsal.</desc>
+  </programme>
+  <programme start="20261127084500 -0300" stop="20261127111500 -0300" channel="X Sports_local">
+    <title lang="pt">O MELHOR DA XSPORTS - inédito</title>
+    <desc lang="pt">Os melhores momentos, lances e conteúdos das grandes transmissões da Xsports em um só lugar. Diariamente, "O Melhor da Xsports" reúne o que de mais emocionante aconteceu no mundo dos esportes.</desc>
+    <premiere/>
+  </programme>
+  <programme start="20261127111500 -0300" stop="20261127141500 -0300" channel="X Sports_local">
+    <title lang="pt">SURF BRASIL PRO: Etapa da Guarda do Embaú: Dia 7 - ao vivo</title>
+    <desc lang="pt">O Surf Brasil Pro é o principal circuito profissional de surfe brasileiro, consolidado como um dos mais ricos do país.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20261127141500 -0300" stop="20261127163000 -0300" channel="X Sports_local">
+    <title lang="pt">CAMPEONATO SAUDITA : Al Ittihad x Neom - ao vivo</title>
+    <desc lang="pt">Os grandes duelos do Campeonato Saudita, com muita emoção, craques em campo, gols e disputas intensas em busca da vitória.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20261127163000 -0300" stop="20261127184500 -0300" channel="X Sports_local">
+    <title lang="pt">Campeonato Francês: Brest x Paris FC - ao vivo</title>
+    <sub-title lang="pt">12ª Rodada</sub-title>
+    <desc lang="pt">Estádio: Francis-Le Blé - Ligue 1: Grandes disputas, jogadas de destaque e muita intensidade em campo, em uma das principais competições do futebol europeu.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20261127184500 -0300" stop="20261127194500 -0300" channel="X Sports_local">
+    <title lang="pt">CENTRAL XSPORTS - ao vivo</title>
+    <desc lang="pt">Central Xsports: informação, bastidores e os principais destaques do mundo dos esportes, com repórteres espalhados por todo o Brasil.</desc>
+    <category lang="en">live broadcast</category>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20261127194500 -0300" stop="20261127220000 -0300" channel="X Sports_local">
+    <title lang="pt">BRASILEIRÃO SÉRIE B: Playoffs: Vila Nova x Atlético-GO - ao vivo</title>
+    <desc lang="pt">O Campeonato Brasileiro Série B: segunda divisão do sistema de liga do futebol brasileiro, é disputado por 20 clubes em um sistema de promoção e despromoção com a Série A e Série C.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20261127220000 -0300" stop="20261127224500 -0300" channel="X Sports_local">
+    <title lang="pt">SURF BRASIL PRO: HIGHLIGHTS: Etapa da Guarda do Embaú: Dia 7 - inédito</title>
+    <desc lang="pt">Os melhores momentos do Surf Brasil Pro 2026, o principal circuito profissional de surfe brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+    <premiere/>
+  </programme>
+  <programme start="20261127224500 -0300" stop="20261128003000 -0300" channel="X Sports_local">
+    <title lang="pt">CAMPEONATO SAUDITA: Al Ittihad x Neom</title>
+    <desc lang="pt">Os grandes duelos do Campeonato Saudita, com muita emoção, craques em campo, gols e disputas intensas em busca da vitória.</desc>
+  </programme>
+  <programme start="20261128003000 -0300" stop="20261128023000 -0300" channel="X Sports_local">
+    <title lang="pt">MUNDIAL DE HIPISMO: GCL Super Cup - Etapa de Verona - inédito</title>
+    <sub-title lang="pt">Final</sub-title>
+    <desc lang="pt">Hipismo: saltos, adestramento e provas de resistência em um esporte de precisão e elegância, onde cavalo e cavaleiro formam uma parceria perfeita.</desc>
+    <premiere/>
+  </programme>
+  <programme start="20261128023000 -0300" stop="20261128033000 -0300" channel="X Sports_local">
+    <title lang="pt">CAMPEONATO FRANCÊS: Brest x Paris FC - COMPACTO</title>
+    <desc lang="pt">Ligue 1: Grandes disputas, jogadas de destaque e muita intensidade em campo, em uma das principais competições do futebol europeu.</desc>
+  </programme>
+  <programme start="20261128033000 -0300" stop="20261128063000 -0300" channel="X Sports_local">
+    <title lang="pt">MUNDO EM FOCO</title>
+    <desc lang="pt">Mundo em Foco: traz as principais notícias do dia com análise, contexto e informação de qualidade sobre o que acontece no Brasil e no mundo.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20261119232000 -0300" stop="20261120000000 -0300" channel="Xsports">
     <title lang="pt">CRB x Ceará - Campeonato Brasileiro - Série B : CRB x Ceará</title>
@@ -52466,7 +52917,7 @@ candomblé para as ruas de Salvador e se tornam parte fundamental do carnaval da
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261120203131 -0300" stop="20261120210109 -0300" channel="bis">
+  <programme start="20261120203131 -0300" stop="20261120210108 -0300" channel="bis">
     <title lang="pt">Vamos Tocar</title>
     <sub-title lang="pt">Banda Black Rio</sub-title>
     <desc lang="pt">“Vamos Tocar" é um programa de performances musicais, em que Leo Gandelman se reúne com grandes nomes da nossa música, em gravações no seu próprio estúdio, onde perguntas sucintas darão espaço para respostas reveladoras e, logo após, um encontro íntimo musical entre Leo e os convidados acontece.</desc>
@@ -52484,7 +52935,7 @@ candomblé para as ruas de Salvador e se tornam parte fundamental do carnaval da
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261120213123 -0300" stop="20261120213424 -0300" channel="bis">
+  <programme start="20261120213122 -0300" stop="20261120213423 -0300" channel="bis">
     <title lang="pt">Setlist</title>
     <sub-title lang="pt">Maneva – Porta Do Teu Prédio</sub-title>
     <desc lang="pt">MANEVA – PORTA DO TEU PRÉDIO (UNIVERSAL MUSIC</desc>
@@ -52611,16 +53062,16 @@ candomblé para as ruas de Salvador e se tornam parte fundamental do carnaval da
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20261121020203 -0300" stop="20261121022959 -0300" channel="bis">
+  <programme start="20261121020203 -0300" stop="20261121023120 -0300" channel="bis">
     <title lang="pt">Experimente.</title>
     <sub-title lang="pt">Cidade Dormitório</sub-title>
     <desc lang="pt">Sob o comando de Guilherme Guedes, a 18ª temporada do Experimente apresenta artistas e bandas que estão despontando no cenário musical brasileiro com entrevistas e performances musicais. Neste episódio conheça: Cidade Dormitório</desc>
-    <length units="minutes">27</length>
+    <length units="minutes">29</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121023000 -0300" stop="20261121025859 -0300" channel="bis">
+  <programme start="20261121023122 -0300" stop="20261121025935 -0300" channel="bis">
     <title lang="pt">Vamos Tocar</title>
     <sub-title lang="pt">Banda Black Rio</sub-title>
     <desc lang="pt">“Vamos Tocar" é um programa de performances musicais, em que Leo Gandelman se reúne com grandes nomes da nossa música, em gravações no seu próprio estúdio, onde perguntas sucintas darão espaço para respostas reveladoras e, logo após, um encontro íntimo musical entre Leo e os convidados acontece.</desc>
@@ -52629,43 +53080,43 @@ candomblé para as ruas de Salvador e se tornam parte fundamental do carnaval da
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121025900 -0300" stop="20261121032859 -0300" channel="bis">
+  <programme start="20261121025937 -0300" stop="20261121033030 -0300" channel="bis">
     <title lang="pt">Atenção Para O Refrão</title>
     <sub-title lang="pt">Esperança</sub-title>
     <desc lang="pt">No episódio “Esperança”, Sarah Oliveira explora refrãos e versos que celebram a fé no futuro, a força para recomeçar e a capacidade de transformar sonhos em caminhos possíveis.</desc>
-    <length units="minutes">29</length>
+    <length units="minutes">30</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121032900 -0300" stop="20261121051259 -0300" channel="bis">
+  <programme start="20261121033033 -0300" stop="20261121051533 -0300" channel="bis">
     <title lang="pt">Palco Principal</title>
     <sub-title lang="pt">Multishow Ao Vivo - Dois Amigos, Um Século De Música - Caetano Veloso E Gilberto Gil</sub-title>
     <desc lang="pt">Gravação do show da turnê comemorativa de 50 anos de carreira dos cantores Caetano Veloso e Gilberto Gil diretamente de São Paulo.</desc>
-    <length units="minutes">103</length>
+    <length units="minutes">105</length>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20261121051300 -0300" stop="20261121051559 -0300" channel="bis">
+  <programme start="20261121051536 -0300" stop="20261121051851 -0300" channel="bis">
     <title lang="pt">Setlist</title>
     <sub-title lang="pt">Ivete Sangalo - Energia De Gostosa</sub-title>
     <desc lang="pt">IVETE SANGALO - ENERGIA DE GOSTOSA (ALTAFONTE)</desc>
-    <length units="minutes">2</length>
+    <length units="minutes">3</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20261121051600 -0300" stop="20261121051859 -0300" channel="bis">
+  <programme start="20261121051853 -0300" stop="20261121052044 -0300" channel="bis">
     <title lang="pt">Setlist</title>
     <sub-title lang="pt">Melody E Parangolé - Mexidinha</sub-title>
     <desc lang="pt">MELODY E PARANGOLÉ - MEXIDINHA (INDEPENDENTE)</desc>
-    <length units="minutes">2</length>
+    <length units="minutes">1</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20261121051900 -0300" stop="20261121052159 -0300" channel="bis">
+  <programme start="20261121052045 -0300" stop="20261121052327 -0300" channel="bis">
     <title lang="pt">Setlist</title>
     <sub-title lang="pt">Lincoln &amp; Duas Medidas Part. Léo Santana - Hoje Vai Dar Praia</sub-title>
     <desc lang="pt">LINCOLN &amp; DUAS MEDIDAS PART. LÉO SANTANA - HOJE VAI DAR PRAIA (INDEPENDENTE)</desc>
@@ -52674,11 +53125,11 @@ candomblé para as ruas de Salvador e se tornam parte fundamental do carnaval da
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20261121052200 -0300" stop="20261121052459 -0300" channel="bis">
+  <programme start="20261121052328 -0300" stop="20261121052759 -0300" channel="bis">
     <title lang="pt">Setlist</title>
     <sub-title lang="pt">Claudia Leitte - Se Um Dia Eu Chorei</sub-title>
     <desc lang="pt">CLAUDIA LEITTE - SE UM DIA EU CHOREI</desc>
-    <length units="minutes">2</length>
+    <length units="minutes">4</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -54775,43 +55226,43 @@ o Fonda Theatre em Hollywood, Califórnia, a banda tocou todo o álbum Sticky Fi
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20261121000536 -0300" stop="20261121014459 -0300" channel="canal-brasil">
+  <programme start="20261121000536 -0300" stop="20261121014555 -0300" channel="canal-brasil">
     <title lang="pt">Cine Desejo</title>
     <sub-title lang="pt">Regra 34</sub-title>
     <desc lang="pt">Simone é uma advogada que, de dia, defende os direitos das mulheres em casos de abuso doméstico. Já de noite, ela se volta para a câmera de seu computador para ganhar dinheiro como camgirl.</desc>
-    <length units="minutes">99</length>
+    <length units="minutes">100</length>
     <rating system="Brazil">
       <value>[18]</value>
     </rating>
   </programme>
-  <programme start="20261121014500 -0300" stop="20261121032259 -0300" channel="canal-brasil">
+  <programme start="20261121014557 -0300" stop="20261121032606 -0300" channel="canal-brasil">
     <title lang="pt">Filme</title>
     <sub-title lang="pt">2 Perdidos Numa Noite Suja</sub-title>
     <desc lang="pt">O encontro entre dois brasileiros que trocaram a falta de perspectiva no país pela ilusão do sonho americano. Apesar de dividirem um galpão abandonado, Tonho e Paco não têm nada em comum. A solidão faz com que vivam um cotidiano infernal, fruto de frustrações e de uma inusitada história de amor.</desc>
-    <length units="minutes">97</length>
+    <length units="minutes">100</length>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20261121032500 -0300" stop="20261121032629 -0300" channel="canal-brasil">
+  <programme start="20261121032610 -0300" stop="20261121033024 -0300" channel="canal-brasil">
     <title lang="pt">As Pragas</title>
     <sub-title lang="pt">Sustentabilidade</sub-title>
     <desc lang="pt">As Pragas de Zé do caixão.</desc>
-    <length units="minutes">1</length>
+    <length units="minutes">4</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20261121033000 -0300" stop="20261121044459 -0300" channel="canal-brasil">
+  <programme start="20261121033027 -0300" stop="20261121044617 -0300" channel="canal-brasil">
     <title lang="pt">Filme</title>
     <sub-title lang="pt">Histórias Que Nosso Cinema (Não) Contava</sub-title>
     <desc lang="pt">Uma releitura histórica sobre o período da ditadura militar no Brasil retratado através de imagens e sons exclusivos das pornochanchadas, o gênero mais visto e produzido no país durante a década de 1970.</desc>
-    <length units="minutes">74</length>
+    <length units="minutes">75</length>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20261121044500 -0300" stop="20261121062859 -0300" channel="canal-brasil">
+  <programme start="20261121044620 -0300" stop="20261121062959 -0300" channel="canal-brasil">
     <title lang="pt">Filme</title>
     <sub-title lang="pt">Elesm</sub-title>
     <desc lang="pt">Jogo de Volta - Cris e seu irmão mais velho são deixados na beira da estrada por seus pais. Em pouco tempo, eles percebem que o suposto castigo traz consigo grandes desafios, transformando-se numa jornada de autoconhecimento.</desc>
@@ -56292,25 +56743,25 @@ o Fonda Theatre em Hollywood, Califórnia, a banda tocou todo o álbum Sticky Fi
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121021319 -0300" stop="20261121023659 -0300" channel="canal-off">
+  <programme start="20261121021319 -0300" stop="20261121024104 -0300" channel="canal-off">
     <title lang="pt">Yoga Em Todo Lugar</title>
     <sub-title lang="pt">Todo Mundo Cabe Aqui</sub-title>
     <desc lang="pt">A mestra Tati Cassiano recebe Samuel de Assis, Zé Cafofinho e Karol Camargo para falar sobre práticas que ajudam a manter o equilíbrio emocional na cidade onde vivem.</desc>
-    <length units="minutes">23</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20261121023700 -0300" stop="20261121030459 -0300" channel="canal-off">
-    <title lang="pt">Mestres Do Movimento</title>
-    <sub-title lang="pt">Mestre Renê de Salvador</sub-title>
-    <desc lang="pt">Vamos conhecer quatro mestres da capoeira, suas histórias, ensinamentos e trabalhos com a comunidade nos estados do Pará, Bahia e Pernambuco, no Brasil.​</desc>
     <length units="minutes">27</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121030500 -0300" stop="20261121033359 -0300" channel="canal-off">
+  <programme start="20261121024106 -0300" stop="20261121030803 -0300" channel="canal-off">
+    <title lang="pt">Mestres Do Movimento</title>
+    <sub-title lang="pt">Mestre Renê de Salvador</sub-title>
+    <desc lang="pt">Vamos conhecer quatro mestres da capoeira, suas histórias, ensinamentos e trabalhos com a comunidade nos estados do Pará, Bahia e Pernambuco, no Brasil.​</desc>
+    <length units="minutes">26</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20261121030805 -0300" stop="20261121033657 -0300" channel="canal-off">
     <title lang="pt">O Labirinto Do Ártico</title>
     <sub-title lang="pt">Uma semana navegando pela latitude 74 graus norte</sub-title>
     <desc lang="pt">Primeira expedição brasileira pela Northwest Passage celebra 500 anos de exploração do Ártico e revela sua beleza e fragilidade diante das mudanças.</desc>
@@ -56319,7 +56770,7 @@ o Fonda Theatre em Hollywood, Califórnia, a banda tocou todo o álbum Sticky Fi
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121033400 -0300" stop="20261121035959 -0300" channel="canal-off">
+  <programme start="20261121033659 -0300" stop="20261121040228 -0300" channel="canal-off">
     <title lang="pt">Roteiro Das Ondas: Portugal</title>
     <sub-title lang="pt">Desbravando Ericeira</sub-title>
     <desc lang="pt">Gabriel Pastori segue desbravando os picos de Ericeira enquanto conhece um pouco mais sobre a história do surfe local.</desc>
@@ -56328,7 +56779,7 @@ o Fonda Theatre em Hollywood, Califórnia, a banda tocou todo o álbum Sticky Fi
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121040000 -0300" stop="20261121042659 -0300" channel="canal-off">
+  <programme start="20261121040230 -0300" stop="20261121042836 -0300" channel="canal-off">
     <title lang="pt">Janaínas: Deusas Do Mar</title>
     <sub-title lang="pt">Yanca Costa</sub-title>
     <desc lang="pt">O episódio 2 retrata a vida de Yanca Costa, atual campeã brasileira de surfe profissional. Agora, Yanca luta pra ser a primeira surfista negra brasileira na elite do surfe mundial.</desc>
@@ -56337,20 +56788,20 @@ o Fonda Theatre em Hollywood, Califórnia, a banda tocou todo o álbum Sticky Fi
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121042700 -0300" stop="20261121051459 -0300" channel="canal-off">
+  <programme start="20261121042838 -0300" stop="20261121051652 -0300" channel="canal-off">
     <title lang="pt">Euceano</title>
     <sub-title lang="pt">A grande família Peixe-boi</sub-title>
     <desc lang="pt">Thomé e Cebrian visitam o Projeto Peixe-boi, em Alagoas, e descobrem como a iniciativa conectou a comunidade buscando gerar conhecimento e atuando na preservação da espécie.</desc>
-    <length units="minutes">47</length>
+    <length units="minutes">48</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121051500 -0300" stop="20261121061259 -0300" channel="canal-off">
+  <programme start="20261121051653 -0300" stop="20261121061259 -0300" channel="canal-off">
     <title lang="pt">Aventura Em Foco</title>
     <sub-title lang="pt">Pelas Lentes De Marcos Amend</sub-title>
     <desc lang="pt">O fotógrafo e ambientalista Marcos Amend trabalha com conservação da natureza e vida selvagem. Durante uma viagem ao Pantanal, ele conta sobre sua trajetória e faz registros raros.</desc>
-    <length units="minutes">57</length>
+    <length units="minutes">56</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -58252,22 +58703,22 @@ o majestoso El Capitan e outras montanhas desafiadoras da região.</desc>
     <length units="minutes">16</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20261120225501 -0300" stop="20261121035959 -0300" channel="combate">
+  <programme start="20261120225501 -0300" stop="20261121040123 -0300" channel="combate">
     <title lang="pt">Bkfc Fight Night: : Richardson x Oxendine - ao vivo</title>
     <desc lang="pt">Bkfc Fight Night: Richardson X Oxendine</desc>
-    <length units="minutes">304</length>
+    <length units="minutes">306</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20261120225501 -0300" stop="20261121035959 -0300" channel="combate">
+  <programme start="20261120225501 -0300" stop="20261121040123 -0300" channel="combate">
     <title lang="pt">Bkfc Fight Night: : Richardson x Oxendine - ao vivo</title>
     <desc lang="pt">Bkfc Fight Night: Richardson X Oxendine</desc>
-    <length units="minutes">304</length>
+    <length units="minutes">306</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20261121040000 -0300" stop="20261121065959 -0300" channel="combate">
+  <programme start="20261121040127 -0300" stop="20261121065959 -0300" channel="combate">
     <title lang="pt">VT - FMS Fight Night: 12</title>
     <desc lang="pt">FMS Fight Night 12 integra o calendário do Fight Music Show e reúne atletas profissionais de MMA e boxe em confrontos que mesclam competitividade, desenvolvimento de novos talentos e entretenimento. Com eventos realizados em diversas regiões do país e transmissão para uma ampla audiência, o FMS Fight Night vem se consolidando como uma importante vitrine para os esportes de combate no Brasil.</desc>
-    <length units="minutes">179</length>
+    <length units="minutes">178</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
@@ -63412,7 +63863,7 @@ Susan, a T-Rex. Ou seja, para ela mesma, só que milhões de anos atrás! Viagem
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261120203032 -0300" stop="20261120210259 -0300" channel="futura">
+  <programme start="20261120203032 -0300" stop="20261120210258 -0300" channel="futura">
     <title lang="pt">Conexão</title>
     <sub-title lang="pt">Conbratri, Em Nome Da Terra, Crab, Terceirão, Redes De Narrativas e Territórios</sub-title>
     <desc lang="pt">O programa apresenta o congresso que debate metodologias de avaliação educacional, o documentário "Em Nome da Terra", e dá um giro pelo CRAB. E também traz o documentário Terceirão, produção original da TV Globo indicada ao Emmy Internacional. Além de discutir as possibilidades do jornalismo produzido a partir dos territórios.</desc>
@@ -63427,7 +63878,7 @@ Susan, a T-Rex. Ou seja, para ela mesma, só que milhões de anos atrás! Viagem
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20261120220031 -0300" stop="20261120223010 -0300" channel="futura">
+  <programme start="20261120220030 -0300" stop="20261120223009 -0300" channel="futura">
     <title lang="pt">Natureza Forte</title>
     <sub-title lang="pt">Coletividade no Semiárido</sub-title>
     <desc lang="pt">O Carrapicho Virtual conecta o Sertão, unindo saberes e fortalecendo a coletividade. Mulheres Rendeiras, por sua vez, criam uma rede de apoio em Petrolina, usando a troca de saberes para empoderar e transformar suas vidas.</desc>
@@ -63535,7 +63986,7 @@ Susan, a T-Rex. Ou seja, para ela mesma, só que milhões de anos atrás! Viagem
     <desc lang="pt">Francesco Tonucci, psicopedagogo e chargista italiano, analisa o que deveria mudar nas escolas para que elas permitam maior participação infantil e um aprendizado que valha para toda a vida.</desc>
     <length units="minutes">13</length>
   </programme>
-  <programme start="20261121020036 -0300" stop="20261121021459 -0300" channel="futura">
+  <programme start="20261121020036 -0300" stop="20261121021533 -0300" channel="futura">
     <title lang="pt">Janela Amazônia Vox</title>
     <sub-title lang="pt">Proteção de Pirarucu &amp; Coletivo Marajó</sub-title>
     <desc lang="pt">O Janela Amazônia Vox mostra a conexão entre conservação ambiental e valorização da cultura. No Tocantins, pescadores protegem o pirarucu; no Marajó, a arte contribui para preservar o território.
@@ -63545,72 +63996,72 @@ Susan, a T-Rex. Ou seja, para ela mesma, só que milhões de anos atrás! Viagem
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121021500 -0300" stop="20261121023959 -0300" channel="futura">
+  <programme start="20261121021535 -0300" stop="20261121024514 -0300" channel="futura">
     <title lang="pt">Hora De Agir</title>
     <desc lang="pt">O Hora de Agir é um programa que procura soluções, bons exemplos e inspiração para o muito que a humanidade ainda tem que fazer para vencer a Crise Climática.</desc>
-    <length units="minutes">24</length>
+    <length units="minutes">29</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121024500 -0300" stop="20261121025459 -0300" channel="futura">
+  <programme start="20261121024516 -0300" stop="20261121025347 -0300" channel="futura">
     <title lang="pt">Gaia Amazônia</title>
     <sub-title lang="pt">No meio das águas</sub-title>
     <desc lang="pt">Em Lago da Praia, Ligiane é a primeira cacique mulher. Rompe e renova tradições, fala da origem da comunidade e de Mirandolino, ser encantado do Arapiuns.</desc>
-    <length units="minutes">9</length>
+    <length units="minutes">8</length>
     <episode-num system="xmltv_ns">.6.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121025500 -0300" stop="20261121025959 -0300" channel="futura">
+  <programme start="20261121025348 -0300" stop="20261121030217 -0300" channel="futura">
     <title lang="pt">Gaia Amazônia</title>
     <sub-title lang="pt">A Floresta Canta</sub-title>
     <desc lang="pt">Benedito canta e conta a vida no rio Paru, entre trabalho e floresta. Suas vivências viram canções da memória, na musicalidade cabocla do Paru.</desc>
-    <length units="minutes">4</length>
+    <length units="minutes">8</length>
     <episode-num system="xmltv_ns">.7.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121030000 -0300" stop="20261121032959 -0300" channel="futura">
+  <programme start="20261121030218 -0300" stop="20261121033055 -0300" channel="futura">
     <title lang="pt">Assunto Na Mesa</title>
     <sub-title lang="pt">Realidade Imersiva</sub-title>
     <desc lang="pt">Sil Bahia e Alê Sayad recebem Vamoss, artista-programador e mestre em Economia Criativa. Eles discutem Arte e Tecnologia na Educação Midiática e como a criatividade pode transformar códigos de informática em obras de arte.</desc>
-    <length units="minutes">29</length>
+    <length units="minutes">28</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121033000 -0300" stop="20261121035959 -0300" channel="futura">
+  <programme start="20261121033058 -0300" stop="20261121040425 -0300" channel="futura">
     <title lang="pt">Claquete</title>
     <sub-title lang="pt">Kila e Mauna</sub-title>
     <desc lang="pt">O Claquete exibe e discute o curta Kila e Mauna, em que duas amigas buscam uma pessoa desaparecida. Na jornada, enfrentam os silêncios e distâncias criados pelo tempo.</desc>
-    <length units="minutes">29</length>
+    <length units="minutes">33</length>
     <episode-num system="xmltv_ns">.6.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121040000 -0300" stop="20261121042959 -0300" channel="futura">
+  <programme start="20261121040426 -0300" stop="20261121043138 -0300" channel="futura">
     <title lang="pt">Da Nascente À Foz</title>
     <sub-title lang="pt">Rio Paraguai - Parte 2</sub-title>
     <desc lang="pt">Seja no Paraguai, seja no Brasil, o rio Paraguai enfrenta os mesmos problemas: é usado por navios transatlânticos como corredor para transporte de insumos agrícolas. As consequências são desastrosas.</desc>
-    <length units="minutes">29</length>
+    <length units="minutes">27</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121043000 -0300" stop="20261121044459 -0300" channel="futura">
+  <programme start="20261121043140 -0300" stop="20261121044527 -0300" channel="futura">
     <title lang="pt">Amazônia: Novas Histórias</title>
     <sub-title lang="pt">Energia</sub-title>
     <desc lang="pt">A região amazônica é conhecida pelas fontes de geração de energia fóssil, como gás natural e petróleo. No entanto, também tem grande potencial a partir de fontes renováveis como hidrelétricas e oleaginosas no caso do biodiesel.</desc>
-    <length units="minutes">14</length>
+    <length units="minutes">13</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121044500 -0300" stop="20261121051459 -0300" channel="futura">
+  <programme start="20261121044529 -0300" stop="20261121051514 -0300" channel="futura">
     <title lang="pt">Sou Palhaço</title>
     <sub-title lang="pt">Ser Palhaço</sub-title>
     <desc lang="pt">Nesse episódio viajamos no mágico universo dos palhaços de circo. Mostramos como as gerações de renovam e a paixão que esses artistas possuem pelo picadeiro.</desc>
@@ -63619,22 +64070,22 @@ Susan, a T-Rex. Ou seja, para ela mesma, só que milhões de anos atrás! Viagem
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121051500 -0300" stop="20261121052959 -0300" channel="futura">
+  <programme start="20261121051516 -0300" stop="20261121053009 -0300" channel="futura">
     <title lang="pt">Entrevista</title>
     <sub-title lang="pt">Inimigos da Felicidade Humana</sub-title>
     <desc lang="pt">Você sabe o que é “bem-viver”? Nesta temporada do Entrevista, falamos sobre a filosofia que propõe um novo olhar sobre o mundo. Esse conceito também tem a ver com os Inimigos da Felicidade Humana e quem fala sobre isso é a Monja Coen.</desc>
     <length units="minutes">14</length>
   </programme>
-  <programme start="20261121053000 -0300" stop="20261121053459 -0300" channel="futura">
+  <programme start="20261121053010 -0300" stop="20261121053534 -0300" channel="futura">
     <title lang="pt">A(U)tores</title>
     <sub-title lang="pt">Armando Babaioff</sub-title>
     <desc lang="pt">O inquieto ator nascido em Pernambuco se lançou na tradução de uma peça teatral estrangeira. E descobriu o quanto nosso idioma pode influenciar sentimentos contidos em um texto.</desc>
-    <length units="minutes">4</length>
+    <length units="minutes">5</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121053500 -0300" stop="20261121054459 -0300" channel="futura">
+  <programme start="20261121053536 -0300" stop="20261121054459 -0300" channel="futura">
     <title lang="pt">Bicos</title>
     <sub-title lang="pt">Marcos do Pífe</sub-title>
     <desc lang="pt">Marcos do Pífe, do décimo quarto episódio, combina sua paixão pela música com trabalhos como encanador e pedreiro.</desc>
@@ -65795,60 +66246,53 @@ suficientes para garantir justiça climática e proteger territórios vulneráve
     <length units="minutes">62</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20261120191803 -0300" stop="20261120204253 -0300" channel="ge-tv">
+  <programme start="20261120191803 -0300" stop="20261120205534 -0300" channel="ge-tv">
     <title lang="pt">Superliga de Vôlei Masculino: Goiás x Montes Claros - ao vivo</title>
     <desc lang="pt">Aqui é a casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa! 
 </desc>
-    <length units="minutes">84</length>
+    <length units="minutes">97</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20261120204258 -0300" stop="20261120214322 -0300" channel="ge-tv">
+  <programme start="20261120205538 -0300" stop="20261120215602 -0300" channel="ge-tv">
     <title lang="pt">Giro da Rodada: Brasileirão 2026</title>
     <sub-title lang="pt">34ª Rodada</sub-title>
     <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
     <length units="minutes">60</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20261120214330 -0300" stop="20261121001828 -0300" channel="ge-tv">
+  <programme start="20261120215611 -0300" stop="20261121003109 -0300" channel="ge-tv">
     <title lang="pt">VT - NFL: Indianapolis Colts x Houston Texans</title>
     <desc lang="pt">A NFL está de volta! E chegou a hora de viver cada jogada, vibrar com os touchdowns e acompanhar o talento das grandes estrelas. Viva a NFL!</desc>
     <length units="minutes">154</length>
     <category lang="en">team sports</category>
     <previously-shown/>
   </programme>
-  <programme start="20261120214330 -0300" stop="20261121001828 -0300" channel="ge-tv">
+  <programme start="20261120215611 -0300" stop="20261121003109 -0300" channel="ge-tv">
     <title lang="pt">VT - NFL: Indianapolis Colts x Houston Texans</title>
     <desc lang="pt">A NFL está de volta! E chegou a hora de viver cada jogada, vibrar com os touchdowns e acompanhar o talento das grandes estrelas. Viva a NFL!</desc>
     <length units="minutes">154</length>
     <category lang="en">team sports</category>
     <previously-shown/>
   </programme>
-  <programme start="20261121001836 -0300" stop="20261121031151 -0300" channel="ge-tv">
+  <programme start="20261121003116 -0300" stop="20261121032431 -0300" channel="ge-tv">
     <title lang="pt">VT - NFL: Washington Commanders x New York Giants</title>
     <desc lang="pt">A NFL está de volta! E chegou a hora de viver cada jogada, vibrar com os touchdowns e acompanhar o talento das grandes estrelas. Viva a NFL!</desc>
     <length units="minutes">173</length>
     <category lang="en">team sports</category>
     <previously-shown/>
   </programme>
-  <programme start="20261121031158 -0300" stop="20261121055306 -0300" channel="ge-tv">
+  <programme start="20261121032438 -0300" stop="20261121060546 -0300" channel="ge-tv">
     <title lang="pt">VT - NFL: Seattle Seahawks x Las Vegas Raiders - Semana 10</title>
     <desc lang="pt">A NFL está de volta! E chegou a hora de viver cada jogada, vibrar com os touchdowns e acompanhar o talento das grandes estrelas. Viva a NFL!</desc>
     <length units="minutes">161</length>
     <category lang="en">team sports</category>
     <previously-shown/>
   </programme>
-  <programme start="20261121055312 -0300" stop="20261121061053 -0300" channel="ge-tv">
+  <programme start="20261121060552 -0300" stop="20261121062823 -0300" channel="ge-tv">
     <title lang="pt">Giro da Rodada: Brasileirão 2026</title>
     <sub-title lang="pt">34ª Rodada</sub-title>
     <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
-    <length units="minutes">17</length>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20261121070000 -0300" stop="20261121075959 -0300" channel="ge-tv">
-    <title lang="pt">Giro da Rodada: Brasileirão 2026</title>
-    <sub-title lang="pt">34ª Rodada</sub-title>
-    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
-    <length units="minutes">59</length>
+    <length units="minutes">22</length>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20261121080000 -0300" stop="20261121082959 -0300" channel="ge-tv">
@@ -66912,7 +67356,7 @@ suficientes para garantir justiça climática e proteger territórios vulneráve
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20261120201622 -0300" stop="20261120211051 -0300" channel="globoplay-novelas">
+  <programme start="20261120201622 -0300" stop="20261120211050 -0300" channel="globoplay-novelas">
     <title lang="pt">Rock Story</title>
     <desc lang="pt">Zac recebe apoio de Gui, após decepção com a mãe. Manu pensa em plano para afastar Léo de Stefany. A proximidade do casamento de Gui mexe com Diana. Gui faz ameaça a Diana.</desc>
     <length units="minutes">54</length>
@@ -66929,7 +67373,7 @@ suficientes para garantir justiça climática e proteger territórios vulneráve
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20261120215820 -0300" stop="20261120224006 -0300" channel="globoplay-novelas">
+  <programme start="20261120215819 -0300" stop="20261120224005 -0300" channel="globoplay-novelas">
     <title lang="pt">Maria Mercedes</title>
     <sub-title lang="pt">Capítulo 29</sub-title>
     <desc lang="pt">Maria Mercedes e Jorge Luis se aproximam e decidem se casar. Enquanto ela prepara a mudança, Malvina tenta garantir que o romance se torne oficial.</desc>
@@ -66979,7 +67423,7 @@ suficientes para garantir justiça climática e proteger territórios vulneráve
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20261121021221 -0300" stop="20261121025859 -0300" channel="globoplay-novelas">
+  <programme start="20261121021221 -0300" stop="20261121025902 -0300" channel="globoplay-novelas">
     <title lang="pt">As Filhas Da Senhora Garcia</title>
     <sub-title lang="pt">A Resposta está Próxima</sub-title>
     <desc lang="pt">Paula tenta pressionar Leonardo e Arturo para acelerar o julgamento. Ofelia e Rocío se unem com um objetivo claro: destruir a família Portilla.</desc>
@@ -66988,7 +67432,7 @@ suficientes para garantir justiça climática e proteger territórios vulneráve
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20261121025900 -0300" stop="20261121034659 -0300" channel="globoplay-novelas">
+  <programme start="20261121025906 -0300" stop="20261121034634 -0300" channel="globoplay-novelas">
     <title lang="pt">Tropicaliente</title>
     <desc lang="pt">Cassiano vai embora sem dizer nada e Vítor fica satisfeito. Ramiro garante a Letícia que vai pedir a separação para Serena. Fred encontra no quarto de Adrenalina o recorte com a notícia do acidente.</desc>
     <length units="minutes">47</length>
@@ -66996,15 +67440,15 @@ suficientes para garantir justiça climática e proteger territórios vulneráve
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121034700 -0300" stop="20261121043259 -0300" channel="globoplay-novelas">
+  <programme start="20261121034641 -0300" stop="20261121043333 -0300" channel="globoplay-novelas">
     <title lang="pt">Rock Story</title>
     <desc lang="pt">Zac recebe apoio de Gui, após decepção com a mãe. Manu pensa em plano para afastar Léo de Stefany. A proximidade do casamento de Gui mexe com Diana. Gui faz ameaça a Diana.</desc>
-    <length units="minutes">45</length>
+    <length units="minutes">46</length>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20261121043300 -0300" stop="20261121051959 -0300" channel="globoplay-novelas">
+  <programme start="20261121043337 -0300" stop="20261121051959 -0300" channel="globoplay-novelas">
     <title lang="pt">As Filhas Da Senhora Garcia</title>
     <sub-title lang="pt">A Resposta está Próxima</sub-title>
     <desc lang="pt">Paula tenta pressionar Leonardo e Arturo para acelerar o julgamento. Ofelia e Rocío se unem com um objetivo claro: destruir a família Portilla.</desc>
@@ -68634,7 +69078,7 @@ duas cabeças, eles devoram todo o amor em Paris. Nossos heróis conseguirão sa
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121002808 -0300" stop="20261121005205 -0300" channel="gloob">
+  <programme start="20261121002807 -0300" stop="20261121005204 -0300" channel="gloob">
     <title lang="pt">Miraculous – As Aventuras De L</title>
     <sub-title lang="pt">Ilusão</sub-title>
     <desc lang="pt">Mesmo sem seu Miraculous para ajudar os herois da cidade, Nino quer continuar ajudando Ladybug e Cat Noir. Ele decide criar uma Rede de Resistência na escola.</desc>
@@ -68688,70 +69132,70 @@ duas cabeças, eles devoram todo o amor em Paris. Nossos heróis conseguirão sa
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121022654 -0300" stop="20261121023159 -0300" channel="gloob">
+  <programme start="20261121022654 -0300" stop="20261121023851 -0300" channel="gloob">
     <title lang="pt">Tara Duncan</title>
     <sub-title lang="pt">O Chapéu de Invisibilidade</sub-title>
     <desc lang="pt">Um dos tesouros do palácio foi roubado! Os heróis investigam para provar a inocência de Cal, acusado incorretamente.</desc>
-    <length units="minutes">5</length>
+    <length units="minutes">11</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121023200 -0300" stop="20261121024359 -0300" channel="gloob">
+  <programme start="20261121023853 -0300" stop="20261121025200 -0300" channel="gloob">
     <title lang="pt">Tara Duncan</title>
     <sub-title lang="pt">O Aniversário de Tara</sub-title>
     <desc lang="pt">É o aniversário de Tara e ela recebe muitos presentes. Angelica, com ciúmes, rouba uma pulseira que absorve sua magia. A jóia é, na verdade, uma armadilha de Magister.</desc>
-    <length units="minutes">11</length>
+    <length units="minutes">13</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121024400 -0300" stop="20261121025559 -0300" channel="gloob">
+  <programme start="20261121025203 -0300" stop="20261121030407 -0300" channel="gloob">
     <title lang="pt">Tara Duncan</title>
     <sub-title lang="pt">Magister e a Fera</sub-title>
     <desc lang="pt">Glória luta para controlar sua transformação, o que a coloca em situações complicadas. Ela aceita um convite de um médico estranho que acaba sendo o Magister!</desc>
-    <length units="minutes">11</length>
+    <length units="minutes">12</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121025600 -0300" stop="20261121030659 -0300" channel="gloob">
+  <programme start="20261121030408 -0300" stop="20261121031605 -0300" channel="gloob">
     <title lang="pt">Gormiti</title>
     <sub-title lang="pt">Escolhendo as Regras</sub-title>
     <desc lang="pt">Quando os Darkans atacam Gorm, Ikor percebe que as suas técnicas não têm qualquer efeito e que deverá procurar uma nova saída.</desc>
-    <length units="minutes">10</length>
+    <length units="minutes">11</length>
     <rating system="Brazil">
       <value>[6]</value>
     </rating>
   </programme>
-  <programme start="20261121030700 -0300" stop="20261121031759 -0300" channel="gloob">
+  <programme start="20261121031608 -0300" stop="20261121032719 -0300" channel="gloob">
     <title lang="pt">Gormiti</title>
     <sub-title lang="pt">A Ascenção da Torre</sub-title>
     <desc lang="pt">Os nossos heróis precisam invocar os quatro Lordes Gormiti para aumentarem as defesas da Torre. Isso significa que Ao-Ki terá de enfrentar Voidus, o Mestre dos Darkans, sozinha!</desc>
-    <length units="minutes">10</length>
+    <length units="minutes">11</length>
     <rating system="Brazil">
       <value>[6]</value>
     </rating>
   </programme>
-  <programme start="20261121031800 -0300" stop="20261121032759 -0300" channel="gloob">
+  <programme start="20261121032721 -0300" stop="20261121033831 -0300" channel="gloob">
     <title lang="pt">Gormiti</title>
     <sub-title lang="pt">Deixe Fluir</sub-title>
     <desc lang="pt">Os mensageiros precisam de uma bússola para encontrarem os fragmentos da Elestar, o Selo dos Gormiti. Para isso, terão que superar três desafios.</desc>
-    <length units="minutes">9</length>
+    <length units="minutes">11</length>
     <rating system="Brazil">
       <value>[6]</value>
     </rating>
   </programme>
-  <programme start="20261121032800 -0300" stop="20261121033859 -0300" channel="gloob">
+  <programme start="20261121033833 -0300" stop="20261121034936 -0300" channel="gloob">
     <title lang="pt">Gormiti</title>
     <sub-title lang="pt">Mudando como Vento</sub-title>
     <desc lang="pt">Os nossos heróis encontram o primeiro fragmento da Elestar! Será que eles conseguem apanhar o fragmento de vento e enfrentar um ataque dos Darkan ao mesmo tempo?</desc>
-    <length units="minutes">10</length>
+    <length units="minutes">11</length>
     <rating system="Brazil">
       <value>[6]</value>
     </rating>
   </programme>
-  <programme start="20261121033900 -0300" stop="20261121040159 -0300" channel="gloob">
+  <programme start="20261121034937 -0300" stop="20261121041225 -0300" channel="gloob">
     <title lang="pt">As Aventuras Do Gato De Botas</title>
     <sub-title lang="pt">Achados e Perdidinhos</sub-title>
     <desc lang="pt">Quando a Duquesa anuncia que deseja formar uma família, os órfãos entram em disputa para descobrir quem será o escolhido para ganhar um novo lar em San Lorenzo.</desc>
@@ -68760,7 +69204,7 @@ duas cabeças, eles devoram todo o amor em Paris. Nossos heróis conseguirão sa
       <value>[6]</value>
     </rating>
   </programme>
-  <programme start="20261121040200 -0300" stop="20261121042459 -0300" channel="gloob">
+  <programme start="20261121041228 -0300" stop="20261121043521 -0300" channel="gloob">
     <title lang="pt">As Aventuras Do Gato De Botas</title>
     <sub-title lang="pt">A Pantera Escarlate</sub-title>
     <desc lang="pt">A chegada da temida Pantera Escarlate obriga Gato de Botas a abandonar suas botas. Como Gato de Chinelos, ele passa por uma inesperada mudança de personalidade.</desc>
@@ -68769,7 +69213,7 @@ duas cabeças, eles devoram todo o amor em Paris. Nossos heróis conseguirão sa
       <value>[6]</value>
     </rating>
   </programme>
-  <programme start="20261121042500 -0300" stop="20261121044729 -0300" channel="gloob">
+  <programme start="20261121043525 -0300" stop="20261121045746 -0300" channel="gloob">
     <title lang="pt">Dragões - Pilotos De Berk</title>
     <sub-title lang="pt">Loucura em Dobro</sub-title>
     <desc lang="pt">Um antigo inimigo de Banguela retorna a Berk em busca de vingança. Mesmo em desvantagem, ele insiste em lutar sozinho e coloca tudo em risco.</desc>
@@ -68778,16 +69222,16 @@ duas cabeças, eles devoram todo o amor em Paris. Nossos heróis conseguirão sa
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121044730 -0300" stop="20261121051629 -0300" channel="gloob">
+  <programme start="20261121045750 -0300" stop="20261121052016 -0300" channel="gloob">
     <title lang="pt">Dragões - Pilotos De Berk</title>
     <sub-title lang="pt">Jóia de Cor Diferente</sub-title>
     <desc lang="pt">Pedras misteriosas começam a surgir por toda Berk e despertam curiosidade. Ao descobrir que são ovos de dragões perigosos, Soluço precisa agir depressa.</desc>
-    <length units="minutes">28</length>
+    <length units="minutes">22</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121051630 -0300" stop="20261121052759 -0300" channel="gloob">
+  <programme start="20261121052019 -0300" stop="20261121053126 -0300" channel="gloob">
     <title lang="pt">Alvinnn!!! E Os Esquilos</title>
     <sub-title lang="pt">Caratê De Meia-Tigela</sub-title>
     <desc lang="pt">Dave, Simon e Theodore estão preocupados com a segurança de Alvin depois que ele entra em um concurso de caratê.</desc>
@@ -68796,11 +69240,11 @@ duas cabeças, eles devoram todo o amor em Paris. Nossos heróis conseguirão sa
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121052800 -0300" stop="20261121053929 -0300" channel="gloob">
+  <programme start="20261121053128 -0300" stop="20261121053929 -0300" channel="gloob">
     <title lang="pt">Alvinnn!!! E Os Esquilos</title>
     <sub-title lang="pt">O Preferido</sub-title>
     <desc lang="pt">Quando Alvin suspeita que Simon é o preferido de Dave, ele e Theo desafiam Simon a uma corrida de Kart para ganhar o favoritismo de Dave.</desc>
-    <length units="minutes">11</length>
+    <length units="minutes">8</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -72961,7 +73405,7 @@ modo de dançar!</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121001334 -0300" stop="20261121002446 -0300" channel="gloobinho">
+  <programme start="20261121001333 -0300" stop="20261121002445 -0300" channel="gloobinho">
     <title lang="pt">S.O.S. Fada Manu</title>
     <sub-title lang="pt">O Anãozinho Diferente</sub-title>
     <desc lang="pt">Após acharem o Espelho Mágico, os anões descobrem que um deles é diferente. E agora? Manu quer ajudar os anõezinhos, mas o irmão diferente parece não ficar muito feliz com a solução.</desc>
@@ -73042,7 +73486,7 @@ modo de dançar!</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121011027 -0300" stop="20261121012203 -0300" channel="gloobinho">
+  <programme start="20261121011026 -0300" stop="20261121012202 -0300" channel="gloobinho">
     <title lang="pt">Alice &amp; Lewis</title>
     <sub-title lang="pt">Vida Longa à Rainha</sub-title>
     <desc lang="pt">Alice e Lewis procuram presentes para celebrar a melhor rainha do mundo.</desc>
@@ -73114,163 +73558,163 @@ modo de dançar!</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121021715 -0300" stop="20261121024459 -0300" channel="gloobinho">
+  <programme start="20261121021715 -0300" stop="20261121024002 -0300" channel="gloobinho">
     <title lang="pt">Madagascar: Pequenos Selvagens</title>
     <sub-title lang="pt">Preso na Biblioteca</sub-title>
     <desc lang="pt">Com vergonha de admitir que ainda está aprendendo a ler, Marty exagera nos estudos e fica preso na biblioteca. A experiência o ajuda a respeitar seu próprio ritmo.</desc>
-    <length units="minutes">27</length>
+    <length units="minutes">22</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121024500 -0300" stop="20261121024959 -0300" channel="gloobinho">
+  <programme start="20261121024006 -0300" stop="20261121024752 -0300" channel="gloobinho">
     <title lang="pt">Pipas</title>
     <sub-title lang="pt">Chocalho</sub-title>
     <desc lang="pt">Peixinho se prepara para o Festival Musical dos Nunus, mas sua falta de habilidade musical preocupa os amigos. Até que ela encontra um chocalho mágico que a faz cantar perfeitamente.</desc>
-    <length units="minutes">4</length>
+    <length units="minutes">7</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121025000 -0300" stop="20261121030959 -0300" channel="gloobinho">
+  <programme start="20261121024753 -0300" stop="20261121031036 -0300" channel="gloobinho">
     <title lang="pt">Vera E O Reino Do Arco-Íris</title>
     <sub-title lang="pt">A Árvore Ni Ni</sub-title>
     <desc lang="pt">No acampamento ao estilo pé-grande, Vera e seus amigos aprendem sobre as tradições deles e ficam surpresos ao saberem que os pés-grandes tem medo do escuro.</desc>
-    <length units="minutes">19</length>
+    <length units="minutes">22</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121031000 -0300" stop="20261121031959 -0300" channel="gloobinho">
+  <programme start="20261121031038 -0300" stop="20261121032127 -0300" channel="gloobinho">
     <title lang="pt">Milo</title>
     <sub-title lang="pt">O Operário de Fábrica</sub-title>
     <desc lang="pt">Milo e seus amigos preparam uma geleia na fábrica do fazendeiro Tilly, mas gastam muito tempo comendo as frutas! Eles tentam acelerar o processo para compensarem o tempo perdido.
 </desc>
-    <length units="minutes">9</length>
+    <length units="minutes">10</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121032000 -0300" stop="20261121032459 -0300" channel="gloobinho">
+  <programme start="20261121032128 -0300" stop="20261121032646 -0300" channel="gloobinho">
     <title lang="pt">Mya Go</title>
     <sub-title lang="pt">Cartão-postal</sub-title>
     <desc lang="pt">Mya Go recebe um cartão-postal de seus avós e quer enviar um de volta para eles. Mas é tarde demais, eles estão a caminho de casa!</desc>
-    <length units="minutes">4</length>
+    <length units="minutes">5</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121032500 -0300" stop="20261121032959 -0300" channel="gloobinho">
+  <programme start="20261121032648 -0300" stop="20261121033207 -0300" channel="gloobinho">
     <title lang="pt">Mya Go</title>
     <sub-title lang="pt">Mistério</sub-title>
     <desc lang="pt">Faz sol na cidade de Todo Dia e Mya Go visita Tommy a tempo de ajudá-lo a resolver o mistério das roupas perdidas.</desc>
-    <length units="minutes">4</length>
+    <length units="minutes">5</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121033000 -0300" stop="20261121033459 -0300" channel="gloobinho">
+  <programme start="20261121033209 -0300" stop="20261121033728 -0300" channel="gloobinho">
     <title lang="pt">Mya Go</title>
     <sub-title lang="pt">Cuidando de Animais</sub-title>
     <desc lang="pt">Mya cuida dos animais de estimação de Sophie. Ela acredita que a tarefa será fácil, mas acaba precisando da ajuda de Doggy Go.</desc>
-    <length units="minutes">4</length>
+    <length units="minutes">5</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121033500 -0300" stop="20261121033959 -0300" channel="gloobinho">
+  <programme start="20261121033729 -0300" stop="20261121034248 -0300" channel="gloobinho">
     <title lang="pt">Mya Go</title>
     <sub-title lang="pt">Dentista</sub-title>
     <desc lang="pt">A família Go tem uma consulta com o dentista. Mya precisa mostrar ao irmão mais novo dela que ir ao dentista pode ser divertido.</desc>
-    <length units="minutes">4</length>
+    <length units="minutes">5</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121034000 -0300" stop="20261121034459 -0300" channel="gloobinho">
+  <programme start="20261121034250 -0300" stop="20261121034809 -0300" channel="gloobinho">
     <title lang="pt">Mya Go</title>
     <sub-title lang="pt">Nadando</sub-title>
     <desc lang="pt">A família de Mya está na piscina para um primeiro mergulho durante o verão. O problema é que a piscina não tem água.</desc>
-    <length units="minutes">4</length>
+    <length units="minutes">5</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121035000 -0300" stop="20261121035259 -0300" channel="gloobinho">
+  <programme start="20261121034810 -0300" stop="20261121035138 -0300" channel="gloobinho">
     <title lang="pt">As Aventuras De Sunny Bunnies</title>
     <sub-title lang="pt">Hocus-Pocus</sub-title>
     <desc lang="pt">Sunny Bunnies adoram magia e Big Boo decide fazer uma performance mágica para seus amigos. Ele ainda está estudando, acaba misturando algo com o kit e seus amigos desaparecem. E agora?
 </desc>
-    <length units="minutes">2</length>
+    <length units="minutes">3</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121035300 -0300" stop="20261121035559 -0300" channel="gloobinho">
+  <programme start="20261121035140 -0300" stop="20261121035510 -0300" channel="gloobinho">
     <title lang="pt">As Aventuras De Sunny Bunnies</title>
     <sub-title lang="pt">O Poder Da Mágica</sub-title>
     <desc lang="pt">Um mago indiano chega ao circo e os Sunny Bunnies descobrem que quem usa seu turbante consegue levantar objetos no ar. Eles começam a levantar vários obejtos, onde será que isso vai parar?
 </desc>
-    <length units="minutes">2</length>
+    <length units="minutes">3</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121035600 -0300" stop="20261121035859 -0300" channel="gloobinho">
+  <programme start="20261121035512 -0300" stop="20261121035851 -0300" channel="gloobinho">
     <title lang="pt">As Aventuras De Sunny Bunnies</title>
     <sub-title lang="pt">Os Caubóis</sub-title>
     <desc lang="pt">Série sem dialogos que acompanha cinco coelhos brincalhões em diversas aventuras.</desc>
-    <length units="minutes">2</length>
+    <length units="minutes">3</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121035900 -0300" stop="20261121040159 -0300" channel="gloobinho">
+  <programme start="20261121035853 -0300" stop="20261121040245 -0300" channel="gloobinho">
     <title lang="pt">As Aventuras De Sunny Bunnies</title>
     <sub-title lang="pt">Clube Do Golf</sub-title>
     <desc lang="pt">Série sem dialogos que acompanha cinco coelhos brincalhões em diversas aventuras.</desc>
-    <length units="minutes">2</length>
+    <length units="minutes">3</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121040500 -0300" stop="20261121041059 -0300" channel="gloobinho">
+  <programme start="20261121040246 -0300" stop="20261121040941 -0300" channel="gloobinho">
     <title lang="pt">Pocoyo</title>
     <sub-title lang="pt">Bolinha de sabão</sub-title>
     <desc lang="pt">Pocoyo está se divertindo fazendo bolinhas de sabão. Elly também quer brincar, mas eles não chegam a um acordo para dividir o brinquedo.</desc>
-    <length units="minutes">5</length>
+    <length units="minutes">6</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121041200 -0300" stop="20261121041759 -0300" channel="gloobinho">
+  <programme start="20261121040942 -0300" stop="20261121041637 -0300" channel="gloobinho">
     <title lang="pt">Pocoyo</title>
     <sub-title lang="pt">Chave para tudo</sub-title>
     <desc lang="pt">Pocoyo encontra uma chave que o leva a uma nova aventura de exploração e descobertas.</desc>
-    <length units="minutes">5</length>
+    <length units="minutes">6</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121042000 -0300" stop="20261121042959 -0300" channel="gloobinho">
+  <programme start="20261121041638 -0300" stop="20261121042826 -0300" channel="gloobinho">
     <title lang="pt">Meu Amigãozão</title>
     <sub-title lang="pt">Contando em Blugablum</sub-title>
     <desc lang="pt">Yuri acha esquisito falar em inglês e prefere brincar em BlugaBlum. Mas lá ele precisa falar em Blum!</desc>
-    <length units="minutes">9</length>
+    <length units="minutes">11</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121043000 -0300" stop="20261121043959 -0300" channel="gloobinho">
+  <programme start="20261121042828 -0300" stop="20261121044016 -0300" channel="gloobinho">
     <title lang="pt">Meu Amigãozão</title>
     <sub-title lang="pt">Cabeleira das Cavernas</sub-title>
     <desc lang="pt">Matt tem que cortar o cabelo e fica apavorado. É melhor deixar o cabelo crescer para sempre, como os homens das cavernas!</desc>
-    <length units="minutes">9</length>
+    <length units="minutes">11</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121044000 -0300" stop="20261121044229 -0300" channel="gloobinho">
+  <programme start="20261121044018 -0300" stop="20261121044308 -0300" channel="gloobinho">
     <title lang="pt">Cocomelon</title>
     <sub-title lang="pt">Au-au no Petshop</sub-title>
     <desc lang="pt">Quando Nina visita o pet shop, seu cachorro, Patas, late para comunicar tudo o que precisa.</desc>
@@ -73279,76 +73723,76 @@ modo de dançar!</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121044300 -0300" stop="20261121044529 -0300" channel="gloobinho">
+  <programme start="20261121044310 -0300" stop="20261121044613 -0300" channel="gloobinho">
     <title lang="pt">Cocomelon</title>
     <sub-title lang="pt">Família de dedos</sub-title>
     <desc lang="pt">Conhecemos os membros da família de Nina enquanto ela ajuda cada um a completar uma tarefa.</desc>
-    <length units="minutes">2</length>
+    <length units="minutes">3</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121044600 -0300" stop="20261121044829 -0300" channel="gloobinho">
+  <programme start="20261121044614 -0300" stop="20261121044917 -0300" channel="gloobinho">
     <title lang="pt">Cocomelon</title>
     <sub-title lang="pt">Dia de Los Muertos</sub-title>
     <desc lang="pt">Nina e sua família fazem juntos um evento ao ar livre para celebrar o Dia de los Muertos.</desc>
-    <length units="minutes">2</length>
+    <length units="minutes">3</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121045000 -0300" stop="20261121045659 -0300" channel="gloobinho">
+  <programme start="20261121044919 -0300" stop="20261121045641 -0300" channel="gloobinho">
     <title lang="pt">Vovó Tatá</title>
     <sub-title lang="pt">Keka, a Bailarina</sub-title>
     <desc lang="pt">Keka quer aprender balé e a Vovó Tatá a apresenta à Samambailarina. A menina fica
 triste por não dançar tão bem quanto ela mas, com ajuda da turma, Keka encontra seu
 modo de dançar!</desc>
-    <length units="minutes">6</length>
+    <length units="minutes">7</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121050000 -0300" stop="20261121050459 -0300" channel="gloobinho">
+  <programme start="20261121045642 -0300" stop="20261121050231 -0300" channel="gloobinho">
     <title lang="pt">Conta Comigo</title>
     <sub-title lang="pt">A Princesa E O Dragão</sub-title>
     <desc lang="pt">Mel está dançando com um dragão imaginário e as crianças decidem construir um dragão de verdade para ela dançar.</desc>
-    <length units="minutes">4</length>
+    <length units="minutes">5</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121050500 -0300" stop="20261121050959 -0300" channel="gloobinho">
+  <programme start="20261121050233 -0300" stop="20261121050822 -0300" channel="gloobinho">
     <title lang="pt">Conta Comigo</title>
     <sub-title lang="pt">Limonada!</sub-title>
     <desc lang="pt">Mobi está doente e as crianças decidem fazer uma limonada para animá-lo.</desc>
-    <length units="minutes">4</length>
+    <length units="minutes">5</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121051000 -0300" stop="20261121051659 -0300" channel="gloobinho">
+  <programme start="20261121050824 -0300" stop="20261121051530 -0300" channel="gloobinho">
     <title lang="pt">Vamos Brincar</title>
     <sub-title lang="pt">A Dança Do Polvo</sub-title>
     <desc lang="pt">Magali e Cascão brincam de “O Mestre Mandou” e ela cria a Dança do Polvo, fazendo o amigo rir muito. Agora a Turma toda quer aprender a dança. Será que ela vai se soltar de novo?</desc>
-    <length units="minutes">6</length>
+    <length units="minutes">7</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121051700 -0300" stop="20261121052359 -0300" channel="gloobinho">
+  <programme start="20261121051532 -0300" stop="20261121052240 -0300" channel="gloobinho">
     <title lang="pt">Vamos Brincar</title>
     <sub-title lang="pt">Quem Quer Ser Um Campeão?</sub-title>
     <desc lang="pt">Após perder no Pesca Peixe e Estátua, Cebolinha, inconformado, muda a brincadeira. Um novo desafio surge e ele se pergunta: será que agora conseguirá ser o melhor em saber perder?</desc>
-    <length units="minutes">6</length>
+    <length units="minutes">7</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121053000 -0300" stop="20261121053959 -0300" channel="gloobinho">
+  <programme start="20261121052241 -0300" stop="20261121052755 -0300" channel="gloobinho">
     <title lang="pt">Ursinhos Carinhosos</title>
     <sub-title lang="pt">Plunk ao Resgate</sub-title>
     <desc lang="pt">Plunk descobre que os Ursinhos Carinhosos estão trabalhando junto com Robbie para acabar com um esquema de Bluster. Robbie vai contra a tentativa de ajuda de Plunk.</desc>
-    <length units="minutes">9</length>
+    <length units="minutes">5</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -80323,17 +80767,17 @@ para fazer o seu serviço.</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20261121012206 -0300" stop="20261121023959 -0300" channel="gnt">
+  <programme start="20261121012206 -0300" stop="20261121024056 -0300" channel="gnt">
     <title lang="pt">Saia Justa</title>
     <sub-title lang="pt">Olho no universo/ Confissões de mulher/ Despedir pode ser uma festa?</sub-title>
     <desc lang="pt">Com Deborah Secco, vamos falar de sinais do universo, revelar confissões sobre o corpo feminino e celebrar novos ciclos!
 </desc>
-    <length units="minutes">77</length>
+    <length units="minutes">78</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20261121024000 -0300" stop="20261121024759 -0300" channel="gnt">
+  <programme start="20261121024059 -0300" stop="20261121024840 -0300" channel="gnt">
     <title lang="pt">Momento Que História É Essa, Porchat?</title>
     <sub-title lang="pt">Especial Maiara &amp; Maraisa Com Gabz</sub-title>
     <desc lang="pt">Porchat celebra a dupla Maiara e Maraísa com participação de Gabz, fã da dupla. Na plateia, Ariana conta que quase perdeu o dente no date. 
@@ -80343,25 +80787,25 @@ para fazer o seu serviço.</desc>
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20261121024800 -0300" stop="20261121034659 -0300" channel="gnt">
+  <programme start="20261121024842 -0300" stop="20261121034604 -0300" channel="gnt">
     <title lang="pt">Bem Juntinhos</title>
     <sub-title lang="pt">Masculinidades</sub-title>
     <desc lang="pt">Num papo honesto e corajoso, Rodrigo e Fernanda debatem as diferentes masculinidades possíveis ao lado do ator Leandro Ramos, do programa Choque de Cultura, e do renomado escritor João Silvério Trevisan.</desc>
-    <length units="minutes">58</length>
+    <length units="minutes">57</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121034100 -0300" stop="20261121041359 -0300" channel="gnt">
+  <programme start="20261121034608 -0300" stop="20261121041802 -0300" channel="gnt">
     <title lang="pt">Perto Do Fogo</title>
     <sub-title lang="pt">Pastel</sub-title>
     <desc lang="pt">É dia de comida rua de feira: pastel. Felipe Bronze e Jimmy Ogro preparam pastel de costela de boi, de palmito, de pizza, de ovo com bacon e de churros! Para acompanhar, um drink com caldo de cana.</desc>
-    <length units="minutes">32</length>
+    <length units="minutes">31</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20261121041400 -0300" stop="20261121044659 -0300" channel="gnt">
+  <programme start="20261121041806 -0300" stop="20261121045023 -0300" channel="gnt">
     <title lang="pt">Perto Do Fogo</title>
     <sub-title lang="pt">Noodles</sub-title>
     <desc lang="pt">O Perto do Fogo de hoje é uma homenagem à comida de rua oriental: lamen com copalombo de porco, bifun com sardinha e legumes e yakisoba de churrasco. Felipe e Jimmy finalizam com um drink de sakê.
@@ -80372,11 +80816,11 @@ para fazer o seu serviço.</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20261121044700 -0300" stop="20261121051059 -0300" channel="gnt">
+  <programme start="20261121045026 -0300" stop="20261121051059 -0300" channel="gnt">
     <title lang="pt">Pode Entrar - Refúgios</title>
     <sub-title lang="pt">Nicole Bahls</sub-title>
     <desc lang="pt">A apresentadora e  influenciadora Nicole Bahls mostra seu sítio em Itaboraí. A propriedade tem mais de 20 mil metros quadrados, 12 quartos, 22 banheiros e muitos bichos.</desc>
-    <length units="minutes">23</length>
+    <length units="minutes">20</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -83930,18 +84374,18 @@ para fazer o seu serviço.</desc>
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20261121021412 -0300" stop="20261121024444 -0300" channel="megapix">
+  <programme start="20261121021412 -0300" stop="20261121040124 -0300" channel="megapix">
     <title lang="pt">57 Segundos</title>
     <desc lang="pt">Depois de frustrar um atentado contra um guru da tecnologia, Franklin Fox, um jovem blogueiro, descobre um anel misterioso que o leva 57 segundos ao passado.</desc>
-    <length units="minutes">30</length>
+    <length units="minutes">107</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20261121041500 -0300" stop="20261121063459 -0300" channel="megapix">
+  <programme start="20261121040131 -0300" stop="20261121053257 -0300" channel="megapix">
     <title lang="pt">A Cabana</title>
     <desc lang="pt">Mack vive em luto após sua filha desaparecer. Anos após o crime, uma carta o convoca a voltar ao suposto local. Lá, ele vivencia experiências que mudarão sua vida.</desc>
-    <length units="minutes">139</length>
+    <length units="minutes">91</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -84858,7 +85302,7 @@ Casa de Julieta e outros pontos icônicos da cidade.</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121003304 -0300" stop="20261121005920 -0300" channel="modo-viagem">
+  <programme start="20261121003303 -0300" stop="20261121005919 -0300" channel="modo-viagem">
     <title lang="pt">Vinícolas Ao Redor Do Mundo</title>
     <sub-title lang="pt">Tailândia - O Vinhedo dos Trópicos</sub-title>
     <desc lang="pt">Na Tailândia, longe de praias turísticas, uma paisagem apareceu há menos de vinte anos: vinhedos. Os produtores têm adaptado suas videiras ao calor e umidade da região.</desc>
@@ -84887,7 +85331,7 @@ Casa de Julieta e outros pontos icônicos da cidade.</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121020138 -0300" stop="20261121023209 -0300" channel="modo-viagem">
+  <programme start="20261121020138 -0300" stop="20261121023216 -0300" channel="modo-viagem">
     <title lang="pt">Hotéis Incríveis</title>
     <sub-title lang="pt">Pousada Ecológica Akanã, Hospedaria Ponta da Piteira e Casa de Perainda</sub-title>
     <desc lang="pt">Iniciamos em Fernando de Noronha, na Pousada Ecológica Akanã. Depois vamos até Imbituba, conhecer a Hospedaria Ponta da Piteira, e finalizamos em Trancoso, na Casa de Perainda.</desc>
@@ -84897,7 +85341,7 @@ Casa de Julieta e outros pontos icônicos da cidade.</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121023200 -0300" stop="20261121030159 -0300" channel="modo-viagem">
+  <programme start="20261121023218 -0300" stop="20261121030207 -0300" channel="modo-viagem">
     <title lang="pt">Brasil Visto De Cima</title>
     <sub-title lang="pt">Norte Capixaba</sub-title>
     <desc lang="pt">Cercado por cidades históricas, belas praias e indústrias que movimentam o país, o Litoral Norte do Espírito Santo, é uma região de riquezas naturais e grande força econômica.</desc>
@@ -84906,17 +85350,17 @@ Casa de Julieta e outros pontos icônicos da cidade.</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121030200 -0300" stop="20261121032659 -0300" channel="modo-viagem">
+  <programme start="20261121030210 -0300" stop="20261121032710 -0300" channel="modo-viagem">
     <title lang="pt">Mundo Muy Loco</title>
     <sub-title lang="pt">Roma</sub-title>
     <desc lang="pt">Fernando Muylaert chega na capilal italiana, Roma, contando um pouco de sua história e explorando o Coliseum, o maior anfiteatro do mundo.</desc>
-    <length units="minutes">24</length>
+    <length units="minutes">25</length>
     <episode-num system="xmltv_ns">..</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121032700 -0300" stop="20261121035359 -0300" channel="modo-viagem">
+  <programme start="20261121032712 -0300" stop="20261121035328 -0300" channel="modo-viagem">
     <title lang="pt">Rotas Cervejeiras</title>
     <sub-title lang="pt">Os Bassetti</sub-title>
     <desc lang="pt">A charmosa vinícola Villaggio Bassetti, vale a visita e a degustação, quase sempre acompanhadas pelo proprietário, o que oferece uma atmosfera ainda mais aconchegante ao passeio.</desc>
@@ -84925,36 +85369,36 @@ Casa de Julieta e outros pontos icônicos da cidade.</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20261121035400 -0300" stop="20261121041959 -0300" channel="modo-viagem">
+  <programme start="20261121035331 -0300" stop="20261121041931 -0300" channel="modo-viagem">
     <title lang="pt">Arquitetura Fantástica</title>
     <sub-title lang="pt">Os Almeida</sub-title>
     <desc lang="pt">Este episódio é dedicado àqueles que acreditam que só se produz vinhos no Sul do país e por descendentes de italianos. Conheça a marca nordestina, Botticelli.</desc>
-    <length units="minutes">25</length>
+    <length units="minutes">26</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20261121042000 -0300" stop="20261121044659 -0300" channel="modo-viagem">
+  <programme start="20261121041932 -0300" stop="20261121044722 -0300" channel="modo-viagem">
     <title lang="pt">Singulares</title>
     <sub-title lang="pt">Especial Ayrton Senna - Parte 4</sub-title>
     <desc lang="pt">Lucas Fernandes relembra a trágica morte de Ayrton Senna e as homenagens que se seguiram. Depoimentos emocionantes de familiares e amigos celebram o eterno legado do piloto.</desc>
-    <length units="minutes">26</length>
-    <episode-num system="xmltv_ns">..</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20261121044700 -0300" stop="20261121051459 -0300" channel="modo-viagem">
-    <title lang="pt">Singulares</title>
-    <sub-title lang="pt">Roma</sub-title>
-    <desc lang="pt">Lucas Fernandes explora a Cidade Eterna, descobrindo os segredos do Coliseu, o charme da Fontana di Trevi e os sabores da culinária romana.</desc>
     <length units="minutes">27</length>
     <episode-num system="xmltv_ns">..</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121051500 -0300" stop="20261121054059 -0300" channel="modo-viagem">
+  <programme start="20261121044725 -0300" stop="20261121051531 -0300" channel="modo-viagem">
+    <title lang="pt">Singulares</title>
+    <sub-title lang="pt">Roma</sub-title>
+    <desc lang="pt">Lucas Fernandes explora a Cidade Eterna, descobrindo os segredos do Coliseu, o charme da Fontana di Trevi e os sabores da culinária romana.</desc>
+    <length units="minutes">28</length>
+    <episode-num system="xmltv_ns">..</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20261121051533 -0300" stop="20261121054059 -0300" channel="modo-viagem">
     <title lang="pt">A Vida É Uma Passagem</title>
     <sub-title lang="pt">Tunísia</sub-title>
     <desc lang="pt">No segundo episódio do cruzeiro, na primeira parada, Anne Bueno faz um city tour pela Tunísia, passando pelos principais pontos da cidade.</desc>
@@ -87223,7 +87667,7 @@ PROGRAMA EXIBIDO EM 19/11/2026</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20261120211616 -0300" stop="20261120214745 -0300" channel="multishow">
+  <programme start="20261120211616 -0300" stop="20261120214744 -0300" channel="multishow">
     <title lang="pt">Tô de Graça</title>
     <sub-title lang="pt">Ruim com ele, pior sem ele!</sub-title>
     <desc lang="pt">Moacir é preso e Graça precisa pagar a fiança para que ele seja liberado. Quando Moacir consegue ser liberado, Graça o expulsa de casa. Geralda acolhe Moacir em sua casa, mas acaba comprando briga grande com Graça. 
@@ -87305,17 +87749,17 @@ PROGRAMA EXIBIDO EM 19/11/2026</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20261121021207 -0300" stop="20261121023559 -0300" channel="multishow">
+  <programme start="20261121021207 -0300" stop="20261121023903 -0300" channel="multishow">
     <title lang="pt">Chaves</title>
     <sub-title lang="pt">O Livro Da Chiquinha</sub-title>
     <desc lang="pt">Chiquinha ganha um livro de animais do Seu Madruga, mas não fica muito contente. Mesmo assim, resolve olhar o livro com Chaves e Quico.
 </desc>
-    <length units="minutes">23</length>
+    <length units="minutes">26</length>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20261121023600 -0300" stop="20261121030259 -0300" channel="multishow">
+  <programme start="20261121023905 -0300" stop="20261121030559 -0300" channel="multishow">
     <title lang="pt">Chaves</title>
     <sub-title lang="pt">Ser Professor É Padecer No Inferno</sub-title>
     <desc lang="pt">As crianças precisam passar em um exame de admissão na escolinha do Professor Girafales. Se não conseguirem, vão ter de repetir o ano.</desc>
@@ -87324,80 +87768,80 @@ PROGRAMA EXIBIDO EM 19/11/2026</desc>
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20261121030300 -0300" stop="20261121033059 -0300" channel="multishow">
+  <programme start="20261121030601 -0300" stop="20261121033254 -0300" channel="multishow">
     <title lang="pt">Chapolin</title>
     <sub-title lang="pt">Há Hotéis Tão Limpos Que Limpam Até Carteira</sub-title>
     <desc lang="pt">Um casal está para ir embora do hotel, mas o gerente quer cobrar o dobro do combinado. Sem dinheiro, eles precisam da ajuda do Chapolin para poder sair dali.</desc>
-    <length units="minutes">27</length>
+    <length units="minutes">26</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20261121033100 -0300" stop="20261121035859 -0300" channel="multishow">
+  <programme start="20261121033256 -0300" stop="20261121040213 -0300" channel="multishow">
     <title lang="pt">Volte sempre</title>
     <desc lang="pt">Zuenir atende um cliente paranóico, Carlinhos exagera na puxação de saco, Narcisa enfrenta a própria versão, Lindomar encara um cocô de cachorro e Arnaldo conhece o javaporco.</desc>
-    <length units="minutes">27</length>
+    <length units="minutes">29</length>
     <episode-num system="xmltv_ns">.12.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20261121035900 -0300" stop="20261121040159 -0300" channel="multishow">
+  <programme start="20261121040216 -0300" stop="20261121040658 -0300" channel="multishow">
     <title lang="pt">TVZ</title>
     <sub-title lang="pt">Beyoncé – Formation</sub-title>
     <desc lang="pt">BEYONCÉ – FORMATION (SONY MUSIC)</desc>
-    <length units="minutes">2</length>
+    <length units="minutes">4</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20261121040200 -0300" stop="20261121040459 -0300" channel="multishow">
+  <programme start="20261121040700 -0300" stop="20261121041022 -0300" channel="multishow">
     <title lang="pt">TVZ</title>
     <sub-title lang="pt">Bela Maria</sub-title>
     <desc lang="pt">Doce, Dengosa, Polida - BELA MARIA - DOCE, DENGOSA, POLIDA</desc>
-    <length units="minutes">2</length>
+    <length units="minutes">3</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20261121040500 -0300" stop="20261121040759 -0300" channel="multishow">
+  <programme start="20261121041023 -0300" stop="20261121041407 -0300" channel="multishow">
     <title lang="pt">TVZ</title>
     <sub-title lang="pt">Ja Rule - Mesmerize</sub-title>
     <desc lang="pt">JA RULE - MESMERIZE (UNIVERSAL MUSIC)
 </desc>
-    <length units="minutes">2</length>
+    <length units="minutes">3</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20261121040800 -0300" stop="20261121041059 -0300" channel="multishow">
+  <programme start="20261121041409 -0300" stop="20261121041916 -0300" channel="multishow">
     <title lang="pt">TVZ</title>
     <sub-title lang="pt">Duquesa - Primeiro De Maio (Gostosas Inteligentes)</sub-title>
     <desc lang="pt">DUQUESA - PRIMEIRO DE MAIO (GOSTOSAS INTELIGENTES) (BOOGIE NAIPE)</desc>
-    <length units="minutes">2</length>
+    <length units="minutes">5</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20261121041100 -0300" stop="20261121041359 -0300" channel="multishow">
+  <programme start="20261121041918 -0300" stop="20261121042317 -0300" channel="multishow">
     <title lang="pt">TVZ</title>
     <sub-title lang="pt">Estelle Feat. Kanye West - American Boy</sub-title>
     <desc lang="pt">ESTELLE FEAT. KANYE WEST - AMERICAN BOY (Warner Music)</desc>
-    <length units="minutes">2</length>
+    <length units="minutes">3</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20261121041400 -0300" stop="20261121041659 -0300" channel="multishow">
+  <programme start="20261121042318 -0300" stop="20261121042737 -0300" channel="multishow">
     <title lang="pt">TVZ</title>
     <sub-title lang="pt">Péricles E Jota.Pê - Até Quando</sub-title>
     <desc lang="pt">PÉRICLES E JOTA.PÊ - ATÉ QUANDO (INDEPENDENTE)</desc>
-    <length units="minutes">2</length>
+    <length units="minutes">4</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20261121042600 -0300" stop="20261121042859 -0300" channel="multishow">
+  <programme start="20261121042740 -0300" stop="20261121043035 -0300" channel="multishow">
     <title lang="pt">TVZ</title>
     <sub-title lang="pt">Iza - Gueto</sub-title>
     <desc lang="pt">IZA - GUETO (WARNER MUSIC)</desc>
@@ -87406,10 +87850,10 @@ PROGRAMA EXIBIDO EM 19/11/2026</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20261121042900 -0300" stop="20261121045859 -0300" channel="multishow">
+  <programme start="20261121043036 -0300" stop="20261121045859 -0300" channel="multishow">
     <title lang="pt">Reclame</title>
     <desc lang="pt">Hoje vemos as campanhas criadas pela Ogilvy para a Cogna Educação, uma conversa especial com Tannia Fukuda, da Seara, e a etapa brasileira do AI Creative Challenge. Dá o REC!</desc>
-    <length units="minutes">29</length>
+    <length units="minutes">28</length>
     <episode-num system="xmltv_ns">19..</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
@@ -89399,7 +89843,7 @@ PROGRAMA EXIBIDO DIA 23/11/2026</desc>
     <length units="minutes">30</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20261120195803 -0300" stop="20261120205134 -0300" channel="premiere">
+  <programme start="20261120195803 -0300" stop="20261120205133 -0300" channel="premiere">
     <title lang="pt">Giro da Rodada: Brasileirão 2026</title>
     <sub-title lang="pt">33ª Rodada</sub-title>
     <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
@@ -89424,7 +89868,7 @@ PROGRAMA EXIBIDO DIA 23/11/2026</desc>
     <length units="minutes">30</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20261120222014 -0300" stop="20261120231852 -0300" channel="premiere">
+  <programme start="20261120222014 -0300" stop="20261120231854 -0300" channel="premiere">
     <title lang="pt">Retrô - Brasileirão: Internacional x Vasco</title>
     <sub-title lang="pt">22ª Rodada, realizado em 02/09/2015</sub-title>
     <desc lang="pt">Reveja partidas históricas do seu esporte favorito!
@@ -89484,53 +89928,53 @@ PROGRAMA EXIBIDO DIA 23/11/2026</desc>
     <length units="minutes">29</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20261121031324 -0300" stop="20261121032959 -0300" channel="premiere">
+  <programme start="20261121031324 -0300" stop="20261121034331 -0300" channel="premiere">
     <title lang="pt">Campeonato Brasileiro de Futebol: Flamengo x Athletico-PR</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">16</length>
+    <length units="minutes">30</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20261121033000 -0300" stop="20261121035959 -0300" channel="premiere">
+  <programme start="20261121034334 -0300" stop="20261121041243 -0300" channel="premiere">
     <title lang="pt">Campeonato Brasileiro de Futebol: Cruzeiro x Palmeiras</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">29</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20261121040000 -0300" stop="20261121042959 -0300" channel="premiere">
+  <programme start="20261121041244 -0300" stop="20261121044217 -0300" channel="premiere">
     <title lang="pt">Campeonato Brasileiro de Futebol: Grêmio x Bahia</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">29</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20261121043000 -0300" stop="20261121045959 -0300" channel="premiere">
+  <programme start="20261121044219 -0300" stop="20261121051154 -0300" channel="premiere">
     <title lang="pt">Campeonato Brasileiro de Futebol: Corinthians x Botafogo</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">29</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20261121050000 -0300" stop="20261121052959 -0300" channel="premiere">
+  <programme start="20261121051155 -0300" stop="20261121054259 -0300" channel="premiere">
     <title lang="pt">Campeonato Brasileiro de Futebol: Vasco x Internacional</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">29</length>
+    <length units="minutes">31</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20261121053000 -0300" stop="20261121055959 -0300" channel="premiere">
+  <programme start="20261121054301 -0300" stop="20261121061210 -0300" channel="premiere">
     <title lang="pt">Campeonato Brasileiro de Futebol: Vitória x Bragantino</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">29</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20261121060000 -0300" stop="20261121062959 -0300" channel="premiere">
+  <programme start="20261121061212 -0300" stop="20261121064141 -0300" channel="premiere">
     <title lang="pt">Campeonato Brasileiro de Futebol: São Paulo x Fluminense</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">29</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20261121063000 -0300" stop="20261121072959 -0300" channel="premiere">
+  <programme start="20261121064143 -0300" stop="20261121072959 -0300" channel="premiere">
     <title lang="pt">Giro da Rodada: Brasileirão 2026</title>
     <sub-title lang="pt">35ª Rodada</sub-title>
     <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
-    <length units="minutes">59</length>
+    <length units="minutes">48</length>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20261121073000 -0300" stop="20261121075959 -0300" channel="premiere">
@@ -93255,54 +93699,54 @@ PROGRAMA EXIBIDO DIA 23/11/2026</desc>
     <length units="minutes">4</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20261120190447 -0300" stop="20261120195949 -0300" channel="sportv">
+  <programme start="20261120190447 -0300" stop="20261120195946 -0300" channel="sportv">
     <title lang="pt">Tá Na Área - ao vivo</title>
     <desc lang="pt">Aproveite o finalzinho da tarde para relaxar e de maneira divertida fique por dentro de todos os assunto em alta do esporte com Camila Carelli e Thiago Benevenutte
 </desc>
-    <length units="minutes">55</length>
+    <length units="minutes">54</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20261120195950 -0300" stop="20261120205928 -0300" channel="sportv">
+  <programme start="20261120195950 -0300" stop="20261120203607 -0300" channel="sportv">
     <title lang="pt">Liga Nacional de Futevôlei: Bahia x Santos - ao vivo</title>
     <sub-title lang="pt">9ª Rodada</sub-title>
     <desc lang="pt">Acompanhe as emoções da Liga Nacional de Futevôlei, um torneio que conta com os maiores clubes esportivos brasileiro.</desc>
-    <length units="minutes">59</length>
+    <length units="minutes">36</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20261120205931 -0300" stop="20261120220138 -0300" channel="sportv">
+  <programme start="20261120203609 -0300" stop="20261120222456 -0300" channel="sportv">
     <title lang="pt">Liga Nacional de Futevôlei: Internacional x Vasco - ao vivo</title>
     <sub-title lang="pt">9ª Rodada</sub-title>
     <desc lang="pt">Acompanhe as emoções da Liga Nacional de Futevôlei, um torneio que conta com os maiores clubes esportivos brasileiro.</desc>
-    <length units="minutes">62</length>
+    <length units="minutes">108</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20261120220141 -0300" stop="20261120225725 -0300" channel="sportv">
+  <programme start="20261120222459 -0300" stop="20261120224305 -0300" channel="sportv">
     <title lang="pt">Troca de Passes - ao vivo</title>
     <desc lang="pt">Felipe Diniz, Carlos Eduardo Mansur e Alex Meschini troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada. Veja os melhores momentos, tire as dúvidas daquele lance polêmico  acompanhe a repercussão com jogadores e treinadores no calor do jogo. Aqui ninguém fica em cima do muro. 
 </desc>
-    <length units="minutes">55</length>
+    <length units="minutes">18</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20261120225727 -0300" stop="20261120230610 -0300" channel="sportv">
+  <programme start="20261120224308 -0300" stop="20261120225151 -0300" channel="sportv">
     <title lang="pt">Pílula Futebol Feminino: Olho Nelas</title>
     <desc lang="pt">Olho Nelas</desc>
     <length units="minutes">8</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20261120230613 -0300" stop="20261120232439 -0300" channel="sportv">
+  <programme start="20261120225153 -0300" stop="20261120231019 -0300" channel="sportv">
     <title lang="pt">Sessão sportv: Especial Consciência Negra</title>
     <desc lang="pt">Aretha Duarte entrou para a história como a primeira mulher negra brasileira a alcançar o topo do Everest. Mas sua maior conquista talvez esteja longe da montanha mais alta do mundo. Entre os desafios da infância na periferia, a dura jornada rumo ao cume e o trabalho para ampliar oportunidades a outras pessoas, a montanhista constrói uma história de superação, representatividade e transformação. Com imagens da jornada no Everest, expedições ao Kilimanjaro e depoimentos de personagens fundamentais nessa caminhada, o VT especial mostra que nenhum sonho é grande demais quando ninguém sobe sozinho.</desc>
     <length units="minutes">18</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20261120232441 -0300" stop="20261120234156 -0300" channel="sportv">
+  <programme start="20261120231022 -0300" stop="20261120232737 -0300" channel="sportv">
     <title lang="pt">Giro da Rodada: Brasileirão 2026</title>
     <sub-title lang="pt">35ª Rodada</sub-title>
     <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
     <length units="minutes">17</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20261120234158 -0300" stop="20261121004314 -0300" channel="sportv">
+  <programme start="20261120232739 -0300" stop="20261121002855 -0300" channel="sportv">
     <title lang="pt">VT - Bundesliga: Bayern De Munique x Colônia</title>
     <sub-title lang="pt">10ª Rodada</sub-title>
     <desc lang="pt">Acompanhe todos os incríveis jogos da Bundesliga, o maior torneio alemão tá no sportv!</desc>
@@ -93310,7 +93754,7 @@ PROGRAMA EXIBIDO DIA 23/11/2026</desc>
     <category lang="en">football/soccer</category>
     <previously-shown/>
   </programme>
-  <programme start="20261120234158 -0300" stop="20261121004314 -0300" channel="sportv">
+  <programme start="20261120232739 -0300" stop="20261121002855 -0300" channel="sportv">
     <title lang="pt">VT - Bundesliga: Bayern De Munique x Colônia</title>
     <sub-title lang="pt">10ª Rodada</sub-title>
     <desc lang="pt">Acompanhe todos os incríveis jogos da Bundesliga, o maior torneio alemão tá no sportv!</desc>
@@ -93318,63 +93762,76 @@ PROGRAMA EXIBIDO DIA 23/11/2026</desc>
     <category lang="en">football/soccer</category>
     <previously-shown/>
   </programme>
-  <programme start="20261121004318 -0300" stop="20261121011503 -0300" channel="sportv">
+  <programme start="20261121002859 -0300" stop="20261121010044 -0300" channel="sportv">
     <title lang="pt">VT - Brasileirão: Vasco x Internacional</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">31</length>
     <category lang="en">football/soccer</category>
     <previously-shown/>
   </programme>
-  <programme start="20261121011504 -0300" stop="20261121014528 -0300" channel="sportv">
+  <programme start="20261121010045 -0300" stop="20261121013109 -0300" channel="sportv">
     <title lang="pt">VT - Brasileirão: São Paulo x Fluminense</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">30</length>
     <category lang="en">football/soccer</category>
     <previously-shown/>
   </programme>
-  <programme start="20261121014530 -0300" stop="20261121021444 -0300" channel="sportv">
+  <programme start="20261121013111 -0300" stop="20261121020025 -0300" channel="sportv">
     <title lang="pt">VT - Brasileirão: Vitória x Bragantino</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">29</length>
     <category lang="en">football/soccer</category>
     <previously-shown/>
   </programme>
-  <programme start="20261121021446 -0300" stop="20261121024644 -0300" channel="sportv">
+  <programme start="20261121020027 -0300" stop="20261121023225 -0300" channel="sportv">
     <title lang="pt">VT - Brasileirão: Flamengo x Athletico-PR</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">31</length>
     <category lang="en">football/soccer</category>
     <previously-shown/>
   </programme>
-  <programme start="20261121024646 -0300" stop="20261121031037 -0300" channel="sportv">
+  <programme start="20261121023227 -0300" stop="20261121033344 -0300" channel="sportv">
     <title lang="pt">VT - Amistoso Internacional: Argentina x Costa Rica</title>
     <sub-title lang="pt">Córdoba, Argentina</sub-title>
     <desc lang="pt">As estrelas do futebol masculino, se enfrentam em mais um amistoso internacional.
 .</desc>
-    <length units="minutes">23</length>
+    <length units="minutes">61</length>
     <category lang="en">football/soccer</category>
     <previously-shown/>
   </programme>
-  <programme start="20261121040000 -0300" stop="20261121045959 -0300" channel="sportv">
+  <programme start="20261121033346 -0300" stop="20261121043349 -0300" channel="sportv">
     <title lang="pt">VT - Amistoso Internacional: Argentina x Uruguai</title>
     <sub-title lang="pt">Buenos Aires, Argentina</sub-title>
     <desc lang="pt">As estrelas do futebol masculino, se enfrentam em mais um amistoso internacional, aqui no sportv! 
 </desc>
-    <length units="minutes">59</length>
+    <length units="minutes">60</length>
     <category lang="en">football/soccer</category>
     <previously-shown/>
   </programme>
-  <programme start="20261121050000 -0300" stop="20261121052959 -0300" channel="sportv">
+  <programme start="20261121043352 -0300" stop="20261121043950 -0300" channel="sportv">
+    <title lang="pt">Giro da Rodada: Brasileirão 2026</title>
+    <sub-title lang="pt">35ª Rodada</sub-title>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <length units="minutes">5</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20261121043951 -0300" stop="20261121044649 -0300" channel="sportv">
+    <title lang="pt">1/1 GIRO DA RODADA: BRASILEIRÃO 2026 - FLA x CAP</title>
+    <sub-title lang="pt">35ª Rodada</sub-title>
+    <length units="minutes">6</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20261121044650 -0300" stop="20261121051724 -0300" channel="sportv">
     <title lang="pt">VT - Brasileirão: São Paulo x Fluminense</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">29</length>
+    <length units="minutes">30</length>
     <category lang="en">football/soccer</category>
     <previously-shown/>
   </programme>
-  <programme start="20261121053000 -0300" stop="20261121055959 -0300" channel="sportv">
+  <programme start="20261121051726 -0300" stop="20261121054625 -0300" channel="sportv">
     <title lang="pt">VT - Brasileirão: Vitória x Bragantino</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">29</length>
+    <length units="minutes">28</length>
     <category lang="en">football/soccer</category>
     <previously-shown/>
   </programme>
@@ -94154,60 +94611,60 @@ PROGRAMA EXIBIDO DIA 23/11/2026</desc>
     <length units="minutes">139</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20261120203006 -0300" stop="20261120225805 -0300" channel="sportv-2">
+  <programme start="20261120203006 -0300" stop="20261120224507 -0300" channel="sportv-2">
     <title lang="pt">Superliga de Vôlei Masculino: Praia Clube x Guarulhos - ao vivo</title>
     <desc lang="pt">Aqui é a casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa! 
 </desc>
-    <length units="minutes">147</length>
+    <length units="minutes">135</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20261120225806 -0300" stop="20261121001415 -0300" channel="sportv-2">
+  <programme start="20261120224510 -0300" stop="20261121000119 -0300" channel="sportv-2">
     <title lang="pt">Hello LA: Hello L.A</title>
     <desc lang="pt">Acompanhe como está indo os Jogos de Los Angeles em 2028. toda semana, o programa traz entrevistas, atualidades, termômetro de competições e informações do mundo Olímpico com Marcelo Barreto e Fabi Alvim 
 </desc>
     <length units="minutes">76</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20261120232255 -0300" stop="20261121003904 -0300" channel="sportv-2">
+  <programme start="20261120224510 -0300" stop="20261121000119 -0300" channel="sportv-2">
     <title lang="pt">Hello LA: Hello L.A</title>
     <desc lang="pt">Acompanhe como está indo os Jogos de Los Angeles em 2028. toda semana, o programa traz entrevistas, atualidades, termômetro de competições e informações do mundo Olímpico com Marcelo Barreto e Fabi Alvim 
 </desc>
     <length units="minutes">76</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20261121003908 -0300" stop="20261121005734 -0300" channel="sportv-2">
+  <programme start="20261121000122 -0300" stop="20261121001948 -0300" channel="sportv-2">
     <title lang="pt">Sessão sportv: Especial Consciência Negra</title>
     <desc lang="pt">Aretha Duarte entrou para a história como a primeira mulher negra brasileira a alcançar o topo do Everest. Mas sua maior conquista talvez esteja longe da montanha mais alta do mundo. Entre os desafios da infância na periferia, a dura jornada rumo ao cume e o trabalho para ampliar oportunidades a outras pessoas, a montanhista constrói uma história de superação, representatividade e transformação. Com imagens da jornada no Everest, expedições ao Kilimanjaro e depoimentos de personagens fundamentais nessa caminhada, o VT especial mostra que nenhum sonho é grande demais quando ninguém sobe sozinho.</desc>
     <length units="minutes">18</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20261121005736 -0300" stop="20261121014829 -0300" channel="sportv-2">
+  <programme start="20261121001951 -0300" stop="20261121011044 -0300" channel="sportv-2">
     <title lang="pt">Faixa Olímpica: Dancing For Gold</title>
     <desc lang="pt">Prepare-se para o reviver o clima olímpico com essa seleção especial das competições!</desc>
     <length units="minutes">50</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20261121014831 -0300" stop="20261121031959 -0300" channel="sportv-2">
+  <programme start="20261121011046 -0300" stop="20261121030800 -0300" channel="sportv-2">
     <title lang="pt">VT - Superliga de Vôlei Masculino: Campinas x Monte Carmelo</title>
     <desc lang="pt">Aqui é a casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa! 
 </desc>
-    <length units="minutes">91</length>
+    <length units="minutes">117</length>
     <category lang="en">team sports</category>
     <previously-shown/>
   </programme>
-  <programme start="20261121032000 -0300" stop="20261121051459 -0300" channel="sportv-2">
+  <programme start="20261121030803 -0300" stop="20261121044550 -0300" channel="sportv-2">
     <title lang="pt">VT - Superliga de Vôlei Masculino: Praia Clube x Guarulhos</title>
     <desc lang="pt">Aqui é a casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa! 
 </desc>
-    <length units="minutes">114</length>
+    <length units="minutes">97</length>
     <category lang="en">team sports</category>
     <previously-shown/>
   </programme>
-  <programme start="20261121051500 -0300" stop="20261121071459 -0300" channel="sportv-2">
+  <programme start="20261121044821 -0300" stop="20261121064257 -0300" channel="sportv-2">
     <title lang="pt">VT - Superliga de Vôlei Feminino: Londrina x Praia Clube</title>
     <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa! 
 </desc>
-    <length units="minutes">119</length>
+    <length units="minutes">114</length>
     <category lang="en">team sports</category>
     <previously-shown/>
   </programme>
@@ -94799,41 +95256,46 @@ skate: a MegaRampa.</desc>
     <length units="minutes">9</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20261120205958 -0300" stop="20261120222436 -0300" channel="sportv-3">
+  <programme start="20261120205958 -0300" stop="20261120224638 -0300" channel="sportv-3">
     <title lang="pt">Fórmula 1: 3º Treino Livre - Gp De Las Vegas - ao vivo</title>
     <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!
 </desc>
-    <length units="minutes">84</length>
+    <length units="minutes">106</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20261120222439 -0300" stop="20261120233857 -0300" channel="sportv-3">
-    <title lang="pt">Fórmula 1: 2º Treino Livre - Gp De Las Vegas</title>
-    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!
-</desc>
-    <length units="minutes">74</length>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20261120233859 -0300" stop="20261121000937 -0300" channel="sportv-3">
+  <programme start="20261120224640 -0300" stop="20261120231819 -0300" channel="sportv-3">
     <title lang="pt">VT - Baú do Esporte: Lendas Ayrton Senna 1</title>
     <desc lang="pt">A carreira do tricampeão mundial de Fórmula 1 e um dos maiores ídolos do esporte brasileiro é contada em dois episódios. Dos tempos de kart e Fórmula Ford até a estreia na principal categoria do automobilismo, passando pelos títulos de 1988, 1990 e 1991, além da rivalidade e das polêmicas com Alain Prost. As vitórias em Interlagos, a melhor primeira volta em Donington Park, a supremacia em Mônaco e o fatídico acidente em Imola são temas das duas partes do Lendas que repassa a carreira de Ayrton Senna da Silva.</desc>
-    <length units="minutes">30</length>
+    <length units="minutes">31</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20261120234701 -0300" stop="20261121004839 -0300" channel="sportv-3">
+  <programme start="20261120231821 -0300" stop="20261120235050 -0300" channel="sportv-3">
+    <title lang="pt">1/1 LENDAS AYRTON SENNA</title>
+    <sub-title lang="pt">realizado em 03/05/2019</sub-title>
+    <length units="minutes">32</length>
+    <category lang="en">sports (general)</category>
+    <date>20190503</date>
+  </programme>
+  <programme start="20261120235052 -0300" stop="20261120235959 -0300" channel="sportv-3">
+    <title lang="pt">ENTREVISTA RAFAEL CÂMARA E OS BRASILEIROS NAS CATEGORIAS DE BASE</title>
+    <length units="minutes">9</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20261121000002 -0300" stop="20261121010141 -0300" channel="sportv-3">
     <title lang="pt">Aquecimento sportv: Fórmula 1 - ao vivo</title>
     <desc lang="pt">É hora de analisar. Você confere as últimas informações, escalações, análises táticas, destaques individuais e o clima dentro e fora de campo.</desc>
     <length units="minutes">61</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20261121004841 -0300" stop="20261121015019 -0300" channel="sportv-3">
+  <programme start="20261121010143 -0300" stop="20261121020322 -0300" channel="sportv-3">
     <title lang="pt">Fórmula 1: Treino Classificatório - Gp De Las Vegas - ao vivo</title>
     <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!
 </desc>
     <length units="minutes">61</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20261121015022 -0300" stop="20261121020603 -0300" channel="sportv-3">
+  <programme start="20261121020323 -0300" stop="20261121021904 -0300" channel="sportv-3">
     <title lang="pt">VT - Baú do Esporte: Vitórias Para Sempre Senna Donington Park 1993 (GP da Europa) - Rubinho</title>
     <desc lang="pt">A maior primeira volta de um piloto de F1 teve Ayrton Senna como protagonista e abriu uma vitória incontestável em Donington Park, na Inglaterra. Era o GP da Europa de 1993, terceira prova da temporada, também terceira corrida de um piloto estreante, que brilhou naquela prova e quase fez a dobradinha com Senna. Por ter corrido tão perto do "chefe", Rubens Barrichello é a melhor voz para relembrar aquele GP, que isolou Ayrton ainda mais na liderança do mundial de pilotos.
 
@@ -94842,28 +95304,28 @@ skate: a MegaRampa.</desc>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20261121020605 -0300" stop="20261121030639 -0300" channel="sportv-3">
+  <programme start="20261121021906 -0300" stop="20261121031940 -0300" channel="sportv-3">
     <title lang="pt">Fórmula 1: 3º Treino Livre - Gp De Las Vegas</title>
     <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!
 </desc>
     <length units="minutes">60</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20261121030640 -0300" stop="20261121050614 -0300" channel="sportv-3">
+  <programme start="20261121031942 -0300" stop="20261121051916 -0300" channel="sportv-3">
     <title lang="pt">Fórmula 1: Gp Do Brasil - São Paulo-SP</title>
     <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!
 </desc>
     <length units="minutes">119</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20261121050616 -0300" stop="20261121074243 -0300" channel="sportv-3">
+  <programme start="20261121051918 -0300" stop="20261121075745 -0300" channel="sportv-3">
     <title lang="pt">Fórmula 1: Gp México</title>
     <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!
 </desc>
-    <length units="minutes">156</length>
+    <length units="minutes">158</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20261121075500 -0300" stop="20261121092959 -0300" channel="sportv-3">
+  <programme start="20261121075746 -0300" stop="20261121093159 -0300" channel="sportv-3">
     <title lang="pt">SailGP: 13ª Etapa - Dia 1 - ao vivo</title>
     <sub-title lang="pt">Dubai, Emirados Árabes</sub-title>
     <desc lang="pt">A maior competição de Sail Gp está rolando, acompanheno sportv! 
@@ -94871,10 +95333,10 @@ skate: a MegaRampa.</desc>
     <length units="minutes">94</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20261121093000 -0300" stop="20261121100459 -0300" channel="sportv-3">
+  <programme start="20261121093202 -0300" stop="20261121100459 -0300" channel="sportv-3">
     <title lang="pt">Born To Sail</title>
     <desc lang="pt">Born to Sail ” acompanha a jornada do Mubadala Brasil SailGP , primeiro time sul-americano a disputar a liga mais veloz da vela mundial</desc>
-    <length units="minutes">34</length>
+    <length units="minutes">32</length>
     <category lang="en">sports (general)</category>
     <rating system="Brazil">
       <value>[L]</value>
@@ -96392,15 +96854,15 @@ skate: a MegaRampa.</desc>
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20261121013103 -0300" stop="20261121033459 -0300" channel="telecine-action">
+  <programme start="20261121013103 -0300" stop="20261121033550 -0300" channel="telecine-action">
     <title lang="pt">A Batalha De Riddick</title>
     <desc lang="pt">Os Necromongers querem converter o universo à sua religião. Perseguido por mercenários, Riddick entra na guerra e se torna a única esperança contra eles.</desc>
-    <length units="minutes">123</length>
+    <length units="minutes">124</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20261121033500 -0300" stop="20261121052459 -0300" channel="telecine-action">
+  <programme start="20261121033555 -0300" stop="20261121052459 -0300" channel="telecine-action">
     <title lang="pt">Jornada Para O Inferno</title>
     <desc lang="pt">Will resolve largar a universidade e acaba se juntando a um grupo de caçadores de búfalos liderados por Miller. Essa jornada mudará suas perspectivas, ao colocar sua vida e sua sanidade em risco.   
 </desc>
@@ -96978,24 +97440,24 @@ a aposentadoria para desmascarar um infiltrado soviético no MI6.</desc>
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20261121001122 -0300" stop="20261121021459 -0300" channel="telecine-cult">
+  <programme start="20261121001122 -0300" stop="20261121021609 -0300" channel="telecine-cult">
     <title lang="pt">9 1/2 Semanas de Amor</title>
     <desc lang="pt">Elizabeth é curadora de uma galeria e arte e, de forma inesperada, começa um caso com John, um empresário misterioso. Em meio a aventuras sexuais, as atitudes estranhas de John complicam a relação.</desc>
-    <length units="minutes">123</length>
+    <length units="minutes">124</length>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20261121021500 -0300" stop="20261121035459 -0300" channel="telecine-cult">
+  <programme start="20261121021615 -0300" stop="20261121035633 -0300" channel="telecine-cult">
     <title lang="pt">Corpo Elétrico</title>
     <desc lang="pt">Elias busca equilibrar sua rotina de trabalho com encontros casuais. A cada novo parceiro, ele se vê imerso em um universo de experiências sexuais e desejos. 
 </desc>
-    <length units="minutes">99</length>
+    <length units="minutes">100</length>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20261121035500 -0300" stop="20261121052459 -0300" channel="telecine-cult">
+  <programme start="20261121035637 -0300" stop="20261121052635 -0300" channel="telecine-cult">
     <title lang="pt">Não Amarás</title>
     <desc lang="pt">Tímido, o jovem Tomek observa a vida da vizinha através de uma luneta. Cada vez mais obcecado, ele consegue se aproximar da mulher. No entanto, o relacionamento entre os dois toma rumos complicados.</desc>
     <length units="minutes">89</length>
@@ -97003,10 +97465,10 @@ a aposentadoria para desmascarar um infiltrado soviético no MI6.</desc>
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20261121052500 -0300" stop="20261121071459 -0300" channel="telecine-cult">
+  <programme start="20261121052637 -0300" stop="20261121071459 -0300" channel="telecine-cult">
     <title lang="pt">Cavalgada Infernal</title>
     <desc lang="pt">Pike, um fora dalei que quer mudar de vida, é contratado para entregar uma grande quantia em dinheiro para uma família. Durante a jornada, ele é perseguido por pessoas que estão atrás dessa fortuna.</desc>
-    <length units="minutes">109</length>
+    <length units="minutes">108</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -97562,7 +98024,7 @@ armadilha de uma bruxa, enquanto o pai os procura desesperadamente.</desc>
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20261121012540 -0300" stop="20261121031459 -0300" channel="telecine-fun">
+  <programme start="20261121012540 -0300" stop="20261121031502 -0300" channel="telecine-fun">
     <title lang="pt">O Professor Aloprado 2 - A Família Klump</title>
     <desc lang="pt">O professor Sherman Klump cria a fórmula da juventude, mas seu alter ego Buddy Love ganha vida, rouba a poção e começa a atrapalhar sua vida.</desc>
     <length units="minutes">109</length>
@@ -97570,15 +98032,15 @@ armadilha de uma bruxa, enquanto o pai os procura desesperadamente.</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121031500 -0300" stop="20261121045959 -0300" channel="telecine-fun">
+  <programme start="20261121031507 -0300" stop="20261121050019 -0300" channel="telecine-fun">
     <title lang="pt">A Origem Dos Guardiões</title>
     <desc lang="pt">Quando o Bicho-Papão tenta fazer as crianças desacreditarem em figuras como o Papai Noel e o Coelho da Páscoa, elas buscam a ajuda de um renegado para combater o mal.</desc>
-    <length units="minutes">104</length>
+    <length units="minutes">105</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20261121050000 -0300" stop="20261121063959 -0300" channel="telecine-fun">
+  <programme start="20261121050025 -0300" stop="20261121063959 -0300" channel="telecine-fun">
     <title lang="pt">Lucicreide Vai pra Marte</title>
     <desc lang="pt">Lucicreide é uma mulher humilde que vive para o trabalho e os filhos. Cansada da rotina, ela aceita participar de um programa da NASA que levará o primeiro homem a Marte.
 
@@ -98136,7 +98598,7 @@ quando ela acolhe Duke, um cão de rua que ele vê como rival.</desc>
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20261120180627 -0300" stop="20261120200039 -0300" channel="telecine-pipoca">
+  <programme start="20261120180627 -0300" stop="20261120200035 -0300" channel="telecine-pipoca">
     <title lang="pt">Um Espião E Meio</title>
     <desc lang="pt">Bob sofria bullying na escola, mas hoje é um agente da CIA. Ao reencontrar Calvin, um dos ex-alunos promissores do colégio, Bob lhe pede ajuda em uma missão secreta.</desc>
     <length units="minutes">114</length>
@@ -98178,26 +98640,26 @@ quando ela acolhe Duke, um cão de rua que ele vê como rival.</desc>
       <value>[18]</value>
     </rating>
   </programme>
-  <programme start="20261121012107 -0300" stop="20261121025459 -0300" channel="telecine-pipoca">
+  <programme start="20261121012107 -0300" stop="20261121025617 -0300" channel="telecine-pipoca">
     <title lang="pt">A Chamada</title>
     <desc lang="pt">No caminho para levar seus filhos para a escola, Matt recebe uma ligação de um homem misterioso que diz ter colocado uma bomba em seu carro. Ou ele cumpre as ordens, ou ele e seus filhos morrerão.</desc>
-    <length units="minutes">93</length>
+    <length units="minutes">95</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20261121025500 -0300" stop="20261121043959 -0300" channel="telecine-pipoca">
+  <programme start="20261121025622 -0300" stop="20261121044128 -0300" channel="telecine-pipoca">
     <title lang="pt">Conspiração Explosiva</title>
     <desc lang="pt">Jimmy é acusado de matar três jovens em uma boate. Então, ele inicia uma investigação e se alia ao detetive Freeman e à detetive Vargas para provar uma conspiração contra ele.</desc>
-    <length units="minutes">104</length>
+    <length units="minutes">105</length>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20261121044000 -0300" stop="20261121063959 -0300" channel="telecine-pipoca">
+  <programme start="20261121044132 -0300" stop="20261121063959 -0300" channel="telecine-pipoca">
     <title lang="pt">Amor E Outras Drogas</title>
     <desc lang="pt">Jamie é um grande garanhão, mas conhece Maggie, uma jovem que sofre de mal de Parkinson, e acaba se apaixonando. Meggie teme a relação, mas o sentimento dos dois se mostra maior que sua doença.</desc>
-    <length units="minutes">119</length>
+    <length units="minutes">118</length>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
@@ -98701,7 +99163,7 @@ quando ela acolhe Duke, um cão de rua que ele vê como rival.</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20261120195948 -0300" stop="20261120215944 -0300" channel="telecine-premium">
+  <programme start="20261120195948 -0300" stop="20261120215943 -0300" channel="telecine-premium">
     <title lang="pt">Semana Da Excelência Preta</title>
     <sub-title lang="pt">Malês</sub-title>
     <desc lang="pt">Separados após serem escravizados no Brasil, dois jovens muçulmanos lutam para sobreviver e se reencontrar em meio à Revolta dos Malês, em Salvador de 1835.</desc>
@@ -98727,16 +99189,16 @@ quando ela acolhe Duke, um cão de rua que ele vê como rival.</desc>
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20261120235537 -0300" stop="20261121020459 -0300" channel="telecine-premium">
+  <programme start="20261120235537 -0300" stop="20261121020537 -0300" channel="telecine-premium">
     <title lang="pt">Semana Da Excelência Preta</title>
     <sub-title lang="pt">Nosso Sonho</sub-title>
     <desc lang="pt">A história de amizade e superação da dupla de funk que marcou o país na década de 90. Veja como Claudinho e Buchecha conquistaram o Brasil e impactaram o cenário musical nacional.</desc>
-    <length units="minutes">129</length>
+    <length units="minutes">130</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20261121020500 -0300" stop="20261121041459 -0300" channel="telecine-premium">
+  <programme start="20261121020543 -0300" stop="20261121041512 -0300" channel="telecine-premium">
     <title lang="pt">Emma</title>
     <desc lang="pt">Na Inglaterra do século XIX, uma jovem bem-intencionada e egoísta se intromete nos romances dos amigos, causando confusões.</desc>
     <length units="minutes">129</length>
@@ -98744,7 +99206,7 @@ quando ela acolhe Duke, um cão de rua que ele vê como rival.</desc>
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20261121041500 -0300" stop="20261121060959 -0300" channel="telecine-premium">
+  <programme start="20261121041519 -0300" stop="20261121060959 -0300" channel="telecine-premium">
     <title lang="pt">Minha Irmã E Eu</title>
     <desc lang="pt">Mirian e Mirelly são duas irmãs com vidas completamente diferentes. Quando sua mãe desaparece, elas precisam esquecer suas diferenças para achá-la, mas essa busca vai ser mais caótica do que esperavam.
 </desc>
@@ -99263,10 +99725,10 @@ quando ela acolhe Duke, um cão de rua que ele vê como rival.</desc>
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20261120180058 -0300" stop="20261120201058 -0300" channel="telecine-touch">
+  <programme start="20261120180058 -0300" stop="20261120201055 -0300" channel="telecine-touch">
     <title lang="pt">Eduardo E Mônica</title>
     <desc lang="pt">Eduardo e Mônica se conhecem numa festa. Eles se apaixonam e começam uma linda história de amor, mas suas diferenças logo serão obstáculos para essa relação.</desc>
-    <length units="minutes">130</length>
+    <length units="minutes">129</length>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
@@ -99287,34 +99749,34 @@ quando ela acolhe Duke, um cão de rua que ele vê como rival.</desc>
       <value>[18]</value>
     </rating>
   </programme>
-  <programme start="20261120235630 -0300" stop="20261121021959 -0300" channel="telecine-touch">
+  <programme start="20261120235630 -0300" stop="20261121022126 -0300" channel="telecine-touch">
     <title lang="pt">A Árvore Da Vida</title>
     <desc lang="pt">Na Texas dos anos 1950, o jovem Jack cresce entre os valores rígidos do pai e a ternura da mãe, enfrentando a perda da inocência e questionando fé, vida e sentido.</desc>
-    <length units="minutes">143</length>
+    <length units="minutes">144</length>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20261120235630 -0300" stop="20261121021959 -0300" channel="telecine-touch">
+  <programme start="20261120235630 -0300" stop="20261121022126 -0300" channel="telecine-touch">
     <title lang="pt">A Árvore Da Vida</title>
     <desc lang="pt">Na Texas dos anos 1950, o jovem Jack cresce entre os valores rígidos do pai e a ternura da mãe, enfrentando a perda da inocência e questionando fé, vida e sentido.</desc>
-    <length units="minutes">143</length>
+    <length units="minutes">144</length>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20261121022000 -0300" stop="20261121040959 -0300" channel="telecine-touch">
+  <programme start="20261121022132 -0300" stop="20261121041140 -0300" channel="telecine-touch">
     <title lang="pt">As Apimentadas: Ainda Mais Apimentadas</title>
     <desc lang="pt">Após o casamento da mãe, Lina é obrigada a trocar de colégio. Ela precisará trabalhar duro para brilhar mais que a esnobe capitã local, Avery.</desc>
-    <length units="minutes">109</length>
+    <length units="minutes">110</length>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20261121041000 -0300" stop="20261121054959 -0300" channel="telecine-touch">
+  <programme start="20261121041144 -0300" stop="20261121054959 -0300" channel="telecine-touch">
     <title lang="pt">O Melhor Amigo</title>
     <desc lang="pt">Lucas está passando por uma crise em seu relacionamento e, por isso, viaja sozinho para o litoral. Lá, ele reencontra Felipe, um antigo amor, e se vê mergulhando nos sentimentos do passado.</desc>
-    <length units="minutes">99</length>
+    <length units="minutes">98</length>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
